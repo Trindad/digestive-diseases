@@ -381,10 +381,10 @@ def updateRegisters(c):
 
 def queries(c):
 
-   # c.execute("CREATE INDEX seqn_bowel on bowel_health (SEQN)")
-   # c.execute("CREATE INDEX seqn_nutrition on nutrition (SEQN)")
-   # c.execute("CREATE INDEX seqn_consumer on consumer_behavior (SEQN)")
-   # c.execute("CREATE INDEX seqn_alcohol on alcohol_use (SEQN)")
+   c.execute("CREATE INDEX seqn_bowel on bowel_health (SEQN)")
+   c.execute("CREATE INDEX seqn_nutrition on nutrition (SEQN)")
+   c.execute("CREATE INDEX seqn_consumer on consumer_behavior (SEQN)")
+   c.execute("CREATE INDEX seqn_alcohol on alcohol_use (SEQN)")
 
    # for row in c.execute("select count(bowel_health.SEQN) from nutrition, bowel_health where nutrition.SEQN = bowel_health.SEQN"):
    #    print(row)
@@ -395,7 +395,7 @@ def queries(c):
    #
    # BHQ010, BHQ020, BHQ030, BHQ040, BHQD50, BHQ060, BHQ070, BHQ080, BHQ090, BHQ0100, BHQ0110, CBD010, CBQ020, CBQ030, CBQ040, CBQ050, CBQ060, CBQ140, CBD160, DBQ010, DBD030, DBD041, DBD050, DBD055, DBD061, DBQ073A, DBQ073D, DBQ073E, DBQ073U, DBQ700, DBQ197, DBQ223A, DBQ223U, DBQ229, DBQ235A, DBQ235B, DBQ235C, DBQ424, DBD895, DBD900, DBD905, DBD910, DBQ915, DBQ920, DBQ925A, DBQ925B, DBQ925C, DBQ925D, DBQ925E, DBQ925F, DBQ925G, DBQ925H, DBQ925I, DBQ925J, DBQ930, DBQ935, DBQ940, DBQ945
    c.execute("DROP TABLE IF EXISTS patients")
-   # c.execute("CREATE TABLE patients as select * from consumer_behavior, bowel_health, alcohol_use where consumer_behavior.SEQN = bowel_health.SEQN") 
+   c.execute("CREATE TABLE patients as select * from consumer_behavior, bowel_health, alcohol_use where consumer_behavior.SEQN = bowel_health.SEQN") 
    bowel_health = "BHQ010_b, BHQ020_b, BHQ030_b, BHQ040_b, BHD050_b, BHQ060_b, BHQ070_b, BHQ080_b, BHQ090_b, BHQ010_b, BHQ110_b"
    alcohol_use = "ALQ101_b, ALQ120Q_b, ALQ120U_b, ALQ130_b, ALQ140Q_b, ALQ140U_b, ALQ150_b"
    consumer_behavior = "CBD010_b, CBQ020_b, CBQ030_b, CBQ040_b, CBQ050_b, CBQ060_b, CBQ140_b, CBD160_b"
@@ -406,7 +406,7 @@ def queries(c):
    query = "create table patients as select"+registers+"from consumer_behavior join bowel_health on bowel_health.SEQN = consumer_behavior.SEQN join nutrition on nutrition.SEQN = consumer_behavior.SEQN join alcohol_use on alcohol_use.SEQN = consumer_behavior.SEQN"
 
    c.execute(query)
-   # c.execute("ALTER TABLE patients ADD COLUMN profile string")
+   c.execute("ALTER TABLE patients ADD COLUMN profile string")
    c.execute("CREATE INDEX seqn_patient on patients (SEQN)")
 
    for row in c.execute("SELECT count(*) from patients"):
@@ -418,12 +418,14 @@ def filteringData():
    conn.text_factory = str
    c = conn.cursor()
 
-   # bowelTable(c, conn)
-   # nutritionTable(c, conn)
-   # consumerBehaviorTable(c, conn)
-   # alcoholUseTable(c, conn)
-   # updateRegisters(c)
+   bowelTable(c, conn)
+   nutritionTable(c, conn)
+   consumerBehaviorTable(c, conn)
+   alcoholUseTable(c, conn)
+   updateRegisters(c)
+
    queries(c)
+   
    conn.close()
 
 if __name__ == "__main__":
