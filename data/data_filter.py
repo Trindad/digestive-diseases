@@ -20,6 +20,8 @@ import csv
 # BHQ080 - In past 12 months been constipated?
 # BHQ090 - In past 12 months had diarrhea?
 # BHQ100 - In past 30 days taken laxative?
+
+
 def bowelTable(c, conn):
    c.execute("DROP TABLE IF EXISTS bowel_health")
    conn.commit()
@@ -48,16 +50,19 @@ def bowelTable(c, conn):
       BHQ110 integer,
       BHQ110_b integer DEFAULT 0
    )''')
-   
+
+   c.execute("CREATE INDEX seqn_bowel on bowel_health (SEQN)")
+
    with open('BHQ_F.csv', mode='r') as csv_file:
       csv_reader = csv.DictReader(csv_file)
       for row in csv_reader:
-         c.execute("SELECT SEQN FROM bowel_health WHERE SEQN = '" +row["SEQN"] + "'")
+         c.execute("SELECT SEQN FROM bowel_health WHERE SEQN = '" +
+                   row["SEQN"] + "'")
          if c.fetchone() == None:
-            
+
             c.execute("INSERT INTO bowel_health (SEQN, BHQ010, BHQ020, BHQ030, BHQ040, BHD050, BHQ060, BHQ070, BHQ080, BHQ090, BHQ100, BHQ110) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
-               row["SEQN"], row["BHQ010"], row["BHQ020"], row["BHQ030"],
-               row["BHQ040"], row["BHD050"], row["BHQ060"], row["BHQ070"], row["BHQ080"], row["BHQ090"], row["BHQ100"], row["BHQ110"]))
+                row["SEQN"], row["BHQ010"], row["BHQ020"], row["BHQ030"],
+                row["BHQ040"], row["BHD050"], row["BHQ060"], row["BHQ070"], row["BHQ080"], row["BHQ090"], row["BHQ100"], row["BHQ110"]))
    conn.commit()
 
 
@@ -185,6 +190,8 @@ def nutritionTable(c, conn):
       DBQ945_b integer DEFAULT 0
    )''')
 
+   c.execute("CREATE INDEX seqn_nutrition on nutrition (SEQN)")
+
    with open('DBQ_F.csv', mode='r') as csv_file:
       csv_reader = csv.DictReader(csv_file)
       for row in csv_reader:
@@ -192,13 +199,13 @@ def nutritionTable(c, conn):
                    row["SEQN"] + "'")
          if c.fetchone() == None:
             c.execute("INSERT INTO nutrition (SEQN, DBQ010, DBD030, DBD041, DBD050, DBD055, DBD061, DBQ073A, DBQ073D, DBQ073E, DBQ073U, DBQ700, DBQ197, DBQ223A, DBQ223U, DBQ229, DBQ235A, DBQ235B, DBQ235C, DBQ424, DBD895, DBD900, DBD905, DBD910, DBQ915, DBQ920, DBQ925A, DBQ925B, DBQ925C, DBQ925D, DBQ925E, DBQ925F, DBQ925G, DBQ925H, DBQ925I, DBQ925J, DBQ930, DBQ935, DBQ940, DBQ945) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
-               row["SEQN"],   row["DBQ010"], row["DBD030"], row["DBD041"], row["DBD050"], row["DBD055"], row["DBD061"],
-               row["DBQ073A"], row["DBQ073D"], row["DBQ073E"], row["DBQ073U"], row["DBQ700"],
-               row["DBQ197"], row["DBQ223A"], row["DBQ223U"], row["DBQ229"], row["DBQ235A"], 
-               row["DBQ235B"], row["DBQ235C"], row["DBQ424"], row["DBD895"], row["DBD900"], 
-               row["DBD905"], row["DBD910"], row["DBQ915"], row["DBQ920"], row["DBQ925A"], row["DBQ925B"], 
-               row["DBQ925C"], row["DBQ925D"], row["DBQ925E"], row["DBQ925F"], row["DBQ925G"], row["DBQ925H"],
-               row["DBQ925I"], row["DBQ925J"], row["DBQ930"], row["DBQ935"], row["DBQ940"], row["DBQ945"]))
+                row["SEQN"],   row["DBQ010"], row["DBD030"], row["DBD041"], row["DBD050"], row["DBD055"], row["DBD061"],
+                row["DBQ073A"], row["DBQ073D"], row["DBQ073E"], row["DBQ073U"], row["DBQ700"],
+                row["DBQ197"], row["DBQ223A"], row["DBQ223U"], row["DBQ229"], row["DBQ235A"],
+                row["DBQ235B"], row["DBQ235C"], row["DBQ424"], row["DBD895"], row["DBD900"],
+                row["DBD905"], row["DBD910"], row["DBQ915"], row["DBQ920"], row["DBQ925A"], row["DBQ925B"],
+                row["DBQ925C"], row["DBQ925D"], row["DBQ925E"], row["DBQ925F"], row["DBQ925G"], row["DBQ925H"],
+                row["DBQ925I"], row["DBQ925J"], row["DBQ930"], row["DBQ935"], row["DBQ940"], row["DBQ945"]))
    conn.commit()
 
 
@@ -246,6 +253,8 @@ def consumerBehaviorTable(c, conn):
       CBD160_b integer DEFAULT 0
    )''')
 
+   c.execute("CREATE INDEX seqn_consumer on consumer_behavior (SEQN)")
+
    with open('CBQ_F.csv', mode='r') as csv_file:
       csv_reader = csv.DictReader(csv_file)
       for row in csv_reader:
@@ -254,8 +263,8 @@ def consumerBehaviorTable(c, conn):
          if c.fetchone() == None:
             # print(row)
             c.execute("INSERT INTO consumer_behavior (SEQN, CBD010, CBQ020, CBQ030, CBQ040, CBQ050, CBQ060, CBD070, CBD120, CBD130, CBQ140, CBD150, CBD160) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
-                row["SEQN"],   row["CBD010"], row["CBQ020"], row["CBQ030"], row["CBQ040"],  
-                row["CBQ050"], row["CBQ060"], row["CBD070"], row["CBD120"], 
+                row["SEQN"],   row["CBD010"], row["CBQ020"], row["CBQ030"], row["CBQ040"],
+                row["CBQ050"], row["CBQ060"], row["CBD070"], row["CBD120"],
                 row["CBD130"], row["CBQ140"], row["CBD150"], row["CBD160"]))
    conn.commit()
 
@@ -292,6 +301,8 @@ def alcoholUseTable(c, conn):
       ALQ150_b integer DEFAULT 0
    )''')
 
+   c.execute("CREATE INDEX seqn_alcohol on alcohol_use (SEQN)")
+
    with open('ALQ_F.csv', mode='r') as csv_file:
       csv_reader = csv.DictReader(csv_file)
       for row in csv_reader:
@@ -302,6 +313,7 @@ def alcoholUseTable(c, conn):
             c.execute("INSERT INTO alcohol_use (SEQN, ALQ101, ALQ110, ALQ120Q, ALQ120U, ALQ130 , ALQ140Q , ALQ140U , ALQ150) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)", (
                 row["SEQN"], row["ALQ101"], row["ALQ110"], row["ALQ120Q"], row["ALQ120U"], row["ALQ130"], row["ALQ140Q"], row["ALQ140U"], row["ALQ150"]))
    conn.commit()
+
 
 def updateRegisters(c):
 
@@ -316,7 +328,6 @@ def updateRegisters(c):
    c.execute("UPDATE bowel_health SET BHQ090_b = 1 WHERE BHQ090 BETWEEN 1 AND 3")
    c.execute("UPDATE bowel_health SET BHQ010_b = 1 WHERE BHQ010 = 1")
    c.execute("UPDATE bowel_health SET BHQ110_b = 1 WHERE BHQ110 BETWEEN 1 AND 4")
-
 
    c.execute("UPDATE nutrition SET DBQ010_b = 1 WHERE DBQ010 = 2")
    # c.execute("UPDATE nutrition SET DBD030_b = 1 WHERE DBD030 IN ()")
@@ -379,12 +390,8 @@ def updateRegisters(c):
    c.execute("UPDATE alcohol_use SET ALQ140U_b = 1 WHERE ALQ140U < 4")
    c.execute("UPDATE alcohol_use SET ALQ150_b = 1 WHERE ALQ150 = 1")
 
-def queries(c):
 
-   c.execute("CREATE INDEX seqn_bowel on bowel_health (SEQN)")
-   c.execute("CREATE INDEX seqn_nutrition on nutrition (SEQN)")
-   c.execute("CREATE INDEX seqn_consumer on consumer_behavior (SEQN)")
-   c.execute("CREATE INDEX seqn_alcohol on alcohol_use (SEQN)")
+def queries(c, conn):
 
    # for row in c.execute("select count(bowel_health.SEQN) from nutrition, bowel_health where nutrition.SEQN = bowel_health.SEQN"):
    #    print(row)
@@ -394,39 +401,74 @@ def queries(c):
    #    print(row)
    #
    # BHQ010, BHQ020, BHQ030, BHQ040, BHQD50, BHQ060, BHQ070, BHQ080, BHQ090, BHQ0100, BHQ0110, CBD010, CBQ020, CBQ030, CBQ040, CBQ050, CBQ060, CBQ140, CBD160, DBQ010, DBD030, DBD041, DBD050, DBD055, DBD061, DBQ073A, DBQ073D, DBQ073E, DBQ073U, DBQ700, DBQ197, DBQ223A, DBQ223U, DBQ229, DBQ235A, DBQ235B, DBQ235C, DBQ424, DBD895, DBD900, DBD905, DBD910, DBQ915, DBQ920, DBQ925A, DBQ925B, DBQ925C, DBQ925D, DBQ925E, DBQ925F, DBQ925G, DBQ925H, DBQ925I, DBQ925J, DBQ930, DBQ935, DBQ940, DBQ945
-   c.execute("DROP TABLE IF EXISTS patients")
-   c.execute("CREATE TABLE patients as select * from consumer_behavior, bowel_health, alcohol_use where consumer_behavior.SEQN = bowel_health.SEQN") 
-   bowel_health = "BHQ010_b, BHQ020_b, BHQ030_b, BHQ040_b, BHD050_b, BHQ060_b, BHQ070_b, BHQ080_b, BHQ090_b, BHQ010_b, BHQ110_b"
-   alcohol_use = "ALQ101_b, ALQ120Q_b, ALQ120U_b, ALQ130_b, ALQ140Q_b, ALQ140U_b, ALQ150_b"
-   consumer_behavior = "CBD010_b, CBQ020_b, CBQ030_b, CBQ040_b, CBQ050_b, CBQ060_b, CBQ140_b, CBD160_b"
-   nutrition = "DBQ010_b, DBD041_b, DBD061_b, DBQ073A_b, DBQ073D_b, DBQ073E_b, DBQ073U_b, DBQ700_b, DBQ197_b, DBQ223A_b, DBQ223U_b, DBQ229_b, DBQ235A_b, DBD895_b, DBD900_b, DBD905_b, DBD910_b, DBQ920_b, DBQ925A_b, DBQ925B_b, DBQ925C_b, DBQ925D_b, DBQ925E_b, DBQ925F_b, DBQ925G_b, DBQ925H_b, DBQ925I_b, DBQ925J_b, DBQ930_b, DBQ935_b"
    
+   c.execute("DROP TABLE IF EXISTS patients")
+   # # c.execute("CREATE TABLE patients as select * from consumer_behavior, bowel_health, alcohol_use where consumer_behavior.SEQN = bowel_health.SEQN")
+   bowel_health = "BHQ010_b, BHQ020_b, BHQ030_b, BHQ040_b, BHD050_b, BHQ060_b, BHQ070_b, BHQ080_b, BHQ090_b, BHQ010_b, BHQ110_b,"
+   alcohol_use = "ALQ101_b, ALQ120Q_b, ALQ120U_b, ALQ130_b, ALQ140Q_b, ALQ140U_b, ALQ150_b,"
+   consumer_behavior = "CBD010_b, CBQ020_b, CBQ030_b, CBQ040_b, CBQ050_b, CBQ060_b, CBQ140_b, CBD160_b,"
+   nutrition = "DBQ010_b, DBD041_b, DBD061_b, DBQ073A_b, DBQ073D_b, DBQ073E_b, DBQ073U_b, DBQ700_b, DBQ197_b, DBQ223A_b, DBQ223U_b, DBQ229_b, DBQ235A_b, DBD895_b, DBD900_b, DBD905_b, DBD910_b, DBQ920_b, DBQ925A_b, DBQ925B_b, DBQ925C_b, DBQ925D_b, DBQ925E_b, DBQ925F_b, DBQ925G_b, DBQ925H_b, DBQ925I_b, DBQ925J_b, DBQ930_b, DBQ935_b"
+
    registers = bowel_health+alcohol_use+consumer_behavior+nutrition
 
-   query = "create table patients as select"+registers+"from consumer_behavior join bowel_health on bowel_health.SEQN = consumer_behavior.SEQN join nutrition on nutrition.SEQN = consumer_behavior.SEQN join alcohol_use on alcohol_use.SEQN = consumer_behavior.SEQN"
+   query = "CREATE TABLE patients AS SELECT bowel_health.SEQN as SEQN, "+registers + \
+       " FROM consumer_behavior join bowel_health on bowel_health.SEQN = consumer_behavior.SEQN join nutrition on nutrition.SEQN = consumer_behavior.SEQN join alcohol_use on alcohol_use.SEQN = consumer_behavior.SEQN"
 
    c.execute(query)
-   c.execute("ALTER TABLE patients ADD COLUMN profile string")
+   c.execute("ALTER TABLE patients ADD COLUMN profile text")
    c.execute("CREATE INDEX seqn_patient on patients (SEQN)")
 
-   for row in c.execute("SELECT count(*) from patients"):
+   for row in c.execute("SELECT count(*) FROM patients"):
       print(row)
 
+   str1 = registers.replace(",", " ||")
+
+   query = "SELECT "+str1+" AS profile, SEQN FROM patients"
+   queries = []
+   for row in c.execute(query):
+      sql = "UPDATE patients SET profile = '" + str(row[0]) + "' WHERE SEQN = '" + str(row[1]) + "'"
+      queries.append(sql)
+      # print(row[0])
+      # print(row[1])
+      # print(sql)
+   
+   for sql in queries:
+      c.execute(sql)
+   
+   conn.commit()
+
+
+def correlation_profile(c):
+
+   csv_file = "bowel_disease.csv"
+
+   #grouping profiles
+   c.execute("DROP VIEW IF EXISTS profilePattern")
+   c.execute("CREATE VIEW profilePattern AS SELECT count(*) AS nPatients, p.profile FROM patients p GROUP BY p.profile")
+
+   queries = []
+   for row in c.execute("SELECT * FROM profilePattern WHERE nPatients > 1"):
+      print(row)
+
+
 def filteringData():
-  
+
    conn = sqlite3.connect('database.db')
    conn.text_factory = str
    c = conn.cursor()
 
-   bowelTable(c, conn)
-   nutritionTable(c, conn)
-   consumerBehaviorTable(c, conn)
-   alcoholUseTable(c, conn)
-   updateRegisters(c)
+   # bowelTable(c, conn)
+   # nutritionTable(c, conn)
+   # consumerBehaviorTable(c, conn)
+   # alcoholUseTable(c, conn)
 
-   queries(c)
-   
+   # updateRegisters(c)
+
+   queries(c, conn)
+   correlation_profile(c)
+
    conn.close()
+
 
 if __name__ == "__main__":
    filteringData()
