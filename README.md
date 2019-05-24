@@ -1,1 +1,1 @@
-# digestive-diseases
+# Inflammatory bowel disease
