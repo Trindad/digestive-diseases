@@ -13,3 +13,6 @@ python create_database.py
 Queries:
 python correlation.py
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Trindad/digestive-diseases/network)
+
