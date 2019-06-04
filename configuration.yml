@@ -10,3 +10,4 @@ dependencies:
   - maven
   - py4j
   - requests
+  - graphviz
