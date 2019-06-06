@@ -1,0 +1,972 @@
+﻿@article{RN1163,
+   author = {Alander, M. and Korpela, R. and Saxelin, M. and Vilpponen-Salmela, T. and Mattila-Sandholm, T. and von Wright, A.},
+   title = {Recovery of Lactobacillus rhamnosus GG from human colonic biopsies},
+   journal = {Lett Appl Microbiol},
+   volume = {24},
+   number = {5},
+   pages = {361-4},
+   ISSN = {0266-8254 (Print)
+0266-8254},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9172443}
+}
+
+@article{RN1132,
+   author = {Aldoori, W. H. and Giovannucci, E. L. and Rockett, H. R. and Sampson, L. and Rimm, E. B. and Willett, W. C.},
+   title = {A prospective study of dietary fiber types and symptomatic diverticular disease in men},
+   journal = {J Nutr},
+   volume = {128},
+   number = {4},
+   pages = {714-9},
+   ISSN = {0022-3166 (Print)
+0022-3166},
+   DOI = {10.1093/jn/128.4.714},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9521633}
+}
+
+@article{RN1140,
+   author = {Allerberger, F. and Solder, B. and Caprioli, A. and Karch, H.},
+   title = {[Enterohemorrhagic Escherichia coli and hemolytic-uremic syndrome]},
+   journal = {Wien Klin Wochenschr},
+   volume = {109},
+   number = {17},
+   pages = {669-77},
+   ISSN = {0043-5325 (Print)
+0043-5325},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9381722}
+}
+
+@article{RN1123,
+   author = {Alouf, J.},
+   title = {[Implications of bacterial protein toxins in infectious and food-borne diseases]},
+   journal = {C R Seances Soc Biol Fil},
+   volume = {192},
+   number = {3},
+   pages = {485-502},
+   ISSN = {0037-9026 (Print)
+0037-9026},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9759385}
+}
+
+@article{RN1172,
+   author = {Baker, D. R. and Moxley, R. A. and Francis, D. H.},
+   title = {Variation in virulence in the gnotobiotic pig model of O157:H7 Escherichia coli strains of bovine and human origin},
+   journal = {Adv Exp Med Biol},
+   volume = {412},
+   pages = {53-8},
+   ISSN = {0065-2598 (Print)
+0065-2598},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9191990}
+}
+
+@article{RN1162,
+   author = {Ballegaard, M. and Bjergstrom, A. and Brondum, S. and Hylander, E. and Jensen, L. and Ladefoged, K.},
+   title = {Self-reported food intolerance in chronic inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {6},
+   pages = {569-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9200289}
+}
+
+@article{RN1136,
+   author = {Beno, I. and Ondreicka, R. and Magalova, T. and Brtkova, A. and Grancicova, E.},
+   title = {[Precancerous conditions and carcinomas of the stomach and colorectum--blood levels of selected micronutrients]},
+   journal = {Bratisl Lek Listy},
+   volume = {98},
+   number = {12},
+   pages = {674-7},
+   ISSN = {0006-9248 (Print)
+0006-9248},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9525066}
+}
+
+@article{RN1170,
+   author = {Bischoff, S. C. and Grabowsky, J. and Manns, M. P.},
+   title = {Quantification of inflammatory mediators in stool samples of patients with inflammatory bowel disorders and controls},
+   journal = {Dig Dis Sci},
+   volume = {42},
+   number = {2},
+   pages = {394-403},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9052525}
+}
+
+@article{RN1108,
+   author = {Bolton, F. J. and Aird, H.},
+   title = {Verocytotoxin-producing Escherichia coli O157: public health and microbiological significance},
+   journal = {Br J Biomed Sci},
+   volume = {55},
+   number = {2},
+   pages = {127-35},
+   ISSN = {0967-4845 (Print)
+0967-4845},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10198471}
+}
+
+@article{RN1112,
+   author = {Bouhaddioui, B. and Ben Aissa, R. and Boudabous, A.},
+   title = {[Characterization of Escherichia coli strains isolated from man and seafood]},
+   journal = {Bull Soc Pathol Exot},
+   volume = {91},
+   number = {4},
+   pages = {283-6},
+   ISSN = {0037-9085 (Print)
+0037-9085},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9846217}
+}
+
+@article{RN1169,
+   author = {Brooks, H. J. and Bettelheim, K. A. and Todd, B. and Holdaway, M. D.},
+   title = {Non-O157 Vero cytotoxin producing Escherichia coli: aetiological agents of diarrhoea in children in Dunedin, New Zealand},
+   journal = {Comp Immunol Microbiol Infect Dis},
+   volume = {20},
+   number = {2},
+   pages = {163-70},
+   ISSN = {0147-9571 (Print)
+0147-9571},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9208202}
+}
+
+@article{RN1166,
+   author = {Burke, A. and Lichtenstein, G. R. and Rombeau, J. L.},
+   title = {Nutrition and ulcerative colitis},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {11},
+   number = {1},
+   pages = {153-74},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9192066}
+}
+
+@article{RN1142,
+   author = {Campbell, J. M. and Fahey, G. C., Jr. and Demichele, S. J. and Garleb, K. A.},
+   title = {Metabolic characteristics of healthy adult males as affected by ingestion of a liquid nutritional formula containing fish oil, oligosaccharides, gum arabic and antioxidant vitamins},
+   journal = {Food Chem Toxicol},
+   volume = {35},
+   number = {12},
+   pages = {1165-76},
+   ISSN = {0278-6915 (Print)
+0278-6915},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9449222}
+}
+
+@article{RN1144,
+   author = {Cuffari, C. and Oligny, L. and Seidman, E. G.},
+   title = {Dientamoeba fragilis masquerading as allergic colitis},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {26},
+   number = {1},
+   pages = {16-20},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9443114}
+}
+
+@article{RN1106,
+   author = {Cummings, J. H.},
+   title = {Dietary carbohydrates and the colonic microflora},
+   journal = {Curr Opin Clin Nutr Metab Care},
+   volume = {1},
+   number = {5},
+   pages = {409-14},
+   ISSN = {1363-1950 (Print)
+1363-1950},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10565385}
+}
+
+@article{RN1113,
+   author = {D'Angelo, G. and Angeletti, C. and Catassi, C. and Coppa, G. V.},
+   title = {[Probiotics in childhood]},
+   journal = {Minerva Pediatr},
+   volume = {50},
+   number = {5},
+   pages = {163-73},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9842213}
+}
+
+@article{RN1157,
+   author = {Eddy, J. T. and Stamatakis, M. K. and Makela, E. H.},
+   title = {Saccharomyces boulardii for the treatment of Clostridium difficile-associated colitis},
+   journal = {Ann Pharmacother},
+   volume = {31},
+   number = {7-8},
+   pages = {919-21},
+   ISSN = {1060-0280 (Print)
+1060-0280},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9220059}
+}
+
+@article{RN1156,
+   author = {Elia, M. and Lunn, P. G.},
+   title = {The use of glutamine in the treatment of gastrointestinal disorders in man},
+   journal = {Nutrition},
+   volume = {13},
+   number = {7-8},
+   pages = {743-7},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9263280}
+}
+
+@article{RN1173,
+   author = {Ellegard, L. and Andersson, H. and Bosaeus, I.},
+   title = {Inulin and oligofructose do not influence the absorption of cholesterol, or the excretion of cholesterol, Ca, Mg, Zn, Fe, or bile acids but increases energy excretion in ileostomy subjects},
+   journal = {Eur J Clin Nutr},
+   volume = {51},
+   number = {1},
+   pages = {1-5},
+   ISSN = {0954-3007 (Print)
+0954-3007},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9023459}
+}
+
+@article{RN1164,
+   author = {Emery, E. A. and Ahmad, S. and Koethe, J. D. and Skipper, A. and Perlmutter, S. and Paskin, D. L.},
+   title = {Banana flakes control diarrhea in enterally fed patients},
+   journal = {Nutr Clin Pract},
+   volume = {12},
+   number = {2},
+   pages = {72-5},
+   ISSN = {0884-5336 (Print)
+0884-5336},
+   DOI = {10.1177/011542659701200272},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9155405}
+}
+
+@article{RN1138,
+   author = {Faulks, R. M. and Hart, D. J. and Wilson, P. D. and Scott, K. J. and Southon, S.},
+   title = {Absorption of all-trans and 9-cis beta-carotene in human ileostomy volunteers},
+   journal = {Clin Sci (Lond)},
+   volume = {93},
+   number = {6},
+   pages = {585-91},
+   ISSN = {0143-5221 (Print)
+0143-5221},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9497797}
+}
+
+@article{RN1120,
+   author = {Gado, I. and Ruzsics, Z. and Toth, I. and Kiraly, M. and Milch, H.},
+   title = {Partial inhibition of amplifications by primers of EHEC genes},
+   journal = {Acta Microbiol Immunol Hung},
+   volume = {45},
+   number = {2},
+   pages = {239-52},
+   ISSN = {1217-8950 (Print)
+1217-8950},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9768292}
+}
+
+@article{RN1158,
+   author = {Germani, Y. and Soro, B. and Vohito, M. and Morel, O. and Morvan, J.},
+   title = {Enterohaemorrhagic Escherichia coli in Central African Republic},
+   journal = {Lancet},
+   volume = {349},
+   number = {9066},
+   pages = {1670},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(05)62636-0},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9186391}
+}
+
+@article{RN1114,
+   author = {Goerg, K. J. and Schlorer, E.},
+   title = {[Probiotic therapy of pseudomembranous colitis. Combination of intestinal lavage and oral administration of Escherichia coli]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {123},
+   number = {43},
+   pages = {1274-8},
+   ISSN = {0012-0472 (Print)
+0012-0472},
+   DOI = {10.1055/s-2007-1024168},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9817997}
+}
+
+@article{RN1149,
+   author = {Grazioso, C. F. and Werner, A. L. and Alling, D. W. and Bishop, P. R. and Buescher, E. S.},
+   title = {Antiinflammatory effects of human milk on chemically induced colitis in rats},
+   journal = {Pediatr Res},
+   volume = {42},
+   number = {5},
+   pages = {639-43},
+   ISSN = {0031-3998 (Print)
+0031-3998},
+   DOI = {10.1203/00006450-199711000-00015},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9357937}
+}
+
+@article{RN1111,
+   author = {Green, T. J. and Issenman, R. M. and Jacobson, K.},
+   title = {Patients' diets and preferences in a pediatric population with inflammatory bowel disease},
+   journal = {Can J Gastroenterol},
+   volume = {12},
+   number = {8},
+   pages = {544-9},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9926264}
+}
+
+@article{RN1117,
+   author = {Griffiths, A. M.},
+   title = {Inflammatory bowel disease},
+   journal = {Nutrition},
+   volume = {14},
+   number = {10},
+   pages = {788-91},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9785363}
+}
+
+@article{RN1131,
+   author = {Hunter, J. O.},
+   title = {Nutritional factors in inflammatory bowel disease},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {10},
+   number = {3},
+   pages = {235-7},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9585027}
+}
+
+@article{RN1135,
+   author = {Husain, A. and Korzenik, J. R.},
+   title = {Nutritional issues and therapy in inflammatory bowel disease},
+   journal = {Semin Gastrointest Dis},
+   volume = {9},
+   number = {1},
+   pages = {21-30},
+   ISSN = {1049-5118 (Print)
+1049-5118},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9547853}
+}
+
+@article{RN1129,
+   author = {Ingram, D. T. and Lamichhane, C. M. and Rollins, D. M. and Carr, L. E. and Mallinson, E. T. and Joseph, S. W.},
+   title = {Development of a colony lift immunoassay to facilitate rapid detection and quantification of Escherichia coli O157:H7 from agar plates and filter monitor membranes},
+   journal = {Clin Diagn Lab Immunol},
+   volume = {5},
+   number = {4},
+   pages = {567-73},
+   ISSN = {1071-412X (Print)
+1071-412x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9665968}
+}
+
+@article{RN1119,
+   author = {Jensen, M. B. and Kissmeyer-Nielsen, P. and Laurberg, S.},
+   title = {Perioperative growth hormone treatment increases nitrogen and fluid balance and results in short-term and long-term conservation of lean tissue mass},
+   journal = {Am J Clin Nutr},
+   volume = {68},
+   number = {4},
+   pages = {840-6},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/68.4.840},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9771860}
+}
+
+@article{RN1151,
+   author = {Jirjis, J. and Harris, S.},
+   title = {A 66-year-old man with bloody diarrhea},
+   journal = {Tenn Med},
+   volume = {90},
+   number = {10},
+   pages = {418},
+   ISSN = {1088-6222 (Print)
+1088-6222},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9323910}
+}
+
+@article{RN1133,
+   author = {Jorquera Plaza, F. and Espinel Diez, J. and Olcoz Goni, J. L.},
+   title = {[Inflammatory bowel disease: importance of nutrition today]},
+   journal = {Nutr Hosp},
+   volume = {12},
+   number = {6},
+   pages = {289-98},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9477654}
+}
+
+@article{RN1109,
+   author = {Kato, N. and Kato, H.},
+   title = {Human diseases caused by exotoxins produced by anaerobes and their rapid detection},
+   journal = {Rinsho Biseibutshu Jinsoku Shindan Kenkyukai Shi},
+   volume = {9},
+   number = {2},
+   pages = {97-104},
+   ISSN = {0915-1753 (Print)
+0915-1753},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10036379}
+}
+
+@article{RN1122,
+   author = {Knudsen, J. F. and Friedman, B. and Chen, M. and Goldwasser, J. E.},
+   title = {Ischemic colitis and sumatriptan use},
+   journal = {Arch Intern Med},
+   volume = {158},
+   number = {17},
+   pages = {1946-8},
+   ISSN = {0003-9926 (Print)
+0003-9926},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9759693}
+}
+
+@article{RN1150,
+   author = {Kruis, W. and Schutz, E. and Fric, P. and Fixa, B. and Judmaier, G. and Stolte, M.},
+   title = {Double-blind comparison of an oral Escherichia coli preparation and mesalazine in maintaining remission of ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {11},
+   number = {5},
+   pages = {853-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9354192}
+}
+
+@article{RN1155,
+   author = {Le Sellin, J.},
+   title = {[Clinical signs of food allergy]},
+   journal = {Allerg Immunol (Paris)},
+   volume = {29 Spec No},
+   pages = {11-4},
+   ISSN = {0397-9148 (Print)
+0397-9148},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9376079}
+}
+
+@article{RN1159,
+   author = {Le Sellin, J.},
+   title = {[Clinical signs of food allergy]},
+   journal = {Allerg Immunol (Paris)},
+   volume = {29},
+   number = {6},
+   pages = {165-8},
+   ISSN = {0397-9148 (Print)
+0397-9148},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9254122}
+}
+
+@article{RN1147,
+   author = {Ledeboer, M. and Masclee, A. A. and Biemond, I. and Lamers, C. B.},
+   title = {Gallbladder motility and cholecystokinin secretion during continuous enteral nutrition},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {12},
+   pages = {2274-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9399769}
+}
+
+@article{RN1165,
+   author = {Matthew, J. A. and Fellows, I. W. and Prior, A. and Kennedy, H. J. and Bobbin, R. and Johnson, I. T.},
+   title = {Habitual intake of fruits and vegetables amongst patients at increased risk of colorectal neoplasia},
+   journal = {Cancer Lett},
+   volume = {114},
+   number = {1-2},
+   pages = {255-8},
+   ISSN = {0304-3835 (Print)
+0304-3835},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9103305}
+}
+
+@article{RN1143,
+   author = {McDonnell, R. J. and Rampling, A. and Crook, S. and Cockcroft, P. M. and Wilshaw, G. A. and Cheasty, T. and Stuart, J.},
+   title = {An outbreak of Vero cytotoxin producing Escherichia coli O157 infection associated with takeaway sandwiches},
+   journal = {Commun Dis Rep CDR Rev},
+   volume = {7},
+   number = {13},
+   pages = {R201-5},
+   ISSN = {1350-9349 (Print)
+1350-9349},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9447785}
+}
+
+@article{RN1160,
+   author = {McMahon, R. F. and Warren, B. F. and Jones, C. J. and Mayberry, J. F. and Probert, C. S. and Corfield, A. P. and Stoddart, R. W.},
+   title = {South Asians with ulcerative colitis exhibit altered lectin binding compared with matched European cases},
+   journal = {Histochem J},
+   volume = {29},
+   number = {6},
+   pages = {469-77},
+   ISSN = {0018-2214 (Print)
+0018-2214},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9248854}
+}
+
+@article{RN1118,
+   author = {Mead, P. S. and Griffin, P. M.},
+   title = {Escherichia coli O157:H7},
+   journal = {Lancet},
+   volume = {352},
+   number = {9135},
+   pages = {1207-12},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(98)01267-7},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9777854}
+}
+
+@article{RN1110,
+   author = {Meng, J. and Zhao, S. and Doyle, M. P.},
+   title = {Virulence genes of Shiga toxin-producing Escherichia coli isolated from food, animals and humans},
+   journal = {Int J Food Microbiol},
+   volume = {45},
+   number = {3},
+   pages = {229-35},
+   ISSN = {0168-1605 (Print)
+0168-1605},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9927001}
+}
+
+@article{RN1116,
+   author = {Mouzas, I. A. and Papavassiliou, E. and Koutroubakis, I.},
+   title = {Chemoprevention of colorectal cancer in inflammatory bowel disease? A potential role for folate},
+   journal = {Ital J Gastroenterol Hepatol},
+   volume = {30},
+   number = {4},
+   pages = {421-5},
+   ISSN = {1125-8055 (Print)
+1125-8055},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9789142}
+}
+
+@article{RN1148,
+   author = {Obrig, T. G.},
+   title = {Shiga toxin mode of action in E. coli O157:H7 disease},
+   journal = {Front Biosci},
+   volume = {2},
+   pages = {d635-42},
+   ISSN = {1093-9946 (Print)
+1093-4715},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9392626}
+}
+
+@article{RN1115,
+   author = {Ojuawo, A. and Milla, P. J. and Lindley, K. J.},
+   title = {Serum immunoglobulin and immunoglobulin G subclasses in children with allergic colitis},
+   journal = {West Afr J Med},
+   volume = {17},
+   number = {3},
+   pages = {206-9},
+   ISSN = {0189-160X (Print)
+0189-160x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9814094}
+}
+
+@article{RN1152,
+   author = {Palau, L. A. and Kemmerly, S. A.},
+   title = {First report of invasive amebiasis in an organ transplant recipient},
+   journal = {Transplantation},
+   volume = {64},
+   number = {6},
+   pages = {936-7},
+   ISSN = {0041-1337 (Print)
+0041-1337},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9326427}
+}
+
+@article{RN1153,
+   author = {Paton, A. W. and Voss, E. and Manning, P. A. and Paton, J. C.},
+   title = {Shiga toxin-producing Escherichia coli isolates from cases of human disease show enhanced adherence to intestinal epithelial (Henle 407) cells},
+   journal = {Infect Immun},
+   volume = {65},
+   number = {9},
+   pages = {3799-805},
+   ISSN = {0019-9567 (Print)
+0019-9567},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9284155}
+}
+
+@article{RN1126,
+   author = {Pena, A. S. and Crusius, J. B.},
+   title = {Food allergy, coeliac disease and chronic inflammatory bowel disease in man},
+   journal = {Vet Q},
+   volume = {20 Suppl 3},
+   pages = {S49-52},
+   ISSN = {0165-2176 (Print)
+0165-2176},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9689726}
+}
+
+@article{RN1168,
+   author = {Prikazska, M. and Simoncic, R.},
+   title = {[Nutrition and Crohn's disease]},
+   journal = {Bratisl Lek Listy},
+   volume = {98},
+   number = {2},
+   pages = {107-10},
+   ISSN = {0006-9248 (Print)
+0006-9248},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9264808}
+}
+
+@article{RN1139,
+   author = {Qadri, S. M. and Kayali, S.},
+   title = {Enterohemorrhagic Escherichia coli. A dangerous food-borne pathogen},
+   journal = {Postgrad Med},
+   volume = {103},
+   number = {2},
+   pages = {179-80, 185-7},
+   ISSN = {0032-5481 (Print)
+0032-5481},
+   DOI = {10.3810/pgm.1998.02.358},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9479315}
+}
+
+@article{RN1137,
+   author = {Rath, H. C. and Caesar, I. and Roth, M. and Scholmerich, J.},
+   title = {[Nutritional deficiencies and complications in chronic inflammatory bowel diseases]},
+   journal = {Med Klin (Munich)},
+   volume = {93},
+   number = {1},
+   pages = {6-10},
+   ISSN = {0723-5003 (Print)
+0723-5003},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9505072}
+}
+
+@article{RN1161,
+   author = {Reif, S. and Klein, I. and Lubin, F. and Farbstein, M. and Hallak, A. and Gilat, T.},
+   title = {Pre-illness dietary factors in inflammatory bowel disease},
+   journal = {Gut},
+   volume = {40},
+   number = {6},
+   pages = {754-60},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.40.6.754},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9245929}
+}
+
+@article{RN1124,
+   author = {Reilly, A.},
+   title = {Prevention and control of enterohaemorrhagic Escherichia coli (EHEC) infections: memorandum from a WHO meeting. WHO Consultation on Prevention and Control of Enterohaemorrhagic Escherichia coli (EHEC) Infections},
+   journal = {Bull World Health Organ},
+   volume = {76},
+   number = {3},
+   pages = {245-55},
+   ISSN = {0042-9686 (Print)
+0042-9686},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9744244}
+}
+
+@article{RN1107,
+   author = {Roediger, W. E.},
+   title = {Decreased sulphur aminoacid intake in ulcerative colitis},
+   journal = {Lancet},
+   volume = {351},
+   number = {9115},
+   pages = {1555},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10326542}
+}
+
+@article{RN1130,
+   author = {Russel, M. G. and Engels, L. G. and Muris, J. W. and Limonard, C. B. and Volovics, A. and Brummer, R. J. and Stockbrugger, R. W.},
+   title = {Modern life' in the epidemiology of inflammatory bowel disease: a case-control study with special emphasis on nutritional factors},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {10},
+   number = {3},
+   pages = {243-9},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9585029}
+}
+
+@article{RN1141,
+   author = {Sabbah, A. and Drouet, M. and Guittot, M.},
+   title = {[When the fluoro-immuno-enzymatic (FEIA) measurements turn out to be more sensitive than radioimmunologic (RIA) measurements. Application to the measurement of serum tryptase]},
+   journal = {Allerg Immunol (Paris)},
+   volume = {29},
+   number = {8},
+   pages = {239-41},
+   ISSN = {0397-9148 (Print)
+0397-9148},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9453735}
+}
+
+@article{RN1127,
+   author = {Sabra, A. and Bellanti, J. A. and Colon, A. R.},
+   title = {Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children},
+   journal = {Lancet},
+   volume = {352},
+   number = {9123},
+   pages = {234-5},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(05)77837-5},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9683237}
+}
+
+@article{RN1125,
+   author = {Strauss, R. S. and Koniaris, S.},
+   title = {Allergic colitis in two infants fed with an amino acid formula},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {27},
+   number = {3},
+   pages = {362-5},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9740215}
+}
+
+@article{RN1128,
+   author = {Sturniolo, G. C. and Mestriner, C. and Lecis, P. E. and D'Odorico, A. and Venturi, C. and Irato, P. and Cecchetto, A. and Tropea, A. and Longo, G. and D'Inca, R.},
+   title = {Altered plasma and mucosal concentrations of trace elements and antioxidants in active ulcerative colitis},
+   journal = {Scand J Gastroenterol},
+   volume = {33},
+   number = {6},
+   pages = {644-9},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9669638}
+}
+
+@article{RN1134,
+   author = {Szilagyi, A.},
+   title = {Altered colonic environment, a possible predisposition to colorectal cancer and colonic inflammatory bowel disease: rationale of dietary manipulation with emphasis on disaccharides},
+   journal = {Can J Gastroenterol},
+   volume = {12},
+   number = {2},
+   pages = {133-46},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9559208}
+}
+
+@article{RN1171,
+   author = {Takeda, Y.},
+   title = {Enterohaemorrhagic Escherichia coli},
+   journal = {World Health Stat Q},
+   volume = {50},
+   number = {1-2},
+   pages = {74-80},
+   ISSN = {0379-8070 (Print)
+0379-8070},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9282389}
+}
+
+@article{RN1174,
+   author = {Thirlby, R. C. and Kelly, R.},
+   title = {Pectin and methyl cellulose do not affect intestinal function in patients after ileal pouch-anal anastomosis},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {1},
+   pages = {99-102},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {8995946}
+}
+
+@article{RN1146,
+   author = {Vanderhoof, J. A. and Murray, N. D. and Kaufman, S. S. and Mack, D. R. and Antonson, D. L. and Corkins, M. R. and Perry, D. and Kruger, R.},
+   title = {Intolerance to protein hydrolysate infant formulas: an underrecognized cause of gastrointestinal symptoms in infants},
+   journal = {J Pediatr},
+   volume = {131},
+   number = {5},
+   pages = {741-4},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9403656}
+}
+
+@article{RN1167,
+   author = {Wada, A.},
+   title = {[Molecular analysis of enterohemorrhagic Escherichia coli O157:H7 isolates in Japan 1996 using pulsed-field gel electrophoresis]},
+   journal = {Nihon Rinsho},
+   volume = {55},
+   number = {3},
+   pages = {665-70},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9086778}
+}
+
+@article{RN1154,
+   author = {Weinand, I. and Jordan, A. and Caspary, W. F. and Stein, J.},
+   title = {[Nutrition in the etiopathogenesis of chronic inflammatory bowel diseases]},
+   journal = {Z Gastroenterol},
+   volume = {35},
+   number = {8},
+   pages = {637-49},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9381746}
+}
+
+@article{RN1121,
+   author = {Williams, N. C. and Ingham, S. C.},
+   title = {Thermotolerance of Escherichia coli O157:H7 ATCC 43,894, Escherichia coli B, and an rpoS-deficient mutant of Escherichia coli O157:H7 ATCC 43,895 following exposure to 1.5% acetic acid},
+   journal = {J Food Prot},
+   volume = {61},
+   number = {9},
+   pages = {1184-6},
+   ISSN = {0362-028X (Print)
+0362-028x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9766073}
+}
+
+@article{RN1145,
+   author = {Zorich, N. L. and Jones, M. B. and Kesler, J. M. and Carter, S. B. and Sutton, M. A. and Bayless, T.},
+   title = {A randomized, double-blind study of the effect of olestra on disease activity in patients with quiescent inflammatory bowel disease. Olestra in IBD Study Group},
+   journal = {Am J Med},
+   volume = {103},
+   number = {5},
+   pages = {389-99},
+   ISSN = {0002-9343 (Print)
+0002-9343},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9375707}
+}
+
