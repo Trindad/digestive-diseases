@@ -1,0 +1,240 @@
+SEQN,Mouth,Oesophagus,Stomach,Duodenum,Ileum,AColon,TColon,DColon,Rectum,Perianal,Diagnosis
+P_1,0,1,1,-1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_2,0,-1,-1,-1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_3,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_4,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_5,0,-1,1,1,1,1,-1,-1,-1,0,Crohn_s Disease
+P_6,0,-1,-1,-1,-1,-1,-1,1,1,0,Crohn_s Disease
+P_7,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_8,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_9,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_10,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_11,0,-1,-1,1,0,1,1,1,1,0,Crohn_s Disease
+P_12,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_13,0,0,0,0,0,0,0,1,1,0,Crohn_s Disease
+P_14,0,-1,-1,1,1,1,1,1,1,0,Crohn_s Disease
+P_15,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_16,0,1,1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_17,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_18,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_19,0,-1,1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_20,0,1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_21,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_22,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_23,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_24,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_25,0,-1,-1,1,-1,1,1,1,1,0,Crohn_s Disease
+P_26,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_27,0,1,-1,-1,0,1,-1,1,1,0,Crohn_s Disease
+P_28,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_29,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_30,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_31,0,-1,1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_32,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_33,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_34,0,-1,-1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_35,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_36,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_37,0,-1,1,-1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_38,0,-1,-1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_39,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_40,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_41,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_42,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_43,0,-1,-1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_44,0,-1,1,1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_45,0,-1,1,-1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_46,0,1,1,1,-1,1,1,1,1,0,Crohn_s Disease
+P_47,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_48,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_49,0,0,0,0,1,1,0,0,0,0,Crohn_s Disease
+P_50,0,1,1,-1,0,0,0,1,1,0,Crohn_s Disease
+P_51,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_52,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_53,0,1,1,1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_54,0,-1,-1,-1,-1,1,1,1,1,0,Crohn_s Disease
+P_55,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_56,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_57,0,1,1,1,0,0,0,1,1,0,Crohn_s Disease
+P_58,0,-1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_59,0,-1,-1,-1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_60,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_61,0,0,0,0,0,0,0,1,1,0,Crohn_s Disease
+P_62,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_63,0,-1,1,-1,0,0,0,1,1,0,Crohn_s Disease
+P_64,0,1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_65,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_66,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_67,0,-1,1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_68,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_69,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_70,0,-1,-1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_71,0,-1,-1,-1,-1,1,1,1,1,0,Crohn_s Disease
+P_72,0,1,1,1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_73,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_74,0,1,1,-1,1,1,1,1,-1,0,Crohn_s Disease
+P_75,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_76,0,1,1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_77,0,1,1,-1,0,0,0,1,1,0,Crohn_s Disease
+P_78,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_79,0,-1,1,-1,1,1,1,1,-1,0,Crohn_s Disease
+P_80,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_81,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_82,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_83,0,-1,1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_84,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_85,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_86,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_87,0,0,0,0,0,0,0,0,0,0,Crohn_s Disease
+P_88,0,0,0,0,1,1,1,1,1,0,Crohn_s Disease
+P_89,0,0,0,0,1,1,1,-1,-1,0,Crohn_s Disease
+P_90,0,-1,1,-1,-1,1,1,1,1,0,Crohn_s Disease
+P_91,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_92,0,-1,-1,-1,0,0,1,1,1,0,Crohn_s Disease
+P_93,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_94,0,1,1,-1,0,0,1,1,1,0,Crohn_s Disease
+P_95,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_96,0,1,1,1,0,0,0,0,0,0,Crohn_s Disease
+P_97,0,1,-1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_98,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_99,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_100,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_101,0,1,1,1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_102,0,-1,1,-1,-1,1,1,1,-1,0,Crohn_s Disease
+P_103,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_104,0,-1,-1,-1,1,1,1,-1,-1,0,Crohn_s Disease
+P_105,0,-1,-1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_106,0,1,1,-1,1,1,1,1,1,1,Crohn_s Disease
+P_107,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_108,0,-1,-1,-1,-1,1,1,1,1,0,Crohn_s Disease
+P_109,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_110,0,-1,1,-1,-1,1,1,1,-1,0,Crohn_s Disease
+P_111,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_112,0,-1,1,1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_113,0,1,1,-1,1,1,1,1,-1,0,Crohn_s Disease
+P_114,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_115,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_116,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_117,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_118,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_119,0,-1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_120,0,1,1,1,-1,-1,-1,-1,-1,0,Crohn_s Disease
+P_121,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_122,0,-1,-1,-1,-1,1,1,1,-1,0,Crohn_s Disease
+P_123,0,-1,-1,-1,1,1,1,-1,-1,0,Crohn_s Disease
+P_124,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_125,0,-1,1,1,0,0,0,1,1,0,Crohn_s Disease
+P_126,0,1,-1,-1,0,1,1,1,-1,0,Crohn_s Disease
+P_127,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_128,0,-1,1,-1,1,1,1,1,-1,0,Crohn_s Disease
+P_129,0,1,-1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_130,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_131,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_132,0,1,-1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_133,0,1,-1,-1,1,-1,-1,-1,-1,0,Crohn_s Disease
+P_134,0,-1,1,-1,1,1,1,1,-1,0,Crohn_s Disease
+P_135,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_136,0,1,1,1,1,1,1,1,1,0,Crohn_s Disease
+P_137,0,-1,1,-1,-1,1,1,1,1,0,Crohn_s Disease
+P_138,0,1,1,-1,1,-1,-1,1,1,0,Crohn_s Disease
+P_139,0,1,1,-1,0,1,1,1,1,0,Crohn_s Disease
+P_140,0,-1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_141,0,1,1,-1,1,1,1,1,1,0,Crohn_s Disease
+P_142,0,-1,-1,-1,0,0,1,1,1,0,Crohn_s Disease
+P_143,0,1,1,1,0,0,0,1,1,0,Crohn_s Disease
+P_144,0,-1,-1,-1,-1,1,1,1,1,0,IBDU
+P_145,0,-1,-1,-1,1,1,1,1,1,0,IBDU
+P_146,0,-1,-1,-1,-1,1,1,1,1,0,IBDU
+P_147,0,-1,1,-1,-1,-1,-1,-1,1,0,IBDU
+P_148,0,-1,-1,-1,1,1,1,1,1,0,IBDU
+P_149,0,-1,1,-1,1,1,1,1,1,0,IBDU
+P_150,0,-1,-1,-1,-1,1,1,1,1,0,IBDU
+P_151,0,-1,1,-1,1,-1,-1,-1,-1,0,IBDU
+P_152,0,1,1,-1,1,1,1,1,1,0,IBDU
+P_153,0,1,1,1,-1,1,1,1,1,0,IBDU
+P_154,0,1,1,1,1,1,1,1,1,0,IBDU
+P_155,0,-1,1,1,0,0,0,1,1,0,IBDU
+P_156,0,-1,-1,1,-1,1,1,1,1,0,IBDU
+P_157,0,0,0,0,0,0,0,0,0,0,IBDU
+P_158,0,0,0,0,0,-1,1,1,1,0,IBDU
+P_159,0,0,0,0,0,0,0,0,0,0,IBDU
+P_160,0,-1,1,1,-1,1,1,1,1,0,IBDU
+P_161,0,-1,1,1,1,1,1,1,1,0,IBDU
+P_162,0,1,1,1,0,1,1,1,1,0,IBDU
+P_163,0,-1,1,-1,1,1,1,1,1,0,IBDU
+P_164,0,1,1,-1,1,1,1,1,1,0,IBDU
+P_165,0,1,1,-1,-1,1,1,1,1,0,IBDU
+P_166,0,-1,1,-1,0,1,1,1,1,0,IBDU
+P_167,0,-1,1,-1,1,1,1,1,1,0,IBDU
+P_168,0,-1,1,-1,1,1,1,1,1,0,IBDU
+P_169,0,1,-1,-1,0,1,1,1,1,0,IBDU
+P_170,0,-1,-1,-1,-1,1,1,1,1,0,IBDU
+P_171,0,-1,-1,-1,0,1,1,1,1,0,IBDU
+P_172,0,-1,1,-1,-1,1,1,1,1,0,IBDU
+P_173,0,-1,1,-1,0,0,1,1,1,0,Ulcerative Colitis
+P_174,0,-1,-1,-1,0,1,1,1,1,0,Ulcerative Colitis
+P_175,0,1,1,1,0,0,0,1,1,0,Ulcerative Colitis
+P_176,0,-1,-1,-1,-1,-1,-1,-1,1,0,Ulcerative Colitis
+P_177,0,1,-1,-1,0,0,0,1,1,0,Ulcerative Colitis
+P_178,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_179,0,-1,1,-1,1,1,1,1,1,0,Ulcerative Colitis
+P_180,0,0,0,0,1,1,1,1,1,0,Ulcerative Colitis
+P_181,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_182,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_183,0,-1,1,1,-1,1,1,1,1,0,Ulcerative Colitis
+P_184,0,-1,1,1,-1,1,1,1,1,0,Ulcerative Colitis
+P_185,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_186,0,-1,-1,-1,-1,-1,-1,1,1,0,Ulcerative Colitis
+P_187,0,-1,1,-1,1,-1,-1,-1,-1,0,Ulcerative Colitis
+P_188,0,-1,-1,-1,1,1,1,1,1,0,Ulcerative Colitis
+P_189,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_190,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_191,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_192,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_193,0,0,0,0,0,0,0,1,1,0,Ulcerative Colitis
+P_194,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_195,0,-1,1,-1,0,0,0,1,1,0,Ulcerative Colitis
+P_196,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_197,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_198,0,-1,1,1,1,1,1,1,1,0,Ulcerative Colitis
+P_199,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_200,0,-1,-1,-1,0,1,1,1,1,0,Ulcerative Colitis
+P_201,0,-1,1,-1,0,0,0,1,1,0,Ulcerative Colitis
+P_202,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_203,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_204,0,-1,1,1,-1,1,1,1,1,0,Ulcerative Colitis
+P_205,0,-1,1,1,-1,1,1,1,1,0,Ulcerative Colitis
+P_206,0,-1,1,-1,1,1,1,1,1,0,Ulcerative Colitis
+P_207,0,-1,1,-1,-1,1,1,1,-1,0,Ulcerative Colitis
+P_208,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_209,0,-1,1,-1,-1,-1,1,1,1,0,Ulcerative Colitis
+P_210,0,1,1,-1,0,1,1,1,1,0,Ulcerative Colitis
+P_211,0,-1,1,1,-1,1,1,1,1,0,Ulcerative Colitis
+P_212,0,-1,1,-1,0,1,1,1,1,0,Ulcerative Colitis
+P_213,0,-1,1,1,-1,-1,1,1,1,0,Ulcerative Colitis
+P_214,0,0,0,0,0,0,0,0,0,0,Ulcerative Colitis
+P_215,0,-1,1,-1,0,0,1,1,1,0,Ulcerative Colitis
+P_216,0,-1,1,-1,-1,-1,-1,1,1,0,Ulcerative Colitis
+P_217,0,-1,1,-1,-1,1,1,-1,-1,0,Ulcerative Colitis
+P_218,0,-1,1,-1,1,1,1,1,1,0,Ulcerative Colitis
+P_219,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_220,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_221,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_222,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_223,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_224,0,-1,-1,-1,0,0,0,1,1,0,Ulcerative Colitis
+P_225,0,0,0,0,0,0,0,1,1,0,Ulcerative Colitis
+P_226,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_227,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_228,0,1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_229,0,-1,-1,-1,1,1,1,1,1,0,Ulcerative Colitis
+P_230,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_231,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_232,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_233,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_234,0,-1,1,1,-1,-1,-1,1,1,0,Ulcerative Colitis
+P_235,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_236,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_237,0,1,1,-1,0,1,1,1,1,0,Ulcerative Colitis
+P_238,0,-1,1,-1,-1,1,1,1,1,0,Ulcerative Colitis
+P_239,0,-1,-1,-1,-1,1,1,1,1,0,Ulcerative Colitis
