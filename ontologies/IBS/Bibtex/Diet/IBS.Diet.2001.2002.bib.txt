@@ -1,0 +1,666 @@
+﻿@article{RN10241,
+   author = {Abdulkarim, A. S. and Burgart, L. J. and See, J. and Murray, J. A.},
+   title = {Etiology of nonresponsive celiac disease: results of a systematic approach},
+   journal = {Am J Gastroenterol},
+   volume = {97},
+   number = {8},
+   pages = {2016-21},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2002.05917.x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12190170}
+}
+
+@article{RN10248,
+   author = {Baker, D. E.},
+   title = {Tegaserod for the treatment of constipation-predominant irritable bowel syndrome},
+   journal = {Rev Gastroenterol Disord},
+   volume = {1},
+   number = {4},
+   pages = {187-98},
+   ISSN = {1533-001X (Print)
+1533-001x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {12120185}
+}
+
+@article{RN10265,
+   author = {Bohmer, C. J. and Tuynman, H. A.},
+   title = {The effect of a lactose-restricted diet in patients with a positive lactose tolerance test, earlier diagnosed as irritable bowel syndrome: a 5-year follow-up study},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {8},
+   pages = {941-4},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11507359}
+}
+
+@article{RN10267,
+   author = {Burden, S.},
+   title = {Dietary treatment of irritable bowel syndrome: current evidence and guidelines for future practice},
+   journal = {J Hum Nutr Diet},
+   volume = {14},
+   number = {3},
+   pages = {231-41},
+   ISSN = {0952-3871 (Print)
+0952-3871},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11424515}
+}
+
+@article{RN10269,
+   author = {Chey, W. Y. and Jin, H. O. and Lee, M. H. and Sun, S. W. and Lee, K. Y.},
+   title = {Colonic motility abnormality in patients with irritable bowel syndrome exhibiting abdominal pain and diarrhea},
+   journal = {Am J Gastroenterol},
+   volume = {96},
+   number = {5},
+   pages = {1499-506},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2001.03804.x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11374689}
+}
+
+@article{RN10258,
+   author = {Coffin, B.},
+   title = {[Colonic microflora and motility. Physiological data and during irritable bowel syndrome]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {2 Pt 2},
+   pages = {C85-8},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11787386}
+}
+
+@article{RN10255,
+   author = {Cole, S. J. and Duncan, H. D. and Claydon, A. H. and Austin, D. and Bowling, T. E. and Silk, D. B.},
+   title = {Distal colonic motor activity in four subgroups of patients with irritable bowel syndrome},
+   journal = {Dig Dis Sci},
+   volume = {47},
+   number = {2},
+   pages = {345-55},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11858232}
+}
+
+@article{RN10253,
+   author = {Craig, T. and Kakumanu, S.},
+   title = {Chronic fatigue syndrome: evaluation and treatment},
+   journal = {Am Fam Physician},
+   volume = {65},
+   number = {6},
+   pages = {1083-90},
+   ISSN = {0002-838X (Print)
+0002-838x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11925084}
+}
+
+@article{RN10236,
+   author = {Daneshjoo, R. and N, J. Talley},
+   title = {Eosinophilic gastroenteritis},
+   journal = {Curr Gastroenterol Rep},
+   volume = {4},
+   number = {5},
+   pages = {366-72},
+   ISSN = {1522-8037 (Print)
+1522-8037},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12228038}
+}
+
+@article{RN10263,
+   author = {Dunlop, S. P. and Spiller, R. C.},
+   title = {Nutritional issues in irritable bowel syndrome},
+   journal = {Curr Opin Clin Nutr Metab Care},
+   volume = {4},
+   number = {6},
+   pages = {537-40},
+   ISSN = {1363-1950 (Print)
+1363-1950},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11706290}
+}
+
+@article{RN10259,
+   author = {Fioramonti, J. and Bueno, L. and Delvaux, M. and Frexinos, J.},
+   title = {[Old and new physiopathological concepts of irritable bowel syndrome]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {2 Pt 2},
+   pages = {C34-41},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11787378}
+}
+
+@article{RN10243,
+   author = {Floch, M. H. and Narayan, R.},
+   title = {Diet in the irritable bowel syndrome},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S45-52},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184139}
+}
+
+@article{RN10239,
+   author = {Fooks, L. J. and Gibson, G. R.},
+   title = {Probiotics as modulators of the gut flora},
+   journal = {Br J Nutr},
+   volume = {88 Suppl 1},
+   pages = {S39-49},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   DOI = {10.1079/bjn2002628},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12215180}
+}
+
+@article{RN10234,
+   author = {Frissora, C. L.},
+   title = {A new look at irritable bowel syndrome [IBS]: a neuroenteric disorder},
+   journal = {Compr Ther},
+   volume = {28},
+   number = {3},
+   pages = {222-31},
+   ISSN = {0098-8243 (Print)
+0098-8243},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12360634}
+}
+
+@article{RN10240,
+   author = {Garcia Novo, M. D. and Garcia Burriel, J. I. and Pereda Perez, A.},
+   title = {[Practical guides to nutrition (VII). Functional bowel disorders (equivalent to irritable bowel syndrome)]},
+   journal = {An Esp Pediatr},
+   volume = {57},
+   number = {3},
+   pages = {253-63},
+   ISSN = {0302-4342 (Print)
+0302-4342},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12199950}
+}
+
+@article{RN10270,
+   author = {Hollerbach, S. and Elsenbruch, S. and Enck, P.},
+   title = {[Irritable bowel syndrome as an interdisciplinary clinical challenge. Current views on its pathophysiology, diagnosis and treatment]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {126},
+   number = {16},
+   pages = {472-8},
+   ISSN = {0012-0472 (Print)
+0012-0472},
+   DOI = {10.1055/s-2001-12894},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11360454}
+}
+
+@article{RN10254,
+   author = {Iwanaga, Y.},
+   title = {[Physicochemical and pharmacological characteristic and clinical efficacy of an anti-irritable bowel syndrome agent, polycarbophil calcium (Polyful)]},
+   journal = {Nihon Yakurigaku Zasshi},
+   volume = {119},
+   number = {3},
+   pages = {185-90},
+   ISSN = {0015-5691 (Print)
+0015-5691},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11915521}
+}
+
+@article{RN10257,
+   author = {Jarrett, M. and Visser, R. and Heitkemper, M.},
+   title = {Diet triggers symptoms in women with irritable bowel syndrome. The patient's perspective},
+   journal = {Gastroenterol Nurs},
+   volume = {24},
+   number = {5},
+   pages = {246-52},
+   ISSN = {1042-895X (Print)
+1042-895x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11847996}
+}
+
+@article{RN10272,
+   author = {Ledochowski, M. and Widner, B. and Murr, C. and Sperner-Unterweger, B. and Fuchs, D.},
+   title = {Fructose malabsorption is associated with decreased plasma tryptophan},
+   journal = {Scand J Gastroenterol},
+   volume = {36},
+   number = {4},
+   pages = {367-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11336160}
+}
+
+@article{RN10264,
+   author = {Lewis, C.},
+   title = {Irritable bowel syndrome. A poorly understood disorder},
+   journal = {FDA Consum},
+   volume = {35},
+   number = {4},
+   pages = {30-6},
+   ISSN = {0362-1332 (Print)
+0362-1332},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11692885}
+}
+
+@article{RN10256,
+   author = {Ma, H. and Chen, Y. and Liu, Y.},
+   title = {[An epidemiological study on the risk factors of irritable bowel syndrome in Zhanjiang, Guangdong province]},
+   journal = {Zhonghua Liu Xing Bing Xue Za Zhi},
+   volume = {22},
+   number = {6},
+   pages = {452-4},
+   ISSN = {0254-6450 (Print)
+0254-6450},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11851063}
+}
+
+@article{RN10238,
+   author = {Madden, J. A. and Hunter, J. O.},
+   title = {A review of the role of the gut microflora in irritable bowel syndrome and the effects of probiotics},
+   journal = {Br J Nutr},
+   volume = {88 Suppl 1},
+   pages = {S67-72},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   DOI = {10.1079/bjn2002631},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12215182}
+}
+
+@article{RN10237,
+   author = {Marteau, P. and Seksik, P. and Jian, R.},
+   title = {Probiotics and intestinal health effects: a clinical perspective},
+   journal = {Br J Nutr},
+   volume = {88 Suppl 1},
+   pages = {S51-7},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   DOI = {10.1079/bjn2002629},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12215185}
+}
+
+@article{RN10251,
+   author = {Moukarzel, A. A. and Lesicka, H. and Ament, M. E.},
+   title = {Irritable bowel syndrome and nonspecific diarrhea in infancy and childhood--relationship with juice carbohydrate malabsorption},
+   journal = {Clin Pediatr (Phila)},
+   volume = {41},
+   number = {3},
+   pages = {145-50},
+   ISSN = {0009-9228 (Print)
+0009-9228},
+   DOI = {10.1177/000992280204100303},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11999677}
+}
+
+@article{RN10249,
+   author = {O'Leary, C. and Wieneke, P. and Buckley, S. and O'Regan, P. and Cronin, C. C. and Quigley, E. M. and Shanahan, F.},
+   title = {Celiac disease and irritable bowel-type symptoms},
+   journal = {Am J Gastroenterol},
+   volume = {97},
+   number = {6},
+   pages = {1463-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2002.05690.x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12094866}
+}
+
+@article{RN10242,
+   author = {Parisi, G. C. and Zilli, M. and Miani, M. P. and Carrara, M. and Bottona, E. and Verdianelli, G. and Battaglia, G. and Desideri, S. and Faedo, A. and Marzolino, C. and Tonon, A. and Ermani, M. and Leandro, G.},
+   title = {High-fiber diet supplementation in patients with irritable bowel syndrome (IBS): a multicenter, randomized, open trial comparison between wheat bran diet and partially hydrolyzed guar gum (PHGG)},
+   journal = {Dig Dis Sci},
+   volume = {47},
+   number = {8},
+   pages = {1697-704},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184518}
+}
+
+@article{RN10274,
+   author = {Parker, T. J. and Woolner, J. T. and Prevost, A. T. and Tuffnell, Q. and Shorthouse, M. and Hunter, J. O.},
+   title = {Irritable bowel syndrome: is the search for lactose intolerance justified?},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {3},
+   pages = {219-25},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11293439}
+}
+
+@article{RN10276,
+   author = {Pfaffenbach, B. and Lux, G.},
+   title = {[Nutritional therapy in gastrointestinal diseases. Diets--necessary or superfluous?]},
+   journal = {MMW Fortschr Med},
+   volume = {143},
+   number = {10},
+   pages = {22-5},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11268734}
+}
+
+@article{RN10271,
+   author = {Reshetnikov, O. V. and Kurilovich, S. A. and Denisova, D. V. and Zav'ialova, L. G. and Svetlova, I. O. and Tereshonok, I. N. and Krivenchuk, N. A. and Eremeeva, L. I.},
+   title = {[Prevalence and risk factors of the development of irritable bowel syndrome in adolescents: a population study]},
+   journal = {Ter Arkh},
+   volume = {73},
+   number = {2},
+   pages = {24-9},
+   ISSN = {0040-3660 (Print)
+0040-3660},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11338849}
+}
+
+@article{RN10244,
+   author = {Rosemore, J. G. and Lacy, B. E.},
+   title = {Irritable bowel syndrome: basis of clinical management strategies},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S37-44},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184138}
+}
+
+@article{RN10247,
+   author = {Rubio, M. A.},
+   title = {[Implications of fiber in different pathologies]},
+   journal = {Nutr Hosp},
+   volume = {17 Suppl 2},
+   pages = {17-29},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12141181}
+}
+
+@article{RN10252,
+   author = {Sanders, D.},
+   title = {Irritable bowel syndrome and coeliac disease},
+   journal = {Lancet},
+   volume = {359},
+   number = {9315},
+   pages = {1436-7},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(02)08378-2},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11978369}
+}
+
+@article{RN10273,
+   author = {Scheppach, W. and Luehrs, H. and Menzel, T.},
+   title = {Beneficial health effects of low-digestible carbohydrate consumption},
+   journal = {Br J Nutr},
+   volume = {85 Suppl 1},
+   pages = {S23-30},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11321025}
+}
+
+@article{RN10246,
+   author = {Sen, S. and Dear, K. L. and King, T. S. and Elia, M. and Hunter, J. O.},
+   title = {Evaluation of hydrogen excretion after lactulose administration as a screening test for causes of irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {14},
+   number = {7},
+   pages = {753-6},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12169984}
+}
+
+@article{RN10268,
+   author = {Shah, S. S. and Bhatia, S. J. and Mistry, F. P.},
+   title = {Epidemiology of dyspepsia in the general population in Mumbai},
+   journal = {Indian J Gastroenterol},
+   volume = {20},
+   number = {3},
+   pages = {103-6},
+   ISSN = {0254-8860 (Print)
+0254-8860},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11400800}
+}
+
+@article{RN10277,
+   author = {Shen, B. and Soffer, E.},
+   title = {The challenge of irritable bowel syndrome: creating an alliance between patient and physician},
+   journal = {Cleve Clin J Med},
+   volume = {68},
+   number = {3},
+   pages = {224-5, 229-33, 236-7},
+   ISSN = {0891-1150 (Print)
+0891-1150},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11263850}
+}
+
+@article{RN10278,
+   author = {Simren, M. and Mansson, A. and Langkilde, A. M. and Svedlund, J. and Abrahamsson, H. and Bengtsson, U. and Bjornsson, E. S.},
+   title = {Food-related gastrointestinal symptoms in the irritable bowel syndrome},
+   journal = {Digestion},
+   volume = {63},
+   number = {2},
+   pages = {108-15},
+   ISSN = {0012-2823 (Print)
+0012-2823},
+   DOI = {10.1159/000051878},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11244249}
+}
+
+@article{RN10250,
+   author = {Steens, J. and Van Der Schaar, P. J. and Penning, C. and Brussee, J. and Masclee, A. A.},
+   title = {Compliance, tone and sensitivity of the rectum in different subtypes of irritable bowel syndrome},
+   journal = {Neurogastroenterol Motil},
+   volume = {14},
+   number = {3},
+   pages = {241-7},
+   ISSN = {1350-1925 (Print)
+1350-1925},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12061908}
+}
+
+@article{RN10260,
+   author = {Stiefelhagen, P.},
+   title = {[Diets in irritable bowel syndrome--what do they really achieve? Please no culinary sadism!]},
+   journal = {MMW Fortschr Med},
+   volume = {143},
+   number = {46},
+   pages = {18},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11759593}
+}
+
+@article{RN10235,
+   author = {Talley, N. J. and Spiller, R.},
+   title = {Irritable bowel syndrome: a little understood organic bowel disease?},
+   journal = {Lancet},
+   volume = {360},
+   number = {9332},
+   pages = {555-64},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(02)09712-x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12241674}
+}
+
+@article{RN10245,
+   author = {Thompson, W. G.},
+   title = {The treatment of irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {16},
+   number = {8},
+   pages = {1395-406},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12182740}
+}
+
+@article{RN10266,
+   author = {Thompson, W. G. and Hungin, A. P. and Neri, M. and Holtmann, G. and Sofos, S. and Delvaux, M. and Caballero-Plasencia, A.},
+   title = {The management of irritable bowel syndrome: a European, primary and secondary care collaboration},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {8},
+   pages = {933-9},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11507358}
+}
+
+@article{RN10261,
+   author = {Villanueva, A. and Dominguez-Munoz, J. E. and Mearin, F.},
+   title = {Update in the therapeutic management of irritable bowel syndrome},
+   journal = {Dig Dis},
+   volume = {19},
+   number = {3},
+   pages = {244-50},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000050687},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11752844}
+}
+
+@article{RN10262,
+   author = {Wahnschaffe, U. and Ullrich, R. and Riecken, E. O. and Schulzke, J. D.},
+   title = {Celiac disease-like abnormalities in a subgroup of patients with irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {121},
+   number = {6},
+   pages = {1329-38},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11729112}
+}
+
+@article{RN10279,
+   author = {Watson, M. E. and Lacey, L. and Kong, S. and Northcutt, A. R. and McSorley, D. and Hahn, B. and Mangel, A. W.},
+   title = {Alosetron improves quality of life in women with diarrhea-predominant irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {96},
+   number = {2},
+   pages = {455-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2001.03525.x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11232690}
+}
+
+@article{RN10275,
+   author = {Zar, S. and Kumar, D. and Benson, M. J.},
+   title = {Food hypersensitivity and irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {15},
+   number = {4},
+   pages = {439-49},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11284772}
+}
+
+@article{RN10233,
+   author = {Zar, S. and Kumar, D. and Kumar, D.},
+   title = {Role of food hypersensitivity in irritable bowel syndrome},
+   journal = {Minerva Med},
+   volume = {93},
+   number = {5},
+   pages = {403-12},
+   ISSN = {0026-4806 (Print)
+0026-4806},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12410172}
+}
+

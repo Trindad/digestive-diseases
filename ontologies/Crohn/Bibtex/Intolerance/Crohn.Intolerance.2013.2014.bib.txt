@@ -1,0 +1,251 @@
+﻿@article{RN7892,
+   author = {Barrett, J. S. and Kalubovila, U. and Irving, P. M. and Gibson, P. R.},
+   title = {Semiquantitative assessment of breath hydrogen testing},
+   journal = {J Gastroenterol Hepatol},
+   volume = {28},
+   number = {9},
+   pages = {1450-6},
+   ISSN = {0815-9319},
+   DOI = {10.1111/jgh.12199},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23517175}
+}
+
+@article{RN7894,
+   author = {Bortlik, M. and Duricova, D. and Malickova, K. and Machkova, N. and Bouzkova, E. and Hrdlicka, L. and Komarek, A. and Lukas, M.},
+   title = {Infliximab trough levels may predict sustained response to infliximab in patients with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {9},
+   pages = {736-43},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.10.019},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23200919}
+}
+
+@article{RN7887,
+   author = {Brandse, J. F. and Peters, C. P. and Gecse, K. B. and Eshuis, E. J. and Jansen, J. M. and Tuynman, H. A. and Lowenberg, M. and Ponsioen, C. Y. and van den Brink, G. R. and D'Haens, G. R.},
+   title = {Effects of infliximab retreatment after consecutive discontinuation of infliximab and adalimumab in refractory Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {2},
+   pages = {251-8},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000438248.14218.1d},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24378599}
+}
+
+@article{RN7891,
+   author = {Cosnes, J. and Bourrier, A. and Laharie, D. and Nahon, S. and Bouhnik, Y. and Carbonnel, F. and Allez, M. and Dupas, J. L. and Reimund, J. M. and Savoye, G. and Jouet, P. and Moreau, J. and Mary, J. Y. and Colombel, J. F.},
+   title = {Early administration of azathioprine vs conventional management of Crohn's Disease: a randomized controlled trial},
+   journal = {Gastroenterology},
+   volume = {145},
+   number = {4},
+   pages = {758-65.e2; quiz e14-5},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2013.04.048},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23644079}
+}
+
+@article{RN7888,
+   author = {Faiman, A. and Mutalib, M. and Moylan, A. and Morgan, N. and Crespi, D. and Furman, M. and Kader, A.},
+   title = {Standard versus rapid food reintroduction after exclusive enteral nutritional therapy in paediatric Crohn's disease},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {26},
+   number = {3},
+   pages = {276-81},
+   ISSN = {0954-691x},
+   DOI = {10.1097/meg.0000000000000027},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24362543}
+}
+
+@article{RN7879,
+   author = {Frehn, L. and Jansen, A. and Bennek, E. and Mandic, A. D. and Temizel, I. and Tischendorf, S. and Verdier, J. and Tacke, F. and Streetz, K. and Trautwein, C. and Sellge, G.},
+   title = {Distinct patterns of IgG and IgA against food and microbial antigens in serum and feces of patients with inflammatory bowel diseases},
+   journal = {PLoS One},
+   volume = {9},
+   number = {9},
+   pages = {e106750},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0106750},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25215528}
+}
+
+@article{RN7878,
+   author = {Gagniere, C. and Beaugerie, L. and Pariente, B. and Seksik, P. and Amiot, A. and Abitbol, V. and Allez, M. and Cosnes, J. and Sokol, H.},
+   title = {Benefit of infliximab reintroduction after successive failure of infliximab and adalimumab in Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {9},
+   number = {4},
+   pages = {349-55},
+   ISSN = {1873-9946},
+   DOI = {10.1093/ecco-jcc/jju024},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25547977}
+}
+
+@article{RN7880,
+   author = {Gordon, M. and Taylor, K. and Akobeng, A. K. and Thomas, A. G.},
+   title = {Azathioprine and 6-mercaptopurine for maintenance of surgically-induced remission in Crohn's disease},
+   journal = {Cochrane Database Syst Rev},
+   number = {8},
+   pages = {Cd010233},
+   ISSN = {1361-6137},
+   DOI = {10.1002/14651858.CD010233.pub2},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25081347}
+}
+
+@article{RN7886,
+   author = {Grover, Z. and Biron, R. and Carman, N. and Lewindon, P.},
+   title = {Predictors of response to Infliximab in children with luminal Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {739-46},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.12.017},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24445015}
+}
+
+@article{RN7895,
+   author = {Hoentjen, F. and Seinen, M. L. and Hanauer, S. B. and de Boer, N. K. and Rubin, D. T. and Bouma, G. and Harrell, L. E. and van Bodegraven, A. A.},
+   title = {Safety and effectiveness of long-term allopurinol-thiopurine maintenance treatment in inflammatory bowel disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {19},
+   number = {2},
+   pages = {363-9},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.23021},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {22605661}
+}
+
+@article{RN7885,
+   author = {Hwang, C. and Ross, V. and Mahadevan, U.},
+   title = {Popular exclusionary diets for inflammatory bowel disease: the search for a dietary culprit},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {732-41},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000438427.48726.b0},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24562173}
+}
+
+@article{RN7889,
+   author = {Kennedy, N. A. and Rhatigan, E. and Arnott, I. D. and Noble, C. L. and Shand, A. G. and Satsangi, J. and Lees, C. W.},
+   title = {A trial of mercaptopurine is a safe strategy in patients with inflammatory bowel disease intolerant to azathioprine: an observational study, systematic review and meta-analysis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {38},
+   number = {10},
+   pages = {1255-66},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12511},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24117596}
+}
+
+@article{RN7882,
+   author = {Poole, R. M.},
+   title = {Vedolizumab: first global approval},
+   journal = {Drugs},
+   volume = {74},
+   number = {11},
+   pages = {1293-303},
+   ISSN = {0012-6667},
+   DOI = {10.1007/s40265-014-0253-1},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24985716}
+}
+
+@article{RN7883,
+   author = {Sands, B. E. and Feagan, B. G. and Rutgeerts, P. and Colombel, J. F. and Sandborn, W. J. and Sy, R. and D'Haens, G. and Ben-Horin, S. and Xu, J. and Rosario, M. and Fox, I. and Parikh, A. and Milch, C. and Hanauer, S.},
+   title = {Effects of vedolizumab induction therapy for patients with Crohn's disease in whom tumor necrosis factor antagonist treatment failed},
+   journal = {Gastroenterology},
+   volume = {147},
+   number = {3},
+   pages = {618-627.e3},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.05.008},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24859203}
+}
+
+@article{RN7884,
+   author = {Scribano, M. L. and Cantoro, L. and Marrollo, M. and Cosintino, R. and Kohn, A.},
+   title = {Mucosal healing with thalidomide in refractory Crohn's disease patients intolerant of anti-TNF-alpha drugs: report of 3 cases and literature review},
+   journal = {J Clin Gastroenterol},
+   volume = {48},
+   number = {6},
+   pages = {530-3},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000122},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24667589}
+}
+
+@article{RN7893,
+   author = {Seinen, M. L. and Ponsioen, C. Y. and de Boer, N. K. and Oldenburg, B. and Bouma, G. and Mulder, C. J. and van Bodegraven, A. A.},
+   title = {Sustained clinical benefit and tolerability of methotrexate monotherapy after thiopurine therapy in patients with Crohn's disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {11},
+   number = {6},
+   pages = {667-72},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2012.12.026},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23333660}
+}
+
+@article{RN7890,
+   author = {Vernia, P. and Loizos, P. and Di Giuseppantonio, I. and Amore, B. and Chiappini, A. and Cannizzaro, S.},
+   title = {Dietary calcium intake in patients with inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {4},
+   pages = {312-7},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.09.008},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24090907}
+}
+
+@article{RN7881,
+   author = {Wiecek, S. and Wos, H. and Radziewicz Winnicki, I. and Komraus, M. and Grzybowska Chlebowczyk, U.},
+   title = {Disaccharidase activity in children with inflammatory bowel disease},
+   journal = {Turk J Gastroenterol},
+   volume = {25},
+   number = {2},
+   pages = {185-91},
+   ISSN = {1300-4948},
+   DOI = {10.5152/tjg.2014.3994},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25003680}
+}
+

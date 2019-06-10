@@ -1,0 +1,629 @@
+﻿@article{RN10093,
+   author = {Ahmed, J. and Reddy, B. S. and Molbak, L. and Leser, T. D. and MacFie, J.},
+   title = {Impact of probiotics on colonic microflora in patients with colitis: a prospective double blind randomised crossover study},
+   journal = {Int J Surg},
+   volume = {11},
+   number = {10},
+   pages = {1131-6},
+   ISSN = {1743-9159},
+   DOI = {10.1016/j.ijsu.2013.08.019},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24060951}
+}
+
+@article{RN10086,
+   author = {Bourlioux, P.},
+   title = {[Current view on gut microbiota]},
+   journal = {Ann Pharm Fr},
+   volume = {72},
+   number = {1},
+   pages = {15-21},
+   ISSN = {0003-4509 (Print)
+0003-4509},
+   DOI = {10.1016/j.pharma.2013.09.001},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24438664}
+}
+
+@article{RN10102,
+   author = {Bourreille, A. and Cadiot, G. and Le Dreau, G. and Laharie, D. and Beaugerie, L. and Dupas, J. L. and Marteau, P. and Rampal, P. and Moyse, D. and Saleh, A. and Le Guern, M. E. and Galmiche, J. P.},
+   title = {Saccharomyces boulardii does not prevent relapse of Crohn's disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {11},
+   number = {8},
+   pages = {982-7},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2013.02.021},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23466709}
+}
+
+@article{RN10104,
+   author = {Buzas, G. M.},
+   title = {[Probiotics in gastroenterology -- from a different angle]},
+   journal = {Orv Hetil},
+   volume = {154},
+   number = {8},
+   pages = {294-304},
+   ISSN = {0030-6002 (Print)
+0030-6002},
+   DOI = {10.1556/oh.2013.29547},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23419530}
+}
+
+@article{RN10072,
+   author = {Carriere, J. and Darfeuille-Michaud, A. and Nguyen, H. T.},
+   title = {Infectious etiopathogenesis of Crohn's disease},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {34},
+   pages = {12102-17},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i34.12102},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25232246}
+}
+
+@article{RN10071,
+   author = {De Greef, E. and Vandenplas, Y. and Hauser, B. and Devreker, T. and Veereman, G.},
+   title = {The use of probiotics in IBD and IBS},
+   journal = {Minerva Pediatr},
+   volume = {66},
+   number = {5},
+   pages = {491-500},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25243502}
+}
+
+@article{RN10097,
+   author = {De Greef, E. and Vandenplas, Y. and Hauser, B. and Devreker, T. and Veereman-Wauters, G.},
+   title = {Probiotics and IBD},
+   journal = {Acta Gastroenterol Belg},
+   volume = {76},
+   number = {1},
+   pages = {15-9},
+   ISSN = {1784-3227 (Print)
+1784-3227},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23650777}
+}
+
+@article{RN10081,
+   author = {D'Haens, G. R. and Sartor, R. B. and Silverberg, M. S. and Petersson, J. and Rutgeerts, P.},
+   title = {Future directions in inflammatory bowel disease management},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {726-34},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.02.025},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24742736}
+}
+
+@article{RN10095,
+   author = {Eeckhaut, V. and Ducatelle, R. and Sas, B. and Vermeire, S. and Van Immerseel, F.},
+   title = {Progress towards butyrate-producing pharmabiotics: Butyricicoccus pullicaecorum capsule and efficacy in TNBS models in comparison with therapeutics},
+   journal = {Gut},
+   volume = {63},
+   number = {2},
+   pages = {367},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2013-305293},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23766442}
+}
+
+@article{RN10106,
+   author = {Eeckhaut, V. and Machiels, K. and Perrier, C. and Romero, C. and Maes, S. and Flahou, B. and Steppe, M. and Haesebrouck, F. and Sas, B. and Ducatelle, R. and Vermeire, S. and Van Immerseel, F.},
+   title = {Butyricicoccus pullicaecorum in inflammatory bowel disease},
+   journal = {Gut},
+   volume = {62},
+   number = {12},
+   pages = {1745-52},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2012-303611},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23263527}
+}
+
+@article{RN10107,
+   author = {El Aidy, S. and Merrifield, C. A. and Derrien, M. and van Baarlen, P. and Hooiveld, G. and Levenez, F. and Dore, J. and Dekker, J. and Holmes, E. and Claus, S. P. and Reijngoud, D. J. and Kleerebezem, M.},
+   title = {The gut microbiota elicits a profound metabolic reorientation in the mouse jejunal mucosa during conventionalisation},
+   journal = {Gut},
+   volume = {62},
+   number = {9},
+   pages = {1306-14},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2011-301955},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {22722618}
+}
+
+@article{RN10069,
+   author = {Espinoza, R. and Quera, R. and Meyer, L. and Rivera, D.},
+   title = {[Fecal microbiota transplantation: first case report in Chile and review]},
+   journal = {Rev Chilena Infectol},
+   volume = {31},
+   number = {4},
+   pages = {477-82},
+   ISSN = {0716-1018 (Print)
+0716-1018},
+   DOI = {10.4067/s0716-10182014000400016},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25327204}
+}
+
+@article{RN10066,
+   author = {Fedorak, R. N. and Feagan, B. G. and Hotte, N. and Leddin, D. and Dieleman, L. A. and Petrunia, D. M. and Enns, R. and Bitton, A. and Chiba, N. and Pare, P. and Rostom, A. and Marshall, J. and Depew, W. and Bernstein, C. N. and Panaccione, R. and Aumais, G. and Steinhart, A. H. and Cockeram, A. and Bailey, R. J. and Gionchetti, P. and Wong, C. and Madsen, K.},
+   title = {The probiotic VSL#3 has anti-inflammatory effects and could reduce endoscopic recurrence after surgery for Crohn's disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {13},
+   number = {5},
+   pages = {928-35.e2},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2014.10.031},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25460016}
+}
+
+@article{RN10085,
+   author = {Gasparian, G. and Balaian, M. and Grigorian, A. and Akopian, A. and Manvelian, A. and Mirzabekian, S. and Trchunian, A. and Pepoian, A.},
+   title = {[Growth peculiarities of commensal Escherichia coli isolates from the gut microflora in Crohn's disease patients]},
+   journal = {Biofizika},
+   volume = {58},
+   number = {4},
+   pages = {690-6},
+   ISSN = {0006-3029 (Print)
+0006-3029},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24455889}
+}
+
+@article{RN10070,
+   author = {Gomollon, F.},
+   title = {[Developments in the treatment of inflammatory bowel disease: 2014 overview]},
+   journal = {Gastroenterol Hepatol},
+   volume = {37 Suppl 3},
+   pages = {14-21},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/s0210-5705(14)70079-2},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25294262}
+}
+
+@article{RN10094,
+   author = {Greer, R. L. and Morgun, A. and Shulzhenko, N.},
+   title = {Bridging immunity and lipid metabolism by gut microbiota},
+   journal = {J Allergy Clin Immunol},
+   volume = {132},
+   number = {2},
+   pages = {253-62; quiz 263},
+   ISSN = {0091-6749},
+   DOI = {10.1016/j.jaci.2013.06.025},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23905915}
+}
+
+@article{RN10077,
+   author = {Haag, L. M. and Siegmund, B.},
+   title = {Exploring & exploiting our 'other self' - does the microbiota hold the key to the future therapy in Crohn's?},
+   journal = {Best Pract Res Clin Gastroenterol},
+   volume = {28},
+   number = {3},
+   pages = {399-409},
+   ISSN = {1521-6918},
+   DOI = {10.1016/j.bpg.2014.04.001},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24913380}
+}
+
+@article{RN10076,
+   author = {Hevia, A. and Lopez, P. and Suarez, A. and Jacquot, C. and Urdaci, M. C. and Margolles, A. and Sanchez, B.},
+   title = {Association of levels of antibodies from patients with inflammatory bowel disease with extracellular proteins of food and probiotic bacteria},
+   journal = {Biomed Res Int},
+   volume = {2014},
+   pages = {351204},
+   DOI = {10.1155/2014/351204},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24991549}
+}
+
+@article{RN10082,
+   author = {Hold, G. L. and Smith, M. and Grange, C. and Watt, E. R. and El-Omar, E. M. and Mukhopadhya, I.},
+   title = {Role of the gut microbiota in inflammatory bowel disease pathogenesis: what have we learnt in the past 10 years?},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {5},
+   pages = {1192-210},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i5.1192},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24574795}
+}
+
+@article{RN10075,
+   author = {Kanai, T. and Matsuoka, K. and Naganuma, M. and Hayashi, A. and Hisamatsu, T.},
+   title = {Diet, microbiota, and inflammatory bowel disease: lessons from Japanese foods},
+   journal = {Korean J Intern Med},
+   volume = {29},
+   number = {4},
+   pages = {409-15},
+   ISSN = {1226-3303},
+   DOI = {10.3904/kjim.2014.29.4.409},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25045286}
+}
+
+@article{RN10074,
+   author = {Kerman, D. H. and Deshpande, A. R.},
+   title = {Gut microbiota and inflammatory bowel disease: the role of antibiotics in disease management},
+   journal = {Postgrad Med},
+   volume = {126},
+   number = {4},
+   pages = {7-19},
+   ISSN = {0032-5481},
+   DOI = {10.3810/pgm.2014.07.2779},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25141239}
+}
+
+@article{RN10083,
+   author = {Kostic, A. D. and Xavier, R. J. and Gevers, D.},
+   title = {The microbiome in inflammatory bowel disease: current status and the future ahead},
+   journal = {Gastroenterology},
+   volume = {146},
+   number = {6},
+   pages = {1489-99},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.02.009},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24560869}
+}
+
+@article{RN10090,
+   author = {Kruis, W.},
+   title = {Probiotics},
+   journal = {Dig Dis},
+   volume = {31},
+   number = {3-4},
+   pages = {385-7},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000354706},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24246993}
+}
+
+@article{RN10105,
+   author = {Kuo, S. M.},
+   title = {The interplay between fiber and the intestinal microbiome in the inflammatory response},
+   journal = {Adv Nutr},
+   volume = {4},
+   number = {1},
+   pages = {16-28},
+   ISSN = {2161-8313},
+   DOI = {10.3945/an.112.003046},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23319119}
+}
+
+@article{RN10088,
+   author = {Landy, J. and Hart, A.},
+   title = {The microbiome in inflammatory bowel disease and beyond},
+   journal = {Clin Med (Lond)},
+   volume = {13 Suppl 6},
+   pages = {s29-31},
+   ISSN = {1470-2118},
+   DOI = {10.7861/clinmedicine.13-6-s29},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24298178}
+}
+
+@article{RN10087,
+   author = {Lee, J. and Allen, R. and Ashley, S. and Becker, S. and Cummins, P. and Gbadamosi, A. and Gooding, O. and Huston, J. and Le Couteur, J. and O'Sullivan, D. and Wilson, S. and Lomer, M. C.},
+   title = {British Dietetic Association evidence-based guidelines for the dietary management of Crohn's disease in adults},
+   journal = {J Hum Nutr Diet},
+   volume = {27},
+   number = {3},
+   pages = {207-18},
+   ISSN = {0952-3871},
+   DOI = {10.1111/jhn.12176},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24313460}
+}
+
+@article{RN10080,
+   author = {Mardini, H. E. and Grigorian, A.},
+   title = {Probiotics in inflammatory bowel disease: is it fair to lump them into a one size that fits all?},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {6},
+   pages = {e14},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000040},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24788040}
+}
+
+@article{RN10096,
+   author = {Margagnoni, G. and Clemente, V. and Aratari, A. and Fasci Spurio, F. and De Gregorio, A. M. and Spagnolo, A. and Koch, M. and Papi, C.},
+   title = {[Prevention of post-operative recurrence in Crohn's disease: a critical review of randomized controlled trials and meta-analyses of different therapeutic strategies]},
+   journal = {Recenti Prog Med},
+   volume = {104},
+   number = {4},
+   pages = {168-76},
+   ISSN = {0034-1193 (Print)
+0034-1193},
+   DOI = {10.1701/1271.14029},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23748641}
+}
+
+@article{RN10103,
+   author = {Marteau, P.},
+   title = {Butyrate-producing bacteria as pharmabiotics for inflammatory bowel disease},
+   journal = {Gut},
+   volume = {62},
+   number = {12},
+   pages = {1673},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2012-304240},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23461897}
+}
+
+@article{RN10098,
+   author = {Moret, I. and Cerrillo, E. and Navarro-Puche, A. and Iborra, M. and Rausell, F. and Tortosa, L. and Beltran, B.},
+   title = {[Oxidative stress in Crohn's disease]},
+   journal = {Gastroenterol Hepatol},
+   volume = {37},
+   number = {1},
+   pages = {28-34},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/j.gastrohep.2013.01.008},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23643278}
+}
+
+@article{RN10092,
+   author = {Mullner, K. and Miheller, P. and Herszenyi, L. and Tulassay, Z.},
+   title = {Probiotics in the management of Crohn's disease and ulcerative colitis},
+   journal = {Curr Pharm Des},
+   volume = {20},
+   number = {28},
+   pages = {4556-60},
+   ISSN = {1381-6128},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24180407}
+}
+
+@article{RN10073,
+   author = {Orel, R. and Kamhi Trop, T.},
+   title = {Intestinal microbiota, probiotics and prebiotics in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {33},
+   pages = {11505-24},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i33.11505},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25206258}
+}
+
+@article{RN10084,
+   author = {Pueyo, B. and Mach, N.},
+   title = {[Intestinal dysbiosis in pediatric patients with Crohn's disease]},
+   journal = {Nutr Hosp},
+   volume = {28},
+   number = {6},
+   pages = {1820-8},
+   ISSN = {0212-1611},
+   DOI = {10.3305/nutr hosp.v28in06.6936},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24506357}
+}
+
+@article{RN10099,
+   author = {Quezada, S. M. and Cross, R. K.},
+   title = {To yeast or not to yeast: a probiotic question},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {11},
+   number = {8},
+   pages = {988-90},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2013.03.036},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23602819}
+}
+
+@article{RN10091,
+   author = {Renna, S. and Orlando, A. and Cottone, M.},
+   title = {Comparing medical treatments for Crohn's disease},
+   journal = {J Comp Eff Res},
+   volume = {2},
+   number = {2},
+   pages = {135-49},
+   ISSN = {2042-6305},
+   DOI = {10.2217/cer.13.2},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24236556}
+}
+
+@article{RN10068,
+   author = {Rozanska, D. and Regulska-Ilow, B. and Choroszy-Krol, I. and Ilow, R.},
+   title = {[The role of Escherichia coli strain Nissle 1917 in the gastro-intestinal diseases]},
+   journal = {Postepy Hig Med Dosw (Online)},
+   volume = {68},
+   pages = {1251-6},
+   ISSN = {0032-5449},
+   DOI = {10.5604/17322693.1127882},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25380207}
+}
+
+@article{RN10063,
+   author = {Salamati, S. and Martins, C. and Kulseng, B.},
+   title = {Baker's yeast (Saccharomyces cerevisiae) antigen in obese and normal weight subjects},
+   journal = {Clin Obes},
+   volume = {5},
+   number = {1},
+   pages = {42-7},
+   ISSN = {1758-8103},
+   DOI = {10.1111/cob.12079},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25611585}
+}
+
+@article{RN10065,
+   author = {Sales-Campos, H. and Basso, P. J. and Alves, V. B. and Fonseca, M. T. and Bonfa, G. and Nardini, V. and Cardoso, C. R.},
+   title = {Classical and recent advances in the treatment of inflammatory bowel diseases},
+   journal = {Braz J Med Biol Res},
+   volume = {48},
+   number = {2},
+   pages = {96-107},
+   ISSN = {0100-879x},
+   DOI = {10.1590/1414-431x20143774},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25466162}
+}
+
+@article{RN10101,
+   author = {Sanders, M. E. and Guarner, F. and Guerrant, R. and Holt, P. R. and Quigley, E. M. and Sartor, R. B. and Sherman, P. M. and Mayer, E. A.},
+   title = {An update on the use and investigation of probiotics in health and disease},
+   journal = {Gut},
+   volume = {62},
+   number = {5},
+   pages = {787-96},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2012-302504},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23474420}
+}
+
+@article{RN10079,
+   author = {Shen, J. and Mao, A. P.},
+   title = {Reply to Mardini and Grigorian},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {6},
+   pages = {e14-5},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000041},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24788041}
+}
+
+@article{RN10089,
+   author = {Shen, J. and Zuo, Z. X. and Mao, A. P.},
+   title = {Effect of probiotics on inducing remission and maintaining therapy in ulcerative colitis, Crohn's disease, and pouchitis: meta-analysis of randomized controlled trials},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {1},
+   pages = {21-35},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000437495.30052.be},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24280877}
+}
+
+@article{RN10064,
+   author = {Sokol, H.},
+   title = {Probiotics and antibiotics in IBD},
+   journal = {Dig Dis},
+   volume = {32 Suppl 1},
+   pages = {10-7},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000367820},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25531348}
+}
+
+@article{RN10078,
+   author = {Sokol, H. and Langella, P.},
+   title = {Beneficial effects of exclusive enteral nutrition in Crohn's disease are not mediated by Faecalibacterium prausnitzii},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {7},
+   pages = {E18},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000071},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24859301}
+}
+
+@article{RN10100,
+   author = {Sweeney, T. E. and Morton, J. M.},
+   title = {The human gut microbiome: a review of the effect of obesity and surgically induced weight loss},
+   journal = {JAMA Surg},
+   volume = {148},
+   number = {6},
+   pages = {563-9},
+   ISSN = {2168-6254},
+   DOI = {10.1001/jamasurg.2013.5},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23571517}
+}
+
+@article{RN10067,
+   author = {Wildt, S. and Rumessen, J. J. and Nordgaard-Lassen, I.},
+   title = {Incorrect citation and analysis in meta-analysis},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {12},
+   pages = {E25},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000249},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25397895}
+}
+

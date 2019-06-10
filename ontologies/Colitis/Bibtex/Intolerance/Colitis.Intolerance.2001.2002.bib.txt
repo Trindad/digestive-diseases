@@ -1,0 +1,242 @@
+﻿@article{RN3028,
+   author = {Abdulkarim, A. S. and Burgart, L. J. and See, J. and Murray, J. A.},
+   title = {Etiology of nonresponsive celiac disease: results of a systematic approach},
+   journal = {Am J Gastroenterol},
+   volume = {97},
+   number = {8},
+   pages = {2016-21},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2002.05917.x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12190170}
+}
+
+@article{RN3040,
+   author = {Actis, G. C. and Bresso, F. and Astegiano, M. and Demarchi, B. and Sapone, N. and Boscaglia, C. and Rizzetto, M.},
+   title = {Safety and efficacy of azathioprine in the maintenance of ciclosporin-induced remission of ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {15},
+   number = {9},
+   pages = {1307-11},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11552900}
+}
+
+@article{RN3029,
+   author = {Ardizzone, S. and Bianchi Porro, G.},
+   title = {Comparative tolerability of therapies for ulcerative colitis},
+   journal = {Drug Saf},
+   volume = {25},
+   number = {8},
+   pages = {561-82},
+   ISSN = {0114-5916 (Print)
+0114-5916},
+   DOI = {10.2165/00002018-200225080-00003},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12113642}
+}
+
+@article{RN3037,
+   author = {Daher, S. and Tahan, S. and Sole, D. and Naspitz, C. K. and Da Silva Patricio, F. R. and Neto, U. F. and De Morais, M. B.},
+   title = {Cow's milk protein intolerance and chronic constipation in children},
+   journal = {Pediatr Allergy Immunol},
+   volume = {12},
+   number = {6},
+   pages = {339-42},
+   ISSN = {0905-6157 (Print)
+0905-6157},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11846872}
+}
+
+@article{RN3039,
+   author = {Dear, K. L.},
+   title = {Food intolerance and allergy in gastrointestinal disorders},
+   journal = {Hosp Med},
+   volume = {62},
+   number = {12},
+   pages = {731-4},
+   ISSN = {1462-3935 (Print)
+1462-3935},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11810731}
+}
+
+@article{RN3038,
+   author = {Di Paolo, M. C. and Paoluzi, O. A. and Pica, R. and Iacopini, F. and Crispino, P. and Rivera, M. and Spera, G. and Paoluzi, P.},
+   title = {Sulphasalazine and 5-aminosalicylic acid in long-term treatment of ulcerative colitis: report on tolerance and side-effects},
+   journal = {Dig Liver Dis},
+   volume = {33},
+   number = {7},
+   pages = {563-9},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11816545}
+}
+
+@article{RN3035,
+   author = {Green, J. R. and Mansfield, J. C. and Gibson, J. A. and Kerr, G. D. and Thornton, P. C.},
+   title = {A double-blind comparison of balsalazide, 6.75 g daily, and sulfasalazine, 3 g daily, in patients with newly diagnosed or relapsed active ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {16},
+   number = {1},
+   pages = {61-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11856079}
+}
+
+@article{RN3033,
+   author = {Gross, M.},
+   title = {[Nutrition in chronic inflammatory bowl diseases. What your patient tolerates is permitted]},
+   journal = {MMW Fortschr Med},
+   volume = {144},
+   number = {3-4},
+   pages = {40-3},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11862791}
+}
+
+@article{RN3041,
+   author = {Ishaq, S. and Green, J. R.},
+   title = {Tolerability of aminosalicylates in inflammatory bowel disease},
+   journal = {BioDrugs},
+   volume = {15},
+   number = {5},
+   pages = {339-49},
+   ISSN = {1173-8804 (Print)
+1173-8804},
+   DOI = {10.2165/00063030-200115050-00005},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11437696}
+}
+
+@article{RN3026,
+   author = {Leon Barua, R.},
+   title = {[Flatulence]},
+   journal = {Rev Gastroenterol Peru},
+   volume = {22},
+   number = {3},
+   pages = {234-42},
+   ISSN = {1022-5129 (Print)
+1022-5129},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12378218}
+}
+
+@article{RN3034,
+   author = {Mansfield, J. C. and Giaffer, M. H. and Cann, P. A. and McKenna, D. and Thornton, P. C. and Holdsworth, C. D.},
+   title = {A double-blind comparison of balsalazide, 6.75 g, and sulfasalazine, 3 g, as sole therapy in the management of ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {16},
+   number = {1},
+   pages = {69-77},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11856080}
+}
+
+@article{RN3030,
+   author = {Martinez, F. and Nos, P. and Pastor, M. and Garrigues, V. and Ponce, J.},
+   title = {Adverse effects of azathioprine in the treatment of inflammatory bowel disease},
+   journal = {Rev Esp Enferm Dig},
+   volume = {93},
+   number = {12},
+   pages = {769-78},
+   ISSN = {1130-0108 (Print)
+1130-0108},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11995359}
+}
+
+@article{RN3032,
+   author = {Olafsdottir, E. and Aksnes, L. and Fluge, G. and Berstad, A.},
+   title = {Faecal calprotectin levels in infants with infantile colic, healthy infants, children with inflammatory bowel disease, children with recurrent abdominal pain and healthy children},
+   journal = {Acta Paediatr},
+   volume = {91},
+   number = {1},
+   pages = {45-50},
+   ISSN = {0803-5253 (Print)
+0803-5253},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11883817}
+}
+
+@article{RN3025,
+   author = {Quatresooz, P. and Bourguignon, R. and Arrese, J. E. and Pierard, G. E.},
+   title = {[Between dermatoses and enteropathies]},
+   journal = {Rev Med Liege},
+   volume = {57},
+   number = {8},
+   pages = {528-34},
+   ISSN = {0370-629X (Print)
+0370-629x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12405026}
+}
+
+@article{RN3031,
+   author = {Segal, I.},
+   title = {Physiological small bowel malabsorption of carbohydrates protects against large bowel diseases in Africans},
+   journal = {J Gastroenterol Hepatol},
+   volume = {17},
+   number = {3},
+   pages = {249-52},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11982693}
+}
+
+@article{RN3036,
+   author = {Skelly, M. M. and Logan, R. F. and Jenkins, D. and Mahida, Y. R. and Hawkey, C. J.},
+   title = {Toxicity of mycophenolate mofetil in patients with inflammatory bowel disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {8},
+   number = {2},
+   pages = {93-7},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200203000-00004},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11854606}
+}
+
+@article{RN3027,
+   author = {Topper, R. and Gartung, C. and Block, F.},
+   title = {[Neurologic complications in inflammatory bowel diseases]},
+   journal = {Nervenarzt},
+   volume = {73},
+   number = {6},
+   pages = {489-99; quiz 500-1},
+   ISSN = {0028-2804 (Print)
+0028-2804},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12242995}
+}
+

@@ -1,0 +1,488 @@
+﻿@article{RN12529,
+   title = {Does a low FODMAP diet help IBS?},
+   journal = {Drug Ther Bull},
+   volume = {53},
+   number = {8},
+   pages = {93-6},
+   ISSN = {0012-6543},
+   DOI = {10.1136/dtb.2015.8.0346},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26251411}
+}
+
+@article{RN12527,
+   author = {Arguelles-Arias, F. and Rodriguez Ledo, P. and Tenias, J. M. and Otero, M. and Casellas, F. and Blay Cortes, G. and Lucendo, A. and Dominguez-Jimenez, J. L. and Carballo, F.},
+   title = {The management of lactose intolerance among primary care physicians and its correlation with management by gastroenterologists: the SEPD-SEMG national survey},
+   journal = {Rev Esp Enferm Dig},
+   volume = {107},
+   number = {9},
+   pages = {554-8},
+   ISSN = {1130-0108 (Print)
+1130-0108},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26334462}
+}
+
+@article{RN12535,
+   author = {Berg, L. K. and Fagerli, E. and Myhre, A. O. and Florholmen, J. and Goll, R.},
+   title = {Self-reported dietary fructose intolerance in irritable bowel syndrome: Proposed diagnostic criteria},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {18},
+   pages = {5677-84},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i18.5677},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25987795}
+}
+
+@article{RN12523,
+   author = {Buzas, G. M.},
+   title = {[Lactose intolerance: past and present. Part 1]},
+   journal = {Orv Hetil},
+   volume = {156},
+   number = {38},
+   pages = {1532-9},
+   ISSN = {0030-6002 (Print)
+0030-6002},
+   DOI = {10.1556/650.2015.30261},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26550699}
+}
+
+@article{RN12513,
+   author = {Buzas, G. M.},
+   title = {[Fructose and fructose intolerance]},
+   journal = {Orv Hetil},
+   volume = {157},
+   number = {43},
+   pages = {1708-1716},
+   ISSN = {0030-6002 (Print)
+0030-6002},
+   DOI = {10.1556/650.2016.30567},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27774805}
+}
+
+@article{RN12541,
+   author = {Chapman, T. P. and Chen, L. Y. and Leaver, L.},
+   title = {Investigating young adults with chronic diarrhoea in primary care},
+   journal = {Bmj},
+   volume = {350},
+   pages = {h573},
+   ISSN = {0959-8138},
+   DOI = {10.1136/bmj.h573},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25716699}
+}
+
+@article{RN12516,
+   author = {Chelimsky, G. and Kovacic, K. and Simpson, P. and Nugent, M. and Basel, D. and Banda, J. and Chelimsky, T.},
+   title = {Benign Joint Hypermobility Minimally Impacts Autonomic Abnormalities in Pediatric Subjects with Chronic Functional Pain Disorders},
+   journal = {J Pediatr},
+   volume = {177},
+   pages = {49-52},
+   ISSN = {0022-3476},
+   DOI = {10.1016/j.jpeds.2016.06.091},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27496265}
+}
+
+@article{RN12517,
+   author = {Chumpitazi, B. P. and Weidler, E. M. and Lu, D. Y. and Tsai, C. M. and Shulman, R. J.},
+   title = {Self-Perceived Food Intolerances Are Common and Associated with Clinical Severity in Childhood Irritable Bowel Syndrome},
+   journal = {J Acad Nutr Diet},
+   volume = {116},
+   number = {9},
+   pages = {1458-1464},
+   ISSN = {2212-2672 (Print)
+2212-2672},
+   DOI = {10.1016/j.jand.2016.04.017},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27316779}
+}
+
+@article{RN12526,
+   author = {Deng, Y. and Misselwitz, B. and Dai, N. and Fox, M.},
+   title = {Lactose Intolerance in Adults: Biological Mechanism and Dietary Management},
+   journal = {Nutrients},
+   volume = {7},
+   number = {9},
+   pages = {8020-35},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu7095380},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26393648}
+}
+
+@article{RN12519,
+   author = {Deng, Y. and Zhu, Y. and Dai, N. and Fox, M.},
+   title = {Dietary Challenge Tests: Identifying Food Intolerance as a Cause of Symptoms in Irritable Bowel Syndrome Patients},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {14},
+   number = {9},
+   pages = {1364-5},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2016.04.011},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27085755}
+}
+
+@article{RN12530,
+   author = {El-Salhy, M.},
+   title = {Recent developments in the pathophysiology of irritable bowel syndrome},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {25},
+   pages = {7621-36},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i25.7621},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26167065}
+}
+
+@article{RN12536,
+   author = {El-Salhy, M. and Gundersen, D.},
+   title = {Diet in irritable bowel syndrome},
+   journal = {Nutr J},
+   volume = {14},
+   pages = {36},
+   ISSN = {1475-2891},
+   DOI = {10.1186/s12937-015-0022-3},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25880820}
+}
+
+@article{RN12538,
+   author = {Fadeeva, N. A. and Ruchkina, I. N. and Parfenov, A. I. and Shcherbakov, P. L.},
+   title = {[Small intestinal bacterial overgrowth as a cause of lactase deficiency]},
+   journal = {Ter Arkh},
+   volume = {87},
+   number = {2},
+   pages = {20-23},
+   ISSN = {0040-3660 (Print)
+0040-3660},
+   DOI = {10.17116/terarkh201587220-23},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25864343}
+}
+
+@article{RN12537,
+   author = {Flik, C. E. and van Rood, Y. R. and de Wit, N. J.},
+   title = {Systematic review: knowledge and educational needs of patients with irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {27},
+   number = {4},
+   pages = {367-71},
+   ISSN = {0954-691x},
+   DOI = {10.1097/meg.0000000000000252},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25874506}
+}
+
+@article{RN12512,
+   author = {Kich, D. M. and Vincenzi, A. and Majolo, F. and Volken de Souza, C. F. and Goettert, M. I.},
+   title = {Probiotic: effectiveness nutrition in cancer treatment and prevention},
+   journal = {Nutr Hosp},
+   volume = {33},
+   number = {6},
+   pages = {1430-1437},
+   ISSN = {0212-1611},
+   DOI = {10.20960/nh.806},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28000477}
+}
+
+@article{RN12522,
+   author = {Litleskare, S. and Wensaas, K. A. and Eide, G. E. and Hanevik, K. and Kahrs, G. E. and Langeland, N. and Rortveit, G.},
+   title = {Perceived food intolerance and irritable bowel syndrome in a population 3 years after a giardiasis-outbreak: a historical cohort study},
+   journal = {BMC Gastroenterol},
+   volume = {15},
+   pages = {164},
+   ISSN = {1471-230x},
+   DOI = {10.1186/s12876-015-0393-0},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26585714}
+}
+
+@article{RN12532,
+   author = {Mansueto, P. and D'Alcamo, A. and Seidita, A. and Carroccio, A.},
+   title = {Food allergy in irritable bowel syndrome: The case of non-celiac wheat sensitivity},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {23},
+   pages = {7089-109},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i23.7089},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26109796}
+}
+
+@article{RN12542,
+   author = {Mansueto, P. and Seidita, A. and D'Alcamo, A. and Carroccio, A.},
+   title = {Role of FODMAPs in Patients With Irritable Bowel Syndrome},
+   journal = {Nutr Clin Pract},
+   volume = {30},
+   number = {5},
+   pages = {665-82},
+   ISSN = {0884-5336},
+   DOI = {10.1177/0884533615569886},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25694210}
+}
+
+@article{RN12539,
+   author = {Marchioni Beery, R. M. and Birk, J. W.},
+   title = {Wheat-related disorders reviewed: making a grain of sense},
+   journal = {Expert Rev Gastroenterol Hepatol},
+   volume = {9},
+   number = {6},
+   pages = {851-64},
+   ISSN = {1747-4124},
+   DOI = {10.1586/17474124.2015.1032252},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25837529}
+}
+
+@article{RN12521,
+   author = {McMillan, M. and Rotenberg, K. S. and Vora, K. and Sterman, A. B. and Thevathasan, L. and Ryan, M. F. and Mehra, M. and Sandulli, W.},
+   title = {Comorbidities, Concomitant Medications, and Diet as Factors Affecting Levothyroxine Therapy: Results of the CONTROL Surveillance Project},
+   journal = {Drugs R D},
+   volume = {16},
+   number = {1},
+   pages = {53-68},
+   ISSN = {1174-5886},
+   DOI = {10.1007/s40268-015-0116-6},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26689565}
+}
+
+@article{RN12514,
+   author = {Moctezuma-Velazquez, C. and Aguirre-Valadez, J.},
+   title = {[Gastrointestinal and hepatic diseases]},
+   journal = {Gac Med Mex},
+   volume = {152 Suppl 1},
+   pages = {74-83},
+   ISSN = {0016-3813 (Print)
+0016-3813},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27603892}
+}
+
+@article{RN12540,
+   author = {Molina-Infante, J. and Santolaria, S. and Sanders, D. S. and Fernandez-Banares, F.},
+   title = {Systematic review: noncoeliac gluten sensitivity},
+   journal = {Aliment Pharmacol Ther},
+   volume = {41},
+   number = {9},
+   pages = {807-20},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13155},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25753138}
+}
+
+@article{RN12534,
+   author = {Orekoya, O. and McLaughlin, J. and Leitao, E. and Johns, W. and Lal, S. and Paine, P.},
+   title = {Quantifying bile acid malabsorption helps predict response and tailor sequestrant therapy},
+   journal = {Clin Med (Lond)},
+   volume = {15},
+   number = {3},
+   pages = {252-7},
+   ISSN = {1470-2118 (Print)
+1470-2118},
+   DOI = {10.7861/clinmedicine.15-3-252},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26031975}
+}
+
+@article{RN12520,
+   author = {Pawlowska, K. and Umlawska, W. and Iwanczak, B.},
+   title = {Prevalence of Lactose Malabsorption and Lactose Intolerance in Pediatric Patients with Selected Gastrointestinal Diseases},
+   journal = {Adv Clin Exp Med},
+   volume = {24},
+   number = {5},
+   pages = {863-71},
+   ISSN = {1899-5276 (Print)
+1899-5276},
+   DOI = {10.17219/acem/26337},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26768639}
+}
+
+@article{RN12525,
+   author = {Philpott, H. and Nandurkar, S. and Lubel, J. and Gibson, P. R.},
+   title = {Food, fibre, bile acids and the pelvic floor: An integrated low risk low cost approach to managing irritable bowel syndrome},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {40},
+   pages = {11379-86},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i40.11379},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26525925}
+}
+
+@article{RN12511,
+   author = {Piscaglia, A. C. and Laterza, L. and Cesario, V. and Gerardi, V. and Landi, R. and Lopetuso, L. R. and Calo, G. and Fabbretti, G. and Brisigotti, M. and Stefanelli, M. L. and Gasbarrini, A.},
+   title = {Nodular lymphoid hyperplasia: A marker of low-grade inflammation in irritable bowel syndrome?},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {46},
+   pages = {10198-10209},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i46.10198},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28028368}
+}
+
+@article{RN12545,
+   author = {Slim, M. and Calandre, E. P. and Rico-Villademoros, F.},
+   title = {An insight into the gastrointestinal component of fibromyalgia: clinical manifestations and potential underlying mechanisms},
+   journal = {Rheumatol Int},
+   volume = {35},
+   number = {3},
+   pages = {433-44},
+   ISSN = {0172-8172},
+   DOI = {10.1007/s00296-014-3109-9},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25119830}
+}
+
+@article{RN12528,
+   author = {Stasi, E. and Marafini, I. and Caruso, R. and Soderino, F. and Angelucci, E. and Del Vecchio Blanco, G. and Paoluzi, O. A. and Calabrese, E. and Sedda, S. and Zorzi, F. and Pallone, F. and Monteleone, G.},
+   title = {Frequency and Cause of Persistent Symptoms in Celiac Disease Patients on a Long-term Gluten-free Diet},
+   journal = {J Clin Gastroenterol},
+   volume = {50},
+   number = {3},
+   pages = {239-43},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000392},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26280705}
+}
+
+@article{RN12533,
+   author = {Staudacher, H.},
+   title = {Probiotics for lactose intolerance and irritable bowel syndrome},
+   journal = {Br J Community Nurs},
+   volume = {Suppl Nutrition},
+   pages = {S12, s14},
+   ISSN = {1462-4753 (Print)
+1462-4753},
+   DOI = {10.12968/bjcn.2015.20.Sup6a.S12},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26087202}
+}
+
+@article{RN12515,
+   author = {Tuck, C. J. and Ross, L. A. and Gibson, P. R. and Barrett, J. S. and Muir, J. G.},
+   title = {Adding glucose to food and solutions to enhance fructose absorption is not effective in preventing fructose-induced functional gastrointestinal symptoms: randomised controlled trials in patients with fructose malabsorption},
+   journal = {J Hum Nutr Diet},
+   volume = {30},
+   number = {1},
+   pages = {73-82},
+   ISSN = {0952-3871},
+   DOI = {10.1111/jhn.12409},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27600184}
+}
+
+@article{RN12544,
+   author = {Turnbull, J. L. and Adams, H. N. and Gorard, D. A.},
+   title = {Review article: the diagnosis and management of food allergy and food intolerances},
+   journal = {Aliment Pharmacol Ther},
+   volume = {41},
+   number = {1},
+   pages = {3-25},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12984},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25316115}
+}
+
+@article{RN12543,
+   author = {Wang, Y. and Xiong, L. and Gong, X. and Li, W. and Zhang, X. and Chen, M.},
+   title = {Small intestinal bacterial overgrowth as an uncommon cause of false positive lactose hydrogen breath test among patients with diarrhea-predominant irritable bowel syndrome in Asia},
+   journal = {J Gastroenterol Hepatol},
+   volume = {30},
+   number = {6},
+   pages = {995-1000},
+   ISSN = {0815-9319},
+   DOI = {10.1111/jgh.12862},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25470082}
+}
+
+@article{RN12531,
+   author = {Yang, J. F. and Fox, M. and Chu, H. and Zheng, X. and Long, Y. Q. and Pohl, D. and Fried, M. and Dai, N.},
+   title = {Four-sample lactose hydrogen breath test for diagnosis of lactose malabsorption in irritable bowel syndrome patients with diarrhea},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {24},
+   pages = {7563-70},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i24.7563},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26140004}
+}
+
+@article{RN12524,
+   author = {Yoon, S. R. and Lee, J. H. and Lee, J. H. and Na, G. Y. and Lee, K. H. and Lee, Y. B. and Jung, G. H. and Kim, O. Y.},
+   title = {Low-FODMAP formula improves diarrhea and nutritional status in hospitalized patients receiving enteral nutrition: a randomized, multicenter, double-blind clinical trial},
+   journal = {Nutr J},
+   volume = {14},
+   pages = {116},
+   ISSN = {1475-2891},
+   DOI = {10.1186/s12937-015-0106-0},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26530312}
+}
+
+@article{RN12518,
+   author = {Yuce, O. and Kalayci, A. G. and Comba, A. and Eren, E. and Caltepe, G.},
+   title = {Lactose and Fructose Intolerance in Turkish Children with Chronic Abdominal Pain},
+   journal = {Indian Pediatr},
+   volume = {53},
+   number = {5},
+   pages = {394-7},
+   ISSN = {0019-6061},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27254047}
+}
+

@@ -1,0 +1,1165 @@
+﻿@article{RN5584,
+   title = {Drugs for inflammatory bowel disease},
+   journal = {Treat Guidel Med Lett},
+   volume = {7},
+   number = {85},
+   pages = {65-74; quiz 75-6},
+   ISSN = {1541-2784 (Print)
+1541-2784},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19696709}
+}
+
+@article{RN5600,
+   author = {Abd El-Atti, S. and Wasicek, K. and Mark, S. and Hegazi, R.},
+   title = {Use of probiotics in the management of chemotherapy-induced diarrhea: a case study},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {33},
+   number = {5},
+   pages = {569-70},
+   ISSN = {0148-6071 (Print)
+0148-6071},
+   DOI = {10.1177/0148607109332004},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19423769}
+}
+
+@article{RN5538,
+   author = {Bahrami, B. and Macfarlane, S. and Macfarlane, G. T.},
+   title = {Induction of cytokine formation by human intestinal bacteria in gut epithelial cell lines},
+   journal = {J Appl Microbiol},
+   volume = {110},
+   number = {1},
+   pages = {353-63},
+   ISSN = {1364-5072},
+   DOI = {10.1111/j.1365-2672.2010.04889.x},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21070518}
+}
+
+@article{RN5575,
+   author = {Baldassarre, M. E. and Laforgia, N. and Fanelli, M. and Laneve, A. and Grosso, R. and Lifschitz, C.},
+   title = {Lactobacillus GG improves recovery in infants with blood in the stools and presumptive allergic colitis compared with extensively hydrolyzed formula alone},
+   journal = {J Pediatr},
+   volume = {156},
+   number = {3},
+   pages = {397-401},
+   ISSN = {0022-3476},
+   DOI = {10.1016/j.jpeds.2009.09.012},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19880141}
+}
+
+@article{RN5554,
+   author = {Ballesteros Pomar, M. D. and Vidal Casariego, A. and Calleja Fernandez, A. and Lopez Gomez, J. J. and Urioste Fondo, A. and Cano Rodriguez, I.},
+   title = {[Impact of nutritional treatment in the evolution of inflammatory bowel disease]},
+   journal = {Nutr Hosp},
+   volume = {25},
+   number = {2},
+   pages = {181-92},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20449527}
+}
+
+@article{RN5541,
+   author = {Bernstein, C. N.},
+   title = {New insights into IBD epidemiology: Are there any lessons for treatment?},
+   journal = {Dig Dis},
+   volume = {28},
+   number = {3},
+   pages = {406-10},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000320394},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20926864}
+}
+
+@article{RN5611,
+   author = {Borchers, A. T. and Selmi, C. and Meyers, F. J. and Keen, C. L. and Gershwin, M. E.},
+   title = {Probiotics and immunity},
+   journal = {J Gastroenterol},
+   volume = {44},
+   number = {1},
+   pages = {26-46},
+   ISSN = {0944-1174 (Print)
+0944-1174},
+   DOI = {10.1007/s00535-008-2296-0},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19159071}
+}
+
+@article{RN5550,
+   author = {Buckman, S. A. and Heise, C. P.},
+   title = {Nutrition considerations surrounding restorative proctocolectomy},
+   journal = {Nutr Clin Pract},
+   volume = {25},
+   number = {3},
+   pages = {250-6},
+   ISSN = {0884-5336},
+   DOI = {10.1177/0884533610368708},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20581318}
+}
+
+@article{RN5615,
+   author = {Chande, N. and MacDonald, J. K. and McDonald, J. W.},
+   title = {Interventions for treating microscopic colitis: a Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group systematic review of randomized trials},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {1},
+   pages = {235-41; quiz 234, 242},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2008.16},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19098875}
+}
+
+@article{RN5572,
+   author = {Conen, A. and Zimmerer, S. and Trampuz, A. and Frei, R. and Battegay, M. and Elzi, L.},
+   title = {A pain in the neck: probiotics for ulcerative colitis},
+   journal = {Ann Intern Med},
+   volume = {151},
+   number = {12},
+   pages = {895-7},
+   ISSN = {0003-4819},
+   DOI = {10.7326/0003-4819-151-12-200912150-00020},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20008769}
+}
+
+@article{RN5563,
+   author = {Deibert, P. and Konig, D. and Becker, G. and Berg, A.},
+   title = {[Usefulness of probiotics in prevention and therapy]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {135},
+   number = {8},
+   pages = {345-9},
+   ISSN = {0012-0472},
+   DOI = {10.1055/s-0030-1249168},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20165999}
+}
+
+@article{RN5578,
+   author = {Diggs, N. G. and Surawicz, C. M.},
+   title = {Evolving concepts in Clostridium difficile colitis},
+   journal = {Curr Gastroenterol Rep},
+   volume = {11},
+   number = {5},
+   pages = {400-5},
+   ISSN = {1522-8037},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19765368}
+}
+
+@article{RN5547,
+   author = {D'Inca, R. and Barollo, M. and Scarpa, M. and Grillo, A. R. and Brun, P. and Vettorato, M. G. and Castagliuolo, I. and Sturniolo, G. C.},
+   title = {Rectal administration of Lactobacillus casei DG modifies flora composition and Toll-like receptor expression in colonic mucosa of patients with mild ulcerative colitis},
+   journal = {Dig Dis Sci},
+   volume = {56},
+   number = {4},
+   pages = {1178-87},
+   ISSN = {0163-2116},
+   DOI = {10.1007/s10620-010-1384-1},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {20737210}
+}
+
+@article{RN5565,
+   author = {Do, V. T. and Baird, B. G. and Kockler, D. R.},
+   title = {Probiotics for maintaining remission of ulcerative colitis in adults},
+   journal = {Ann Pharmacother},
+   volume = {44},
+   number = {3},
+   pages = {565-71},
+   ISSN = {1060-0280},
+   DOI = {10.1345/aph.1M498},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20124461}
+}
+
+@article{RN5556,
+   author = {Fiasse, R. and Denis, M. A. and Dewit, O.},
+   title = {[Chronic inflammatory bowel disease: Crohn's disease and ulcerative colitis]},
+   journal = {J Pharm Belg},
+   number = {1},
+   pages = {1-9},
+   ISSN = {0047-2166 (Print)
+0047-2166},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20432590}
+}
+
+@article{RN5571,
+   author = {Floch, M. H.},
+   title = {Probiotic therapy for ulcerative colitis},
+   journal = {J Clin Gastroenterol},
+   volume = {44},
+   number = {4},
+   pages = {237-8},
+   ISSN = {0192-0790},
+   DOI = {10.1097/MCG.0b013e3181cf837f},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20087200}
+}
+
+@article{RN5540,
+   author = {Foligne, B. and Deutsch, S. M. and Breton, J. and Cousin, F. J. and Dewulf, J. and Samson, M. and Pot, B. and Jan, G.},
+   title = {Promising immunomodulatory effects of selected strains of dairy propionibacteria as evidenced in vitro and in vivo},
+   journal = {Appl Environ Microbiol},
+   volume = {76},
+   number = {24},
+   pages = {8259-64},
+   ISSN = {0099-2240},
+   DOI = {10.1128/aem.01976-10},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20971874}
+}
+
+@article{RN5553,
+   author = {Foligne, B. and Dewulf, J. and Breton, J. and Claisse, O. and Lonvaud-Funel, A. and Pot, B.},
+   title = {Probiotic properties of non-conventional lactic acid bacteria: immunomodulation by Oenococcus oeni},
+   journal = {Int J Food Microbiol},
+   volume = {140},
+   number = {2-3},
+   pages = {136-45},
+   ISSN = {0168-1605},
+   DOI = {10.1016/j.ijfoodmicro.2010.04.007},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20452078}
+}
+
+@article{RN5555,
+   author = {Foligne, B. and Dewulf, J. and Vandekerckove, P. and Pignede, G. and Pot, B.},
+   title = {Probiotic yeasts: anti-inflammatory potential of various non-pathogenic strains in experimental colitis in mice},
+   journal = {World J Gastroenterol},
+   volume = {16},
+   number = {17},
+   pages = {2134-45},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v16.i17.2134},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20440854}
+}
+
+@article{RN5605,
+   author = {Fujimori, S. and Gudis, K. and Mitsui, K. and Seo, T. and Yonezawa, M. and Tanaka, S. and Tatsuguchi, A. and Sakamoto, C.},
+   title = {A randomized controlled trial on the efficacy of synbiotic versus probiotic or prebiotic treatment to improve the quality of life in patients with ulcerative colitis},
+   journal = {Nutrition},
+   volume = {25},
+   number = {5},
+   pages = {520-5},
+   ISSN = {0899-9007},
+   DOI = {10.1016/j.nut.2008.11.017},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19201576}
+}
+
+@article{RN5559,
+   author = {Guandalini, S.},
+   title = {Update on the role of probiotics in the therapy of pediatric inflammatory bowel disease},
+   journal = {Expert Rev Clin Immunol},
+   volume = {6},
+   number = {1},
+   pages = {47-54},
+   ISSN = {1744-666X (Print)
+1744-666x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20383890}
+}
+
+@article{RN5590,
+   author = {Gupta, V. and Garg, R.},
+   title = {Probiotics},
+   journal = {Indian J Med Microbiol},
+   volume = {27},
+   number = {3},
+   pages = {202-9},
+   ISSN = {0255-0857},
+   DOI = {10.4103/0255-0857.53201},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19584499}
+}
+
+@article{RN5569,
+   author = {Guslandi, M.},
+   title = {Saccharomyces boulardii plus rifaximin in mesalamine-intolerant ulcerative colitis},
+   journal = {J Clin Gastroenterol},
+   volume = {44},
+   number = {5},
+   pages = {385},
+   ISSN = {0192-0790},
+   DOI = {10.1097/MCG.0b013e3181cb4233},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20104184}
+}
+
+@article{RN5568,
+   author = {Haller, D. and Antoine, J. M. and Bengmark, S. and Enck, P. and Rijkers, G. T. and Lenoir-Wijnkoop, I.},
+   title = {Guidance for substantiating the evidence for beneficial effects of probiotics: probiotics in chronic inflammatory bowel disease and the functional disorder irritable bowel syndrome},
+   journal = {J Nutr},
+   volume = {140},
+   number = {3},
+   pages = {690s-7s},
+   ISSN = {0022-3166},
+   DOI = {10.3945/jn.109.113746},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20107148}
+}
+
+@article{RN5545,
+   author = {Hedin, C. R. and Mullard, M. and Sharratt, E. and Jansen, C. and Sanderson, J. D. and Shirlaw, P. and Howe, L. C. and Djemal, S. and Stagg, A. J. and Lindsay, J. O. and Whelan, K.},
+   title = {Probiotic and prebiotic use in patients with inflammatory bowel disease: a case-control study},
+   journal = {Inflamm Bowel Dis},
+   volume = {16},
+   number = {12},
+   pages = {2099-108},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21286},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20848469}
+}
+
+@article{RN5546,
+   author = {Hegazy, S. K. and El-Bedewy, M. M.},
+   title = {Effect of probiotics on pro-inflammatory cytokines and NF-kappaB activation in ulcerative colitis},
+   journal = {World J Gastroenterol},
+   volume = {16},
+   number = {33},
+   pages = {4145-51},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v16.i33.4145},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20806430}
+}
+
+@article{RN5574,
+   author = {Hering, N. A. and Schulzke, J. D.},
+   title = {Therapeutic options to modulate barrier defects in inflammatory bowel disease},
+   journal = {Dig Dis},
+   volume = {27},
+   number = {4},
+   pages = {450-4},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000233283},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19897959}
+}
+
+@article{RN5606,
+   author = {Hoermannsperger, G. and Clavel, T. and Hoffmann, M. and Reiff, C. and Kelly, D. and Loh, G. and Blaut, M. and Holzlwimmer, G. and Laschinger, M. and Haller, D.},
+   title = {Post-translational inhibition of IP-10 secretion in IEC by probiotic bacteria: impact on chronic inflammation},
+   journal = {PLoS One},
+   volume = {4},
+   number = {2},
+   pages = {e4365},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0004365},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19197385}
+}
+
+@article{RN5603,
+   author = {Hookman, P. and Barkin, J. S.},
+   title = {Clostridium difficile associated infection, diarrhea and colitis},
+   journal = {World J Gastroenterol},
+   volume = {15},
+   number = {13},
+   pages = {1554-80},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.15.1554},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19340897}
+}
+
+@article{RN5616,
+   author = {Huynh, H. Q. and deBruyn, J. and Guan, L. and Diaz, H. and Li, M. and Girgis, S. and Turner, J. and Fedorak, R. and Madsen, K.},
+   title = {Probiotic preparation VSL#3 induces remission in children with mild to moderate acute ulcerative colitis: a pilot study},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {5},
+   pages = {760-8},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20816},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19067432}
+}
+
+@article{RN5552,
+   author = {Im, E. and Choi, Y. J. and Kim, C. H. and Fiocchi, C. and Pothoulakis, C. and Rhee, S. H.},
+   title = {The angiogenic effect of probiotic Bacillus polyfermenticus on human intestinal microvascular endothelial cells is mediated by IL-8},
+   journal = {Am J Physiol Gastrointest Liver Physiol},
+   volume = {297},
+   number = {5},
+   pages = {G999-g1008},
+   ISSN = {0193-1857},
+   DOI = {10.1152/ajpgi.00204.2009},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20501448}
+}
+
+@article{RN5585,
+   author = {Im, E. and Choi, Y. J. and Pothoulakis, C. and Rhee, S. H.},
+   title = {Bacillus polyfermenticus ameliorates colonic inflammation by promoting cytoprotective effects in colitic mice},
+   journal = {J Nutr},
+   volume = {139},
+   number = {10},
+   pages = {1848-54},
+   ISSN = {0022-3166},
+   DOI = {10.3945/jn.109.108613},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19675103}
+}
+
+@article{RN5604,
+   author = {Imhoff, A. and Karpa, K.},
+   title = {Is there a future for probiotics in preventing Clostridium difficile-associated disease and treatment of recurrent episodes?},
+   journal = {Nutr Clin Pract},
+   volume = {24},
+   number = {1},
+   pages = {15-32},
+   ISSN = {0884-5336 (Print)
+0884-5336},
+   DOI = {10.1177/0884533608329232},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19244145}
+}
+
+@article{RN5588,
+   author = {Joeres-Nguyen-Xuan, T. H. and Boehm, S. K. and Joeres, L. and Schulze, J. and Kruis, W.},
+   title = {Survival of the probiotic Escherichia coli Nissle 1917 (EcN) in the gastrointestinal tract given in combination with oral mesalamine to healthy volunteers},
+   journal = {Inflamm Bowel Dis},
+   volume = {16},
+   number = {2},
+   pages = {256-62},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21042},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19637333}
+}
+
+@article{RN5593,
+   author = {Kanauchi, O. and Mitsuyama, K. and Andoh, A.},
+   title = {The therapeutic impact of manipulating microbiota in inflammatory bowel disease},
+   journal = {Curr Pharm Des},
+   volume = {15},
+   number = {18},
+   pages = {2074-86},
+   ISSN = {1381-6128},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19519445}
+}
+
+@article{RN5573,
+   author = {Kusztrich, A. and Garten, L. and Huseman, D. and Buhrer, C.},
+   title = {Hemolytic uremic syndrome in a preterm infant},
+   journal = {Pediatr Nephrol},
+   volume = {25},
+   number = {5},
+   pages = {987-8},
+   ISSN = {0931-041x},
+   DOI = {10.1007/s00467-009-1395-3},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19997939}
+}
+
+@article{RN5608,
+   author = {Langhorst, J. and Junge, A. and Rueffer, A. and Wehkamp, J. and Foell, D. and Michalsen, A. and Musial, F. and Dobos, G. J.},
+   title = {Elevated human beta-defensin-2 levels indicate an activation of the innate immune system in patients with irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {2},
+   pages = {404-10},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2008.86},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19174795}
+}
+
+@article{RN5544,
+   author = {Leske, D. and Hoffmann, J. C.},
+   title = {[Inflammatory bowel disease: longterm management]},
+   journal = {MMW Fortschr Med},
+   volume = {152},
+   number = {28-30},
+   pages = {40-2},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20848988}
+}
+
+@article{RN5598,
+   author = {Lomax, A. R. and Calder, P. C.},
+   title = {Probiotics, immune function, infection and inflammation: a review of the evidence from studies conducted in humans},
+   journal = {Curr Pharm Des},
+   volume = {15},
+   number = {13},
+   pages = {1428-518},
+   ISSN = {1381-6128},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19442167}
+}
+
+@article{RN5617,
+   author = {Looijer-van Langen, M. A. and Dieleman, L. A.},
+   title = {Prebiotics in chronic intestinal inflammation},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {3},
+   pages = {454-62},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20737},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {18831524}
+}
+
+@article{RN5597,
+   author = {Macfarlane, G. T. and Blackett, K. L. and Nakayama, T. and Steed, H. and Macfarlane, S.},
+   title = {The gut microbiota in inflammatory bowel disease},
+   journal = {Curr Pharm Des},
+   volume = {15},
+   number = {13},
+   pages = {1528-36},
+   ISSN = {1381-6128},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19442170}
+}
+
+@article{RN5614,
+   author = {Macfarlane, S. and Steed, H. and Macfarlane, G. T.},
+   title = {Intestinal bacteria and inflammatory bowel disease},
+   journal = {Crit Rev Clin Lab Sci},
+   volume = {46},
+   number = {1},
+   pages = {25-54},
+   ISSN = {1040-8363},
+   DOI = {10.1080/10408360802485792},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19107650}
+}
+
+@article{RN5566,
+   author = {Marteau, P. and Sokol, H. and Dray, X. and Seksik, P.},
+   title = {Bacteriotherapy for inflammatory bowel disease: therapeutic tool and/or pharmacological vectors?},
+   journal = {Gastroenterol Clin Biol},
+   volume = {33 Suppl 3},
+   pages = {S228-34},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(09)73158-6},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20117346}
+}
+
+@article{RN5612,
+   author = {Masharova, A. A. and Eremina, EIu},
+   title = {[Prevention of intestinal dysbiosis in patients after anti-Helicobacter therapy]},
+   journal = {Eksp Klin Gastroenterol},
+   number = {8},
+   pages = {108-11},
+   ISSN = {1682-8658 (Print)
+1682-8658},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20469687}
+}
+
+@article{RN5557,
+   author = {Matthes, H. and Krummenerl, T. and Giensch, M. and Wolff, C. and Schulze, J.},
+   title = {Clinical trial: probiotic treatment of acute distal ulcerative colitis with rectally administered Escherichia coli Nissle 1917 (EcN)},
+   journal = {BMC Complement Altern Med},
+   volume = {10},
+   pages = {13},
+   ISSN = {1472-6882},
+   DOI = {10.1186/1472-6882-10-13},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20398311}
+}
+
+@article{RN5609,
+   author = {Miele, E. and Pascarella, F. and Giannetti, E. and Quaglietta, L. and Baldassano, R. N. and Staiano, A.},
+   title = {Effect of a probiotic preparation (VSL#3) on induction and maintenance of remission in children with ulcerative colitis},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {2},
+   pages = {437-43},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2008.118},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19174792}
+}
+
+@article{RN5580,
+   author = {Mileti, E. and Matteoli, G. and Iliev, I. D. and Rescigno, M.},
+   title = {Comparison of the immunomodulatory properties of three probiotic strains of Lactobacilli using complex culture systems: prediction for in vivo efficacy},
+   journal = {PLoS One},
+   volume = {4},
+   number = {9},
+   pages = {e7056},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0007056},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19756155}
+}
+
+@article{RN5595,
+   author = {Miyauchi, E. and Morita, H. and Tanabe, S.},
+   title = {Lactobacillus rhamnosus alleviates intestinal barrier dysfunction in part by increasing expression of zonula occludens-1 and myosin light-chain kinase in vivo},
+   journal = {J Dairy Sci},
+   volume = {92},
+   number = {6},
+   pages = {2400-8},
+   ISSN = {0022-0302},
+   DOI = {10.3168/jds.2008-1698},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19447972}
+}
+
+@article{RN5577,
+   author = {Morris, J. D. and Diamond, K. A. and Balart, L. A.},
+   title = {Do probiotics have a role in the management of inflammatory bowel disease?},
+   journal = {J La State Med Soc},
+   volume = {161},
+   number = {3},
+   pages = {155-9},
+   ISSN = {0024-6921 (Print)
+0024-6921},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19772038}
+}
+
+@article{RN5570,
+   author = {Nagasaki, A. and Takahashi, H. and Iinuma, M. and Uchiyama, T. and Watanabe, S. and Koide, T. and Tokoro, C. and Inamori, M. and Abe, Y. and Nakajima, A.},
+   title = {Ulcerative colitis with multidrug-resistant Pseudomonas aeruginosa infection successfully treated with bifidobacterium},
+   journal = {Digestion},
+   volume = {81},
+   number = {3},
+   pages = {204-5},
+   ISSN = {0012-2823},
+   DOI = {10.1159/000236042},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20090336}
+}
+
+@article{RN5542,
+   author = {Navaneethan, U. and Shen, B.},
+   title = {Diagnosis and management of pouchitis and ileoanal pouch dysfunction},
+   journal = {Curr Gastroenterol Rep},
+   volume = {12},
+   number = {6},
+   pages = {485-94},
+   ISSN = {1522-8037},
+   DOI = {10.1007/s11894-010-0143-y},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20890738}
+}
+
+@article{RN5536,
+   author = {Ng, S. C. and Chan, F. K. and Sung, J. J.},
+   title = {Review article: the role of non-biological drugs in refractory inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {33},
+   number = {4},
+   pages = {417-27},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2010.04541.x},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21138457}
+}
+
+@article{RN5564,
+   author = {Ng, S. C. and Plamondon, S. and Kamm, M. A. and Hart, A. L. and Al-Hassi, H. O. and Guenther, T. and Stagg, A. J. and Knight, S. C.},
+   title = {Immunosuppressive effects via human intestinal dendritic cells of probiotic bacteria and steroids in the treatment of acute ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {16},
+   number = {8},
+   pages = {1286-98},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21222},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20155842}
+}
+
+@article{RN5581,
+   author = {Nishitani, Y. and Tanoue, T. and Yamada, K. and Ishida, T. and Yoshida, M. and Azuma, T. and Mizuno, M.},
+   title = {Lactococcus lactis subsp. cremoris FC alleviates symptoms of colitis induced by dextran sulfate sodium in mice},
+   journal = {Int Immunopharmacol},
+   volume = {9},
+   number = {12},
+   pages = {1444-51},
+   ISSN = {1567-5769},
+   DOI = {10.1016/j.intimp.2009.08.018},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19733697}
+}
+
+@article{RN5601,
+   author = {Ohkusa, T. and Yoshida, T. and Sato, N. and Watanabe, S. and Tajiri, H. and Okayasu, I.},
+   title = {Commensal bacteria can enter colonic epithelial cells and induce proinflammatory cytokine secretion: a possible pathogenic mechanism of ulcerative colitis},
+   journal = {J Med Microbiol},
+   volume = {58},
+   number = {Pt 5},
+   pages = {535-45},
+   ISSN = {0022-2615 (Print)
+0022-2615},
+   DOI = {10.1099/jmm.0.005801-0},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19369513}
+}
+
+@article{RN5602,
+   author = {Packey, C. D. and Sartor, R. B.},
+   title = {Commensal bacteria, traditional and opportunistic pathogens, dysbiosis and bacterial killing in inflammatory bowel diseases},
+   journal = {Curr Opin Infect Dis},
+   volume = {22},
+   number = {3},
+   pages = {292-301},
+   ISSN = {0951-7375},
+   DOI = {10.1097/QCO.0b013e32832a8a5d},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19352175}
+}
+
+@article{RN5587,
+   author = {Pastorelli, L. and Pizarro, T. T. and Cominelli, F. and Vecchi, M.},
+   title = {Emerging drugs for the treatment of ulcerative colitis},
+   journal = {Expert Opin Emerg Drugs},
+   volume = {14},
+   number = {3},
+   pages = {505-21},
+   ISSN = {1472-8214},
+   DOI = {10.1517/14728210903146882},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19656075}
+}
+
+@article{RN5596,
+   author = {Prantera, C. and Scribano, M. L.},
+   title = {Antibiotics and probiotics in inflammatory bowel disease: why, when, and how},
+   journal = {Curr Opin Gastroenterol},
+   volume = {25},
+   number = {4},
+   pages = {329-33},
+   ISSN = {0267-1379},
+   DOI = {10.1097/MOG.0b013e32832b20bf},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19444096}
+}
+
+@article{RN5594,
+   author = {Preidis, G. A. and Versalovic, J.},
+   title = {Targeting the human microbiome with antibiotics, probiotics, and prebiotics: gastroenterology enters the metagenomics era},
+   journal = {Gastroenterology},
+   volume = {136},
+   number = {6},
+   pages = {2015-31},
+   ISSN = {0016-5085},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19462507}
+}
+
+@article{RN5560,
+   author = {Preising, J. and Philippe, D. and Gleinser, M. and Wei, H. and Blum, S. and Eikmanns, B. J. and Niess, J. H. and Riedel, C. U.},
+   title = {Selection of bifidobacteria based on adhesion and anti-inflammatory capacity in vitro for amelioration of murine colitis},
+   journal = {Appl Environ Microbiol},
+   volume = {76},
+   number = {9},
+   pages = {3048-51},
+   ISSN = {0099-2240},
+   DOI = {10.1128/aem.03127-09},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20228095}
+}
+
+@article{RN5579,
+   author = {Ramakrishna, B. S.},
+   title = {Probiotic-induced changes in the intestinal epithelium: implications in gastrointestinal disease},
+   journal = {Trop Gastroenterol},
+   volume = {30},
+   number = {2},
+   pages = {76-85},
+   ISSN = {0250-636X (Print)
+0250-636x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19760989}
+}
+
+@article{RN5576,
+   author = {Reiff, C. and Kelly, D.},
+   title = {Inflammatory bowel disease, gut bacteria and probiotic therapy},
+   journal = {Int J Med Microbiol},
+   volume = {300},
+   number = {1},
+   pages = {25-33},
+   ISSN = {1438-4221},
+   DOI = {10.1016/j.ijmm.2009.08.004},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19800289}
+}
+
+@article{RN5592,
+   author = {Resta-Lenert, S. C. and Barrett, K. E.},
+   title = {Modulation of intestinal barrier properties by probiotics: role in reversing colitis},
+   journal = {Ann N Y Acad Sci},
+   volume = {1165},
+   pages = {175-82},
+   ISSN = {0077-8923},
+   DOI = {10.1111/j.1749-6632.2009.04042.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19538304}
+}
+
+@article{RN5558,
+   author = {Sang, L. X. and Chang, B. and Zhang, W. L. and Wu, X. M. and Li, X. H. and Jiang, M.},
+   title = {Remission induction and maintenance effect of probiotics on ulcerative colitis: a meta-analysis},
+   journal = {World J Gastroenterol},
+   volume = {16},
+   number = {15},
+   pages = {1908-15},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v16.i15.1908},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20397271}
+}
+
+@article{RN5586,
+   author = {Sanges, M. and Valente, G. and Rea, M. and Della Gatta, R. and De Franchis, G. and Sollazzo, R. and D'Arienzo, A.},
+   title = {Probiotics in spondyloarthropathy associated with ulcerative colitis: a pilot study},
+   journal = {Eur Rev Med Pharmacol Sci},
+   volume = {13},
+   number = {3},
+   pages = {233-4},
+   ISSN = {1128-3602 (Print)
+1128-3602},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19673175}
+}
+
+@article{RN5613,
+   author = {Sans, M.},
+   title = {Probiotics for inflammatory bowel disease: a critical appraisal},
+   journal = {Dig Dis},
+   volume = {27 Suppl 1},
+   pages = {111-4},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000268130},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20203506}
+}
+
+@article{RN5535,
+   author = {Santana Porben, S.},
+   title = {[Influence of a combination of lactobacilli and bifidobacteria upon disease activity, stool pattern and nutritional status of ulcerative colitis patients]},
+   journal = {Nutr Hosp},
+   volume = {25},
+   number = {6},
+   pages = {971-83},
+   ISSN = {0212-1611},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21519769}
+}
+
+@article{RN5582,
+   author = {Sartor, R. B.},
+   title = {Microbial-host interactions in inflammatory bowel diseases and experimental colitis},
+   journal = {Nestle Nutr Workshop Ser Pediatr Program},
+   volume = {64},
+   pages = {121-32; discussion 132-7, 251-7},
+   ISSN = {1661-6677 (Print)
+1661-6677},
+   DOI = {10.1159/000235787},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19710519}
+}
+
+@article{RN5589,
+   author = {Sood, A. and Midha, V. and Makharia, G. K. and Ahuja, V. and Singal, D. and Goswami, P. and Tandon, R. K.},
+   title = {The probiotic preparation, VSL#3 induces remission in patients with mild-to-moderately active ulcerative colitis},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {7},
+   number = {11},
+   pages = {1202-9, 1209.e1},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2009.07.016},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19631292}
+}
+
+@article{RN5549,
+   author = {Spyropoulos, B. G. and Misiakos, E. P. and Fotiadis, C. and Stoidis, C. N.},
+   title = {Antioxidant properties of probiotics and their protective effects in the pathogenesis of radiation-induced enteritis and colitis},
+   journal = {Dig Dis Sci},
+   volume = {56},
+   number = {2},
+   pages = {285-94},
+   ISSN = {0163-2116},
+   DOI = {10.1007/s10620-010-1307-1},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {20632107}
+}
+
+@article{RN5543,
+   author = {Surawicz, C. M.},
+   title = {[The microbiota and infectious diarrhea]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {34 Suppl 1},
+   pages = {S29-36},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(10)70018-x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20889002}
+}
+
+@article{RN5591,
+   author = {Tae, C. H. and Jung, S. A. and Song, H. J. and Kim, S. E. and Choi, H. J. and Lee, M. and Hwang, Y. and Kim, H. and Lee, K.},
+   title = {The first case of antibiotic-associated colitis by Clostridium difficile PCR ribotype 027 in Korea},
+   journal = {J Korean Med Sci},
+   volume = {24},
+   number = {3},
+   pages = {520-4},
+   ISSN = {1011-8934},
+   DOI = {10.3346/jkms.2009.24.3.520},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19543521}
+}
+
+@article{RN5610,
+   author = {Takeda, Y. and Nakase, H. and Namba, K. and Inoue, S. and Ueno, S. and Uza, N. and Chiba, T.},
+   title = {Upregulation of T-bet and tight junction molecules by Bifidobactrium longum improves colonic inflammation of ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {11},
+   pages = {1617-8},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20861},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19161180}
+}
+
+@article{RN5537,
+   author = {Thomas, D. W. and Greer, F. R.},
+   title = {Probiotics and prebiotics in pediatrics},
+   journal = {Pediatrics},
+   volume = {126},
+   number = {6},
+   pages = {1217-31},
+   ISSN = {0031-4005},
+   DOI = {10.1542/peds.2010-2548},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21115585}
+}
+
+@article{RN5562,
+   author = {Tompkins, T. A. and Xu, X. and Ahmarani, J.},
+   title = {A comprehensive review of post-market clinical studies performed in adults with an Asian probiotic formulation},
+   journal = {Benef Microbes},
+   volume = {1},
+   number = {1},
+   pages = {93-106},
+   ISSN = {1876-2883},
+   DOI = {10.3920/bm2008.1005},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21840798}
+}
+
+@article{RN5583,
+   author = {Tursi, A.},
+   title = {Balsalazide in treating colonic diseases},
+   journal = {Expert Opin Drug Metab Toxicol},
+   volume = {5},
+   number = {12},
+   pages = {1555-63},
+   ISSN = {1742-5255},
+   DOI = {10.1517/17425250903228842},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19708827}
+}
+
+@article{RN5551,
+   author = {Tursi, A. and Brandimarte, G. and Papa, A. and Giglio, A. and Elisei, W. and Giorgetti, G. M. and Forti, G. and Morini, S. and Hassan, C. and Pistoia, M. A. and Modeo, M. E. and Rodino, S. and D'Amico, T. and Sebkova, L. and Sacca, N. and Di Giulio, E. and Luzza, F. and Imeneo, M. and Larussa, T. and Di Rosa, S. and Annese, V. and Danese, S. and Gasbarrini, A.},
+   title = {Treatment of relapsing mild-to-moderate ulcerative colitis with the probiotic VSL#3 as adjunctive to a standard pharmaceutical treatment: a double-blind, randomized, placebo-controlled study},
+   journal = {Am J Gastroenterol},
+   volume = {105},
+   number = {10},
+   pages = {2218-27},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2010.218},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20517305}
+}
+
+@article{RN5539,
+   author = {van Bodegraven, A. A. and van Everdingen, J. J. and Dijkstra, G. and de Jong, D. J. and Oldenburg, B. and Hommes, D. W.},
+   title = {[Guideline 'Diagnosis and treatment of inflammatory bowel disease in adults'. I. Diagnosis and treatment]},
+   journal = {Ned Tijdschr Geneeskd},
+   volume = {154},
+   pages = {A1899},
+   ISSN = {0028-2162},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21029496}
+}
+
+@article{RN5607,
+   author = {van Lierop, P. P. and Samsom, J. N. and Escher, J. C. and Nieuwenhuis, E. E.},
+   title = {Role of the innate immune system in the pathogenesis of inflammatory bowel disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {48},
+   number = {2},
+   pages = {142-51},
+   ISSN = {0277-2116},
+   DOI = {10.1097/MPG.0b013e3181821964},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19179875}
+}
+
+@article{RN5534,
+   author = {Vanderhoof, J. A. and Mitmesser, S. H.},
+   title = {Probiotics in the management of children with allergy and other disorders of intestinal inflammation},
+   journal = {Benef Microbes},
+   volume = {1},
+   number = {4},
+   pages = {351-6},
+   ISSN = {1876-2883},
+   DOI = {10.3920/bm2010.0034},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21831774}
+}
+
+@article{RN5548,
+   author = {Visich, K. L. and Yeo, T. P.},
+   title = {The prophylactic use of probiotics in the prevention of radiation therapy-induced diarrhea},
+   journal = {Clin J Oncol Nurs},
+   volume = {14},
+   number = {4},
+   pages = {467-73},
+   ISSN = {1092-1095},
+   DOI = {10.1188/10.Cjon.467-473},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20682502}
+}
+
+@article{RN5567,
+   author = {Wehkamp, J. and Stange, E. F. and Fellermann, K.},
+   title = {Defensin-immunology in inflammatory bowel disease},
+   journal = {Gastroenterol Clin Biol},
+   volume = {33 Suppl 3},
+   pages = {S137-44},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(09)73149-5},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20117337}
+}
+
+@article{RN5561,
+   author = {Williams, N. T.},
+   title = {Probiotics},
+   journal = {Am J Health Syst Pharm},
+   volume = {67},
+   number = {6},
+   pages = {449-58},
+   ISSN = {1079-2082},
+   DOI = {10.2146/ajhp090168},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20208051}
+}
+
+@article{RN5599,
+   author = {Zwolinska-Wcislo, M. and Brzozowski, T. and Budak, A. and Kwiecien, S. and Sliwowski, Z. and Drozdowicz, D. and Trojanowska, D. and Rudnicka-Sosin, L. and Mach, T. and Konturek, S. J. and Pawlik, W. W.},
+   title = {Effect of Candida colonization on human ulcerative colitis and the healing of inflammatory changes of the colon in the experimental model of colitis ulcerosa},
+   journal = {J Physiol Pharmacol},
+   volume = {60},
+   number = {1},
+   pages = {107-18},
+   ISSN = {0867-5910},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19439813}
+}
+

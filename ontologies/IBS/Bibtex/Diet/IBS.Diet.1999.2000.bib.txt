@@ -1,0 +1,293 @@
+﻿@article{RN10225,
+   title = {Living with irritable bowel syndrome},
+   journal = {Nursing},
+   volume = {29},
+   number = {9},
+   pages = {20},
+   ISSN = {0360-4039 (Print)
+0360-4039},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10540613}
+}
+
+@article{RN10232,
+   author = {Alderman, J.},
+   title = {Managing irritable bowel syndrome},
+   journal = {Adv Nurse Pract},
+   volume = {7},
+   number = {1},
+   pages = {40-1, 45-6, 78},
+   ISSN = {1096-6293 (Print)
+1096-6293},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10030169}
+}
+
+@article{RN10221,
+   author = {Babak, OIa},
+   title = {[The irritable bowel syndrome: the current state of the problem]},
+   journal = {Lik Sprava},
+   number = {3-4},
+   pages = {6-11},
+   ISSN = {1019-5297 (Print)
+1019-5297},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10921248}
+}
+
+@article{RN10222,
+   author = {Bischoff, S. C. and Mayer, J. H. and Manns, M. P.},
+   title = {Allergy and the gut},
+   journal = {Int Arch Allergy Immunol},
+   volume = {121},
+   number = {4},
+   pages = {270-83},
+   ISSN = {1018-2438 (Print)
+1018-2438},
+   DOI = {10.1159/000024340},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10828717}
+}
+
+@article{RN10217,
+   author = {Bouchoucha, M. and Faye, A. and Devroede, G. and Arsac, M.},
+   title = {Effects of oral pinaverium bromide on colonic response to food in irritable bowel syndrome patients},
+   journal = {Biomed Pharmacother},
+   volume = {54},
+   number = {7},
+   pages = {381-7},
+   ISSN = {0753-3322 (Print)
+0753-3322},
+   DOI = {10.1016/s0753-3322(01)80005-6},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10989977}
+}
+
+@article{RN10224,
+   author = {Camilleri, M.},
+   title = {Therapeutic approach to the patient with irritable bowel syndrome},
+   journal = {Am J Med},
+   volume = {107},
+   number = {5a},
+   pages = {27s-32s},
+   ISSN = {0002-9343 (Print)
+0002-9343},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10588170}
+}
+
+@article{RN10220,
+   author = {Cooke, C. and Carr, I. and Abrams, K. and Mayberry, J.},
+   title = {Arrowroot as a treatment for diarrhoea in irritable bowel syndrome patients: a pilot study},
+   journal = {Arq Gastroenterol},
+   volume = {37},
+   number = {1},
+   pages = {20-4},
+   ISSN = {0004-2803 (Print)
+0004-2803},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10962623}
+}
+
+@article{RN10226,
+   author = {Craine, B. L. and Silpa, M. and O'Toole, C. J.},
+   title = {Computerized auscultation applied to irritable bowel syndrome},
+   journal = {Dig Dis Sci},
+   volume = {44},
+   number = {9},
+   pages = {1887-92},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10505730}
+}
+
+@article{RN10219,
+   author = {Goldstein, R. and Braverman, D. and Stankiewicz, H.},
+   title = {Carbohydrate malabsorption and the effect of dietary restriction on symptoms of irritable bowel syndrome and functional bowel complaints},
+   journal = {Isr Med Assoc J},
+   volume = {2},
+   number = {8},
+   pages = {583-7},
+   ISSN = {1565-1088 (Print)},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10979349}
+}
+
+@article{RN10229,
+   author = {Gremse, D. A. and Nguyenduc, G. H. and Sacks, A. I. and DiPalma, J. A.},
+   title = {Irritable bowel syndrome and lactose maldigestion in recurrent abdominal pain in childhood},
+   journal = {South Med J},
+   volume = {92},
+   number = {8},
+   pages = {778-81},
+   ISSN = {0038-4348 (Print)
+0038-4348},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10456715}
+}
+
+@article{RN10230,
+   author = {Hunter, J. O. and Tuffnell, Q. and Lee, A. J.},
+   title = {Controlled trial of oligofructose in the management of irritable bowel syndrome},
+   journal = {J Nutr},
+   volume = {129},
+   number = {7 Suppl},
+   pages = {1451s-3s},
+   ISSN = {0022-3166 (Print)
+0022-3166},
+   DOI = {10.1093/jn/129.7.1451S},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10395619}
+}
+
+@article{RN10213,
+   author = {Ledochowski, M. and Widner, B. and Bair, H. and Probst, T. and Fuchs, D.},
+   title = {Fructose- and sorbitol-reduced diet improves mood and gastrointestinal disturbances in fructose malabsorbers},
+   journal = {Scand J Gastroenterol},
+   volume = {35},
+   number = {10},
+   pages = {1048-52},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11099057}
+}
+
+@article{RN10218,
+   author = {Luscombe, F. A.},
+   title = {Health-related quality of life and associated psychosocial factors in irritable bowel syndrome: a review},
+   journal = {Qual Life Res},
+   volume = {9},
+   number = {2},
+   pages = {161-76},
+   ISSN = {0962-9343 (Print)
+0962-9343},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10983480}
+}
+
+@article{RN10216,
+   author = {Neri, M. and Laterza, F. and Howell, S. and Di Gioacchino, M. and Festi, D. and Ballone, E. and Cuccurullo, F. and Talley, N. J.},
+   title = {Symptoms discriminate irritable bowel syndrome from organic gastrointestinal diseases and food allergy},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {12},
+   number = {9},
+   pages = {981-8},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11007133}
+}
+
+@article{RN10223,
+   author = {O'Sullivan, M. A. and Mahmud, N. and Kelleher, D. P. and Lovett, E. and O'Morain, C. A.},
+   title = {Patient knowledge and educational needs in irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {12},
+   number = {1},
+   pages = {39-43},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10656208}
+}
+
+@article{RN10227,
+   author = {Rastogi, A. and Malhotra, V. and Uppal, B. and Aggarwal, V. and Kalra, K. K. and Mittal, S. K.},
+   title = {Aetiology of chronic diarrhoea in tropical children},
+   journal = {Trop Gastroenterol},
+   volume = {20},
+   number = {1},
+   pages = {45-9},
+   ISSN = {0250-636X (Print)
+0250-636x},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10464450}
+}
+
+@article{RN10214,
+   author = {Shah, S. K. and Abraham, P. and Mistry, F. P.},
+   title = {Effect of cold pressor test and a high-chilli diet on rectosigmoid motility in irritable bowel syndrome},
+   journal = {Indian J Gastroenterol},
+   volume = {19},
+   number = {4},
+   pages = {161-4},
+   ISSN = {0254-8860 (Print)
+0254-8860},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11059180}
+}
+
+@article{RN10231,
+   author = {Shaw, A. D. and Davies, G. J.},
+   title = {Lactose intolerance: problems in diagnosis and treatment},
+   journal = {J Clin Gastroenterol},
+   volume = {28},
+   number = {3},
+   pages = {208-16},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10192605}
+}
+
+@article{RN10215,
+   author = {Talley, N. J.},
+   title = {Irritable bowel syndrome. Practical management},
+   journal = {Aust Fam Physician},
+   volume = {29},
+   number = {9},
+   pages = {823-8},
+   ISSN = {0300-8495 (Print)
+0300-8495},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11008383}
+}
+
+@article{RN10212,
+   author = {Thompson, W. G.},
+   title = {Constipation: a physiological approach},
+   journal = {Can J Gastroenterol},
+   volume = {14 Suppl D},
+   pages = {155d-162d},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11110630}
+}
+
+@article{RN10228,
+   author = {Thompson, W. G. and Longstreth, G. F. and Drossman, D. A. and Heaton, K. W. and Irvine, E. J. and Muller-Lissner, S. A.},
+   title = {Functional bowel disorders and functional abdominal pain},
+   journal = {Gut},
+   volume = {45 Suppl 2},
+   pages = {Ii43-7},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.45.2008.ii43},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10457044}
+}
+

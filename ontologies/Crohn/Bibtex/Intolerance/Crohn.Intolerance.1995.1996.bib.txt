@@ -1,0 +1,27 @@
+﻿@article{RN7785,
+   author = {Santos, J. V. and Baudet, J. A. and Casellas, F. J. and Guarner, L. A. and Vilaseca, J. M. and Malagelada, J. R.},
+   title = {Intravenous cyclosporine for steroid-refractory attacks of Crohn's disease. Short- and long-term results},
+   journal = {J Clin Gastroenterol},
+   volume = {20},
+   number = {3},
+   pages = {207-10},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7797828}
+}
+
+@article{RN7784,
+   author = {Sloventantor, V. I. and Khmelevskii, I. M.},
+   title = {[Use of parenteral feeding in the multimodality treatment of Crohn's disease and nonspecific ulcerative colitis]},
+   journal = {Vestn Ross Akad Med Nauk},
+   number = {9},
+   pages = {40-4},
+   ISSN = {0869-6047 (Print)
+0869-6047},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8983411}
+}
+

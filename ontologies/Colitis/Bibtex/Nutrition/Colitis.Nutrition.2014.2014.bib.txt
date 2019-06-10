@@ -1,0 +1,2405 @@
+﻿@article{RN4479,
+   author = {Aloi, M. and Lionetti, P. and Barabino, A. and Guariso, G. and Costa, S. and Fontana, M. and Romano, C. and Lombardi, G. and Miele, E. and Alvisi, P. and Diaferia, P. and Baldi, M. and Romagnoli, V. and Gasparetto, M. and Di Paola, M. and Muraca, M. and Pellegrino, S. and Cucchiara, S. and Martelossi, S.},
+   title = {Phenotype and disease course of early-onset pediatric inflammatory bowel disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {597-605},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.Mib.0000442921.77945.09},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24569242}
+}
+
+@article{RN4529,
+   author = {Aloi, M. and Nuti, F. and Stronati, L. and Cucchiara, S.},
+   title = {Advances in the medical management of paediatric IBD},
+   journal = {Nat Rev Gastroenterol Hepatol},
+   volume = {11},
+   number = {2},
+   pages = {99-108},
+   ISSN = {1759-5045},
+   DOI = {10.1038/nrgastro.2013.158},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23958601}
+}
+
+@article{RN4512,
+   author = {Amir Shaghaghi, M. and Bernstein, C. N. and Serrano Leon, A. and El-Gabalawy, H. and Eck, P.},
+   title = {Polymorphisms in the sodium-dependent ascorbate transporter gene SLC23A1 are associated with susceptibility to Crohn disease},
+   journal = {Am J Clin Nutr},
+   volume = {99},
+   number = {2},
+   pages = {378-83},
+   ISSN = {0002-9165},
+   DOI = {10.3945/ajcn.113.068015},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24284447}
+}
+
+@article{RN4450,
+   author = {Ananthakrishnan, A. N. and Khalili, H. and Konijeti, G. G. and Higuchi, L. M. and de Silva, P. and Fuchs, C. S. and Richter, J. M. and Schernhammer, E. S. and Chan, A. T.},
+   title = {Sleep duration affects risk for ulcerative colitis: a prospective cohort study},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {12},
+   number = {11},
+   pages = {1879-86},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2014.04.021},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24780288}
+}
+
+@article{RN4375,
+   author = {Ananthakrishnan, A. N. and Kwon, J. and Raffals, L. and Sands, B. and Stenson, W. F. and McGovern, D. and Kwon, J. H. and Rheaume, R. L. and Sandler, R. S.},
+   title = {Variation in treatment of patients with inflammatory bowel diseases at major referral centers in the United States},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {13},
+   number = {6},
+   pages = {1197-200},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2014.11.020},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25460565}
+}
+
+@article{RN4526,
+   author = {Banaszkiewicz, A. and Kadzielska, J. and Gawronska, A. and Pituch, H. and Obuch-Woszczatynski, P. and Albrecht, P. and Mlynarczyk, G. and Radzikowski, A.},
+   title = {Enterotoxigenic Clostridium perfringens infection and pediatric patients with inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {4},
+   pages = {276-81},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.08.018},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24060617}
+}
+
+@article{RN4492,
+   author = {Banaszkiewicz, A. and Klincewicz, B. and Lazowska-Przeorek, I. and Grzybowska-Chlebowczyk, U. and Kakol, P. and Mytyk, A. and Kofla, A. and Radzikowski, A.},
+   title = {Influenza vaccination coverage in children with inflammatory bowel disease},
+   journal = {Influenza Other Respir Viruses},
+   volume = {8},
+   number = {4},
+   pages = {431-5},
+   ISSN = {1750-2640},
+   DOI = {10.1111/irv.12236},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24490714}
+}
+
+@article{RN4362,
+   author = {Banaszkiewicz, A. and Radzikowski, A. and Albrecht, P.},
+   title = {Immunisation in children and adolescents with inflammatory bowel disease},
+   journal = {Adv Med Sci},
+   volume = {60},
+   number = {1},
+   pages = {144-7},
+   ISSN = {1896-1126},
+   DOI = {10.1016/j.advms.2014.11.003},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25689276}
+}
+
+@article{RN4451,
+   author = {Benchimol, E. I. and Guttmann, A. and Mack, D. R. and Nguyen, G. C. and Marshall, J. K. and Gregor, J. C. and Wong, J. and Forster, A. J. and Manuel, D. G.},
+   title = {Validation of international algorithms to identify adults with inflammatory bowel disease in health administrative data from Ontario, Canada},
+   journal = {J Clin Epidemiol},
+   volume = {67},
+   number = {8},
+   pages = {887-96},
+   ISSN = {0895-4356},
+   DOI = {10.1016/j.jclinepi.2014.02.019},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24774473}
+}
+
+@article{RN4424,
+   author = {Benchimol, E. I. and Mack, D. R. and Nguyen, G. C. and Snapper, S. B. and Li, W. and Mojaverian, N. and Quach, P. and Muise, A. M.},
+   title = {Incidence, outcomes, and health services burden of very early onset inflammatory bowel disease},
+   journal = {Gastroenterology},
+   volume = {147},
+   number = {4},
+   pages = {803-813.e7; quiz e14-5},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.06.023},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24951840}
+}
+
+@article{RN4400,
+   author = {Benchimol, E. I. and Manuel, D. G. and Guttmann, A. and Nguyen, G. C. and Mojaverian, N. and Quach, P. and Mack, D. R.},
+   title = {Changing age demographics of inflammatory bowel disease in Ontario, Canada: a population-based cohort study of epidemiology trends},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {10},
+   pages = {1761-9},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000103},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25159453}
+}
+
+@article{RN4407,
+   author = {Biedermann, L. and Brulisauer, K. and Zeitz, J. and Frei, P. and Scharl, M. and Vavricka, S. R. and Fried, M. and Loessner, M. J. and Rogler, G. and Schuppler, M.},
+   title = {Smoking cessation alters intestinal microbiota: insights from quantitative investigations on human fecal samples using FISH},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {9},
+   pages = {1496-501},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000129},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25072500}
+}
+
+@article{RN4430,
+   author = {Bodelier, A. G. and Pierik, M. J. and van den Heuvel, T. and Bovee-Oudenhoven, I. M. and de Boer, E. and Hameeteman, W. and Masclee, A. A. and Jonkers, D.},
+   title = {Pancreatitis-associated protein has no additional value as a marker of disease activity in a real-life cohort of IBD patients},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {26},
+   number = {8},
+   pages = {902-9},
+   ISSN = {0954-691x},
+   DOI = {10.1097/meg.0000000000000141},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24915490}
+}
+
+@article{RN4403,
+   author = {Bortoli, A. and Daperno, M. and Kohn, A. and Politi, P. and Marconi, S. and Monterubbianesi, R. and Castiglione, F. and Corbellini, A. and Merli, M. and Casella, G. and D'Inca, R. and Orlando, A. and Bossa, F. and Doldo, P. and Lecis, P. and Valpiani, D. and Danese, S. and Comberlato, M.},
+   title = {Patient and physician views on the quality of care in inflammatory bowel disease: results from SOLUTION-1, a prospective IG-IBD study},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {12},
+   pages = {1642-52},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.07.004},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25113898}
+}
+
+@article{RN4410,
+   author = {Bouguen, G. and Langlois, A. and Djouina, M. and Branche, J. and Koriche, D. and Dewaeles, E. and Mongy, A. and Auwerx, J. and Colombel, J. F. and Desreumaux, P. and Dubuquoy, L. and Bertin, B.},
+   title = {Intestinal steroidogenesis controls PPARgamma expression in the colon and is impaired during ulcerative colitis},
+   journal = {Gut},
+   volume = {64},
+   number = {6},
+   pages = {901-10},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2014-307618},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25053717}
+}
+
+@article{RN4482,
+   author = {Brasil Lopes, M. and Rocha, R. and Castro Lyra, A. and Rosa Oliveira, V. and Gomes Coqueiro, F. and Silveira Almeida, N. and Santos Valois, S. and Oliveira Santana, G.},
+   title = {Restriction of dairy products; a reality in inflammatory bowel disease patients},
+   journal = {Nutr Hosp},
+   volume = {29},
+   number = {3},
+   pages = {575-81},
+   ISSN = {0212-1611},
+   DOI = {10.3305/nh.2014.29.3.7124},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24559002}
+}
+
+@article{RN4390,
+   author = {Bressenot, A. and Salleron, J. and Bastien, C. and Danese, S. and Boulagnon-Rombi, C. and Peyrin-Biroulet, L.},
+   title = {Comparing histological activity indexes in UC},
+   journal = {Gut},
+   volume = {64},
+   number = {9},
+   pages = {1412-8},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2014-307477},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25246423}
+}
+
+@article{RN4488,
+   author = {Carbonell, S. and Melgar, P. and Paya, A. and Vilas, I. and Jover, R. and Romero, M. and Lluis, F.},
+   title = {[Mesenteric panniculitis of the colon]},
+   journal = {Gastroenterol Hepatol},
+   volume = {37},
+   number = {4},
+   pages = {247-51},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/j.gastrohep.2013.06.010},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24508267}
+}
+
+@article{RN4447,
+   author = {Cardinale, C. J. and Wei, Z. and Li, J. and Zhu, J. and Gu, M. and Baldassano, R. N. and Grant, S. F. and Hakonarson, H.},
+   title = {Transcriptome profiling of human ulcerative colitis mucosa reveals altered expression of pathways enriched in genetic susceptibility loci},
+   journal = {PLoS One},
+   volume = {9},
+   number = {5},
+   pages = {e96153},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0096153},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24788701}
+}
+
+@article{RN4484,
+   author = {Chan, K. S. and Yang, C. C. and Chen, C. M. and Yang, H. H. and Lee, C. C. and Chuang, Y. C. and Yu, W. L.},
+   title = {Cytomegalovirus colitis in intensive care unit patients: difficulties in clinical diagnosis},
+   journal = {J Crit Care},
+   volume = {29},
+   number = {3},
+   pages = {474.e1-6},
+   ISSN = {0883-9441},
+   DOI = {10.1016/j.jcrc.2014.01.003},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24556151}
+}
+
+@article{RN4388,
+   author = {Chan, S. S. and Luben, R. and van Schaik, F. and Oldenburg, B. and Bueno-de-Mesquita, H. B. and Hallmans, G. and Karling, P. and Lindgren, S. and Grip, O. and Key, T. and Crowe, F. L. and Bergmann, M. M. and Overvad, K. and Palli, D. and Masala, G. and Khaw, K. T. and Racine, A. and Carbonnel, F. and Boutron-Ruault, M. C. and Olsen, A. and Tjonneland, A. and Kaaks, R. and Tumino, R. and Trichopoulou, A. and Hart, A. R.},
+   title = {Carbohydrate intake in the etiology of Crohn's disease and ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {11},
+   pages = {2013-21},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000168},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25265262}
+}
+
+@article{RN4380,
+   author = {Chen, W. X. and Ren, L. H. and Shi, R. H.},
+   title = {Enteric microbiota leads to new therapeutic strategies for ulcerative colitis},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {42},
+   pages = {15657-63},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i42.15657},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25400449}
+}
+
+@article{RN4406,
+   author = {Choi, E. Y. and Park, D. A. and Park, J.},
+   title = {Calorie intake of enteral nutrition and clinical outcomes in acutely critically ill patients: a meta-analysis of randomized controlled trials},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {39},
+   number = {3},
+   pages = {291-300},
+   ISSN = {0148-6071},
+   DOI = {10.1177/0148607114544322},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25078609}
+}
+
+@article{RN4496,
+   author = {Chuengsamarn, S. and Rattanamongkolgul, S. and Phonrat, B. and Tungtrongchitr, R. and Jirawatnotai, S.},
+   title = {Reduction of atherogenic risk in patients with type 2 diabetes by curcuminoid extract: a randomized controlled trial},
+   journal = {J Nutr Biochem},
+   volume = {25},
+   number = {2},
+   pages = {144-50},
+   ISSN = {0955-2863},
+   DOI = {10.1016/j.jnutbio.2013.09.013},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24445038}
+}
+
+@article{RN4463,
+   author = {Coman, R. M. and Glover, S. C. and Gjymishka, A.},
+   title = {Febrile pleuropericarditis, a potentially life-threatening adverse event of balsalazide--case report and literature review of the side effects of 5-aminosalicylates},
+   journal = {Expert Rev Clin Immunol},
+   volume = {10},
+   number = {5},
+   pages = {667-75},
+   ISSN = {1744-666x},
+   DOI = {10.1586/1744666x.2014.902313},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24689504}
+}
+
+@article{RN4467,
+   author = {Czub, E. and Nowak, J. K. and Szaflarska-Poplawska, A. and Grzybowska-Chlebowczyk, U. and Landowski, P. and Moczko, J. and Adamczak, D. and Mankowski, P. and Banasiewicz, T. and Plawski, A. and Walkowiak, J.},
+   title = {Comparison of fecal pyruvate kinase isoform M2 and calprotectin in assessment of pediatric inflammatory bowel disease severity and activity},
+   journal = {Acta Biochim Pol},
+   volume = {61},
+   number = {1},
+   pages = {99-102},
+   ISSN = {0001-527x},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24649481}
+}
+
+@article{RN4436,
+   author = {Czuber-Dochan, W. and Norton, C. and Bassett, P. and Berliner, S. and Bredin, F. and Darvell, M. and Forbes, A. and Gay, M. and Nathan, I. and Ream, E. and Terry, H.},
+   title = {Development and psychometric testing of inflammatory bowel disease fatigue (IBD-F) patient self-assessment scale},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {11},
+   pages = {1398-406},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.04.013},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24856864}
+}
+
+@article{RN4491,
+   author = {Czuber-Dochan, W. and Norton, C. and Bredin, F. and Darvell, M. and Nathan, I. and Terry, H.},
+   title = {Healthcare professionals' perceptions of fatigue experienced by people with IBD},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {835-44},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.01.004},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24491516}
+}
+
+@article{RN4444,
+   author = {De Preter, V. and Machiels, K. and Joossens, M. and Arijs, I. and Matthys, C. and Vermeire, S. and Rutgeerts, P. and Verbeke, K.},
+   title = {Faecal metabolite profiling identifies medium-chain fatty acids as discriminating compounds in IBD},
+   journal = {Gut},
+   volume = {64},
+   number = {3},
+   pages = {447-58},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2013-306423},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {24811995}
+}
+
+@article{RN4502,
+   author = {de Ridder, L. and Turner, D. and Wilson, D. C. and Koletzko, S. and Martin-de-Carpi, J. and Fagerberg, U. L. and Spray, C. and Sladek, M. and Shaoul, R. and Roma-Giannikou, E. and Bronsky, J. and Serban, D. E. and Cucchiara, S. and Veres, G. and Ruemmele, F. M. and Hojsak, I. and Kolho, K. L. and Davies, I. H. and Aloi, M. and Lionetti, P. and Veereman-Wauters, G. and Braegger, C. P. and Trindade, E. and Wewer, A. V. and Hauer, A. and Levine, A.},
+   title = {Malignancy and mortality in pediatric patients with inflammatory bowel disease: a multinational study from the porto pediatric IBD group},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {2},
+   pages = {291-300},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000439066.69340.3c},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24374875}
+}
+
+@article{RN4521,
+   author = {de Silva, P. S. and Luben, R. and Shrestha, S. S. and Khaw, K. T. and Hart, A. R.},
+   title = {Dietary arachidonic and oleic acid intake in ulcerative colitis etiology: a prospective cohort study using 7-day food diaries},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {26},
+   number = {1},
+   pages = {11-8},
+   ISSN = {0954-691x},
+   DOI = {10.1097/MEG.0b013e328365c372},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24216567}
+}
+
+@article{RN4381,
+   author = {Deberry, J. J. and Bielefeldt, K. and Davis, B. M. and Szigethy, E. M. and Hartman, D. J. and Coates, M. D.},
+   title = {Abdominal pain and the neurotrophic system in ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {12},
+   pages = {2330-9},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000207},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25358061}
+}
+
+@article{RN4417,
+   author = {DeWitt, T. and Hegazi, R.},
+   title = {Nutrition in pelvic radiation disease and inflammatory bowel disease: similarities and differences},
+   journal = {Biomed Res Int},
+   volume = {2014},
+   pages = {716579},
+   DOI = {10.1155/2014/716579},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24982906}
+}
+
+@article{RN4428,
+   author = {Dhillon, S. S. and Fattouh, R. and Elkadri, A. and Xu, W. and Murchie, R. and Walters, T. and Guo, C. and Mack, D. and Huynh, H. Q. and Baksh, S. and Silverberg, M. S. and Griffiths, A. M. and Snapper, S. B. and Brumell, J. H. and Muise, A. M.},
+   title = {Variants in nicotinamide adenine dinucleotide phosphate oxidase complex components determine susceptibility to very early onset inflammatory bowel disease},
+   journal = {Gastroenterology},
+   volume = {147},
+   number = {3},
+   pages = {680-689.e2},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.06.005},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24931457}
+}
+
+@article{RN4414,
+   author = {Diamanti, A. and Knafelz, D. and Panetta, F. and De Angelis, P. and Candusso, M. and Bracci, F. and Papadatou, B. and Francalanci, P. and Monti, L. and Torre, G.},
+   title = {Thalidomide as rescue therapy for acute severe ulcerative colitis},
+   journal = {Eur Rev Med Pharmacol Sci},
+   volume = {18},
+   number = {12},
+   pages = {1690-3},
+   ISSN = {1128-3602},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24992607}
+}
+
+@article{RN4442,
+   author = {Dibra, D. and Mishra, L. and Li, S.},
+   title = {Molecular mechanisms of oncogene-induced inflammation and inflammation-sustained oncogene activation in gastrointestinal tumors: an under-appreciated symbiotic relationship},
+   journal = {Biochim Biophys Acta},
+   volume = {1846},
+   number = {1},
+   pages = {152-60},
+   ISSN = {0006-3002 (Print)
+0006-3002},
+   DOI = {10.1016/j.bbcan.2014.05.001},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24821201}
+}
+
+@article{RN4485,
+   author = {Dostal, A. and Lacroix, C. and Pham, V. T. and Zimmermann, M. B. and Del'homme, C. and Bernalier-Donadille, A. and Chassard, C.},
+   title = {Iron supplementation promotes gut microbiota metabolic activity but not colitis markers in human gut microbiota-associated rats},
+   journal = {Br J Nutr},
+   volume = {111},
+   number = {12},
+   pages = {2135-45},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s000711451400021x},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24555487}
+}
+
+@article{RN4493,
+   author = {Druez, A. and Rahier, J. F. and Hebuterne, X.},
+   title = {Methaemoglobinaemia and renal failure following mesalazine for treatment of inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {900-1},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.12.025},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24486176}
+}
+
+@article{RN4404,
+   author = {Duan, R. D. and Hindorf, U. and Cheng, Y. and Bergenzaun, P. and Hall, M. and Hertervig, E. and Nilsson, A.},
+   title = {Changes of activity and isoforms of alkaline sphingomyelinase (nucleotide pyrophosphatase phosphodiesterase 7) in bile from patients undergoing endoscopic retrograde cholangiopancreatography},
+   journal = {BMC Gastroenterol},
+   volume = {14},
+   pages = {138},
+   ISSN = {1471-230x},
+   DOI = {10.1186/1471-230x-14-138},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25100243}
+}
+
+@article{RN4435,
+   author = {El-Jamal, N. and Erdual, E. and Neunlist, M. and Koriche, D. and Dubuquoy, C. and Maggiotto, F. and Chevalier, J. and Berrebi, D. and Dubuquoy, L. and Boulanger, E. and Cortot, A. and Desreumaux, P.},
+   title = {Glugacon-like peptide-2: broad receptor expression, limited therapeutic effect on intestinal inflammation and novel role in liver regeneration},
+   journal = {Am J Physiol Gastrointest Liver Physiol},
+   volume = {307},
+   number = {3},
+   pages = {G274-85},
+   ISSN = {0193-1857},
+   DOI = {10.1152/ajpgi.00389.2012},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24875097}
+}
+
+@article{RN4499,
+   author = {Frey, M. R. and Brent Polk, D.},
+   title = {ErbB receptors and their growth factor ligands in pediatric intestinal inflammation},
+   journal = {Pediatr Res},
+   volume = {75},
+   number = {1-2},
+   pages = {127-32},
+   ISSN = {0031-3998},
+   DOI = {10.1038/pr.2013.210},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24402051}
+}
+
+@article{RN4458,
+   author = {Fuchssteiner, H. and Nigl, K. and Mayer, A. and Kristensen, B. and Platzer, R. and Brunner, B. and Weiss, I. and Haas, T. and Benedikt, M. and Grochenig, H. P. and Eisenberger, A. and Hillebrand, P. and Reinisch, W. and Vogelsang, H.},
+   title = {[Nutrition and IBD-Consensus of the Austrian Working Group of IBD (Inflammatory Bowel Diseases) of the OGGH]},
+   journal = {Z Gastroenterol},
+   volume = {52},
+   number = {4},
+   pages = {376-86},
+   ISSN = {0044-2771},
+   DOI = {10.1055/s-0034-1366252},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24718944}
+}
+
+@article{RN4520,
+   author = {Gandhi, S. and Jedel, S. and Hood, M. M. and Mutlu, E. and Swanson, G. and Keshavarzian, A.},
+   title = {The relationship between coping, health competence and patient participation among patients with inactive inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {5},
+   pages = {401-8},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.10.005},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24230968}
+}
+
+@article{RN4462,
+   author = {Ghishan, F. K. and Kiela, P. R.},
+   title = {Epithelial transport in inflammatory bowel diseases},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {6},
+   pages = {1099-109},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000029},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24691115}
+}
+
+@article{RN4364,
+   author = {Guo, M. and Ding, S. and Zhao, C. and Gu, X. and He, X. and Huang, K. and Luo, Y. and Liang, Z. and Tian, H. and Xu, W.},
+   title = {Red Ginseng and Semen Coicis can improve the structure of gut microbiota and relieve the symptoms of ulcerative colitis},
+   journal = {J Ethnopharmacol},
+   volume = {162},
+   pages = {7-13},
+   ISSN = {0378-8741},
+   DOI = {10.1016/j.jep.2014.12.029},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25554637}
+}
+
+@article{RN4498,
+   author = {Hakansson, A. and Tormo-Badia, N. and Baridi, A. and Xu, J. and Molin, G. and Hagslatt, M. L. and Karlsson, C. and Jeppsson, B. and Cilio, C. M. and Ahrne, S.},
+   title = {Immunological alteration and changes of gut microbiota after dextran sulfate sodium (DSS) administration in mice},
+   journal = {Clin Exp Med},
+   volume = {15},
+   number = {1},
+   pages = {107-20},
+   ISSN = {1591-8890},
+   DOI = {10.1007/s10238-013-0270-5},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {24414342}
+}
+
+@article{RN4511,
+   author = {Hanauer, S. B.},
+   title = {Still in pursuit},
+   journal = {Gastroenterology},
+   volume = {146},
+   number = {1},
+   pages = {13-5},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2013.11.025},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24287301}
+}
+
+@article{RN4426,
+   author = {Harris, R. A. and Nagy-Szakal, D. and Mir, S. A. and Frank, E. and Szigeti, R. and Kaplan, J. L. and Bronsky, J. and Opekun, A. and Ferry, G. D. and Winter, H. and Kellermayer, R.},
+   title = {DNA methylation-associated colonic mucosal immune and defense responses in treatment-naive pediatric ulcerative colitis},
+   journal = {Epigenetics},
+   volume = {9},
+   number = {8},
+   pages = {1131-7},
+   ISSN = {1559-2294},
+   DOI = {10.4161/epi.29446},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24937444}
+}
+
+@article{RN4434,
+   author = {Hartman, D. J. and Yadav, D. and Binion, D. G.},
+   title = {Reply: tissue IgG4-positive plasma cells in inflammatory bowel disease: a study of 88 treatment-naive biopsies of inflammatory bowel disease},
+   journal = {Mod Pathol},
+   volume = {27},
+   number = {6},
+   pages = {916},
+   ISSN = {0893-3952},
+   DOI = {10.1038/modpathol.2013.234},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24881558}
+}
+
+@article{RN4440,
+   author = {Hashash, J. G. and Binion, D. G.},
+   title = {Managing Clostridium difficile in inflammatory bowel disease (IBD)},
+   journal = {Curr Gastroenterol Rep},
+   volume = {16},
+   number = {7},
+   pages = {393},
+   ISSN = {1522-8037},
+   DOI = {10.1007/s11894-014-0393-1},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24838421}
+}
+
+@article{RN4373,
+   author = {Hensel, K. O. and Boland, V. and Postberg, J. and Zilbauer, M. and Heuschkel, R. and Vogel, S. and Godde, D. and Wirth, S. and Jenke, A. C.},
+   title = {Differential expression of mucosal trefoil factors and mucins in pediatric inflammatory bowel diseases},
+   journal = {Sci Rep},
+   volume = {4},
+   pages = {7343},
+   ISSN = {2045-2322},
+   DOI = {10.1038/srep07343},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25475414}
+}
+
+@article{RN4415,
+   author = {Hevia, A. and Lopez, P. and Suarez, A. and Jacquot, C. and Urdaci, M. C. and Margolles, A. and Sanchez, B.},
+   title = {Association of levels of antibodies from patients with inflammatory bowel disease with extracellular proteins of food and probiotic bacteria},
+   journal = {Biomed Res Int},
+   volume = {2014},
+   pages = {351204},
+   DOI = {10.1155/2014/351204},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24991549}
+}
+
+@article{RN4461,
+   author = {Hill, R. J.},
+   title = {Update on nutritional status, body composition and growth in paediatric inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {12},
+   pages = {3191-7},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i12.3191},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24696604}
+}
+
+@article{RN4419,
+   author = {Hojsak, I. and Pavic, A. M. and Kolacek, S.},
+   title = {Mesalamine treatment mimicking relapse in a child with ulcerative colitis},
+   journal = {World J Pediatr},
+   volume = {10},
+   number = {4},
+   pages = {371-3},
+   DOI = {10.1007/s12519-014-0485-x},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24974209}
+}
+
+@article{RN4386,
+   author = {Horst, S. and Chao, A. and Rosen, M. and Nohl, A. and Duley, C. and Wagnon, J. H. and Beaulieu, D. B. and Taylor, W. and Gaines, L. and Schwartz, D. A.},
+   title = {Treatment with immunosuppressive therapy may improve depressive symptoms in patients with inflammatory bowel disease},
+   journal = {Dig Dis Sci},
+   volume = {60},
+   number = {2},
+   pages = {465-70},
+   ISSN = {0163-2116},
+   DOI = {10.1007/s10620-014-3375-0},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25274158}
+}
+
+@article{RN4448,
+   author = {Hourigan, S. K. and Oliva-Hemker, M. and Hutfless, S.},
+   title = {The prevalence of Clostridium difficile infection in pediatric and adult patients with inflammatory bowel disease},
+   journal = {Dig Dis Sci},
+   volume = {59},
+   number = {9},
+   pages = {2222-7},
+   ISSN = {0163-2116},
+   DOI = {10.1007/s10620-014-3169-4},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24788321}
+}
+
+@article{RN4522,
+   author = {Hummel, T. Z. and Kindermann, A. and Stokkers, P. C. and Benninga, M. A. and ten Kate, F. J.},
+   title = {Exogenous pigment in Peyer patches of children suspected of having IBD},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {58},
+   number = {4},
+   pages = {477-80},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000221},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24164906}
+}
+
+@article{RN4481,
+   author = {Hwang, C. and Ross, V. and Mahadevan, U.},
+   title = {Popular exclusionary diets for inflammatory bowel disease: the search for a dietary culprit},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {732-41},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000438427.48726.b0},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24562173}
+}
+
+@article{RN4422,
+   author = {Hyams, J. S.},
+   title = {Standardized recording of parameters related to the natural history of inflammatory bowel disease: from Montreal to Paris},
+   journal = {Dig Dis},
+   volume = {32},
+   number = {4},
+   pages = {337-44},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000358133},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24969277}
+}
+
+@article{RN4475,
+   author = {Ihekweazu, F. D. and Kellermayer, R.},
+   title = {Allopurinol: a useful adjunct to thiopurine therapy for pediatric ulcerative colitis in the biologic era},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {1},
+   pages = {22-4},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000344},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24590210}
+}
+
+@article{RN4421,
+   author = {Irving, P. M.},
+   title = {Are we using and monitoring thiopurines and biologics optimally?},
+   journal = {Dig Dis},
+   volume = {32},
+   number = {4},
+   pages = {410-8},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000358147},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24969289}
+}
+
+@article{RN4398,
+   author = {Iskandar, H. and Greer, J. B. and Schraut, W. H. and Regueiro, M. D. and Davis, P. L. and Hartman, D. J. and Siegel, C. A. and Herfarth, H. H. and Williams, E. D. and Schwartz, M. B.},
+   title = {IBD LIVE case series-case 1: smoking, a controversial but effective treatment for ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {10},
+   pages = {1696-701},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000188},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25167214}
+}
+
+@article{RN4474,
+   author = {Izaguirre, M. R. and Keefer, L.},
+   title = {Development of a self-efficacy scale for adolescents and young adults with inflammatory bowel disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {1},
+   pages = {29-32},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000357},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24590216}
+}
+
+@article{RN4516,
+   author = {Jantchou, P. and Clavel-Chapelon, F. and Racine, A. and Kvaskoff, M. and Carbonnel, F. and Boutron-Ruault, M. C.},
+   title = {High residential sun exposure is associated with a low risk of incident Crohn's disease in the prospective E3N cohort},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {1},
+   pages = {75-81},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000436275.12131.4f},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24247650}
+}
+
+@article{RN4483,
+   author = {Jedel, S. and Hoffman, A. and Merriman, P. and Swanson, B. and Voigt, R. and Rajan, K. B. and Shaikh, M. and Li, H. and Keshavarzian, A.},
+   title = {A randomized controlled trial of mindfulness-based stress reduction to prevent flare-up in patients with inactive ulcerative colitis},
+   journal = {Digestion},
+   volume = {89},
+   number = {2},
+   pages = {142-55},
+   ISSN = {0012-2823},
+   DOI = {10.1159/000356316},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24557009}
+}
+
+@article{RN4432,
+   author = {Jess, T. and Lopez, A. and Andersson, M. and Beaugerie, L. and Peyrin-Biroulet, L.},
+   title = {Thiopurines and risk of colorectal neoplasia in patients with inflammatory bowel disease: a meta-analysis},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {12},
+   number = {11},
+   pages = {1793-1800.e1},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2014.05.019},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24907505}
+}
+
+@article{RN4453,
+   author = {Keller, J. J. and Wang, J. and Huang, Y. L. and Chou, C. C. and Wang, L. H. and Hsu, J. L. and Bai, C. H. and Chiou, H. Y.},
+   title = {Increased risk of stroke among patients with ulcerative colitis: a population-based matched cohort study},
+   journal = {Int J Colorectal Dis},
+   volume = {29},
+   number = {7},
+   pages = {805-12},
+   ISSN = {0179-1958},
+   DOI = {10.1007/s00384-014-1862-6},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24740513}
+}
+
+@article{RN4378,
+   author = {Kelsen, J. R. and Grossman, A. B. and Pauly-Hubbard, H. and Gupta, K. and Baldassano, R. N. and Mamula, P.},
+   title = {Infliximab therapy in pediatric patients 7 years of age and younger},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {6},
+   pages = {758-62},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000533},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25419596}
+}
+
+@article{RN4393,
+   author = {Kim, Y. J. and Kim, J. S. and Seo, Y. R. and Park, J. H. and Choi, M. S. and Sung, M. K.},
+   title = {Carnosic acid suppresses colon tumor formation in association with antiadipogenic activity},
+   journal = {Mol Nutr Food Res},
+   volume = {58},
+   number = {12},
+   pages = {2274-85},
+   ISSN = {1613-4125},
+   DOI = {10.1002/mnfr.201400293},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25204550}
+}
+
+@article{RN4473,
+   author = {Kofla-Dlubacz, A. and Matusiewicz, M. and Krzesiek, E. and Noga, L. and Iwanczak, B.},
+   title = {Metalloproteinase-3 and -9 as novel markers in the evaluation of ulcerative colitis activity in children},
+   journal = {Adv Clin Exp Med},
+   volume = {23},
+   number = {1},
+   pages = {103-10},
+   ISSN = {1899-5276 (Print)
+1899-5276},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24596011}
+}
+
+@article{RN4397,
+   author = {Kotlyar, D. S. and Shum, M. and Hsieh, J. and Blonski, W. and Greenwald, D. A.},
+   title = {Non-pulmonary allergic diseases and inflammatory bowel disease: a qualitative review},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {32},
+   pages = {11023-32},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i32.11023},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25170192}
+}
+
+@article{RN4457,
+   author = {Larsson, J. K. and Sjoberg, K. and Vigren, L. and Benoni, C. and Toth, E. and Olesen, M.},
+   title = {Chronic non-bloody diarrhoea: a prospective study in Malmo, Sweden, with focus on microscopic colitis},
+   journal = {BMC Res Notes},
+   volume = {7},
+   pages = {236},
+   ISSN = {1756-0500},
+   DOI = {10.1186/1756-0500-7-236},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24731750}
+}
+
+@article{RN4456,
+   author = {Latella, G. and Rogler, G. and Bamias, G. and Breynaert, C. and Florholmen, J. and Pellino, G. and Reif, S. and Speca, S. and Lawrance, I. C.},
+   title = {Results of the 4th scientific workshop of the ECCO (I): pathophysiology of intestinal fibrosis in IBD},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {10},
+   pages = {1147-65},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.03.008},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24731838}
+}
+
+@article{RN4418,
+   author = {Ledder, O. and Catto-Smith, A. G. and Oliver, M. R. and Alex, G. and Cameron, D. J. and Hardikar, W.},
+   title = {Clinical patterns and outcome of early-onset inflammatory bowel disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {5},
+   pages = {562-4},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000465},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24979317}
+}
+
+@article{RN4443,
+   author = {Lee, C. H. and Hsu, P. and Nanan, B. and Nanan, R. and Wong, M. and Gaskin, K. J. and Leong, R. W. and Murchie, R. and Muise, A. M. and Stormon, M. O.},
+   title = {Novel de novo mutations of the interleukin-10 receptor gene lead to infantile onset inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {11},
+   pages = {1551-6},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.04.004},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24813381}
+}
+
+@article{RN4470,
+   author = {Lee, G. J. and Dotson, J. L. and Kappelman, M. D. and King, E. and Pratt, J. M. and Colletti, R. B. and Bistrick, S. and Burkam, J. L. and Crandall, W. V.},
+   title = {Seasonality and pediatric inflammatory bowel disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {1},
+   pages = {25-8},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000362},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24614123}
+}
+
+@article{RN4411,
+   author = {Lemberg, D. A. and Day, A. S.},
+   title = {Crohn disease and ulcerative colitis in children: an update for 2014},
+   journal = {J Paediatr Child Health},
+   volume = {51},
+   number = {3},
+   pages = {266-70},
+   ISSN = {1034-4810},
+   DOI = {10.1111/jpc.12685},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25039307}
+}
+
+@article{RN4517,
+   author = {Levine, A. and Koletzko, S. and Turner, D. and Escher, J. C. and Cucchiara, S. and de Ridder, L. and Kolho, K. L. and Veres, G. and Russell, R. K. and Paerregaard, A. and Buderus, S. and Greer, M. L. and Dias, J. A. and Veereman-Wauters, G. and Lionetti, P. and Sladek, M. and Martin de Carpi, J. and Staiano, A. and Ruemmele, F. M. and Wilson, D. C.},
+   title = {ESPGHAN revised porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {58},
+   number = {6},
+   pages = {795-806},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000239},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24231644}
+}
+
+@article{RN4383,
+   author = {Li, T. W. and Peng, H. and Yang, H. and Kurniawidjaja, S. and Panthaki, P. and Zheng, Y. and Mato, J. M. and Lu, S. C.},
+   title = {S-Adenosylmethionine and methylthioadenosine inhibit beta-catenin signaling by multiple mechanisms in liver and colon cancer},
+   journal = {Mol Pharmacol},
+   volume = {87},
+   number = {1},
+   pages = {77-86},
+   ISSN = {0026-895x},
+   DOI = {10.1124/mol.114.095679},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25338671}
+}
+
+@article{RN4416,
+   author = {Li, Y. and Zhu, W. and Gong, J. and Zuo, L. and Zhang, W. and Gu, L. and Guo, Z. and Cao, L. and Li, N. and Li, J.},
+   title = {Influence of exclusive enteral nutrition therapy on visceral fat in patients with Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {9},
+   pages = {1568-74},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000114},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24983977}
+}
+
+@article{RN4460,
+   author = {Lopez-Siles, M. and Martinez-Medina, M. and Busquets, D. and Sabat-Mir, M. and Duncan, S. H. and Flint, H. J. and Aldeguer, X. and Garcia-Gil, L. J.},
+   title = {Mucosa-associated Faecalibacterium prausnitzii and Escherichia coli co-abundance can distinguish Irritable Bowel Syndrome and Inflammatory Bowel Disease phenotypes},
+   journal = {Int J Med Microbiol},
+   volume = {304},
+   number = {3-4},
+   pages = {464-75},
+   ISSN = {1438-4221},
+   DOI = {10.1016/j.ijmm.2014.02.009},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24713205}
+}
+
+@article{RN4413,
+   author = {Louazon, T. and Collardeau, S. and Lachaux, A.},
+   title = {[Cytomegalovirus colitis in an immunocompetent child]},
+   journal = {Arch Pediatr},
+   volume = {21},
+   number = {9},
+   pages = {1016-9},
+   ISSN = {0929-693x},
+   DOI = {10.1016/j.arcped.2014.05.018},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24997060}
+}
+
+@article{RN4527,
+   author = {Machiels, K. and Joossens, M. and Sabino, J. and De Preter, V. and Arijs, I. and Eeckhaut, V. and Ballet, V. and Claes, K. and Van Immerseel, F. and Verbeke, K. and Ferrante, M. and Verhaegen, J. and Rutgeerts, P. and Vermeire, S.},
+   title = {A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis},
+   journal = {Gut},
+   volume = {63},
+   number = {8},
+   pages = {1275-83},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2013-304833},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24021287}
+}
+
+@article{RN4429,
+   author = {Macintyre, A. N. and Gerriets, V. A. and Nichols, A. G. and Michalek, R. D. and Rudolph, M. C. and Deoliveira, D. and Anderson, S. M. and Abel, E. D. and Chen, B. J. and Hale, L. P. and Rathmell, J. C.},
+   title = {The glucose transporter Glut1 is selectively essential for CD4 T cell activation and effector function},
+   journal = {Cell Metab},
+   volume = {20},
+   number = {1},
+   pages = {61-72},
+   ISSN = {1550-4131},
+   DOI = {10.1016/j.cmet.2014.05.004},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24930970}
+}
+
+@article{RN4363,
+   author = {Magalhaes-Costa, M. H. and Reis, B. R. and Chagas, V. L. and Nunes, T. and Souza, H. S. and Zaltman, C.},
+   title = {Focal enhanced gastritis and macrophage microaggregates in the gastric mucosa: potential role in the differential diagnosis between Crohn's disease and ulcerative colitis},
+   journal = {Arq Gastroenterol},
+   volume = {51},
+   number = {4},
+   pages = {276-82},
+   ISSN = {0004-2803},
+   DOI = {10.1590/s0004-28032014000400003},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25591154}
+}
+
+@article{RN4369,
+   author = {Magnusson, M. K. and Strid, H. and Isaksson, S. and Bajor, A. and Lasson, A. and Ung, K. A. and Ohman, L.},
+   title = {Response to infliximab therapy in ulcerative colitis is associated with decreased monocyte activation, reduced CCL2 expression and downregulation of Tenascin C},
+   journal = {J Crohns Colitis},
+   volume = {9},
+   number = {1},
+   pages = {56-65},
+   ISSN = {1873-9946},
+   DOI = {10.1093/ecco-jcc/jju008},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25518051}
+}
+
+@article{RN4365,
+   author = {Manginot, C. and Baumann, C. and Peyrin-Biroulet, L.},
+   title = {An endoscopic Mayo score of 0 is associated with a lower risk of colectomy than a score of 1 in ulcerative colitis},
+   journal = {Gut},
+   volume = {64},
+   number = {7},
+   pages = {1181-2},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2014-308839},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25550182}
+}
+
+@article{RN4455,
+   author = {Martin, R. and Chain, F. and Miquel, S. and Natividad, J. M. and Sokol, H. and Verdu, E. F. and Langella, P. and Bermudez-Humaran, L. G.},
+   title = {Effects in the use of a genetically engineered strain of Lactococcus lactis delivering in situ IL-10 as a therapy to treat low-grade colon inflammation},
+   journal = {Hum Vaccin Immunother},
+   volume = {10},
+   number = {6},
+   pages = {1611-21},
+   ISSN = {2164-5515},
+   DOI = {10.4161/hv.28549},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24732667}
+}
+
+@article{RN4402,
+   author = {Mikocka-Walus, A. and Andrews, J. M. and Rampton, D. and Goodhand, J. and van der Woude, J. and Bernstein, C. N.},
+   title = {How can we improve models of care in inflammatory bowel disease? An international survey of IBD health professionals},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {12},
+   pages = {1668-74},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.07.009},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25132216}
+}
+
+@article{RN4525,
+   author = {Mir, S. A. and Nagy-Szakal, D. and Smith, E. O. and Gilger, M. A. and Kellermayer, R.},
+   title = {Duration of disease may predict response to infliximab in pediatric ulcerative colitis},
+   journal = {J Clin Gastroenterol},
+   volume = {48},
+   number = {3},
+   pages = {248-52},
+   ISSN = {0192-0790},
+   DOI = {10.1097/MCG.0b013e31829f2e06},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24129407}
+}
+
+@article{RN4501,
+   author = {Murchie, R. and Guo, C. H. and Persaud, A. and Muise, A. and Rotin, D.},
+   title = {Protein tyrosine phosphatase sigma targets apical junction complex proteins in the intestine and regulates epithelial permeability},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {111},
+   number = {2},
+   pages = {693-8},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1315017111},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24385580}
+}
+
+@article{RN4533,
+   author = {Navas-Lopez, V. M. and Blasco Alonso, J. and Serrano Nieto, M. J. and Giron Fernandez-Crehuet, F. and Argos Rodriguez, M. D. and Sierra Salinas, C.},
+   title = {Oral tacrolimus for pediatric steroid-resistant ulcerative colitis},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {1},
+   pages = {64-9},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.03.006},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23582736}
+}
+
+@article{RN4361,
+   author = {Navas-Lopez, V. M. and Blasco-Alonso, J. and Giron Fernandez-Crehuet, F. and Serrano Nieto, M. J. and Gallego-Gutierrez, S. and Luque Perez, S. and Sierra Salinas, C.},
+   title = {Successful treatment for ulcerative proctitis with rectal tacrolimus in an 8-year-old girl with intolerance to mesalamine},
+   journal = {Clin J Gastroenterol},
+   volume = {7},
+   number = {4},
+   pages = {320-3},
+   ISSN = {1865-7265},
+   DOI = {10.1007/s12328-014-0506-2},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {26185880}
+}
+
+@article{RN4510,
+   author = {Nelson, R. and Liao, C. and Fichera, A. and Rubin, D. T. and Pekow, J.},
+   title = {Rescue therapy with cyclosporine or infliximab is not associated with an increased risk for postoperative complications in patients hospitalized for severe steroid-refractory ulcerative colitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {1},
+   pages = {14-20},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.Mib.0000437497.07181.05},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24297054}
+}
+
+@article{RN4464,
+   author = {Nguyen, D. L. and Parekh, N. and Bechtold, M. L. and Jamal, M. M.},
+   title = {National Trends and In-Hospital Outcomes of Adult Patients With Inflammatory Bowel Disease Receiving Parenteral Nutrition Support},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {40},
+   number = {3},
+   pages = {412-6},
+   ISSN = {0148-6071},
+   DOI = {10.1177/0148607114528715},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {24687967}
+}
+
+@article{RN4494,
+   author = {Nguyen, G. C. and Bernstein, C. N. and Bitton, A. and Chan, A. K. and Griffiths, A. M. and Leontiadis, G. I. and Geerts, W. and Bressler, B. and Butzner, J. D. and Carrier, M. and Chande, N. and Marshall, J. K. and Williams, C. and Kearon, C.},
+   title = {Consensus statements on the risk, prevention, and treatment of venous thromboembolism in inflammatory bowel disease: Canadian Association of Gastroenterology},
+   journal = {Gastroenterology},
+   volume = {146},
+   number = {3},
+   pages = {835-848.e6},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.01.042},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24462530}
+}
+
+@article{RN4452,
+   author = {Nowak, J. K. and Grzybowska-Chlebowczyk, U. and Landowski, P. and Szaflarska-Poplawska, A. and Klincewicz, B. and Adamczak, D. and Banasiewicz, T. and Plawski, A. and Walkowiak, J.},
+   title = {Prevalence and correlates of vitamin K deficiency in children with inflammatory bowel disease},
+   journal = {Sci Rep},
+   volume = {4},
+   pages = {4768},
+   ISSN = {2045-2322},
+   DOI = {10.1038/srep04768},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24759680}
+}
+
+@article{RN4459,
+   author = {Olszak, T. and Neves, J. F. and Dowds, C. M. and Baker, K. and Glickman, J. and Davidson, N. O. and Lin, C. S. and Jobin, C. and Brand, S. and Sotlar, K. and Wada, K. and Katayama, K. and Nakajima, A. and Mizuguchi, H. and Kawasaki, K. and Nagata, K. and Muller, W. and Snapper, S. B. and Schreiber, S. and Kaser, A. and Zeissig, S. and Blumberg, R. S.},
+   title = {Protective mucosal immunity mediated by epithelial CD1d and IL-10},
+   journal = {Nature},
+   volume = {509},
+   number = {7501},
+   pages = {497-502},
+   ISSN = {0028-0836},
+   DOI = {10.1038/nature13150},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24717441}
+}
+
+@article{RN4392,
+   author = {Orel, R. and Kamhi Trop, T.},
+   title = {Intestinal microbiota, probiotics and prebiotics in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {33},
+   pages = {11505-24},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i33.11505},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25206258}
+}
+
+@article{RN4372,
+   author = {O'Sullivan, M.},
+   title = {Vitamin D as a novel therapy in inflammatory bowel disease: new hope or false dawn?},
+   journal = {Proc Nutr Soc},
+   volume = {74},
+   number = {1},
+   pages = {5-12},
+   ISSN = {0029-6651},
+   DOI = {10.1017/s0029665114001621},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25490986}
+}
+
+@article{RN4480,
+   author = {Pandurangan, A. K. and Esa, N. M.},
+   title = {Signal transducer and activator of transcription 3 - a promising target in colitis-associated cancer},
+   journal = {Asian Pac J Cancer Prev},
+   volume = {15},
+   number = {2},
+   pages = {551-60},
+   ISSN = {1513-7368},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24568457}
+}
+
+@article{RN4438,
+   author = {Park, K. T. and Sin, A. and Wu, M. and Bass, D. and Bhattacharya, J.},
+   title = {Utilization trends of anti-TNF agents and health outcomes in adults and children with inflammatory bowel diseases: a single-center experience},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {7},
+   pages = {1242-9},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000061},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24846718}
+}
+
+@article{RN4468,
+   author = {Parkes, G. C. and Whelan, K. and Lindsay, J. O.},
+   title = {Smoking in inflammatory bowel disease: impact on disease course and insights into the aetiology of its effect},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {717-25},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.02.002},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24636140}
+}
+
+@article{RN4370,
+   author = {Pavlidis, P. and Shums, Z. and Koutsoumpas, A. L. and Milo, J. and Papp, M. and Umemura, T. and Lakatos, P. L. and Smyk, D. S. and Bogdanos, D. P. and Forbes, A. and Norman, G. L.},
+   title = {Diagnostic and clinical significance of Crohn's disease-specific anti-MZGP2 pancreatic antibodies by a novel ELISA},
+   journal = {Clin Chim Acta},
+   volume = {441},
+   pages = {176-81},
+   ISSN = {0009-8981},
+   DOI = {10.1016/j.cca.2014.12.010},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25512163}
+}
+
+@article{RN4395,
+   author = {Pawlowska, K. and Iwanczak, B.},
+   title = {Somatic development disorders of children with non specific inflammatory bowel diseases},
+   journal = {Dev Period Med},
+   volume = {18},
+   number = {3},
+   pages = {323-30},
+   ISSN = {1428-345X (Print)},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25182396}
+}
+
+@article{RN4503,
+   author = {Paz Matias, J. and Costa e Silva, D. M. and Climaco Cruz, K. J. and Gomes da Silva, K. and Monte Feitosa, M. and Oliveira Medeiros, L. G. and do Nascimento Marreiro, D. and do Nascimento Nogueira, N.},
+   title = {Effect of zinc supplementation on superoxide dismutase activity in patients with ulcerative rectocolitis},
+   journal = {Nutr Hosp},
+   volume = {31},
+   number = {3},
+   pages = {1434-7},
+   ISSN = {0212-1611},
+   DOI = {10.3305/nh.2015.31.3.8402},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25726244}
+}
+
+@article{RN4532,
+   author = {Pearl, D. S. and Masoodi, M. and Eiden, M. and Brummer, J. and Gullick, D. and McKeever, T. M. and Whittaker, M. A. and Nitch-Smith, H. and Brown, J. F. and Shute, J. K. and Mills, G. and Calder, P. C. and Trebble, T. M.},
+   title = {Altered colonic mucosal availability of n-3 and n-6 polyunsaturated fatty acids in ulcerative colitis and the relationship to disease activity},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {1},
+   pages = {70-9},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.03.013},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23619007}
+}
+
+@article{RN4465,
+   author = {Perez-Munoz, M. E. and Bergstrom, K. and Peng, V. and Schmaltz, R. and Jimenez-Cardona, R. and Marsteller, N. and McGee, S. and Clavel, T. and Ley, R. and Fu, J. and Xia, L. and Peterson, D. A.},
+   title = {Discordance between changes in the gut microbiota and pathogenicity in a mouse model of spontaneous colitis},
+   journal = {Gut Microbes},
+   volume = {5},
+   number = {3},
+   pages = {286-95},
+   ISSN = {1949-0976},
+   DOI = {10.4161/gmic.28622},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24662098}
+}
+
+@article{RN4427,
+   author = {Prince, A. C. and Moosa, A. and Lomer, M. C. and Reidlinger, D. P. and Whelan, K.},
+   title = {Variable access to quality nutrition information regarding inflammatory bowel disease: a survey of patients and health professionals and objective examination of written information},
+   journal = {Health Expect},
+   volume = {18},
+   number = {6},
+   pages = {2501-12},
+   ISSN = {1369-6513},
+   DOI = {10.1111/hex.12219},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {24934409}
+}
+
+@article{RN4366,
+   author = {Raczkowska, A. and Lawinski, M. and Gradowska, A. and Zielinska-Borkowska, U.},
+   title = {Quality of life considering patients with chronic inflammatory bowel diseases - natural and parenteral nutrition},
+   journal = {Pol Przegl Chir},
+   volume = {86},
+   number = {9},
+   pages = {410-7},
+   ISSN = {0032-373x},
+   DOI = {10.2478/pjs-2014-0073},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25527803}
+}
+
+@article{RN4471,
+   author = {Rahier, J. F. and Magro, F. and Abreu, C. and Armuzzi, A. and Ben-Horin, S. and Chowers, Y. and Cottone, M. and de Ridder, L. and Doherty, G. and Ehehalt, R. and Esteve, M. and Katsanos, K. and Lees, C. W. and Macmahon, E. and Moreels, T. and Reinisch, W. and Tilg, H. and Tremblay, L. and Veereman-Wauters, G. and Viget, N. and Yazdanpanah, Y. and Eliakim, R. and Colombel, J. F.},
+   title = {Second European evidence-based consensus on the prevention, diagnosis and management of opportunistic infections in inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {6},
+   pages = {443-68},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.12.013},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24613021}
+}
+
+@article{RN4513,
+   author = {Ramos-Rivers, C. and Regueiro, M. and Vargas, E. J. and Szigethy, E. and Schoen, R. E. and Dunn, M. and Watson, A. R. and Schwartz, M. and Swoger, J. and Baidoo, L. and Barrie, A. and Dudekula, A. and Youk, A. O. and Binion, D. G.},
+   title = {Association between telephone activity and features of patients with inflammatory bowel disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {12},
+   number = {6},
+   pages = {986-94.e1},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2013.11.015},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24262938}
+}
+
+@article{RN4487,
+   author = {Reed-Knight, B. and Lobato, D. and Hagin, S. and McQuaid, E. L. and Seifer, R. and Kopel, S. J. and Boergers, J. and Nassau, J. H. and Suorsa, K. and Bancroft, B. and Shapiro, J. and Leleiko, N. S.},
+   title = {Depressive symptoms in youth with inflammatory bowel disease compared with a community sample},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {614-21},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000442678.62674.b7},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24518604}
+}
+
+@article{RN4399,
+   author = {Regueiro, M. D. and Greer, J. B. and Binion, D. G. and Schraut, W. H. and Goyal, A. and Keljo, D. J. and Cross, R. K. and Williams, E. D. and Herfarth, H. H. and Siegel, C. A. and Oikonomou, I. and Brand, M. H. and Hartman, D. J. and Tublin, M. E. and Davis, P. L. and Baidoo, L. and Szigethy, E. and Watson, A. R.},
+   title = {The inflammatory bowel disease live interinstitutional and interdisciplinary videoconference education (IBD LIVE) series},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {10},
+   pages = {1687-95},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000187},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25167213}
+}
+
+@article{RN4490,
+   author = {Ren, W. and Yin, J. and Wu, M. and Liu, G. and Yang, G. and Xion, Y. and Su, D. and Wu, L. and Li, T. and Chen, S. and Duan, J. and Yin, Y. and Wu, G.},
+   title = {Serum amino acids profile and the beneficial effects of L-arginine or L-glutamine supplementation in dextran sulfate sodium colitis},
+   journal = {PLoS One},
+   volume = {9},
+   number = {2},
+   pages = {e88335},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0088335},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24505477}
+}
+
+@article{RN4518,
+   author = {Rogler, D. and Fournier, N. and Pittet, V. and Buhr, P. and Heyland, K. and Friedt, M. and Koller, R. and Rueger, V. and Herzog, D. and Nydegger, A. and Schappi, M. and Schibli, S. and Spalinger, J. and Rogler, G. and Braegger, C. P.},
+   title = {Coping is excellent in Swiss Children with inflammatory bowel disease: results from the Swiss IBD cohort study},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {5},
+   pages = {409-20},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.10.004},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24230970}
+}
+
+@article{RN4469,
+   author = {Rosh, J. R. and Hyams, J. S.},
+   title = {Pediatric UC drug development: a GREAT idea now needs a GRAND conversation},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {58},
+   number = {6},
+   pages = {677-8},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000367},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24625967}
+}
+
+@article{RN4441,
+   author = {Ruemmele, F. M. and Hyams, J. S. and Otley, A. and Griffiths, A. and Kolho, K. L. and Dias, J. A. and Levine, A. and Escher, J. C. and Taminiau, J. and Veres, G. and Colombel, J. F. and Vermeire, S. and Wilson, D. C. and Turner, D.},
+   title = {Outcome measures for clinical trials in paediatric IBD: an evidence-based, expert-driven practical statement paper of the paediatric ECCO committee},
+   journal = {Gut},
+   volume = {64},
+   number = {3},
+   pages = {438-46},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2014-307008},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {24821616}
+}
+
+@article{RN4519,
+   author = {Ruemmele, F. M. and Turner, D.},
+   title = {Differences in the management of pediatric and adult onset ulcerative colitis--lessons from the joint ECCO and ESPGHAN consensus guidelines for the management of pediatric ulcerative colitis},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {1},
+   pages = {1-4},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.10.006},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24230969}
+}
+
+@article{RN4431,
+   author = {Ruemmele, F. M. and Veres, G. and Kolho, K. L. and Griffiths, A. and Levine, A. and Escher, J. C. and Amil Dias, J. and Barabino, A. and Braegger, C. P. and Bronsky, J. and Buderus, S. and Martin-de-Carpi, J. and De Ridder, L. and Fagerberg, U. L. and Hugot, J. P. and Kierkus, J. and Kolacek, S. and Koletzko, S. and Lionetti, P. and Miele, E. and Navas Lopez, V. M. and Paerregaard, A. and Russell, R. K. and Serban, D. E. and Shaoul, R. and Van Rheenen, P. and Veereman, G. and Weiss, B. and Wilson, D. and Dignass, A. and Eliakim, A. and Winter, H. and Turner, D.},
+   title = {Consensus guidelines of ECCO/ESPGHAN on the medical management of pediatric Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {10},
+   pages = {1179-207},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.04.005},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24909831}
+}
+
+@article{RN4437,
+   author = {Schechter, A. and Griffiths, C. and Gana, J. C. and Shaoul, R. and Shamir, R. and Shteyer, E. and Bdolah-Abram, T. and Ledder, O. and Turner, D.},
+   title = {Early endoscopic, laboratory and clinical predictors of poor disease course in paediatric ulcerative colitis},
+   journal = {Gut},
+   volume = {64},
+   number = {4},
+   pages = {580-8},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2014-306999},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {24848266}
+}
+
+@article{RN4394,
+   author = {Schulze, H. and Esters, P. and Dignass, A.},
+   title = {Review article: the management of Crohn's disease and ulcerative colitis during pregnancy and lactation},
+   journal = {Aliment Pharmacol Ther},
+   volume = {40},
+   number = {9},
+   pages = {991-1008},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12949},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25200000}
+}
+
+@article{RN4454,
+   author = {Serrano Leon, A. and Amir Shaghaghi, M. and Yurkova, N. and Bernstein, C. N. and El-Gabalawy, H. and Eck, P.},
+   title = {Single-nucleotide polymorphisms in SLC22A23 are associated with ulcerative colitis in a Canadian white cohort},
+   journal = {Am J Clin Nutr},
+   volume = {100},
+   number = {1},
+   pages = {289-94},
+   ISSN = {0002-9165},
+   DOI = {10.3945/ajcn.113.080549},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24740203}
+}
+
+@article{RN4449,
+   author = {Shim, J. O. and Seo, J. K.},
+   title = {Very early-onset inflammatory bowel disease (IBD) in infancy is a different disease entity from adult-onset IBD; one form of interleukin-10 receptor mutations},
+   journal = {J Hum Genet},
+   volume = {59},
+   number = {6},
+   pages = {337-41},
+   ISSN = {1434-5161},
+   DOI = {10.1038/jhg.2014.32},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24785691}
+}
+
+@article{RN4396,
+   author = {Shin, H. S. and Satsu, H. and Bae, M. J. and Zhao, Z. and Ogiwara, H. and Totsuka, M. and Shimizu, M.},
+   title = {Anti-inflammatory effect of chlorogenic acid on the IL-8 production in Caco-2 cells and the dextran sulphate sodium-induced colitis symptoms in C57BL/6 mice},
+   journal = {Food Chem},
+   volume = {168},
+   pages = {167-75},
+   ISSN = {0308-8146},
+   DOI = {10.1016/j.foodchem.2014.06.100},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25172696}
+}
+
+@article{RN4446,
+   author = {Shouval, D. S. and Biswas, A. and Goettel, J. A. and McCann, K. and Conaway, E. and Redhu, N. S. and Mascanfroni, I. D. and Al Adham, Z. and Lavoie, S. and Ibourk, M. and Nguyen, D. D. and Samsom, J. N. and Escher, J. C. and Somech, R. and Weiss, B. and Beier, R. and Conklin, L. S. and Ebens, C. L. and Santos, F. G. and Ferreira, A. R. and Sherlock, M. and Bhan, A. K. and Muller, W. and Mora, J. R. and Quintana, F. J. and Klein, C. and Muise, A. M. and Horwitz, B. H. and Snapper, S. B.},
+   title = {Interleukin-10 receptor signaling in innate immune cells regulates mucosal immune tolerance and anti-inflammatory macrophage function},
+   journal = {Immunity},
+   volume = {40},
+   number = {5},
+   pages = {706-19},
+   ISSN = {1074-7613},
+   DOI = {10.1016/j.immuni.2014.03.011},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24792912}
+}
+
+@article{RN4489,
+   author = {Shouval, D. S. and Ouahed, J. and Biswas, A. and Goettel, J. A. and Horwitz, B. H. and Klein, C. and Muise, A. M. and Snapper, S. B.},
+   title = {Interleukin 10 receptor signaling: master regulator of intestinal mucosal homeostasis in mice and humans},
+   journal = {Adv Immunol},
+   volume = {122},
+   pages = {177-210},
+   ISSN = {0065-2776},
+   DOI = {10.1016/b978-0-12-800267-4.00005-5},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24507158}
+}
+
+@article{RN4528,
+   author = {Singla, V. and Pratap Mouli, V. and Garg, S. K. and Rai, T. and Choudhury, B. N. and Verma, P. and Deb, R. and Tiwari, V. and Rohatgi, S. and Dhingra, R. and Kedia, S. and Sharma, P. K. and Makharia, G. and Ahuja, V.},
+   title = {Induction with NCB-02 (curcumin) enema for mild-to-moderate distal ulcerative colitis - a randomized, placebo-controlled, pilot study},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {3},
+   pages = {208-14},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.08.006},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24011514}
+}
+
+@article{RN4439,
+   author = {Sokol, H. and Seksik, P. and Cosnes, J.},
+   title = {Complications and surgery in the inflammatory bowel diseases biological era},
+   journal = {Curr Opin Gastroenterol},
+   volume = {30},
+   number = {4},
+   pages = {378-84},
+   ISSN = {0267-1379},
+   DOI = {10.1097/mog.0000000000000078},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24840000}
+}
+
+@article{RN4379,
+   author = {Sokulmez, P. and Demirbag, A. E. and Arslan, P. and Disibeyaz, S.},
+   title = {Effects of enteral nutritional support on malnourished patients with inflammatory bowel disease by subjective global assessment},
+   journal = {Turk J Gastroenterol},
+   volume = {25},
+   number = {5},
+   pages = {493-507},
+   ISSN = {1300-4948},
+   DOI = {10.5152/tjg.2014.4955},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25417609}
+}
+
+@article{RN4514,
+   author = {Song, Y. and Dunkin, D. and Dahan, S. and Iuga, A. and Ceballos, C. and Hoffstadter-Thal, K. and Yang, N. and Benkov, K. and Mayer, L. and Li, X. M.},
+   title = {Anti-inflammatory effects of the Chinese herbal formula FAHF-2 in experimental and human IBD},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {1},
+   pages = {144-53},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.Mib.0000436467.37566.48},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24252977}
+}
+
+@article{RN4371,
+   author = {Spalinger, M. R. and Kasper, S. and Chassard, C. and Raselli, T. and Frey-Wagner, I. and Gottier, C. and Lang, S. and Atrott, K. and Vavricka, S. R. and Mair, F. and Becher, B. and Lacroix, C. and Fried, M. and Rogler, G. and Scharl, M.},
+   title = {PTPN2 controls differentiation of CD4(+) T cells and limits intestinal inflammation and intestinal dysbiosis},
+   journal = {Mucosal Immunol},
+   volume = {8},
+   number = {4},
+   pages = {918-29},
+   ISSN = {1933-0219},
+   DOI = {10.1038/mi.2014.122},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25492475}
+}
+
+@article{RN4385,
+   author = {Speca, S. and Dubuquoy, L. and Desreumaux, P.},
+   title = {Peroxisome proliferator-activated receptor gamma in the colon: inflammation and innate antimicrobial immunity},
+   journal = {J Clin Gastroenterol},
+   volume = {48 Suppl 1},
+   pages = {S23-7},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000253},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25291120}
+}
+
+@article{RN4500,
+   author = {Spooren, C. E. and Pierik, M. J. and Zeegers, M. P. and Feskens, E. J. and Masclee, A. A. and Jonkers, D. M.},
+   title = {Letter: role of diet in the onset and relapse of inflammatory bowel disease from the patients' perspective--authors' reply},
+   journal = {Aliment Pharmacol Ther},
+   volume = {39},
+   number = {3},
+   pages = {340-1},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12586},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24397322}
+}
+
+@article{RN4477,
+   author = {Stein, A. C. and Cohen, R. D.},
+   title = {Dietary fiber intake and Crohn's disease},
+   journal = {Gastroenterology},
+   volume = {146},
+   number = {4},
+   pages = {1133},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2013.12.044},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24576734}
+}
+
+@article{RN4367,
+   author = {Sun, J. and Lin, J. and Parashette, K. and Zhang, J. and Fan, R.},
+   title = {Association of lymphocytic colitis and lactase deficiency in pediatric population},
+   journal = {Pathol Res Pract},
+   volume = {211},
+   number = {2},
+   pages = {138-44},
+   ISSN = {0344-0338},
+   DOI = {10.1016/j.prp.2014.11.009},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25523228}
+}
+
+@article{RN4466,
+   author = {Swoger, J. M. and Regueiro, M.},
+   title = {Stopping, continuing, or restarting immunomodulators and biologics when an infection or malignancy develops},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {5},
+   pages = {926-35},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000002},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24651584}
+}
+
+@article{RN4515,
+   author = {Talero, E. and Garcia-Maurino, S. and Motilva, V.},
+   title = {Melatonin, autophagy and intestinal bowel disease},
+   journal = {Curr Pharm Des},
+   volume = {20},
+   number = {30},
+   pages = {4816-27},
+   ISSN = {1381-6128},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24251670}
+}
+
+@article{RN4387,
+   author = {Thies, F. and Masson, L. F. and Boffetta, P. and Kris-Etherton, P.},
+   title = {Oats and bowel disease: a systematic literature review},
+   journal = {Br J Nutr},
+   volume = {112 Suppl 2},
+   pages = {S31-43},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114514002293},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25267242}
+}
+
+@article{RN4505,
+   author = {Triantafillidis, J. K. and Papalois, A. E.},
+   title = {The role of total parenteral nutrition in inflammatory bowel disease: current aspects},
+   journal = {Scand J Gastroenterol},
+   volume = {49},
+   number = {1},
+   pages = {3-14},
+   ISSN = {0036-5521},
+   DOI = {10.3109/00365521.2013.860557},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24354966}
+}
+
+@article{RN4401,
+   author = {Truninger, K.},
+   title = {[Diarrhea in the elderly]},
+   journal = {Ther Umsch},
+   volume = {71},
+   number = {9},
+   pages = {545-50},
+   ISSN = {0040-5930 (Print)
+0040-5930},
+   DOI = {10.1024/0040-5930/a000550},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25154690}
+}
+
+@article{RN4497,
+   author = {Tsiountsioura, M. and Wong, J. E. and Upton, J. and McIntyre, K. and Dimakou, D. and Buchanan, E. and Cardigan, T. and Flynn, D. and Bishop, J. and Russell, R. K. and Barclay, A. and McGrogan, P. and Edwards, C. and Gerasimidis, K.},
+   title = {Detailed assessment of nutritional status and eating patterns in children with gastrointestinal diseases attending an outpatients clinic and contemporary healthy controls},
+   journal = {Eur J Clin Nutr},
+   volume = {68},
+   number = {6},
+   pages = {700-6},
+   ISSN = {0954-3007},
+   DOI = {10.1038/ejcn.2013.286},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24424079}
+}
+
+@article{RN4420,
+   author = {Turner, D.},
+   title = {Relapsing and refractory ulcerative colitis in children},
+   journal = {Dig Dis},
+   volume = {32},
+   number = {4},
+   pages = {419-26},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000358148},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24969290}
+}
+
+@article{RN4423,
+   author = {Turner, D. and Levine, A. and Kolho, K. L. and Shaoul, R. and Ledder, O.},
+   title = {Combination of oral antibiotics may be effective in severe pediatric ulcerative colitis: a preliminary report},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {11},
+   pages = {1464-70},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2014.05.010},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24958064}
+}
+
+@article{RN4405,
+   author = {Tursi, A. and Elisei, W. and Picchio, M. and Penna, A. and Lecca, P. G. and Forti, G. and Giorgetti, G. and Faggiani, R. and Zampaletta, C. and Pelecca, G. and Brandimarte, G.},
+   title = {Managing ambulatory ulcerative colitis patients with infliximab: a long term follow-up study in primary gastroenterology centers},
+   journal = {Eur J Intern Med},
+   volume = {25},
+   number = {8},
+   pages = {757-61},
+   ISSN = {0953-6205},
+   DOI = {10.1016/j.ejim.2014.07.007},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25086677}
+}
+
+@article{RN4409,
+   author = {Uhlig, H. H. and Schwerd, T. and Koletzko, S. and Shah, N. and Kammermeier, J. and Elkadri, A. and Ouahed, J. and Wilson, D. C. and Travis, S. P. and Turner, D. and Klein, C. and Snapper, S. B. and Muise, A. M.},
+   title = {The diagnostic approach to monogenic very early onset inflammatory bowel disease},
+   journal = {Gastroenterology},
+   volume = {147},
+   number = {5},
+   pages = {990-1007.e3},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2014.07.023},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25058236}
+}
+
+@article{RN4523,
+   author = {Urlep, D. and Trop, T. K. and Blagus, R. and Orel, R.},
+   title = {Incidence and phenotypic characteristics of pediatric IBD in northeastern Slovenia, 2002-2010},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {58},
+   number = {3},
+   pages = {325-32},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000207},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24135984}
+}
+
+@article{RN4507,
+   author = {van Langenberg, D. R. and Della Gatta, P. and Hill, B. and Zacharewicz, E. and Gibson, P. R. and Russell, A. P.},
+   title = {Delving into disability in Crohn's disease: dysregulation of molecular pathways may explain skeletal muscle loss in Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {7},
+   pages = {626-34},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.11.024},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24332699}
+}
+
+@article{RN4530,
+   author = {van Langenberg, D. R. and Della Gatta, P. and Warmington, S. A. and Kidgell, D. J. and Gibson, P. R. and Russell, A. P.},
+   title = {Objectively measured muscle fatigue in Crohn's disease: correlation with self-reported fatigue and associated factors for clinical application},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {2},
+   pages = {137-46},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.07.006},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23938210}
+}
+
+@article{RN4445,
+   author = {Varni, J. W. and Bendo, C. B. and Denham, J. and Shulman, R. J. and Self, M. M. and Neigut, D. A. and Nurko, S. and Patel, A. S. and Franciosi, J. P. and Saps, M. and Verga, B. and Smith, A. and Yeckes, A. and Heinz, N. and Langseder, A. and Saeed, S. and Zacur, G. M. and Pohl, J. F.},
+   title = {PedsQL gastrointestinal symptoms module: feasibility, reliability, and validity},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {3},
+   pages = {347-55},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000414},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24806837}
+}
+
+@article{RN4391,
+   author = {Varni, J. W. and Bendo, C. B. and Nurko, S. and Shulman, R. J. and Self, M. M. and Franciosi, J. P. and Saps, M. and Pohl, J. F.},
+   title = {Health-related quality of life in pediatric patients with functional and organic gastrointestinal diseases},
+   journal = {J Pediatr},
+   volume = {166},
+   number = {1},
+   pages = {85-90},
+   ISSN = {0022-3476},
+   DOI = {10.1016/j.jpeds.2014.08.022},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25241177}
+}
+
+@article{RN4368,
+   author = {Vecchi Brumatti, L. and Marcuzzi, A. and Tricarico, P. M. and Zanin, V. and Girardelli, M. and Bianco, A. M.},
+   title = {Curcumin and inflammatory bowel disease: potential and limits of innovative treatments},
+   journal = {Molecules},
+   volume = {19},
+   number = {12},
+   pages = {21127-53},
+   ISSN = {1420-3049},
+   DOI = {10.3390/molecules191221127},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25521115}
+}
+
+@article{RN4376,
+   author = {Verhaegh, B. P. and Jonkers, D. M. and Driessen, A. and Zeegers, M. P. and Keszthelyi, D. and Masclee, A. A. and Pierik, M. J.},
+   title = {Incidence of microscopic colitis in the Netherlands. A nationwide population-based study from 2000 to 2012},
+   journal = {Dig Liver Dis},
+   volume = {47},
+   number = {1},
+   pages = {30-6},
+   ISSN = {1590-8658},
+   DOI = {10.1016/j.dld.2014.09.019},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25455154}
+}
+
+@article{RN4504,
+   author = {Vogel, P. and Kasper Machado, I. and Garavaglia, J. and Zani, V. T. and de Souza, D. and Morelo Dal Bosco, S.},
+   title = {Polyphenols benefits of olive leaf (Olea europaea L) to human health},
+   journal = {Nutr Hosp},
+   volume = {31},
+   number = {3},
+   pages = {1427-33},
+   ISSN = {0212-1611},
+   DOI = {10.3305/nh.2015.31.3.8400},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25726243}
+}
+
+@article{RN4389,
+   author = {Walton, M. and Alaunyte, I.},
+   title = {Do patients living with ulcerative colitis adhere to healthy eating guidelines? A cross-sectional study},
+   journal = {Br J Nutr},
+   volume = {112},
+   number = {10},
+   pages = {1628-35},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114514002074},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25247445}
+}
+
+@article{RN4412,
+   author = {Wang, A. and Keita, A. V. and Phan, V. and McKay, C. M. and Schoultz, I. and Lee, J. and Murphy, M. P. and Fernando, M. and Ronaghan, N. and Balce, D. and Yates, R. and Dicay, M. and Beck, P. L. and MacNaughton, W. K. and Soderholm, J. D. and McKay, D. M.},
+   title = {Targeting mitochondria-derived reactive oxygen species to reduce epithelial barrier dysfunction and colitis},
+   journal = {Am J Pathol},
+   volume = {184},
+   number = {9},
+   pages = {2516-27},
+   ISSN = {0002-9440},
+   DOI = {10.1016/j.ajpath.2014.05.019},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25034594}
+}
+
+@article{RN4433,
+   author = {Wang, L. and Cao, H. and Liu, L. and Wang, B. and Walker, W. A. and Acra, S. A. and Yan, F.},
+   title = {Activation of epidermal growth factor receptor mediates mucin production stimulated by p40, a Lactobacillus rhamnosus GG-derived protein},
+   journal = {J Biol Chem},
+   volume = {289},
+   number = {29},
+   pages = {20234-44},
+   ISSN = {0021-9258},
+   DOI = {10.1074/jbc.M114.553800},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24895124}
+}
+
+@article{RN4495,
+   author = {Wedlake, L. and Slack, N. and Andreyev, H. J. and Whelan, K.},
+   title = {Fiber in the treatment and maintenance of inflammatory bowel disease: a systematic review of randomized controlled trials},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {3},
+   pages = {576-86},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.Mib.0000437984.92565.31},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24445775}
+}
+
+@article{RN4374,
+   author = {Weintraub, Y. and Mimouni, F. B. and Cohen, S.},
+   title = {Temporal trends in inflammatory bowel disease publications over a 19-years period},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {44},
+   pages = {16745-9},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i44.16745},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25469047}
+}
+
+@article{RN4425,
+   author = {Wenzel, U. A. and Magnusson, M. K. and Rydstrom, A. and Jonstrand, C. and Hengst, J. and Johansson, M. E. and Velcich, A. and Ohman, L. and Strid, H. and Sjovall, H. and Hansson, G. C. and Wick, M. J.},
+   title = {Spontaneous colitis in Muc2-deficient mice reflects clinical and cellular features of active ulcerative colitis},
+   journal = {PLoS One},
+   volume = {9},
+   number = {6},
+   pages = {e100217},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0100217},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24945909}
+}
+
+@article{RN4506,
+   author = {Werner, H. and Landolt, M. A. and Buehr, P. and Koller, R. and Nydegger, A. and Spalinger, J. and Heyland, K. and Schibli, S. and Braegger, C. P.},
+   title = {Validation of the IMPACT-III quality of life questionnaire in Swiss children with inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {7},
+   pages = {641-8},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.11.025},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24342766}
+}
+
+@article{RN4472,
+   author = {Wills, E. S. and Jonkers, D. M. and Savelkoul, P. H. and Masclee, A. A. and Pierik, M. J. and Penders, J.},
+   title = {Fecal microbial composition of ulcerative colitis and Crohn's disease patients in remission and subsequent exacerbation},
+   journal = {PLoS One},
+   volume = {9},
+   number = {3},
+   pages = {e90981},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0090981},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24608638}
+}
+
+@article{RN4377,
+   author = {Winter, H. S. and Krzeski, P. and Heyman, M. B. and Ibarguen-Secchia, E. and Iwanczak, B. and Kaczmarski, M. and Kierkus, J. and Kolacek, S. and Osuntokun, B. and Quiros, J. A. and Shah, M. and Yacyshyn, B. and Dunnmon, P. M.},
+   title = {High- and low-dose oral delayed-release mesalamine in children with mild-to-moderately active ulcerative colitis},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {59},
+   number = {6},
+   pages = {767-72},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000530},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25419597}
+}
+
+@article{RN4524,
+   author = {Wong, S. C. and Catto-Smith, A. G. and Zacharin, M.},
+   title = {Pathological fractures in paediatric patients with inflammatory bowel disease},
+   journal = {Eur J Pediatr},
+   volume = {173},
+   number = {2},
+   pages = {141-51},
+   ISSN = {0340-6199},
+   DOI = {10.1007/s00431-013-2174-5},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24132387}
+}
+
+@article{RN4476,
+   author = {Wuensch, T. and Ullrich, S. and Schulz, S. and Chamaillard, M. and Schaltenberg, N. and Rath, E. and Goebel, U. and Sartor, R. B. and Prager, M. and Buning, C. and Bugert, P. and Witt, H. and Haller, D. and Daniel, H.},
+   title = {Colonic expression of the peptide transporter PEPT1 is downregulated during intestinal inflammation and is not required for NOD2-dependent immune activation},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {671-84},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.Mib.0000443336.71488.08},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24583477}
+}
+
+@article{RN4408,
+   author = {Yanai, H. and Lichtenstein, L. and Assa, A. and Mazor, Y. and Weiss, B. and Levine, A. and Ron, Y. and Kopylov, U. and Bujanover, Y. and Rosenbach, Y. and Ungar, B. and Eliakim, R. and Chowers, Y. and Shamir, R. and Fraser, G. and Dotan, I. and Ben-Horin, S.},
+   title = {Levels of drug and antidrug antibodies are associated with outcome of interventions after loss of response to infliximab or adalimumab},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {13},
+   number = {3},
+   pages = {522-530.e2},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2014.07.029},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25066837}
+}
+
+@article{RN4531,
+   author = {Yang, Z. and Clark, N. and Park, K. T.},
+   title = {Effectiveness and cost-effectiveness of measuring fecal calprotectin in diagnosis of inflammatory bowel disease in adults and children},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {12},
+   number = {2},
+   pages = {253-62.e2},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2013.06.028},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {23883663}
+}
+
+@article{RN4486,
+   author = {Zagato, E. and Mileti, E. and Massimiliano, L. and Fasano, F. and Budelli, A. and Penna, G. and Rescigno, M.},
+   title = {Lactobacillus paracasei CBA L74 metabolic products and fermented milk for infant formula have anti-inflammatory activity on dendritic cells in vitro and protective effects against colitis and an enteric pathogen in vivo},
+   journal = {PLoS One},
+   volume = {9},
+   number = {2},
+   pages = {e87615},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0087615},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24520333}
+}
+
+@article{RN4382,
+   author = {Zaja, O. and Popovic, M. and Lesar, T. and Pavic, I. and Hojsak, I.},
+   title = {Co-occurrence of celiac disease and ulcerative colitis in a 12-year-old girl},
+   journal = {Fetal Pediatr Pathol},
+   volume = {34},
+   number = {2},
+   pages = {99-102},
+   ISSN = {1551-3815},
+   DOI = {10.3109/15513815.2014.970262},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25353699}
+}
+
+@article{RN4509,
+   author = {Zaltman, C. and Braulio, V. B. and Outeiral, R. and Nunes, T. and de Castro, C. L.},
+   title = {Lower extremity mobility limitation and impaired muscle function in women with ulcerative colitis},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {6},
+   pages = {529-35},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.11.006},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24315794}
+}
+
+@article{RN4508,
+   author = {Zephir, H. and Gower-Rousseau, C. and Salleron, J. and Simon, O. and Debouverie, M. and Le Page, E. and Bouhnik, Y. and Lebrun-Frenay, C. and Papeix, C. and Vigneron, B. and Allez, M. and Prin, L. and Cosnes, J. and Vermersch, P. and Colombel, J. F.},
+   title = {Milder multiple sclerosis course in patients with concomitant inflammatory bowel disease},
+   journal = {Mult Scler},
+   volume = {20},
+   number = {8},
+   pages = {1135-9},
+   ISSN = {1352-4585},
+   DOI = {10.1177/1352458513515081},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24326672}
+}
+
+@article{RN4384,
+   author = {Zhu, L. and Baker, R. D. and Baker, S. S.},
+   title = {Gut microbiome and nonalcoholic fatty liver diseases},
+   journal = {Pediatr Res},
+   volume = {77},
+   number = {1-2},
+   pages = {245-51},
+   ISSN = {0031-3998},
+   DOI = {10.1038/pr.2014.157},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25310763}
+}
+
+@article{RN4478,
+   author = {Zitomersky, N. L. and Trenor, C. C., 3rd},
+   title = {Authors' response},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {58},
+   number = {6},
+   pages = {e58},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000346},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24572594}
+}
+

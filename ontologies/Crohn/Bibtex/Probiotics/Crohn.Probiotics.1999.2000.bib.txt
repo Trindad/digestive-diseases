@@ -1,0 +1,114 @@
+﻿@article{RN9880,
+   author = {Biancone, L. and Pallone, F.},
+   title = {Current treatment modalities in active Crohn's disease},
+   journal = {Ital J Gastroenterol Hepatol},
+   volume = {31},
+   number = {6},
+   pages = {508-14},
+   ISSN = {1125-8055 (Print)
+1125-8055},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10575571}
+}
+
+@article{RN9877,
+   author = {Duchmann, R. and Lochs, H. and Kruis, W.},
+   title = {[Crohn disease, ulcerative colitis. When bacteria attack the intestinal wall....]},
+   journal = {MMW Fortschr Med},
+   volume = {141},
+   number = {51-52},
+   pages = {48-51},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10949626}
+}
+
+@article{RN9874,
+   author = {Gupta, P. and Andrew, H. and Kirschner, B. S. and Guandalini, S.},
+   title = {Is lactobacillus GG helpful in children with Crohn's disease? Results of a preliminary, open-label study},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {31},
+   number = {4},
+   pages = {453-7},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11045848}
+}
+
+@article{RN9873,
+   author = {Guslandi, M.},
+   title = {The relationship between gut microflora and intestinal inflammation},
+   journal = {Can J Gastroenterol},
+   volume = {14},
+   number = {1},
+   pages = {32},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10755845}
+}
+
+@article{RN9876,
+   author = {Guslandi, M. and Mezzi, G. and Sorghi, M. and Testoni, P. A.},
+   title = {Saccharomyces boulardii in maintenance treatment of Crohn's disease},
+   journal = {Dig Dis Sci},
+   volume = {45},
+   number = {7},
+   pages = {1462-4},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10961730}
+}
+
+@article{RN9879,
+   author = {Marteau, P.},
+   title = {Inflammatory bowel disease},
+   journal = {Endoscopy},
+   volume = {32},
+   number = {2},
+   pages = {131-7},
+   ISSN = {0013-726X (Print)
+0013-726x},
+   DOI = {10.1055/s-2000-142},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10696841}
+}
+
+@article{RN9878,
+   author = {Shanahan, F.},
+   title = {Probiotics and inflammatory bowel disease: is there a scientific rationale?},
+   journal = {Inflamm Bowel Dis},
+   volume = {6},
+   number = {2},
+   pages = {107-15},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200005000-00007},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10833070}
+}
+
+@article{RN9875,
+   author = {Shanahan, F. and McCarthy, J.},
+   title = {Functional foods and probiotics: time for gastroenterologists to embrace the concept},
+   journal = {Curr Gastroenterol Rep},
+   volume = {2},
+   number = {5},
+   pages = {345-6},
+   ISSN = {1522-8037 (Print)
+1522-8037},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10998660}
+}
+

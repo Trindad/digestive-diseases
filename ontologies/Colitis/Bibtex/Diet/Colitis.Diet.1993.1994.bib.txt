@@ -1,0 +1,367 @@
+﻿@article{RN40,
+   title = {Dietary and other risk factors of ulcerative colitis. A case-control study in Japan. Epidemiology Group of the Research Committee of Inflammatory Bowel Disease in Japan},
+   journal = {J Clin Gastroenterol},
+   volume = {19},
+   number = {2},
+   pages = {166-71},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7963367}
+}
+
+@article{RN38,
+   author = {Ansaldi, N. and Ferrero, L. and Boccardo, G.},
+   title = {[Short-chain fatty acids in the colon]},
+   journal = {Minerva Pediatr},
+   volume = {46},
+   number = {10},
+   pages = {417-20},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7808361}
+}
+
+@article{RN58,
+   author = {Awad, R. W. and el-Gohary, T. M. and Skilton, J. S. and Elder, J. B.},
+   title = {Life quality and psychological morbidity with an ileostomy},
+   journal = {Br J Surg},
+   volume = {80},
+   number = {2},
+   pages = {252-3},
+   ISSN = {0007-1323 (Print)
+0007-1323},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8443674}
+}
+
+@article{RN47,
+   author = {Bartram, C. I. and Halligan, S.},
+   title = {Radiological investigation of chronic inflammatory bowel disease in childhood},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {8},
+   number = {1},
+   pages = {101-19},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8003738}
+}
+
+@article{RN46,
+   author = {Beitz, J. M.},
+   title = {The ileoanal reservoir: an alternative to ileostomy},
+   journal = {J Wound Ostomy Continence Nurs},
+   volume = {21},
+   number = {3},
+   pages = {120-5},
+   ISSN = {1071-5754 (Print)
+1071-5754},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7858675}
+}
+
+@article{RN44,
+   author = {Bernstein, C. N. and Ament, M. and Artinian, L. and Ridgeway, J. and Shanahan, F.},
+   title = {Milk tolerance in adults with ulcerative colitis},
+   journal = {Am J Gastroenterol},
+   volume = {89},
+   number = {6},
+   pages = {872-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8198097}
+}
+
+@article{RN61,
+   author = {Bigard, M. A.},
+   title = {[Functional results of ileo-anal anastomosis. The point of view of the gastroenterologist]},
+   journal = {Ann Chir},
+   volume = {47},
+   number = {10},
+   pages = {992-5},
+   ISSN = {0003-3944 (Print)
+0003-3944},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8161148}
+}
+
+@article{RN45,
+   author = {Celestino, A. and Castillo, T. and Contardo, C. and Frisancho, O. and Osorio, M. and Huaroto, M. and Vidal, P. and Ruiz, E. and Gomez, A. and Mantilla, L. and et al.},
+   title = {[Colonoscopic diagnosis]},
+   journal = {Rev Gastroenterol Peru},
+   volume = {14},
+   number = {2},
+   pages = {115-22},
+   ISSN = {1022-5129 (Print)
+1022-5129},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7948939}
+}
+
+@article{RN51,
+   author = {Ferguson, A. and Ghosh, S. and Harny, L. M. and Choudari, C. and Mwantembe, O. and McIntyre, M. A.},
+   title = {Analysis of disease distribution, activity and complications in the patient with inflammatory bowel disease},
+   journal = {Scand J Gastroenterol Suppl},
+   volume = {203},
+   pages = {15-9},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7973442}
+}
+
+@article{RN59,
+   author = {Fisher, S. E.},
+   title = {Nutritional therapy of chronic ulcerative colitis},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {16},
+   number = {2},
+   pages = {224},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8095523}
+}
+
+@article{RN49,
+   author = {Fuller, M. F. and Milne, A. and Harris, C. I. and Reid, T. M. and Keenan, R.},
+   title = {Amino acid losses in ileostomy fluid on a protein-free diet},
+   journal = {Am J Clin Nutr},
+   volume = {59},
+   number = {1},
+   pages = {70-3},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/59.1.70},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8279406}
+}
+
+@article{RN56,
+   author = {Hanauer, S. B.},
+   title = {Medical therapy of ulcerative colitis},
+   journal = {Lancet},
+   volume = {342},
+   number = {8868},
+   pages = {412-7},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8101907}
+}
+
+@article{RN48,
+   author = {Hizawa, K. and Iida, M. and Kohrogi, N. and Kuroki, F. and Yao, T. and Sakamoto, K. and Fujishima, M.},
+   title = {Crohn disease: early recognition and progress of aphthous lesions},
+   journal = {Radiology},
+   volume = {190},
+   number = {2},
+   pages = {451-4},
+   ISSN = {0033-8419 (Print)
+0033-8419},
+   DOI = {10.1148/radiology.190.2.8284398},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8284398}
+}
+
+@article{RN54,
+   author = {Jones, S. C. and Evans, S. W. and Lobo, A. J. and Ceska, M. and Axon, A. T. and Whicher, J. T.},
+   title = {Serum interleukin-8 in inflammatory bowel disease},
+   journal = {J Gastroenterol Hepatol},
+   volume = {8},
+   number = {6},
+   pages = {508-12},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8280836}
+}
+
+@article{RN53,
+   author = {Karvonen, A. L. and Matikainen, M. and Turunen, U.},
+   title = {[Changing treatment of inflammatory bowel diseases]},
+   journal = {Duodecim},
+   volume = {110},
+   number = {20},
+   pages = {1945-54},
+   ISSN = {0012-7183 (Print)
+0012-7183},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7555809}
+}
+
+@article{RN42,
+   author = {Lake, A. M.},
+   title = {The polymorph in red is no lady},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {19},
+   number = {1},
+   pages = {4-6},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7965475}
+}
+
+@article{RN60,
+   author = {Lashner, B. A.},
+   title = {Red blood cell folate is associated with the development of dysplasia and cancer in ulcerative colitis},
+   journal = {J Cancer Res Clin Oncol},
+   volume = {119},
+   number = {9},
+   pages = {549-54},
+   ISSN = {0171-5216 (Print)
+0171-5216},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8392076}
+}
+
+@article{RN52,
+   author = {Lehur, P. A. and Guiberteau-Canfrere, V. and Galmiche, J. P. and Le Bodic, L. and Le Borgne, J.},
+   title = {[Quality of life and ileo-anal anastomosis with pouch. Results of a prospective series of 35 surgically treated cases of hemorrhagic rectocolitis. Proposal for a score of quality of life]},
+   journal = {Chirurgie},
+   volume = {120},
+   number = {3},
+   pages = {139-46},
+   ISSN = {0001-4001 (Print)
+0001-4001},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7729227}
+}
+
+@article{RN36,
+   author = {Lewis, J. D. and Fisher, R. L.},
+   title = {Nutrition support in inflammatory bowel disease},
+   journal = {Med Clin North Am},
+   volume = {78},
+   number = {6},
+   pages = {1443-56},
+   ISSN = {0025-7125 (Print)
+0025-7125},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7967919}
+}
+
+@article{RN43,
+   author = {Machida, H. M. and Catto Smith, A. G. and Gall, D. G. and Trevenen, C. and Scott, R. B.},
+   title = {Allergic colitis in infancy: clinical and pathologic aspects},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {19},
+   number = {1},
+   pages = {22-6},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7965472}
+}
+
+@article{RN39,
+   author = {Matos Villalobos, M.},
+   title = {[Etiology of colorectal cancer]},
+   journal = {G e n},
+   volume = {48},
+   number = {4},
+   pages = {264-72},
+   ISSN = {0016-3503 (Print)
+0016-3503},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7557283}
+}
+
+@article{RN37,
+   author = {Rigaud, D. and Angel, L. A. and Cerf, M. and Carduner, M. J. and Melchior, J. C. and Sautier, C. and Rene, E. and Apfelbaum, M. and Mignon, M.},
+   title = {Mechanisms of decreased food intake during weight loss in adult Crohn's disease patients without obvious malabsorption},
+   journal = {Am J Clin Nutr},
+   volume = {60},
+   number = {5},
+   pages = {775-81},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/60.5.775},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7942586}
+}
+
+@article{RN50,
+   author = {Scheppach, W.},
+   title = {Effects of short chain fatty acids on gut morphology and function},
+   journal = {Gut},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S35-8},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.35.1_suppl.s35},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8125387}
+}
+
+@article{RN41,
+   author = {Teahon, K. and Webster, A. D. and Price, A. B. and Weston, J. and Bjarnason, I.},
+   title = {Studies on the enteropathy associated with primary hypogammaglobulinaemia},
+   journal = {Gut},
+   volume = {35},
+   number = {9},
+   pages = {1244-9},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.35.9.1244},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7959231}
+}
+
+@article{RN57,
+   author = {Van de Wal, Y. and Van der Sluys Veer, A. and Verspaget, H. W. and Mulder, T. P. and Griffioen, G. and Van Tol, E. A. and Pena, A. S. and Lamers, C. B.},
+   title = {Effect of zinc therapy on natural killer cell activity in inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {7},
+   number = {3},
+   pages = {281-6},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8364133}
+}
+
+@article{RN55,
+   author = {Walfish, S. and Twena, M. and Avinoah, E. and Charuzi, I.},
+   title = {[Experience with biofragmentable anastomotic rings]},
+   journal = {Harefuah},
+   volume = {125},
+   number = {9},
+   pages = {263-4, 328},
+   ISSN = {0017-7768 (Print)
+0017-7768},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8253416}
+}
+

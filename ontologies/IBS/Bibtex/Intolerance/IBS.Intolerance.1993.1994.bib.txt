@@ -1,0 +1,113 @@
+﻿@article{RN12299,
+   author = {Bottaro, G. and Failla, P. and Rotolo, N. and Azzaro, F. and Spina, M. and Castiglione, N. and Patane, R.},
+   title = {[The predictive value of antigliadin antibodies (AGA) in the diagnosis of non-celiac gastrointestinal disease in children]},
+   journal = {Minerva Pediatr},
+   volume = {45},
+   number = {3},
+   pages = {93-8},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8341233}
+}
+
+@article{RN12293,
+   author = {Gertner, D. and Powell-Tuck, J.},
+   title = {Irritable bowel syndrome and food intolerance},
+   journal = {Practitioner},
+   volume = {238},
+   number = {1540},
+   pages = {499-502, 504},
+   ISSN = {0032-6518 (Print)
+0032-6518},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7937502}
+}
+
+@article{RN12298,
+   author = {Grazioli, I. and Melzi, G. and Balsamo, V. and Castellucci, G. and Castro, M. and Catassi, C. and Ratsch, J. M. and Scotta, S.},
+   title = {[Food intolerance and irritable bowel syndrome of childhood: clinical efficacy of oral sodium cromoglycate and elimination diet]},
+   journal = {Minerva Pediatr},
+   volume = {45},
+   number = {6},
+   pages = {253-8},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8232112}
+}
+
+@article{RN12295,
+   author = {Gudmand-Hoyer, E.},
+   title = {The clinical significance of disaccharide maldigestion},
+   journal = {Am J Clin Nutr},
+   volume = {59},
+   number = {3 Suppl},
+   pages = {735s-741s},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/59.3.735S},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8116558}
+}
+
+@article{RN12297,
+   author = {Lipsky, M. S. and Adelman, M.},
+   title = {Chronic diarrhea: evaluation and treatment},
+   journal = {Am Fam Physician},
+   volume = {48},
+   number = {8},
+   pages = {1461-6},
+   ISSN = {0002-838X (Print)
+0002-838x},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8249777}
+}
+
+@article{RN12300,
+   author = {Schofl, R. and Ferenci, P. and Vogelsang, H. and Gangl, A.},
+   title = {[Effect of a lactose-free diet on irritable bowel syndrome]},
+   journal = {Wien Klin Wochenschr},
+   volume = {105},
+   number = {12},
+   pages = {342-5},
+   ISSN = {0043-5325 (Print)
+0043-5325},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8333203}
+}
+
+@article{RN12294,
+   author = {Spollett, G. R.},
+   title = {Nutritional management of common gastrointestinal problems},
+   journal = {Nurse Pract Forum},
+   volume = {5},
+   number = {1},
+   pages = {24-7},
+   ISSN = {1045-5485 (Print)
+1045-5485},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8148654}
+}
+
+@article{RN12296,
+   author = {Tolliver, B. A. and Herrera, J. L. and DiPalma, J. A.},
+   title = {Evaluation of patients who meet clinical criteria for irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {89},
+   number = {2},
+   pages = {176-8},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8304298}
+}
+

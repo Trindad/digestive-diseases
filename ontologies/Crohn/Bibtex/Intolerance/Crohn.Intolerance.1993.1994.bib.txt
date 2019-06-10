@@ -1,0 +1,72 @@
+﻿@article{RN7779,
+   author = {Knutson, L. and Hallgren, R. and Ahrenstedt, O. and Bengtsson, U. and Lavo, B. and Lennernas, H. and Wilhelmsson-Knutson, T.},
+   title = {[Segmental intestinal perfusion. A "new" technique for human studies]},
+   journal = {Lakartidningen},
+   volume = {91},
+   number = {19},
+   pages = {1941-6},
+   ISSN = {0023-7205 (Print)
+0023-7205},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8189945}
+}
+
+@article{RN7783,
+   author = {Kocian, J.},
+   title = {[Secondary osteopenia in gastrointestinal diseases]},
+   journal = {Vnitr Lek},
+   volume = {39},
+   number = {2},
+   pages = {125-31},
+   ISSN = {0042-773X (Print)
+0042-773x},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8506658}
+}
+
+@article{RN7782,
+   author = {Pearson, M. and Teahon, K. and Levi, A. J. and Bjarnason, I.},
+   title = {Food intolerance and Crohn's disease},
+   journal = {Gut},
+   volume = {34},
+   number = {6},
+   pages = {783-7},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.34.6.783},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8314511}
+}
+
+@article{RN7780,
+   author = {Riordan, A. M. and Rucker, J. T. and Kirby, G. A. and Hunter, J. O.},
+   title = {Food intolerance and Crohn's disease},
+   journal = {Gut},
+   volume = {35},
+   number = {4},
+   pages = {571-2},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.35.4.571-b},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8175004}
+}
+
+@article{RN7781,
+   author = {van Elburg, R. M. and Kokke, F. T. and Uil, J. J. and Mulder, C. J. and de Monchy, J. G. and Heymans, H. S.},
+   title = {[Measurement of selective intestinal permeability using a new, simple sugar absorption test]},
+   journal = {Ned Tijdschr Geneeskd},
+   volume = {137},
+   number = {41},
+   pages = {2091-5},
+   ISSN = {0028-2162 (Print)
+0028-2162},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8413731}
+}
+

@@ -1,0 +1,250 @@
+﻿@article{RN7855,
+   author = {Allez, M. and Vermeire, S. and Mozziconacci, N. and Michetti, P. and Laharie, D. and Louis, E. and Bigard, M. A. and Hebuterne, X. and Treton, X. and Kohn, A. and Marteau, P. and Cortot, A. and Nichita, C. and van Assche, G. and Rutgeerts, P. and Lemann, M. and Colombel, J. F.},
+   title = {The efficacy and safety of a third anti-TNF monoclonal antibody in Crohn's disease after failure of two other anti-TNF antibodies},
+   journal = {Aliment Pharmacol Ther},
+   volume = {31},
+   number = {1},
+   pages = {92-101},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2009.04130.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19709098}
+}
+
+@article{RN7863,
+   author = {Almer, S. H. and Hjortswang, H. and Hindorf, U.},
+   title = {6-Thioguanine therapy in Crohn's disease--observational data in Swedish patients},
+   journal = {Dig Liver Dis},
+   volume = {41},
+   number = {3},
+   pages = {194-200},
+   ISSN = {1590-8658},
+   DOI = {10.1016/j.dld.2008.07.314},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {18799369}
+}
+
+@article{RN7861,
+   author = {Baryshnikov, E. N. and Lazebnik, L. B. and Parfenov, A. I.},
+   title = {[Adalimumab therapy in Crohn's disdease]},
+   journal = {Eksp Klin Gastroenterol},
+   number = {5},
+   pages = {92-8},
+   ISSN = {1682-8658 (Print)
+1682-8658},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20205331}
+}
+
+@article{RN7864,
+   author = {Beaulieu, D. B. and Ananthakrishnan, A. N. and Issa, M. and Rosenbaum, L. and Skaros, S. and Newcomer, J. R. and Kuhlmann, R. S. and Otterson, M. F. and Emmons, J. and Knox, J. and Binion, D. G.},
+   title = {Budesonide induction and maintenance therapy for Crohn's disease during pregnancy},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {1},
+   pages = {25-8},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20640},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {18680195}
+}
+
+@article{RN7847,
+   author = {Echarri, A. and Castro, J. and Barreiro, M. and Carpio, D. and Pereira, S. and Lorenzo, A.},
+   title = {Evaluation of adalimumab therapy in multidisciplinary strategy for perianal Crohn's disease patients with infliximab failure},
+   journal = {J Crohns Colitis},
+   volume = {4},
+   number = {6},
+   pages = {654-60},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2010.07.012},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21122576}
+}
+
+@article{RN7851,
+   author = {Etchevers, M. J. and Ordas, I. and Ricart, E.},
+   title = {Optimizing the use of tumour necrosis factor inhibitors in Crohn's disease: a practical approach},
+   journal = {Drugs},
+   volume = {70},
+   number = {2},
+   pages = {109-20},
+   ISSN = {0012-6667},
+   DOI = {10.2165/11533700-000000000-00000},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20108987}
+}
+
+@article{RN7859,
+   author = {Gisbert, J. P. and Bermejo, F. and Pajares, R. and Perez-Calle, J. L. and Rodriguez, M. and Algaba, A. and Mancenido, N. and de la Morena, F. and Carneros, J. A. and McNicholl, A. G. and Gonzalez-Lama, Y. and Mate, J.},
+   title = {Oral and intravenous iron treatment in inflammatory bowel disease: hematological response and quality of life improvement},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {10},
+   pages = {1485-91},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20925},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19408339}
+}
+
+@article{RN7850,
+   author = {Juste, R. A.},
+   title = {Crohn's disease and ruminant farming. Got lactase?},
+   journal = {Med Hypotheses},
+   volume = {75},
+   number = {1},
+   pages = {7-13},
+   ISSN = {0306-9877},
+   DOI = {10.1016/j.mehy.2009.02.048},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20451331}
+}
+
+@article{RN7857,
+   author = {Laharie, D. and Chanteloup, E. and Chabrun, E. and Subtil, C. and Kowo, M. and El Hanafi, K. and V, D. E. Ledinghen},
+   title = {The tolerance and efficacy of a postponed retreatment with infliximab in Crohn's disease primary responders},
+   journal = {Aliment Pharmacol Ther},
+   volume = {29},
+   number = {12},
+   pages = {1240-8},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2009.03997.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19416134}
+}
+
+@article{RN7848,
+   author = {Margagnoni, G. and Papi, V. and Aratari, A. and Triolo, L. and Papi, C.},
+   title = {Methotrexate-induced pneumonitis in a patient with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {4},
+   number = {2},
+   pages = {211-4},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2009.11.007},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21122509}
+}
+
+@article{RN7862,
+   author = {Oussalah, A. and Babouri, A. and Chevaux, J. B. and Stancu, L. and Trouilloud, I. and Bensenane, M. and Boucekkine, T. and Bigard, M. A. and Peyrin-Biroulet, L.},
+   title = {Adalimumab for Crohn's disease with intolerance or lost response to infliximab: a 3-year single-centre experience},
+   journal = {Aliment Pharmacol Ther},
+   volume = {29},
+   number = {4},
+   pages = {416-23},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2008.03902.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19035976}
+}
+
+@article{RN7856,
+   author = {Petermann, I. and Triggs, C. M. and Huebner, C. and Han, D. Y. and Gearry, R. B. and Barclay, M. L. and Demmers, P. S. and McCulloch, A. and Ferguson, L. R.},
+   title = {Mushroom intolerance: a novel diet-gene interaction in Crohn's disease},
+   journal = {Br J Nutr},
+   volume = {102},
+   number = {4},
+   pages = {506-8},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114509276446},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19660151}
+}
+
+@article{RN7854,
+   author = {Rosh, J. R. and Lerer, T. and Markowitz, J. and Goli, S. R. and Mamula, P. and Noe, J. D. and Pfefferkorn, M. D. and Kelleher, K. T. and Griffiths, A. M. and Kugathasan, S. and Keljo, D. and Oliva-Hemker, M. and Crandall, W. and Carvalho, R. S. and Mack, D. R. and Hyams, J. S.},
+   title = {Retrospective Evaluation of the Safety and Effect of Adalimumab Therapy (RESEAT) in pediatric Crohn's disease},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {12},
+   pages = {3042-9},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2009.493},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19724267}
+}
+
+@article{RN7853,
+   author = {Schulz, R. J. and Bischoff, S. C. and Koletzko, B.},
+   title = {Gastroenterology - Guidelines on Parenteral Nutrition, Chapter 15},
+   journal = {Ger Med Sci},
+   volume = {7},
+   pages = {Doc13},
+   ISSN = {1612-3174},
+   DOI = {10.3205/000072},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20049077}
+}
+
+@article{RN7860,
+   author = {Tan, T. and Lawrance, I. C.},
+   title = {Use of mycophenolate mofetil in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {15},
+   number = {13},
+   pages = {1594-9},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.15.1594},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19340901}
+}
+
+@article{RN7849,
+   author = {Triantafillidis, J. K. and Mantzaris, G. and Karagiannis, J. and Papavasilliou, E. and Papatheodoridis, G. and Fouskas, J. and Malgarinos, G. and Gikas, A. and Papamichael, K. and Mathou, N. and Symboulakis, E. and Karamanolis, D.},
+   title = {Similar response to adalimumab in patients with active Crohn's disease either naive to biologic agents or with prior loss of response or intolerance to infliximab},
+   journal = {Rev Med Chir Soc Med Nat Iasi},
+   volume = {114},
+   number = {1},
+   pages = {85-90},
+   ISSN = {0048-7848 (Print)
+0048-7848},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20509281}
+}
+
+@article{RN7858,
+   author = {Weiss, B. and Lerner, A. and Shapiro, R. and Broide, E. and Levine, A. and Fradkin, A. and Bujanover, Y.},
+   title = {Methotrexate treatment in pediatric Crohn disease patients intolerant or resistant to purine analogues},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {48},
+   number = {5},
+   pages = {526-30},
+   ISSN = {0277-2116},
+   DOI = {10.1097/MPG.0b013e318196df3e},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19412004}
+}
+
+@article{RN7852,
+   author = {Zheng, J. J. and Wang, Y. M. and Zhu, F. and Gu, W. and Xing, Y. C. and Zhou, C. L. and Shen, B. W.},
+   title = {[A study of efficiacy of infliximab treatment for Crohn's disease.]},
+   journal = {Zhonghua Nei Ke Za Zhi},
+   volume = {48},
+   number = {11},
+   pages = {922-5},
+   ISSN = {0578-1426 (Print)
+0578-1426},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20079322}
+}
+

@@ -1,0 +1,292 @@
+﻿@article{RN3104,
+   author = {Actis, G. C. and Rosina, F.},
+   title = {Outpatient care for inflammatory bowel disease at a primary referral hospital in Turin},
+   journal = {Minerva Gastroenterol Dietol},
+   volume = {56},
+   number = {1},
+   pages = {27-34},
+   ISSN = {1121-421X (Print)
+1121-421x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20190722}
+}
+
+@article{RN3112,
+   author = {Afif, W. and Leighton, J. A. and Hanauer, S. B. and Loftus, E. V., Jr. and Faubion, W. A. and Pardi, D. S. and Tremaine, W. J. and Kane, S. V. and Bruining, D. H. and Cohen, R. D. and Rubin, D. T. and Hanson, K. A. and Sandborn, W. J.},
+   title = {Open-label study of adalimumab in patients with ulcerative colitis including those with prior loss of response or intolerance to infliximab},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {9},
+   pages = {1302-7},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20924},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19408340}
+}
+
+@article{RN3101,
+   author = {Aloi, M. and Di Nardo, G. and Conte, F. and Mazzeo, L. and Cavallari, N. and Nuti, F. and Cucchiara, S. and Stronati, L.},
+   title = {Methotrexate in paediatric ulcerative colitis: a retrospective survey at a single tertiary referral centre},
+   journal = {Aliment Pharmacol Ther},
+   volume = {32},
+   number = {8},
+   pages = {1017-22},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2010.04433.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20937047}
+}
+
+@article{RN3114,
+   author = {Barrett, J. S. and Irving, P. M. and Shepherd, S. J. and Muir, J. G. and Gibson, P. R.},
+   title = {Comparison of the prevalence of fructose and lactose malabsorption across chronic intestinal disorders},
+   journal = {Aliment Pharmacol Ther},
+   volume = {30},
+   number = {2},
+   pages = {165-74},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2009.04018.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19392860}
+}
+
+@article{RN3108,
+   author = {Cabriada, J. L. and Ibargoyen, N. and Hernandez, A. and Bernal, A. and Castiella, A.},
+   title = {Sustained remission after steroids and leukocytapheresis induced response in steroid-dependent ulcerative colitis: results at 1 year},
+   journal = {Dig Liver Dis},
+   volume = {42},
+   number = {6},
+   pages = {432-5},
+   ISSN = {1590-8658},
+   DOI = {10.1016/j.dld.2009.09.001},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19833566}
+}
+
+@article{RN3103,
+   author = {Chernenkov Iu, V. and Grozdova, TIu},
+   title = {[Comparative efficiency of use homoeopathic methods of therapies at children with chronic diseases of intestines]},
+   journal = {Eksp Klin Gastroenterol},
+   number = {1},
+   pages = {71-5},
+   ISSN = {1682-8658 (Print)
+1682-8658},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20405715}
+}
+
+@article{RN3109,
+   author = {Cirillo, M. and Li Pizzi, A. and Gargiulo, G. and Frattolillo, F. and Piantadosi, F. and Mattera, C. and Afeltra, L. and Gennarelli, N.},
+   title = {[The colonoscoy in elderly patients]},
+   journal = {Ann Ital Chir},
+   volume = {80},
+   number = {2},
+   pages = {131-4},
+   ISSN = {0003-469X (Print)
+0003-469x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19681295}
+}
+
+@article{RN3111,
+   author = {Dorsey, M. J. and Petrovic, A. and Morrow, M. R. and Dishaw, L. J. and Sleasman, J. W.},
+   title = {FOXP3 expression following bone marrow transplantation for IPEX syndrome after reduced-intensity conditioning},
+   journal = {Immunol Res},
+   volume = {44},
+   number = {1-3},
+   pages = {179-84},
+   ISSN = {0257-277X (Print)
+0257-277x},
+   DOI = {10.1007/s12026-009-8112-y},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19471859}
+}
+
+@article{RN3098,
+   author = {Echarri, A. and Castro, J. and Barreiro, M. and Carpio, D. and Pereira, S. and Lorenzo, A.},
+   title = {Evaluation of adalimumab therapy in multidisciplinary strategy for perianal Crohn's disease patients with infliximab failure},
+   journal = {J Crohns Colitis},
+   volume = {4},
+   number = {6},
+   pages = {654-60},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2010.07.012},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21122576}
+}
+
+@article{RN3105,
+   author = {Etchevers, M. J. and Ordas, I. and Ricart, E.},
+   title = {Optimizing the use of tumour necrosis factor inhibitors in Crohn's disease: a practical approach},
+   journal = {Drugs},
+   volume = {70},
+   number = {2},
+   pages = {109-20},
+   ISSN = {0012-6667},
+   DOI = {10.2165/11533700-000000000-00000},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20108987}
+}
+
+@article{RN3113,
+   author = {Gisbert, J. P. and Bermejo, F. and Pajares, R. and Perez-Calle, J. L. and Rodriguez, M. and Algaba, A. and Mancenido, N. and de la Morena, F. and Carneros, J. A. and McNicholl, A. G. and Gonzalez-Lama, Y. and Mate, J.},
+   title = {Oral and intravenous iron treatment in inflammatory bowel disease: hematological response and quality of life improvement},
+   journal = {Inflamm Bowel Dis},
+   volume = {15},
+   number = {10},
+   pages = {1485-91},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.20925},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19408339}
+}
+
+@article{RN3116,
+   author = {Hindorf, U. and Johansson, M. and Eriksson, A. and Kvifors, E. and Almer, S. H.},
+   title = {Mercaptopurine treatment should be considered in azathioprine intolerant patients with inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {29},
+   number = {6},
+   pages = {654-61},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2008.03925.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19183142}
+}
+
+@article{RN3097,
+   author = {Kuriyama, M. and Kato, J. and Suzuki, H. and Akita, M. and Hiraoka, S. and Okada, H. and Yamamoto, K.},
+   title = {Tolerability and usefulness of mercaptopurine in azathioprine-intolerant Japanese patients with ulcerative colitis},
+   journal = {Dig Endosc},
+   volume = {22},
+   number = {4},
+   pages = {289-96},
+   ISSN = {0915-5635},
+   DOI = {10.1111/j.1443-1661.2010.01009.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21175481}
+}
+
+@article{RN3099,
+   author = {Margagnoni, G. and Papi, V. and Aratari, A. and Triolo, L. and Papi, C.},
+   title = {Methotrexate-induced pneumonitis in a patient with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {4},
+   number = {2},
+   pages = {211-4},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2009.11.007},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21122509}
+}
+
+@article{RN3102,
+   author = {Pironti, A. and Tadeu, V. and Pedroni, A. and Porcu, A. and Manca, A. and Massarelli, G. and Realdi, G. and Dore, M. P.},
+   title = {Role of routine small intestinal biopsy in adult patient with irritable bowel syndrome-like symptoms},
+   journal = {Minerva Med},
+   volume = {101},
+   number = {3},
+   pages = {129-34},
+   ISSN = {0026-4806 (Print)
+0026-4806},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20562801}
+}
+
+@article{RN3106,
+   author = {Schulz, R. J. and Bischoff, S. C. and Koletzko, B.},
+   title = {Gastroenterology - Guidelines on Parenteral Nutrition, Chapter 15},
+   journal = {Ger Med Sci},
+   volume = {7},
+   pages = {Doc13},
+   ISSN = {1612-3174},
+   DOI = {10.3205/000072},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20049077}
+}
+
+@article{RN3100,
+   author = {Talaei, A. and Amini, M. and Siavash, M. and Zare, M.},
+   title = {The effect of dehydroepiandrosterone on insulin resistance in patients with impaired glucose tolerance},
+   journal = {Hormones (Athens)},
+   volume = {9},
+   number = {4},
+   pages = {326-31},
+   ISSN = {1109-3099},
+   DOI = {10.14310/horm.2002.1284},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21112864}
+}
+
+@article{RN3115,
+   author = {Tan, T. and Lawrance, I. C.},
+   title = {Use of mycophenolate mofetil in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {15},
+   number = {13},
+   pages = {1594-9},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.15.1594},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19340901}
+}
+
+@article{RN3117,
+   author = {Tillinger, W. and Jilch, R. and Jilma, B. and Brunner, H. and Koeller, U. and Lichtenberger, C. and Waldhor, T. and Reinisch, W.},
+   title = {Expression of the high-affinity IgG receptor FcRI (CD64) in patients with inflammatory bowel disease: a new biomarker for gastroenterologic diagnostics},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {1},
+   pages = {102-9},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2008.6},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19098857}
+}
+
+@article{RN3107,
+   author = {Van Assche, G. and Vermeire, S. and Rutgeerts, P.},
+   title = {Infliximab therapy for patients with inflammatory bowel disease: 10 years on},
+   journal = {Eur J Pharmacol},
+   volume = {623 Suppl 1},
+   pages = {S17-25},
+   ISSN = {0014-2999},
+   DOI = {10.1016/j.ejphar.2009.10.025},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19837056}
+}
+
+@article{RN3110,
+   author = {Yun, L. and Hanauer, S.},
+   title = {Selecting appropriate anti-TNF agents in inflammatory bowel disease},
+   journal = {Expert Rev Gastroenterol Hepatol},
+   volume = {3},
+   number = {3},
+   pages = {235-48},
+   ISSN = {1747-4124},
+   DOI = {10.1586/egh.09.20},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19485806}
+}
+

@@ -1,0 +1,112 @@
+﻿@article{RN7803,
+   author = {Dear, K. L.},
+   title = {Food intolerance and allergy in gastrointestinal disorders},
+   journal = {Hosp Med},
+   volume = {62},
+   number = {12},
+   pages = {731-4},
+   ISSN = {1462-3935 (Print)
+1462-3935},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11810731}
+}
+
+@article{RN7806,
+   author = {Facchini, S. and Candusso, M. and Martelossi, S. and Liubich, M. and Panfili, E. and Ventura, A.},
+   title = {Efficacy of long-term treatment with thalidomide in children and young adults with Crohn disease: preliminary results},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {32},
+   number = {2},
+   pages = {178-81},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11321389}
+}
+
+@article{RN7800,
+   author = {Feagan, B. G. and Sandborn, W. J.},
+   title = {Initial therapy for mild to moderate Crohn's disease: mesalamine or budesonide?},
+   journal = {Rev Gastroenterol Disord},
+   volume = {2 Suppl 2},
+   pages = {S9-15},
+   ISSN = {1533-001X (Print)
+1533-001x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12478239}
+}
+
+@article{RN7802,
+   author = {Gross, M.},
+   title = {[Nutrition in chronic inflammatory bowl diseases. What your patient tolerates is permitted]},
+   journal = {MMW Fortschr Med},
+   volume = {144},
+   number = {3-4},
+   pages = {40-3},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11862791}
+}
+
+@article{RN7801,
+   author = {Hafraoui, S. and Dewit, O. and Marteau, P. and Cosnes, J. and Colombel, J. F. and Modigliani, R. and Cortot, A. and Lemann, M.},
+   title = {[Mycophenolate mofetil in refractory Crohn's disease after failure of treatments by azathioprine or methotrexate]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {26},
+   number = {1},
+   pages = {17-22},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11938035}
+}
+
+@article{RN7807,
+   author = {Miehsler, W. and Reinisch, W. and Moser, G. and Gangl, A. and Vogelsang, H.},
+   title = {Is mycophenolate mofetil an effective alternative in azathioprine-intolerant patients with chronic active Crohn's disease?},
+   journal = {Am J Gastroenterol},
+   volume = {96},
+   number = {3},
+   pages = {782-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2001.03622.x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11280551}
+}
+
+@article{RN7805,
+   author = {Rutgeerts, P. J.},
+   title = {Review article: the limitations of corticosteroid therapy in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {15},
+   number = {10},
+   pages = {1515-25},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11563990}
+}
+
+@article{RN7804,
+   author = {von Tirpitz, C. and Kohn, C. and Steinkamp, M. and Geerling, I. and Maier, V. and Moller, P. and Adler, G. and Reinshagen, M.},
+   title = {Lactose intolerance in active Crohn's disease: clinical value of duodenal lactase analysis},
+   journal = {J Clin Gastroenterol},
+   volume = {34},
+   number = {1},
+   pages = {49-53},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11743245}
+}
+

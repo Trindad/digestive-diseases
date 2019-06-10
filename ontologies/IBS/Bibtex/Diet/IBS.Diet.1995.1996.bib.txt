@@ -1,0 +1,229 @@
+﻿@article{RN10185,
+   author = {Bennett, W. G. and Cerda, J. J.},
+   title = {Benefits of dietary fiber. Myth or medicine?},
+   journal = {Postgrad Med},
+   volume = {99},
+   number = {2},
+   pages = {153-6, 166-8, 171-2 passim},
+   ISSN = {0032-5481 (Print)
+0032-5481},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8632964}
+}
+
+@article{RN10180,
+   author = {Bischoff, S. C. and Herrmann, A. and Manns, M. P.},
+   title = {Prevalence of adverse reactions to food in patients with gastrointestinal disease},
+   journal = {Allergy},
+   volume = {51},
+   number = {11},
+   pages = {811-8},
+   ISSN = {0105-4538 (Print)
+0105-4538},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8947339}
+}
+
+@article{RN10181,
+   author = {Bohmer, C. J. and Tuynman, H. A.},
+   title = {The clinical relevance of lactose malabsorption in irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {8},
+   number = {10},
+   pages = {1013-6},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8930569}
+}
+
+@article{RN10182,
+   author = {Dykhuizen, R. S. and Masson, J. and McKnight, G. and Mowat, A. N. and Smith, C. C. and Smith, L. M. and Benjamin, N.},
+   title = {Plasma nitrate concentration in infective gastroenteritis and inflammatory bowel disease},
+   journal = {Gut},
+   volume = {39},
+   number = {3},
+   pages = {393-5},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.39.3.393},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8949643}
+}
+
+@article{RN10186,
+   author = {Evans, P. R. and Bennett, E. J. and Bak, Y. T. and Tennant, C. C. and Kellow, J. E.},
+   title = {Jejunal sensorimotor dysfunction in irritable bowel syndrome: clinical and psychosocial features},
+   journal = {Gastroenterology},
+   volume = {110},
+   number = {2},
+   pages = {393-404},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8566585}
+}
+
+@article{RN10188,
+   author = {Heitkemper, M. and Levy, R. L. and Jarrett, M. and Bond, E. F.},
+   title = {Interventions for irritable bowel syndrome: a nursing model},
+   journal = {Gastroenterol Nurs},
+   volume = {18},
+   number = {6},
+   pages = {224-30},
+   ISSN = {1042-895X (Print)
+1042-895x},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {8562587}
+}
+
+@article{RN10183,
+   author = {Krahn, D. and Kurth, C. and Nairn, K. and Redmond, L. and Drewnowski, A. and Gomberg, E.},
+   title = {Dieting severity and gastrointestinal symptoms in college women},
+   journal = {J Am Coll Health},
+   volume = {45},
+   number = {2},
+   pages = {67-71},
+   ISSN = {0744-8481 (Print)
+0744-8481},
+   DOI = {10.1080/07448481.1996.9936864},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8908880}
+}
+
+@article{RN10193,
+   author = {Lewis, P. J.},
+   title = {Management of the irritable bowel syndrome. Food intolerance may play a part},
+   journal = {Bmj},
+   volume = {310},
+   number = {6986},
+   pages = {1067},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   DOI = {10.1136/bmj.310.6986.1067a},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7728073}
+}
+
+@article{RN10192,
+   author = {Massarrat, S. and Saberi-Firoozi, M. and Soleimani, A. and Himmelmann, G. W. and Hitzges, M. and Keshavarz, H.},
+   title = {Peptic ulcer disease, irritable bowel syndrome and constipation in two populations in Iran},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {7},
+   number = {5},
+   pages = {427-33},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7614105}
+}
+
+@article{RN10191,
+   author = {Olubuyide, I. O. and Olawuyi, F. and Fasanmade, A. A.},
+   title = {A study of irritable bowel syndrome diagnosed by Manning criteria in an African population},
+   journal = {Dig Dis Sci},
+   volume = {40},
+   number = {5},
+   pages = {983-5},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7729288}
+}
+
+@article{RN10187,
+   author = {Pohl, C. and Kruis, W.},
+   title = {[Chronic diarrhea--rational diagnosis and therapy]},
+   journal = {Leber Magen Darm},
+   volume = {26},
+   number = {1},
+   pages = {9-17},
+   ISSN = {0300-8622 (Print)
+0300-8622},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8851872}
+}
+
+@article{RN10179,
+   author = {Reynolds, J. C.},
+   title = {Challenges in the treatment of colonic motility disorders},
+   journal = {Am J Health Syst Pharm},
+   volume = {53},
+   number = {22 Suppl 3},
+   pages = {S17-26},
+   ISSN = {1079-2082 (Print)
+1079-2082},
+   DOI = {10.1093/ajhp/53.22_Suppl_3.S17},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8931827}
+}
+
+@article{RN10184,
+   author = {Sferra, T. J. and Heitlinger, L. A.},
+   title = {Gastrointestinal gas formation and infantile colic},
+   journal = {Pediatr Clin North Am},
+   volume = {43},
+   number = {2},
+   pages = {489-510},
+   ISSN = {0031-3955 (Print)
+0031-3955},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8614612}
+}
+
+@article{RN10190,
+   author = {Stefanini, G. F. and Saggioro, A. and Alvisi, V. and Angelini, G. and Capurso, L. and di Lorenzo, G. and Dobrilla, G. and Dodero, M. and Galimberti, M. and Gasbarrini, G. and et al.},
+   title = {Oral cromolyn sodium in comparison with elimination diet in the irritable bowel syndrome, diarrheic type. Multicenter study of 428 patients},
+   journal = {Scand J Gastroenterol},
+   volume = {30},
+   number = {6},
+   pages = {535-41},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   DOI = {10.3109/00365529509089786},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7569760}
+}
+
+@article{RN10194,
+   author = {Vernia, P. and Ricciardi, M. R. and Frandina, C. and Bilotta, T. and Frieri, G.},
+   title = {Lactose malabsorption and irritable bowel syndrome. Effect of a long-term lactose-free diet},
+   journal = {Ital J Gastroenterol},
+   volume = {27},
+   number = {3},
+   pages = {117-21},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7548919}
+}
+
+@article{RN10189,
+   author = {Zuckerman, M. J. and Guerra, L. G. and Drossman, D. A. and Foland, J. A. and Gregory, G. G.},
+   title = {Comparison of bowel patterns in Hispanics and non-Hispanic whites},
+   journal = {Dig Dis Sci},
+   volume = {40},
+   number = {8},
+   pages = {1763-9},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7648977}
+}
+

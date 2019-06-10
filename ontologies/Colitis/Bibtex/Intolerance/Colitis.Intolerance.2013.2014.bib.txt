@@ -1,0 +1,392 @@
+﻿@article{RN3159,
+   author = {Barrett, J. S. and Kalubovila, U. and Irving, P. M. and Gibson, P. R.},
+   title = {Semiquantitative assessment of breath hydrogen testing},
+   journal = {J Gastroenterol Hepatol},
+   volume = {28},
+   number = {9},
+   pages = {1450-6},
+   ISSN = {0815-9319},
+   DOI = {10.1111/jgh.12199},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23517175}
+}
+
+@article{RN3161,
+   author = {Bortlik, M. and Duricova, D. and Malickova, K. and Machkova, N. and Bouzkova, E. and Hrdlicka, L. and Komarek, A. and Lukas, M.},
+   title = {Infliximab trough levels may predict sustained response to infliximab in patients with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {9},
+   pages = {736-43},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.10.019},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23200919}
+}
+
+@article{RN3145,
+   author = {Choi, E. Y. and Park, D. A. and Park, J.},
+   title = {Calorie intake of enteral nutrition and clinical outcomes in acutely critically ill patients: a meta-analysis of randomized controlled trials},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {39},
+   number = {3},
+   pages = {291-300},
+   ISSN = {0148-6071},
+   DOI = {10.1177/0148607114544322},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25078609}
+}
+
+@article{RN3154,
+   author = {Curkovic, I. and Egbring, M. and Kullak-Ublick, G. A.},
+   title = {Risks of inflammatory bowel disease treatment with glucocorticosteroids and aminosalicylates},
+   journal = {Dig Dis},
+   volume = {31},
+   number = {3-4},
+   pages = {368-73},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000354699},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24246990}
+}
+
+@article{RN3142,
+   author = {De Cassan, C. and Savarino, E. and Marson, P. and Tison, T. and Hatem, G. and Sturniolo, G. C. and D'Inca, R.},
+   title = {Granulo-monocyto apheresis is more effective in mild ulcerative colitis than in moderate to severe disease},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {45},
+   pages = {17155-62},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i45.17155},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25493030}
+}
+
+@article{RN3143,
+   author = {Frehn, L. and Jansen, A. and Bennek, E. and Mandic, A. D. and Temizel, I. and Tischendorf, S. and Verdier, J. and Tacke, F. and Streetz, K. and Trautwein, C. and Sellge, G.},
+   title = {Distinct patterns of IgG and IgA against food and microbial antigens in serum and feces of patients with inflammatory bowel diseases},
+   journal = {PLoS One},
+   volume = {9},
+   number = {9},
+   pages = {e106750},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0106750},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25215528}
+}
+
+@article{RN3140,
+   author = {Gagniere, C. and Beaugerie, L. and Pariente, B. and Seksik, P. and Amiot, A. and Abitbol, V. and Allez, M. and Cosnes, J. and Sokol, H.},
+   title = {Benefit of infliximab reintroduction after successive failure of infliximab and adalimumab in Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {9},
+   number = {4},
+   pages = {349-55},
+   ISSN = {1873-9946},
+   DOI = {10.1093/ecco-jcc/jju024},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25547977}
+}
+
+@article{RN3138,
+   author = {Gates, C.},
+   title = {We are what we eat. Eat right to make sure you don't end up a patient},
+   journal = {Jems},
+   volume = {39},
+   number = {12},
+   pages = {66},
+   ISSN = {0197-2510 (Print)
+0197-2510},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25630188}
+}
+
+@article{RN3153,
+   author = {Grover, Z. and Biron, R. and Carman, N. and Lewindon, P.},
+   title = {Predictors of response to Infliximab in children with luminal Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {8},
+   pages = {739-46},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.12.017},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24445015}
+}
+
+@article{RN3162,
+   author = {Hoentjen, F. and Seinen, M. L. and Hanauer, S. B. and de Boer, N. K. and Rubin, D. T. and Bouma, G. and Harrell, L. E. and van Bodegraven, A. A.},
+   title = {Safety and effectiveness of long-term allopurinol-thiopurine maintenance treatment in inflammatory bowel disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {19},
+   number = {2},
+   pages = {363-9},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.23021},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {22605661}
+}
+
+@article{RN3152,
+   author = {Hwang, C. and Ross, V. and Mahadevan, U.},
+   title = {Popular exclusionary diets for inflammatory bowel disease: the search for a dietary culprit},
+   journal = {Inflamm Bowel Dis},
+   volume = {20},
+   number = {4},
+   pages = {732-41},
+   ISSN = {1078-0998},
+   DOI = {10.1097/01.MIB.0000438427.48726.b0},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24562173}
+}
+
+@article{RN3156,
+   author = {Kennedy, N. A. and Rhatigan, E. and Arnott, I. D. and Noble, C. L. and Shand, A. G. and Satsangi, J. and Lees, C. W.},
+   title = {A trial of mercaptopurine is a safe strategy in patients with inflammatory bowel disease intolerant to azathioprine: an observational study, systematic review and meta-analysis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {38},
+   number = {10},
+   pages = {1255-66},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12511},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24117596}
+}
+
+@article{RN3144,
+   author = {Kotlyar, D. S. and Shum, M. and Hsieh, J. and Blonski, W. and Greenwald, D. A.},
+   title = {Non-pulmonary allergic diseases and inflammatory bowel disease: a qualitative review},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {32},
+   pages = {11023-32},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i32.11023},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25170192}
+}
+
+@article{RN3139,
+   author = {Krupka, N. and Baumgart, D. C.},
+   title = {Designing biologic selectivity for inflammatory bowel disease--role of vedolizumab},
+   journal = {Drug Des Devel Ther},
+   volume = {9},
+   pages = {147-54},
+   ISSN = {1177-8881},
+   DOI = {10.2147/dddt.S50348},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25552903}
+}
+
+@article{RN3149,
+   author = {Maconi, G. and Furfaro, F. and Sciurti, R. and Bezzio, C. and Ardizzone, S. and de Franchis, R.},
+   title = {Glucose intolerance and diabetes mellitus in ulcerative colitis: pathogenetic and therapeutic implications},
+   journal = {World J Gastroenterol},
+   volume = {20},
+   number = {13},
+   pages = {3507-15},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v20.i13.3507},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24707133}
+}
+
+@article{RN3163,
+   author = {McDermott, E. and Murphy, S. and Keegan, D. and O'Donoghue, D. and Mulcahy, H. and Doherty, G.},
+   title = {Efficacy of Adalimumab as a long term maintenance therapy in ulcerative colitis},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {2},
+   pages = {150-3},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.03.016},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {22520592}
+}
+
+@article{RN3151,
+   author = {Molina-Infante, J. and Santolaria, S. and Montoro, M. and Esteve, M. and Fernandez-Banares, F.},
+   title = {[Non-celiac gluten sensitivity: a critical review of current evidence]},
+   journal = {Gastroenterol Hepatol},
+   volume = {37},
+   number = {6},
+   pages = {362-71},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/j.gastrohep.2014.01.005},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24667093}
+}
+
+@article{RN3160,
+   author = {Munch, A. and Fernandez-Banares, F. and Munck, L. K.},
+   title = {Azathioprine and mercaptopurine in the management of patients with chronic, active microscopic colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {37},
+   number = {8},
+   pages = {795-8},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12261},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23432370}
+}
+
+@article{RN3137,
+   author = {Navas-Lopez, V. M. and Blasco-Alonso, J. and Giron Fernandez-Crehuet, F. and Serrano Nieto, M. J. and Gallego-Gutierrez, S. and Luque Perez, S. and Sierra Salinas, C.},
+   title = {Successful treatment for ulcerative proctitis with rectal tacrolimus in an 8-year-old girl with intolerance to mesalamine},
+   journal = {Clin J Gastroenterol},
+   volume = {7},
+   number = {4},
+   pages = {320-3},
+   ISSN = {1865-7265},
+   DOI = {10.1007/s12328-014-0506-2},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {26185880}
+}
+
+@article{RN3155,
+   author = {Park, S. K. and Yang, S. K. and Ye, B. D. and Kim, K. J. and Yang, D. H. and Jung, K. W. and Park, S. H. and Kim, J. W. and Byeon, J. S. and Myung, S. J. and Kim, J. H.},
+   title = {The long-term efficacy of azathioprine in steroid-dependent ulcerative colitis},
+   journal = {Scand J Gastroenterol},
+   volume = {48},
+   number = {12},
+   pages = {1386-93},
+   ISSN = {0036-5521},
+   DOI = {10.3109/00365521.2013.845908},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {24164382}
+}
+
+@article{RN3158,
+   author = {Poddar, U.},
+   title = {Pediatric and adult celiac disease: similarities and differences},
+   journal = {Indian J Gastroenterol},
+   volume = {32},
+   number = {5},
+   pages = {283-8},
+   ISSN = {0254-8860},
+   DOI = {10.1007/s12664-013-0339-9},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23715643}
+}
+
+@article{RN3147,
+   author = {Poole, R. M.},
+   title = {Vedolizumab: first global approval},
+   journal = {Drugs},
+   volume = {74},
+   number = {11},
+   pages = {1293-303},
+   ISSN = {0012-6667},
+   DOI = {10.1007/s40265-014-0253-1},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24985716}
+}
+
+@article{RN3150,
+   author = {Scribano, M. L. and Cantoro, L. and Marrollo, M. and Cosintino, R. and Kohn, A.},
+   title = {Mucosal healing with thalidomide in refractory Crohn's disease patients intolerant of anti-TNF-alpha drugs: report of 3 cases and literature review},
+   journal = {J Clin Gastroenterol},
+   volume = {48},
+   number = {6},
+   pages = {530-3},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000122},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24667589}
+}
+
+@article{RN3164,
+   author = {Sicilia, B.},
+   title = {[No best treatment for severe outbreaks: Maintenance, the key in colitis]},
+   journal = {Gastroenterol Hepatol},
+   volume = {34 Suppl 3},
+   pages = {18-24},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/s0210-5705(11)70094-2},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {25443222}
+}
+
+@article{RN3141,
+   author = {Sun, J. and Lin, J. and Parashette, K. and Zhang, J. and Fan, R.},
+   title = {Association of lymphocytic colitis and lactase deficiency in pediatric population},
+   journal = {Pathol Res Pract},
+   volume = {211},
+   number = {2},
+   pages = {138-44},
+   ISSN = {0344-0338},
+   DOI = {10.1016/j.prp.2014.11.009},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25523228}
+}
+
+@article{RN3148,
+   author = {Turner, D.},
+   title = {Relapsing and refractory ulcerative colitis in children},
+   journal = {Dig Dis},
+   volume = {32},
+   number = {4},
+   pages = {419-26},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000358148},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24969290}
+}
+
+@article{RN3157,
+   author = {Vernia, P. and Loizos, P. and Di Giuseppantonio, I. and Amore, B. and Chiappini, A. and Cannizzaro, S.},
+   title = {Dietary calcium intake in patients with inflammatory bowel disease},
+   journal = {J Crohns Colitis},
+   volume = {8},
+   number = {4},
+   pages = {312-7},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2013.09.008},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {24090907}
+}
+
+@article{RN3146,
+   author = {Wiecek, S. and Wos, H. and Radziewicz Winnicki, I. and Komraus, M. and Grzybowska Chlebowczyk, U.},
+   title = {Disaccharidase activity in children with inflammatory bowel disease},
+   journal = {Turk J Gastroenterol},
+   volume = {25},
+   number = {2},
+   pages = {185-91},
+   ISSN = {1300-4948},
+   DOI = {10.5152/tjg.2014.3994},
+   year = {2014},
+   type = {Journal Article},
+   Accession Number= {25003680}
+}
+

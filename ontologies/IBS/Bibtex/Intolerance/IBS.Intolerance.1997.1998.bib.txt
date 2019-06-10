@@ -1,0 +1,87 @@
+﻿@article{RN12310,
+   author = {Addolorato, G. and Marsigli, L. and Capristo, E. and Caputo, F. and Dall'Aglio, C. and Baudanza, P.},
+   title = {Anxiety and depression: a common feature of health care seeking patients with irritable bowel syndrome and food allergy},
+   journal = {Hepatogastroenterology},
+   volume = {45},
+   number = {23},
+   pages = {1559-64},
+   ISSN = {0172-6390 (Print)
+0172-6390},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9840105}
+}
+
+@article{RN12313,
+   author = {King, T. S. and Elia, M. and Hunter, J. O.},
+   title = {Abnormal colonic fermentation in irritable bowel syndrome},
+   journal = {Lancet},
+   volume = {352},
+   number = {9135},
+   pages = {1187-9},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9777836}
+}
+
+@article{RN12311,
+   author = {Ledochowski, M. and Sperner-Unterweger, B. and Fuchs, D.},
+   title = {Lactose malabsorption is associated with early signs of mental depression in females: a preliminary report},
+   journal = {Dig Dis Sci},
+   volume = {43},
+   number = {11},
+   pages = {2513-7},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9824144}
+}
+
+@article{RN12312,
+   author = {Mascolo, R. and Saltzman, J. R.},
+   title = {Lactose intolerance and irritable bowel syndrome},
+   journal = {Nutr Rev},
+   volume = {56},
+   number = {10},
+   pages = {306-8},
+   ISSN = {0029-6643 (Print)
+0029-6643},
+   DOI = {10.1111/j.1753-4887.1998.tb01665.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9810810}
+}
+
+@article{RN12314,
+   author = {Srinivasan, R. and Minocha, A.},
+   title = {When to suspect lactose intolerance. Symptomatic, ethnic, and laboratory clues},
+   journal = {Postgrad Med},
+   volume = {104},
+   number = {3},
+   pages = {109-11, 115-6, 122-3},
+   ISSN = {0032-5481 (Print)
+0032-5481},
+   DOI = {10.3810/pgm.1998.09.577},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9742907}
+}
+
+@article{RN12315,
+   author = {Vesa, T. H. and Seppo, L. M. and Marteau, P. R. and Sahi, T. and Korpela, R.},
+   title = {Role of irritable bowel syndrome in subjective lactose intolerance},
+   journal = {Am J Clin Nutr},
+   volume = {67},
+   number = {4},
+   pages = {710-5},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/67.4.710},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9537618}
+}
+

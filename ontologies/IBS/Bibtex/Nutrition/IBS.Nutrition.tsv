@@ -1,0 +1,2066 @@
+IBS.Nutrition.2005.2006.bib	15961989	tegaserod	Chemical Compound	cids05362436
+IBS.Nutrition.2005.2006.bib	15961989	gastroparesis	Disease	doid:11914
+IBS.Nutrition.2005.2006.bib	15961989	gastric motility	Biological Process	go:0035482
+IBS.Nutrition.2005.2006.bib	15961989	cisapride	Chemical Compound	cids00002769
+IBS.Nutrition.2005.2006.bib	15961989	metoclopramide	Chemical Compound	cids00004168
+IBS.Nutrition.2005.2006.bib	15961989	gastric emptying	Biological Process	go:0035483
+IBS.Nutrition.2005.2006.bib	15961989	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2005.2006.bib	15961989	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	15961989	domperidone	Chemical Compound	cids00003151
+IBS.Nutrition.2005.2006.bib	17008364	insulin	Genes/Proteins	enssscp00000025428
+IBS.Nutrition.2005.2006.bib	17008364	hypertension	Disease	doid:10763
+IBS.Nutrition.2005.2006.bib	17008364	growth	Biological Process	go:0040007
+IBS.Nutrition.2005.2006.bib	17008364	diabetes	Disease	doid:9351
+IBS.Nutrition.2005.2006.bib	17008364	coronary heart disease	Disease	doid:3393
+IBS.Nutrition.2005.2006.bib	17008364	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16633135	bacteria	Organism	1869227
+IBS.Nutrition.2005.2006.bib	16633135	gastritis	Disease	doid:4029
+IBS.Nutrition.2005.2006.bib	16633135	human	Organism	9606
+IBS.Nutrition.2005.2006.bib	16633135	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2005.2006.bib	16633135	cancer	Disease	doid:162
+IBS.Nutrition.2005.2006.bib	16633135	helicobacter pylori	Organism	210
+IBS.Nutrition.2005.2006.bib	16633135	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16633135	disease	Disease	doid:4
+IBS.Nutrition.2005.2006.bib	16413751	fibers	Tissue	bto:0000450
+IBS.Nutrition.2005.2006.bib	16413751	bifidobacteria	Organism	1678
+IBS.Nutrition.2005.2006.bib	16413751	lactobacilli	Organism	1578
+IBS.Nutrition.2005.2006.bib	16413751	guar	Organism	3832
+IBS.Nutrition.2005.2006.bib	16413751	diarrhea	Disease	doid:13250
+IBS.Nutrition.2005.2006.bib	16413751	short-chain fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.2005.2006.bib	16413751	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16413751	constipation	Disease	doid:2089
+IBS.Nutrition.2005.2006.bib	16185159	par-1	Genes/Proteins	yml007w
+IBS.Nutrition.2005.2006.bib	16185159	par-4	Genes/Proteins	ensp00000248076
+IBS.Nutrition.2005.2006.bib	16185159	thrombin	Genes/Proteins	ensmusp00000028681
+IBS.Nutrition.2005.2006.bib	16185159	trypsin	Genes/Proteins	enssscp00000017465
+IBS.Nutrition.2005.2006.bib	16185159	proteases	Molecular Function	go:0008233
+IBS.Nutrition.2005.2006.bib	16185159	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16185159	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2005.2006.bib	16185159	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2005.2006.bib	16185159	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2005.2006.bib	16185159	pars	Genes/Proteins	enssscp00000011535
+IBS.Nutrition.2005.2006.bib	16185159	g-protein-coupled receptors	Cellular Component	go:0097648
+IBS.Nutrition.2005.2006.bib	16185159	inflammatory response	Biological Process	go:0006954
+IBS.Nutrition.2005.2006.bib	16185159	tryptase	Genes/Proteins	ensmusp00000120741
+IBS.Nutrition.2005.2006.bib	16185159	secretion	Biological Process	go:0046903
+IBS.Nutrition.2005.2006.bib	16185159	nociception	Biological Process	go:0019233
+IBS.Nutrition.2005.2006.bib	16185159	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2005.2006.bib	17078771	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	17557469	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2005.2006.bib	17557469	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2005.2006.bib	17557469	colon cancer	Disease	doid:219
+IBS.Nutrition.2005.2006.bib	17557469	immune system	Tissue	bto:0005810
+IBS.Nutrition.2005.2006.bib	17557469	peptic ulcer disease	Disease	doid:750
+IBS.Nutrition.2005.2006.bib	17557469	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	17557469	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2005.2006.bib	17557469	sleep	Biological Process	go:0030431
+IBS.Nutrition.2005.2006.bib	17151806	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	17151806	constipation	Disease	doid:2089
+IBS.Nutrition.2005.2006.bib	17151806	adults	Tissue	bto:0001043
+IBS.Nutrition.2005.2006.bib	17151806	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2005.2006.bib	16775498	calprotectin	Cellular Component	go:1990660
+IBS.Nutrition.2005.2006.bib	16775498	neutrophil	Tissue	bto:0000130
+IBS.Nutrition.2005.2006.bib	16775498	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16775498	disease	Disease	doid:4
+IBS.Nutrition.2005.2006.bib	16775498	plasma	Tissue	bto:0000131
+IBS.Nutrition.2005.2006.bib	16775498	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2005.2006.bib	16775498	adults	Tissue	bto:0001043
+IBS.Nutrition.2005.2006.bib	17195872	constipation	Disease	doid:2089
+IBS.Nutrition.2005.2006.bib	17195872	gastroesophageal reflux	Disease	doid:8534
+IBS.Nutrition.2005.2006.bib	17195872	rett syndrome	Disease	doid:1206
+IBS.Nutrition.2005.2006.bib	16767798	mentha piperita	Organism	34256
+IBS.Nutrition.2005.2006.bib	16767798	hesperidin	Chemical Compound	cids00010621
+IBS.Nutrition.2005.2006.bib	16767798	human	Organism	9606
+IBS.Nutrition.2005.2006.bib	16767798	kidney stones	Disease	doid:585
+IBS.Nutrition.2005.2006.bib	16767798	rosmarinic acid	Chemical Compound	cids05281792
+IBS.Nutrition.2005.2006.bib	16767798	eriocitrin	Chemical Compound	cids00083489
+IBS.Nutrition.2005.2006.bib	16767798	luteolin	Chemical Compound	cids05280445
+IBS.Nutrition.2005.2006.bib	16767798	peripheral nervous system	Tissue	bto:0001028
+IBS.Nutrition.2005.2006.bib	16767798	antioxidant	Molecular Function	go:0016209
+IBS.Nutrition.2005.2006.bib	16767798	peppermint oil	Chemical Compound	cids06850741
+IBS.Nutrition.2005.2006.bib	16767798	menthol	Chemical Compound	cids00001254
+IBS.Nutrition.2005.2006.bib	16767798	plant	Tissue	bto:0001481
+IBS.Nutrition.2005.2006.bib	16767798	respiratory tract	Tissue	bto:0000203
+IBS.Nutrition.2005.2006.bib	16767798	hiatal hernia	Disease	doid:12642
+IBS.Nutrition.2005.2006.bib	16767798	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16767798	menthone	Chemical Compound	cids00026447
+IBS.Nutrition.2005.2006.bib	16028435	urban	Environment	envo:00000856
+IBS.Nutrition.2005.2006.bib	16214413	clostridium difficile	Organism	1496
+IBS.Nutrition.2005.2006.bib	16214413	infectious diarrhea	Disease	doid:12384
+IBS.Nutrition.2005.2006.bib	16214413	intestinal epithelial cell	Tissue	bto:0005937
+IBS.Nutrition.2005.2006.bib	16214413	plant	Tissue	bto:0001481
+IBS.Nutrition.2005.2006.bib	16214413	epithelial cells	Tissue	bto:0000414
+IBS.Nutrition.2005.2006.bib	16214413	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16214413	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2005.2006.bib	15940629	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	15940629	interstitial cystitis	Disease	doid:13949
+IBS.Nutrition.2005.2006.bib	16322131	celiac disease	Disease	doid:10608
+IBS.Nutrition.2005.2006.bib	16678566	child	Tissue	bto:0002168
+IBS.Nutrition.2005.2006.bib	16678566	migraine	Disease	doid:6364
+IBS.Nutrition.2005.2006.bib	16678566	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2005.2006.bib	16678566	rumination	Biological Process	go:0036147
+IBS.Nutrition.2005.2006.bib	16678566	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16678566	constipation	Disease	doid:2089
+IBS.Nutrition.2005.2006.bib	16808112	lactobacillus rhamnosus gg	Organism	568703
+IBS.Nutrition.2005.2006.bib	16808112	colon cancer	Disease	doid:219
+IBS.Nutrition.2005.2006.bib	16808112	human	Organism	9606
+IBS.Nutrition.2005.2006.bib	16808112	diarrhea	Disease	doid:13250
+IBS.Nutrition.2005.2006.bib	16808112	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16808112	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2005.2006.bib	16808112	rotavirus	Organism	10912
+IBS.Nutrition.2005.2006.bib	17000196	glucose	Chemical Compound	cids53782692
+IBS.Nutrition.2005.2006.bib	17000196	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2005.2006.bib	17000196	fructans	Chemical Compound	cids00440946
+IBS.Nutrition.2005.2006.bib	17000196	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2005.2006.bib	17000196	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2005.2006.bib	16707966	adult	Tissue	bto:0001043
+IBS.Nutrition.2005.2006.bib	17053425	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2005.2006.bib	17053425	diarrhea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	18410774	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18410774	amitriptyline	Chemical Compound	cids00002160
+IBS.Nutrition.2007.2008.bib	18482083	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2007.2008.bib	18482083	par-2	Genes/Proteins	spac6f12.12.1
+IBS.Nutrition.2007.2008.bib	18482083	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2007.2008.bib	18482083	trypsin	Genes/Proteins	enssscp00000017465
+IBS.Nutrition.2007.2008.bib	18482083	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18482083	proteases	Molecular Function	go:0008233
+IBS.Nutrition.2007.2008.bib	18482083	tryptase	Genes/Proteins	ensmusp00000120741
+IBS.Nutrition.2007.2008.bib	18482083	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2007.2008.bib	18482083	immune system	Tissue	bto:0005810
+IBS.Nutrition.2007.2008.bib	18482083	phosphorylation	Biological Process	go:0016310
+IBS.Nutrition.2007.2008.bib	18482083	cell membranes	Cellular Component	go:0005886
+IBS.Nutrition.2007.2008.bib	18482083	digestion	Biological Process	go:0007586
+IBS.Nutrition.2007.2008.bib	18482083	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2007.2008.bib	18482083	g-protein coupled receptors	Cellular Component	go:0097648
+IBS.Nutrition.2007.2008.bib	18482083	myosin light chain	Genes/Proteins	fbpp0084565
+IBS.Nutrition.2007.2008.bib	18482083	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2007.2008.bib	18482083	submucosal	Tissue	bto:0002107
+IBS.Nutrition.2007.2008.bib	18482083	epithelial cells	Tissue	bto:0000414
+IBS.Nutrition.2007.2008.bib	18482083	serine-protease activity	Molecular Function	go:0008236
+IBS.Nutrition.2007.2008.bib	18482083	signalling	Biological Process	go:0023052
+IBS.Nutrition.2007.2008.bib	18482083	cytoskeleton	Cellular Component	go:0005856
+IBS.Nutrition.2007.2008.bib	18482083	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2007.2008.bib	17355413	celiac disease	Disease	doid:10608
+IBS.Nutrition.2007.2008.bib	17204955	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	17490849	fibers	Tissue	bto:0000450
+IBS.Nutrition.2007.2008.bib	17490849	cilansetron	Chemical Compound	cids06918107
+IBS.Nutrition.2007.2008.bib	17490849	magnesium aluminum	Chemical Compound	cids10129885
+IBS.Nutrition.2007.2008.bib	17490849	5-ht4	Genes/Proteins	ensgalp00000002103
+IBS.Nutrition.2007.2008.bib	17490849	alverine citrate	Chemical Compound	cids00003678
+IBS.Nutrition.2007.2008.bib	17490849	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17490849	5-ht3	Genes/Proteins	ensp00000347754
+IBS.Nutrition.2007.2008.bib	17490849	alosetron	Chemical Compound	cids00002099
+IBS.Nutrition.2007.2008.bib	17490849	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2007.2008.bib	17490849	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2007.2008.bib	17490849	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2007.2008.bib	17490849	constipation	Disease	doid:2089
+IBS.Nutrition.2007.2008.bib	17490849	tegaserod	Chemical Compound	cids05362436
+IBS.Nutrition.2007.2008.bib	17490849	silicates	Chemical Compound	cids00014942
+IBS.Nutrition.2007.2008.bib	17490849	ischemic colitis	Disease	doid:0060181
+IBS.Nutrition.2007.2008.bib	17490849	tricyclics	Chemical Compound	cids00445354
+IBS.Nutrition.2007.2008.bib	17933278	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17933278	disease	Disease	doid:4
+IBS.Nutrition.2007.2008.bib	17933278	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	19140565	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2007.2008.bib	19140565	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	19140565	disease	Disease	doid:4
+IBS.Nutrition.2007.2008.bib	19140565	diarrhea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	17484023	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17484023	panorama	Chemical Compound	cids00008174
+IBS.Nutrition.2007.2008.bib	18194983	par-2	Genes/Proteins	ensrnop00000058298
+IBS.Nutrition.2007.2008.bib	18194983	proteinase-activated receptor-2	Genes/Proteins	ensmusp00000022185
+IBS.Nutrition.2007.2008.bib	18194983	serine protease activity	Molecular Function	go:0008236
+IBS.Nutrition.2007.2008.bib	18194983	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	18194983	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18194983	signalling cascade	Biological Process	go:0007165
+IBS.Nutrition.2007.2008.bib	18477966	loperamide	Chemical Compound	cids00003954
+IBS.Nutrition.2007.2008.bib	18477966	diarrhea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	18477966	protease inhibitor	Cellular Component	go:0097179
+IBS.Nutrition.2007.2008.bib	17574225	lactase	Genes/Proteins	ensrnop00000004908
+IBS.Nutrition.2007.2008.bib	17574225	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2007.2008.bib	17151806	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17151806	constipation	Disease	doid:2089
+IBS.Nutrition.2007.2008.bib	17151806	adults	Tissue	bto:0001043
+IBS.Nutrition.2007.2008.bib	17151806	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2007.2008.bib	18220948	disease	Disease	doid:4
+IBS.Nutrition.2007.2008.bib	18814803	fructans	Chemical Compound	cids00440946
+IBS.Nutrition.2007.2008.bib	18814803	colon	Organism	1542223
+IBS.Nutrition.2007.2008.bib	18814803	human	Organism	9606
+IBS.Nutrition.2007.2008.bib	18814803	adult	Tissue	bto:0001043
+IBS.Nutrition.2007.2008.bib	18814803	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2007.2008.bib	18814803	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2007.2008.bib	18814803	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2007.2008.bib	18814803	growth	Biological Process	go:0040007
+IBS.Nutrition.2007.2008.bib	18814803	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18814803	digestion	Biological Process	go:0007586
+IBS.Nutrition.2007.2008.bib	18814803	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	17556907	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2007.2008.bib	17943632	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2007.2008.bib	17943632	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17943632	giardia lamblia	Organism	5741
+IBS.Nutrition.2007.2008.bib	17943632	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2007.2008.bib	18597588	lactoferrin	Genes/Proteins	ensmusp00000035077
+IBS.Nutrition.2007.2008.bib	18597588	bowel	Tissue	bto:0000648
+IBS.Nutrition.2007.2008.bib	18597588	calprotectin	Cellular Component	go:1990660
+IBS.Nutrition.2007.2008.bib	18597588	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2007.2008.bib	18597588	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18597588	disease	Disease	doid:4
+IBS.Nutrition.2007.2008.bib	18597588	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	17288356	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2007.2008.bib	17288356	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2007.2008.bib	17288356	immune system	Tissue	bto:0005810
+IBS.Nutrition.2007.2008.bib	17288356	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	17288356	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17288356	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	18513268	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2007.2008.bib	18513268	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2007.2008.bib	18513268	bowel	Tissue	bto:0000648
+IBS.Nutrition.2007.2008.bib	18513268	immune system	Tissue	bto:0005810
+IBS.Nutrition.2007.2008.bib	18513268	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18194987	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18194987	mast cells	Tissue	bto:0000830
+IBS.Nutrition.2007.2008.bib	18194987	colonic mucosa	Tissue	bto:0000271
+IBS.Nutrition.2007.2008.bib	19334419	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17914945	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2007.2008.bib	17914945	immune system	Tissue	bto:0005810
+IBS.Nutrition.2007.2008.bib	17914945	sleep	Biological Process	go:0030431
+IBS.Nutrition.2007.2008.bib	17336590	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17336590	serine-proteases	Molecular Function	go:0008236
+IBS.Nutrition.2007.2008.bib	17336590	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2007.2008.bib	18492522	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2007.2008.bib	18695306	fibers	Tissue	bto:0000450
+IBS.Nutrition.2007.2008.bib	18695306	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	17536982	tegaserod	Chemical Compound	cids05362436
+IBS.Nutrition.2007.2008.bib	18322884	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18322884	style	Tissue	bto:0001313
+IBS.Nutrition.2007.2008.bib	18322884	bran	Genes/Proteins	fbpp0099961
+IBS.Nutrition.2007.2008.bib	18595861	behavior	Biological Process	go:0007610
+IBS.Nutrition.2007.2008.bib	18595861	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2007.2008.bib	18595861	peppermint	Organism	34256
+IBS.Nutrition.2007.2008.bib	18595861	fiber	Tissue	bto:0000450
+IBS.Nutrition.2007.2008.bib	18595861	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18595861	cromolyn sodium	Chemical Compound	cids00002881
+IBS.Nutrition.2007.2008.bib	18785988	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2007.2008.bib	18781120	diarrhea	Disease	doid:13250
+IBS.Nutrition.2007.2008.bib	18781120	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.1997.1998.bib	9375486	vegetable	Genes/Proteins	fbpp0086200
+IBS.Nutrition.1997.1998.bib	9375486	constipation	Disease	doid:2089
+IBS.Nutrition.1997.1998.bib	9375486	caffeine	Chemical Compound	cids00002519
+IBS.Nutrition.1997.1998.bib	9375486	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9795410	motor activity	Molecular Function	go:0003774
+IBS.Nutrition.1997.1998.bib	9795410	defecation	Biological Process	go:0030421
+IBS.Nutrition.1997.1998.bib	9795410	bowel	Tissue	bto:0000648
+IBS.Nutrition.1997.1998.bib	9795410	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9795410	constipation	Disease	doid:2089
+IBS.Nutrition.1997.1998.bib	9795410	sleep	Biological Process	go:0030431
+IBS.Nutrition.1997.1998.bib	10565386	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.1997.1998.bib	10565386	nervous system	Tissue	bto:0001484
+IBS.Nutrition.1997.1998.bib	10565386	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.1997.1998.bib	10565386	diarrhoea	Disease	doid:13250
+IBS.Nutrition.1997.1998.bib	10565386	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9824144	bacteria	Organism	1869227
+IBS.Nutrition.1997.1998.bib	9824144	lactase	Genes/Proteins	ensbtap00000020185
+IBS.Nutrition.1997.1998.bib	9824144	colon	Organism	1542223
+IBS.Nutrition.1997.1998.bib	9824144	lactose	Chemical Compound	cids00006134
+IBS.Nutrition.1997.1998.bib	9824144	mucosal	Tissue	bto:0000886
+IBS.Nutrition.1997.1998.bib	9824144	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9824144	l-tryptophan	Chemical Compound	cids00006305
+IBS.Nutrition.1997.1998.bib	9824144	co2	Chemical Compound	cids00000280
+IBS.Nutrition.1997.1998.bib	9824144	mental depression	Disease	doid:1596
+IBS.Nutrition.1997.1998.bib	9824144	short-chain fatty acids	Chemical Compound	cids00517045
+IBS.Nutrition.1997.1998.bib	9824144	osmotic diarrhea	Disease	doid:0050130
+IBS.Nutrition.1997.1998.bib	9824144	5-hydroxytryptamine (serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.1997.1998.bib	9824144	metabolism	Biological Process	go:0008152
+IBS.Nutrition.1997.1998.bib	9810810	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9810810	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.1997.1998.bib	9810810	lactose intolerance	Disease	doid:10604
+IBS.Nutrition.1997.1998.bib	9587089	short bowel syndrome	Disease	doid:10605
+IBS.Nutrition.1997.1998.bib	9587089	volvulus	Disease	doid:8445
+IBS.Nutrition.1997.1998.bib	9587089	inguinal hernia	Disease	doid:0060320
+IBS.Nutrition.1997.1998.bib	9587089	celiac sprue	Disease	doid:10608
+IBS.Nutrition.1997.1998.bib	9587089	cecal	Tissue	bto:0000166
+IBS.Nutrition.1997.1998.bib	9587089	diarrhea	Disease	doid:13250
+IBS.Nutrition.1997.1998.bib	9587089	jejunoileitis	Disease	doid:0060188
+IBS.Nutrition.1997.1998.bib	9587089	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9125652	bowel	Tissue	bto:0000648
+IBS.Nutrition.1997.1998.bib	9125652	rectal	Tissue	bto:0001158
+IBS.Nutrition.1997.1998.bib	9797383	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1997.1998.bib	9797383	rectal	Tissue	bto:0001158
+IBS.Nutrition.2013.2014.bib	25307525	nop	Genes/Proteins	ensmusp00000014920
+IBS.Nutrition.2013.2014.bib	25307525	nociceptin/orphanin fq	Chemical Compound	cids16131448
+IBS.Nutrition.2013.2014.bib	25307525	n/ofq	Genes/Proteins	ensp00000301908
+IBS.Nutrition.2013.2014.bib	25307525	sch 221510	Chemical Compound	cids09887077
+IBS.Nutrition.2013.2014.bib	25307525	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	25307525	peripheral nervous systems	Tissue	bto:0001028
+IBS.Nutrition.2013.2014.bib	25307525	secretion	Biological Process	go:0046903
+IBS.Nutrition.2013.2014.bib	25307525	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	25307525	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.2013.2014.bib	25307525	opioid receptor like 1	Genes/Proteins	ensmusp00000071513
+IBS.Nutrition.2013.2014.bib	23711626	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	23711626	occludin	Genes/Proteins	ensmusp00000065284
+IBS.Nutrition.2013.2014.bib	23711626	fsn	Genes/Proteins	fbpp0086875
+IBS.Nutrition.2013.2014.bib	23711626	mice	Organism	10090
+IBS.Nutrition.2013.2014.bib	23711626	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	23711626	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2013.2014.bib	23711626	cysteine-proteases	Molecular Function	go:0008234
+IBS.Nutrition.2013.2014.bib	23711626	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23711626	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	23711626	proteases	Molecular Function	go:0008233
+IBS.Nutrition.2013.2014.bib	23711626	serine-proteases	Molecular Function	go:0008236
+IBS.Nutrition.2013.2014.bib	24727487	bile acids	Chemical Compound	cids00439520
+IBS.Nutrition.2013.2014.bib	24727487	colon	Organism	1542223
+IBS.Nutrition.2013.2014.bib	24727487	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	25533646	mesalazine	Chemical Compound	cids00004075
+IBS.Nutrition.2013.2014.bib	23614962	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	23614962	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23614962	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	23614962	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2013.2014.bib	24261834	urban	Environment	envo:00000856
+IBS.Nutrition.2013.2014.bib	24261834	colorectal	Tissue	bto:0001613
+IBS.Nutrition.2013.2014.bib	24613995	nav1.5	Genes/Proteins	enssscp00000012005
+IBS.Nutrition.2013.2014.bib	24613995	scn5a	Genes/Proteins	ensmusp00000112838
+IBS.Nutrition.2013.2014.bib	24613995	voltage-gated sodium channel	Cellular Component	go:0001518
+IBS.Nutrition.2013.2014.bib	24613995	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24224642	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23614961	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	23614961	jejunum	Tissue	bto:0000657
+IBS.Nutrition.2013.2014.bib	23614961	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.2013.2014.bib	22937900	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	22937900	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25001973	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	25001973	neurons	Tissue	bto:0000938
+IBS.Nutrition.2013.2014.bib	25001973	cell bodies	Cellular Component	go:0044297
+IBS.Nutrition.2013.2014.bib	25001973	secretion	Biological Process	go:0046903
+IBS.Nutrition.2013.2014.bib	25001973	nervous system	Tissue	bto:0001484
+IBS.Nutrition.2013.2014.bib	25170217	amitriptyline	Chemical Compound	cids00002160
+IBS.Nutrition.2013.2014.bib	25170217	cardiac conduction	Biological Process	go:0061337
+IBS.Nutrition.2013.2014.bib	23653274	melatonin	Chemical Compound	cids00000896
+IBS.Nutrition.2013.2014.bib	23653274	smooth muscle	Tissue	bto:0001260
+IBS.Nutrition.2013.2014.bib	23653274	secretion	Biological Process	go:0046903
+IBS.Nutrition.2013.2014.bib	23653274	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23756392	excretion	Biological Process	go:0007588
+IBS.Nutrition.2013.2014.bib	23756392	d group	Organism	68297
+IBS.Nutrition.2013.2014.bib	23756392	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2013.2014.bib	23756392	fluoxetine	Chemical Compound	cids00003386
+IBS.Nutrition.2013.2014.bib	23756392	urine	Tissue	bto:0001419
+IBS.Nutrition.2013.2014.bib	23756392	tianeptine	Chemical Compound	cids00068870
+IBS.Nutrition.2013.2014.bib	23756392	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	23756392	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23756392	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	23756392	melatonin	Chemical Compound	cids00000896
+IBS.Nutrition.2013.2014.bib	23756392	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	23756392	group c	Genes/Proteins	fbpp0087529
+IBS.Nutrition.2013.2014.bib	24637601	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24637601	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2013.2014.bib	24637601	methane	Chemical Compound	cids00000297
+IBS.Nutrition.2013.2014.bib	25224307	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	25224307	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25224307	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	25356771	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25356771	wheat	Organism	4565
+IBS.Nutrition.2013.2014.bib	25356771	bifidobacteria	Organism	1678
+IBS.Nutrition.2013.2014.bib	24106397	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	24106397	gut epithelium	Tissue	bto:0000956
+IBS.Nutrition.2013.2014.bib	24106397	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	24106397	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24106397	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	23826979	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23826979	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	23826979	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	23295690	human gut microbiota	Organism	408170
+IBS.Nutrition.2013.2014.bib	23295690	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	23295690	behavior	Biological Process	go:0007610
+IBS.Nutrition.2013.2014.bib	23295690	humans	Organism	9605
+IBS.Nutrition.2013.2014.bib	23295690	bacteroides	Organism	816
+IBS.Nutrition.2013.2014.bib	23295690	intestinal metagenome	Organism	749906
+IBS.Nutrition.2013.2014.bib	23295690	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2013.2014.bib	23295690	obesity	Disease	doid:9970
+IBS.Nutrition.2013.2014.bib	23295690	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	23295690	ruminococcus	Organism	1263
+IBS.Nutrition.2013.2014.bib	23295690	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23295690	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	23295690	prevotella	Organism	838
+IBS.Nutrition.2013.2014.bib	24995675	adults	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	24995675	saccharomyces	Organism	4930
+IBS.Nutrition.2013.2014.bib	24357350	fructans	Chemical Compound	cids00440946
+IBS.Nutrition.2013.2014.bib	24357350	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	24357350	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24357350	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2013.2014.bib	25383869	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	25383869	metabolic syndrome	Disease	doid:0014667
+IBS.Nutrition.2013.2014.bib	25383869	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25383869	digestion	Biological Process	go:0007586
+IBS.Nutrition.2013.2014.bib	25383869	heart	Tissue	bto:0000562
+IBS.Nutrition.2013.2014.bib	24379622	intestine	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	24379622	g. intestinalis	Organism	84525
+IBS.Nutrition.2013.2014.bib	24379622	giardia	Organism	5740
+IBS.Nutrition.2013.2014.bib	24379622	giardia duodenalis	Organism	5741
+IBS.Nutrition.2013.2014.bib	24379622	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	24379622	giardiasis	Disease	doid:10718
+IBS.Nutrition.2013.2014.bib	24379622	growth	Biological Process	go:0040007
+IBS.Nutrition.2013.2014.bib	24379622	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24379622	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24251699	digestion	Biological Process	go:0007586
+IBS.Nutrition.2013.2014.bib	24251699	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	24251699	fiber	Tissue	bto:0000450
+IBS.Nutrition.2013.2014.bib	24251699	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24290319	non-alcoholic fatty liver disease	Disease	doid:0080208
+IBS.Nutrition.2013.2014.bib	24290319	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	24290319	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24290319	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	24290319	obesity	Disease	doid:9970
+IBS.Nutrition.2013.2014.bib	24290319	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2013.2014.bib	24290319	body growth	Biological Process	go:0035264
+IBS.Nutrition.2013.2014.bib	24290319	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24290319	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2013.2014.bib	24290319	celiac disease	Disease	doid:10608
+IBS.Nutrition.2013.2014.bib	24290319	asthma	Disease	doid:2841
+IBS.Nutrition.2013.2014.bib	24047860	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24047860	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	24463504	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24463504	cortisol	Chemical Compound	cids00005754
+IBS.Nutrition.2013.2014.bib	24463504	thermal stimuli	Biological Process	go:0009266
+IBS.Nutrition.2013.2014.bib	24463504	follicular phase	Biological Process	go:0001541
+IBS.Nutrition.2013.2014.bib	23731196	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23731196	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2013.2014.bib	23731196	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	23529955	trpv1	Genes/Proteins	ensp00000459962
+IBS.Nutrition.2013.2014.bib	23529955	substance p	Genes/Proteins	ensp00000321106
+IBS.Nutrition.2013.2014.bib	23529955	transient receptor potential vanilloid	Genes/Proteins	fbpp0302810
+IBS.Nutrition.2013.2014.bib	23529955	neuropeptides	Genes/Proteins	ensp00000381105
+IBS.Nutrition.2013.2014.bib	23529955	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2013.2014.bib	23529955	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	23529955	channel	Molecular Function	go:0015267
+IBS.Nutrition.2013.2014.bib	23529955	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23529955	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	23529955	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2013.2014.bib	23529955	signalling	Biological Process	go:0023052
+IBS.Nutrition.2013.2014.bib	23731747	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	23731747	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2013.2014.bib	23731747	kynurenic acid (kyna	Chemical Compound	cids00003845
+IBS.Nutrition.2013.2014.bib	23731747	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2013.2014.bib	23731747	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2013.2014.bib	23731747	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2013.2014.bib	23731747	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23731747	kynurenine	Chemical Compound	cids00000846
+IBS.Nutrition.2013.2014.bib	24943480	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24943480	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2013.2014.bib	24943480	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2013.2014.bib	24390924	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2013.2014.bib	24390924	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2013.2014.bib	24390924	synthesis	Biological Process	go:0009058
+IBS.Nutrition.2013.2014.bib	24390924	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2013.2014.bib	24390924	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	24390924	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	24390924	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2013.2014.bib	24390924	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24390924	digestion	Biological Process	go:0007586
+IBS.Nutrition.2013.2014.bib	24390924	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	24964506	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24964506	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24964506	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	24964506	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	24713205	escherichia coli	Organism	562
+IBS.Nutrition.2013.2014.bib	24713205	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24713205	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	24713205	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2013.2014.bib	24713205	faecalibacterium prausnitzii	Organism	853
+IBS.Nutrition.2013.2014.bib	24920528	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	24920528	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24732667	il-10	Genes/Proteins	ensbtap00000008793
+IBS.Nutrition.2013.2014.bib	24732667	colon	Organism	1542223
+IBS.Nutrition.2013.2014.bib	24732667	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2013.2014.bib	24732667	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	24732667	mice	Organism	10090
+IBS.Nutrition.2013.2014.bib	24732667	dinitro-benzenesulfonic-acid	Chemical Compound	cids00006959
+IBS.Nutrition.2013.2014.bib	24732667	spleen	Tissue	bto:0001281
+IBS.Nutrition.2013.2014.bib	24732667	dnbs	Chemical Compound	cids00008830
+IBS.Nutrition.2013.2014.bib	24732667	l. lactis	Organism	1246
+IBS.Nutrition.2013.2014.bib	24732667	lactococcus lactis	Organism	1360
+IBS.Nutrition.2013.2014.bib	24732667	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2013.2014.bib	24732667	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24732667	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	24732667	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	24583088	intestine	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	24583088	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	24583088	nervous system	Tissue	bto:0001484
+IBS.Nutrition.2013.2014.bib	24583088	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24583088	signaling	Biological Process	go:0023052
+IBS.Nutrition.2013.2014.bib	24583088	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	25097003	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24944465	hormone	Molecular Function	go:0005179
+IBS.Nutrition.2013.2014.bib	24944465	estrogen	Chemical Compound	cids00448537
+IBS.Nutrition.2013.2014.bib	24944465	progesterone	Chemical Compound	cids00005994
+IBS.Nutrition.2013.2014.bib	24944465	menstrual cycle	Biological Process	go:0044850
+IBS.Nutrition.2013.2014.bib	24944465	testosterone	Chemical Compound	cids00006013
+IBS.Nutrition.2013.2014.bib	24944465	estradiol	Chemical Compound	cids00068570
+IBS.Nutrition.2013.2014.bib	24944465	immune system	Tissue	bto:0005810
+IBS.Nutrition.2013.2014.bib	24944465	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24944465	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24944465	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	23857339	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25085503	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	25085503	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25085503	stress response	Biological Process	go:0006950
+IBS.Nutrition.2013.2014.bib	25085503	pituitary	Tissue	bto:0001073
+IBS.Nutrition.2013.2014.bib	25085503	adrenal	Tissue	bto:0000047
+IBS.Nutrition.2013.2014.bib	25365580	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	25365580	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	25365580	humans	Organism	9605
+IBS.Nutrition.2013.2014.bib	25365580	faecalibacterium prausnitzii	Organism	853
+IBS.Nutrition.2013.2014.bib	25365580	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2013.2014.bib	25365580	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	25365580	bifidobacterium sp	Organism	41200
+IBS.Nutrition.2013.2014.bib	25365580	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25365580	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	25365580	dientamoeba fragilis	Organism	43352
+IBS.Nutrition.2013.2014.bib	25365580	blastocystis	Organism	12967
+IBS.Nutrition.2013.2014.bib	23580243	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	23580243	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2013.2014.bib	23580243	innate immunity	Biological Process	go:0045087
+IBS.Nutrition.2013.2014.bib	23580243	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	23580243	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25446728	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	25446728	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2013.2014.bib	25446728	nervous system	Tissue	bto:0001484
+IBS.Nutrition.2013.2014.bib	23774537	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23774537	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2013.2014.bib	23774537	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	25206275	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	25206275	not available	Chemical Compound	cids00006344
+IBS.Nutrition.2013.2014.bib	25206275	plasma	Tissue	bto:0000131
+IBS.Nutrition.2013.2014.bib	25206275	humans	Organism	9605
+IBS.Nutrition.2013.2014.bib	25206275	human immunodeficiency virus	Organism	12721
+IBS.Nutrition.2013.2014.bib	25206275	bovine	Organism	9913
+IBS.Nutrition.2013.2014.bib	25206275	mucosal immune response	Biological Process	go:0002385
+IBS.Nutrition.2013.2014.bib	25206275	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2013.2014.bib	25206275	immunoglobulins	Molecular Function	go:0003823
+IBS.Nutrition.2013.2014.bib	25206275	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	25206275	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25206275	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	25206275	hiv infection	Disease	doid:526
+IBS.Nutrition.2013.2014.bib	25206275	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	25206275	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2013.2014.bib	25142170	immunoglobulins	Cellular Component	go:0019814
+IBS.Nutrition.2013.2014.bib	25142170	not available	Chemical Compound	cids00006344
+IBS.Nutrition.2013.2014.bib	25142170	human immunodeficiency virus	Organism	12721
+IBS.Nutrition.2013.2014.bib	25142170	humans	Organism	9605
+IBS.Nutrition.2013.2014.bib	25142170	bovine	Organism	9913
+IBS.Nutrition.2013.2014.bib	25142170	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25142170	intestinal epithelial cell	Tissue	bto:0005937
+IBS.Nutrition.2013.2014.bib	25142170	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	25142170	immune system	Tissue	bto:0005810
+IBS.Nutrition.2013.2014.bib	25142170	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	25142170	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2013.2014.bib	24212352	food products	Environment	envo:00002002
+IBS.Nutrition.2013.2014.bib	24212352	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	24212352	guar	Organism	3832
+IBS.Nutrition.2013.2014.bib	24212352	colorless	Genes/Proteins	ensdarp00000100237
+IBS.Nutrition.2013.2014.bib	24212352	fiber	Tissue	bto:0000450
+IBS.Nutrition.2013.2014.bib	24212352	growth	Biological Process	go:0040007
+IBS.Nutrition.2013.2014.bib	24212352	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2013.2014.bib	24212352	water solution	Chemical Compound	cids00012432
+IBS.Nutrition.2013.2014.bib	24212352	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24212352	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	24212352	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	24212352	adults	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	24230474	degradation	Biological Process	go:0009056
+IBS.Nutrition.2013.2014.bib	24230474	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2013.2014.bib	24230474	t84 cells	Tissue	bto:0002032
+IBS.Nutrition.2013.2014.bib	24897168	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24897168	pain syndrome	Disease	doid:0060164
+IBS.Nutrition.2013.2014.bib	23220208	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23220208	adult	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	24486406	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25255126	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23588241	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	23588241	bacteria	Organism	629395
+IBS.Nutrition.2013.2014.bib	23588241	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2013.2014.bib	23588241	rye	Organism	4550
+IBS.Nutrition.2013.2014.bib	23588241	fruits	Tissue	bto:0000486
+IBS.Nutrition.2013.2014.bib	23588241	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2013.2014.bib	23588241	bowel	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	23588241	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23588241	wheat	Organism	4565
+IBS.Nutrition.2013.2014.bib	24435814	il-10	Genes/Proteins	ensbtap00000008793
+IBS.Nutrition.2013.2014.bib	24435814	interleukin-10	Genes/Proteins	ensmusp00000016673
+IBS.Nutrition.2013.2014.bib	24435814	peripheral blood	Tissue	bto:0000553
+IBS.Nutrition.2013.2014.bib	24435814	pbmc	Tissue	bto:0001025
+IBS.Nutrition.2013.2014.bib	24435814	monocyte	Tissue	bto:0000876
+IBS.Nutrition.2013.2014.bib	24435814	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24435814	adults	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	24521561	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24521561	triticum turgidum subsp. turanicum	Organism	376534
+IBS.Nutrition.2013.2014.bib	24521561	wheat	Organism	4565
+IBS.Nutrition.2013.2014.bib	24521561	pasta	Genes/Proteins	ensrnop00000024581
+IBS.Nutrition.2013.2014.bib	23890756	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	23890756	mastocytosis	Disease	doid:350
+IBS.Nutrition.2013.2014.bib	23890756	systemic mastocytosis	Disease	doid:349
+IBS.Nutrition.2013.2014.bib	23890756	mast cell	Tissue	bto:0000830
+IBS.Nutrition.2013.2014.bib	25447248	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25447248	adults	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	25447248	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2013.2014.bib	25447248	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2013.2014.bib	24445613	hydrogen production	Biological Process	go:1902422
+IBS.Nutrition.2013.2014.bib	24445613	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2013.2014.bib	24445613	ileal	Tissue	bto:0000620
+IBS.Nutrition.2013.2014.bib	24304979	sta	Genes/Proteins	ensmusp00000002029
+IBS.Nutrition.2013.2014.bib	24304979	intestine	Tissue	bto:0000648
+IBS.Nutrition.2013.2014.bib	24304979	guanylate cyclase c	Genes/Proteins	ensp00000265074
+IBS.Nutrition.2013.2014.bib	24304979	intestinal epithelial cells	Tissue	bto:0005937
+IBS.Nutrition.2013.2014.bib	24304979	transmembrane receptor	Genes/Proteins	at2g32140.1
+IBS.Nutrition.2013.2014.bib	24304979	ligands	Molecular Function	go:0005488
+IBS.Nutrition.2013.2014.bib	24304979	secretory diarrhea	Disease	doid:0050129
+IBS.Nutrition.2013.2014.bib	24304979	cyclic guanosine monophosphate	Chemical Compound	cids00024316
+IBS.Nutrition.2013.2014.bib	24304979	escherichia coli	Organism	562
+IBS.Nutrition.2013.2014.bib	24304979	cgmp	Genes/Proteins	fbpp0077706
+IBS.Nutrition.2013.2014.bib	25194614	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25194614	l. plantarum	Organism	1365
+IBS.Nutrition.2013.2014.bib	25194614	lactobacillus plantarum	Organism	1590
+IBS.Nutrition.2013.2014.bib	24797031	respiratory tract	Tissue	bto:0000203
+IBS.Nutrition.2013.2014.bib	24797031	clostridium difficile	Organism	1496
+IBS.Nutrition.2013.2014.bib	24797031	infectious diarrhea	Disease	doid:12384
+IBS.Nutrition.2013.2014.bib	24797031	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2013.2014.bib	24797031	milk allergy	Disease	doid:4376
+IBS.Nutrition.2013.2014.bib	24797031	diarrhea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	24797031	bacterial vaginosis	Disease	doid:3385
+IBS.Nutrition.2013.2014.bib	24797031	helicobacter pylori	Organism	210
+IBS.Nutrition.2013.2014.bib	24797031	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24797031	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	24797031	urinary tract	Tissue	bto:0001244
+IBS.Nutrition.2013.2014.bib	24797031	atopic eczema	Disease	doid:3310
+IBS.Nutrition.2013.2014.bib	25083056	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25083056	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2013.2014.bib	25083056	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	25184834	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2013.2014.bib	25184834	bacteria	Organism	1869227
+IBS.Nutrition.2013.2014.bib	25184834	gut mucosa	Tissue	bto:0000546
+IBS.Nutrition.2013.2014.bib	25184834	intestinal epithelial	Tissue	bto:0000781
+IBS.Nutrition.2013.2014.bib	25184834	sensitization	Biological Process	go:0046960
+IBS.Nutrition.2013.2014.bib	25184834	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	25184834	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2013.2014.bib	25184834	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25184834	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	25184834	nerve endings	Cellular Component	go:0043679
+IBS.Nutrition.2013.2014.bib	25184834	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	24969290	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2013.2014.bib	24969290	thiopurine	Chemical Compound	cids00667490
+IBS.Nutrition.2013.2014.bib	24969290	necrosis	Biological Process	go:0019835
+IBS.Nutrition.2013.2014.bib	24969290	lactose intolerance	Disease	doid:10604
+IBS.Nutrition.2013.2014.bib	24969290	calcineurin	Molecular Function	go:0004722
+IBS.Nutrition.2013.2014.bib	24969290	celiac disease	Disease	doid:10608
+IBS.Nutrition.2013.2014.bib	24969290	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24969290	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	24969290	adults	Tissue	bto:0001043
+IBS.Nutrition.2013.2014.bib	24574707	histone methylation	Biological Process	go:0016571
+IBS.Nutrition.2013.2014.bib	24574707	glucocorticoid receptor	Molecular Function	go:0004883
+IBS.Nutrition.2013.2014.bib	24574707	gene expression	Biological Process	go:0010467
+IBS.Nutrition.2013.2014.bib	24574707	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24574707	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2013.2014.bib	24574707	brain	Tissue	bto:0000142
+IBS.Nutrition.2013.2014.bib	24574707	physiological processes	Biological Process	go:0008150
+IBS.Nutrition.2013.2014.bib	24164903	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23680358	bifidobacteria	Organism	1678
+IBS.Nutrition.2013.2014.bib	23680358	dendritic cell	Tissue	bto:0002042
+IBS.Nutrition.2013.2014.bib	23680358	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	23680358	clostridia	Organism	1485
+IBS.Nutrition.2013.2014.bib	23680358	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2013.2014.bib	23680358	human	Organism	9606
+IBS.Nutrition.2013.2014.bib	23680358	growth	Biological Process	go:0040007
+IBS.Nutrition.2013.2014.bib	23680358	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2013.2014.bib	23680358	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23680358	disease	Disease	doid:4
+IBS.Nutrition.2013.2014.bib	25287086	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	25287086	constipation	Disease	doid:2089
+IBS.Nutrition.2013.2014.bib	23286925	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	23286925	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2013.2014.bib	23286925	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2013.2014.bib	24041540	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2013.2014.bib	24278273	connective tissue	Tissue	bto:0000421
+IBS.Nutrition.2009.2010.bib	19309441	fos	Genes/Proteins	enssscp00000002583
+IBS.Nutrition.2009.2010.bib	19309441	gut wall	Tissue	bto:0000547
+IBS.Nutrition.2009.2010.bib	19309441	sensitization	Biological Process	go:0046960
+IBS.Nutrition.2009.2010.bib	19309441	spinal cord	Tissue	bto:0001279
+IBS.Nutrition.2009.2010.bib	19309441	paraventricular nucleus	Tissue	bto:0002460
+IBS.Nutrition.2009.2010.bib	19309441	sensory neurons	Tissue	bto:0001037
+IBS.Nutrition.2009.2010.bib	19309441	colorectal	Tissue	bto:0001613
+IBS.Nutrition.2009.2010.bib	19309441	mea	Organism	1178312
+IBS.Nutrition.2009.2010.bib	19309441	hypothalamus	Tissue	bto:0000614
+IBS.Nutrition.2009.2010.bib	19309441	nucleus	Cellular Component	go:0005634
+IBS.Nutrition.2009.2010.bib	19309441	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19309441	amygdala	Organism	1972714
+IBS.Nutrition.2009.2010.bib	19309441	lactobacillus farciminis	Organism	1612
+IBS.Nutrition.2009.2010.bib	19309441	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2009.2010.bib	19309441	mechanical stimuli	Biological Process	go:0009612
+IBS.Nutrition.2009.2010.bib	19309441	rats	Organism	10116
+IBS.Nutrition.2009.2010.bib	19718531	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2009.2010.bib	19450926	cathepsin-g	Genes/Proteins	ensrnop00000056429
+IBS.Nutrition.2009.2010.bib	19450926	par-2	Genes/Proteins	enssscp00000014983
+IBS.Nutrition.2009.2010.bib	19450926	par-4	Genes/Proteins	fbpp0082276
+IBS.Nutrition.2009.2010.bib	19450926	serine-protease	Genes/Proteins	fbpp0079002
+IBS.Nutrition.2009.2010.bib	19450926	colorectal	Tissue	bto:0001613
+IBS.Nutrition.2009.2010.bib	19450926	proteinase-activated receptor	Molecular Function	go:0001648
+IBS.Nutrition.2009.2010.bib	19450926	mice	Organism	10090
+IBS.Nutrition.2009.2010.bib	19450926	cat-g	Genes/Proteins	ensmusp00000015583
+IBS.Nutrition.2009.2010.bib	19450926	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2009.2010.bib	19450926	par-4-ap	Chemical Compound	cids09987061
+IBS.Nutrition.2009.2010.bib	19450926	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19450926	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2009.2010.bib	19450926	rectal	Tissue	bto:0001158
+IBS.Nutrition.2009.2010.bib	19450926	ser-p	Genes/Proteins	fbpp0074721
+IBS.Nutrition.2009.2010.bib	19481357	neonates	Tissue	bto:0001762
+IBS.Nutrition.2009.2010.bib	19481357	human	Organism	9606
+IBS.Nutrition.2009.2010.bib	19481357	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2009.2010.bib	19481357	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19481357	pituitary	Tissue	bto:0001073
+IBS.Nutrition.2009.2010.bib	19481357	adrenal	Tissue	bto:0000047
+IBS.Nutrition.2009.2010.bib	20439597	prometheus	Genes/Proteins	ensdarp00000046003
+IBS.Nutrition.2009.2010.bib	20439597	ibd7	Disease	doid:0110882
+IBS.Nutrition.2009.2010.bib	20439597	blood	Tissue	bto:0000089
+IBS.Nutrition.2009.2010.bib	20439597	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	21079618	obesity	Disease	doid:9970
+IBS.Nutrition.2009.2010.bib	19303540	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	19303540	cck	Genes/Proteins	ensmusp00000035120
+IBS.Nutrition.2009.2010.bib	19303540	ngf	Genes/Proteins	ensmusp00000102538
+IBS.Nutrition.2009.2010.bib	19303540	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2009.2010.bib	19303540	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19303540	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2009.2010.bib	19303540	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2009.2010.bib	19303540	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2009.2010.bib	19303540	mast cells	Tissue	bto:0000830
+IBS.Nutrition.2009.2010.bib	19303540	tachykinins	Genes/Proteins	fbpp0081962
+IBS.Nutrition.2009.2010.bib	19303540	bowel	Tissue	bto:0000648
+IBS.Nutrition.2009.2010.bib	21147704	colon transit	Biological Process	go:0120056
+IBS.Nutrition.2009.2010.bib	21147704	defecation	Biological Process	go:0030421
+IBS.Nutrition.2009.2010.bib	21147704	kiwifruit	Organism	3627
+IBS.Nutrition.2009.2010.bib	21147704	bowel	Tissue	bto:0000648
+IBS.Nutrition.2009.2010.bib	21147704	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	21147704	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	21147704	constipation	Disease	doid:2089
+IBS.Nutrition.2009.2010.bib	21147704	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	19997094	proteasome	Cellular Component	go:0000502
+IBS.Nutrition.2009.2010.bib	19997094	protein degradation	Biological Process	go:0030163
+IBS.Nutrition.2009.2010.bib	19997094	colonic mucosa	Tissue	bto:0000271
+IBS.Nutrition.2009.2010.bib	19997094	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19149514	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2009.2010.bib	19149514	humans	Organism	9605
+IBS.Nutrition.2009.2010.bib	19149514	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2009.2010.bib	19149514	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19149514	secretion	Biological Process	go:0046903
+IBS.Nutrition.2009.2010.bib	19149514	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2009.2010.bib	19149514	growth	Biological Process	go:0040007
+IBS.Nutrition.2009.2010.bib	19149514	gut mucosal	Tissue	bto:0000546
+IBS.Nutrition.2009.2010.bib	19149514	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19888655	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19888655	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	19303541	fibers	Tissue	bto:0000450
+IBS.Nutrition.2009.2010.bib	19303541	d-ibs	Chemical Compound	cids00007228
+IBS.Nutrition.2009.2010.bib	19303541	pregabalin	Chemical Compound	cids04715169
+IBS.Nutrition.2009.2010.bib	19303541	5ht3	Genes/Proteins	ensmusp00000003826
+IBS.Nutrition.2009.2010.bib	19303541	metronidazole	Chemical Compound	cids00004173
+IBS.Nutrition.2009.2010.bib	19303541	melatonin	Chemical Compound	cids00000896
+IBS.Nutrition.2009.2010.bib	19303541	neomycin	Chemical Compound	cids00008378
+IBS.Nutrition.2009.2010.bib	19303541	rifaximin	Chemical Compound	cids06436173
+IBS.Nutrition.2009.2010.bib	19303541	colonic transit	Biological Process	go:0120056
+IBS.Nutrition.2009.2010.bib	19303541	bowel	Tissue	bto:0000648
+IBS.Nutrition.2009.2010.bib	19303541	colestyramine	Chemical Compound	cids70695640
+IBS.Nutrition.2009.2010.bib	19303541	octreotide	Chemical Compound	cids00383413
+IBS.Nutrition.2009.2010.bib	19303541	loperamide	Chemical Compound	cids00003954
+IBS.Nutrition.2009.2010.bib	19303541	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19303541	macrogol	Chemical Compound	cids00000174
+IBS.Nutrition.2009.2010.bib	19303541	ramosetron	Chemical Compound	cids00107999
+IBS.Nutrition.2009.2010.bib	19682813	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2009.2010.bib	19682813	autonomic nervous system	Tissue	bto:0002507
+IBS.Nutrition.2009.2010.bib	19682813	neurons	Tissue	bto:0000938
+IBS.Nutrition.2009.2010.bib	19682813	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19682813	mast cell	Tissue	bto:0000830
+IBS.Nutrition.2009.2010.bib	19682813	neuro	Genes/Proteins	fbpp0302942
+IBS.Nutrition.2009.2010.bib	19682813	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2009.2010.bib	19682813	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	19682813	enteric nervous system	Tissue	bto:0002506
+IBS.Nutrition.2009.2010.bib	19682813	brain	Tissue	bto:0000142
+IBS.Nutrition.2009.2010.bib	20889005	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2009.2010.bib	20889005	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2009.2010.bib	20889005	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2009.2010.bib	20889005	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20889005	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	20889005	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2009.2010.bib	19606407	ageing	Biological Process	go:0007568
+IBS.Nutrition.2009.2010.bib	19747920	5-hydroxytryptamine	Chemical Compound	cids00005202
+IBS.Nutrition.2009.2010.bib	19747920	sert	Genes/Proteins	ensgalp00000006742
+IBS.Nutrition.2009.2010.bib	19747920	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2009.2010.bib	19747920	intestinal epithelial cells	Tissue	bto:0005937
+IBS.Nutrition.2009.2010.bib	19747920	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19747920	serotonin transporter	Genes/Proteins	fbpp0072269
+IBS.Nutrition.2009.2010.bib	19747920	escherichia coli	Organism	562
+IBS.Nutrition.2009.2010.bib	19747920	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20453678	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20453678	adult	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	20107148	bowel	Tissue	bto:0000648
+IBS.Nutrition.2009.2010.bib	20107148	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2009.2010.bib	20107148	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	20107148	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2009.2010.bib	20107148	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	20107148	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20107148	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	21094906	glucose	Chemical Compound	cids53782692
+IBS.Nutrition.2009.2010.bib	21094906	smooth muscle	Tissue	bto:0001260
+IBS.Nutrition.2009.2010.bib	21094906	glp-1	Genes/Proteins	ensmusp00000111157
+IBS.Nutrition.2009.2010.bib	21094906	insulin	Genes/Proteins	enssscp00000025428
+IBS.Nutrition.2009.2010.bib	21094906	hormones	Molecular Function	go:0005179
+IBS.Nutrition.2009.2010.bib	21094906	blood	Tissue	bto:0000089
+IBS.Nutrition.2009.2010.bib	21094906	type 2 diabetes	Disease	doid:9352
+IBS.Nutrition.2009.2010.bib	21094906	glucagon	Genes/Proteins	ensbtap00000054709
+IBS.Nutrition.2009.2010.bib	21094906	glucagon-like peptide-1	Genes/Proteins	ensp00000387662
+IBS.Nutrition.2009.2010.bib	21094906	gastric emptying	Biological Process	go:0035483
+IBS.Nutrition.2009.2010.bib	21094906	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	21094906	insulin secretion	Biological Process	go:0030073
+IBS.Nutrition.2009.2010.bib	21094906	hyperglycemia	Disease	doid:4195
+IBS.Nutrition.2009.2010.bib	18814803	fructans	Chemical Compound	cids00440946
+IBS.Nutrition.2009.2010.bib	18814803	colon	Organism	1542223
+IBS.Nutrition.2009.2010.bib	18814803	human	Organism	9606
+IBS.Nutrition.2009.2010.bib	18814803	adult	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	18814803	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2009.2010.bib	18814803	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2009.2010.bib	18814803	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2009.2010.bib	18814803	growth	Biological Process	go:0040007
+IBS.Nutrition.2009.2010.bib	18814803	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	18814803	digestion	Biological Process	go:0007586
+IBS.Nutrition.2009.2010.bib	18814803	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	19442167	bifidobacteria	Organism	1678
+IBS.Nutrition.2009.2010.bib	19442167	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	19442167	lactobacilli	Organism	1578
+IBS.Nutrition.2009.2010.bib	19442167	humans	Organism	9605
+IBS.Nutrition.2009.2010.bib	19442167	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2009.2010.bib	19442167	natural killer cell	Tissue	bto:0000914
+IBS.Nutrition.2009.2010.bib	19442167	phagocytosis	Biological Process	go:0006909
+IBS.Nutrition.2009.2010.bib	19442167	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2009.2010.bib	19442167	cytokines	Molecular Function	go:0005125
+IBS.Nutrition.2009.2010.bib	19442167	rheumatoid arthritis	Disease	doid:7148
+IBS.Nutrition.2009.2010.bib	19442167	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2009.2010.bib	19442167	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19442167	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19442167	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	19442167	allergic disease	Disease	doid:1205
+IBS.Nutrition.2009.2010.bib	19442167	immune response	Biological Process	go:0006955
+IBS.Nutrition.2009.2010.bib	19442167	lymphocyte proliferation	Biological Process	go:0046651
+IBS.Nutrition.2009.2010.bib	19442167	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	20458757	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	20458757	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	20458757	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	20458757	saccharomyces	Organism	4930
+IBS.Nutrition.2009.2010.bib	19413174	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	19413174	mucous membranes	Tissue	bto:0000886
+IBS.Nutrition.2009.2010.bib	19413174	type 2 diabetes	Disease	doid:9352
+IBS.Nutrition.2009.2010.bib	19413174	skin	Tissue	bto:0001253
+IBS.Nutrition.2009.2010.bib	19413174	human	Organism	9606
+IBS.Nutrition.2009.2010.bib	19413174	obesity	Disease	doid:9970
+IBS.Nutrition.2009.2010.bib	19413174	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2009.2010.bib	19413174	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	19413174	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19413174	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2009.2010.bib	19413174	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2009.2010.bib	20236566	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2009.2010.bib	20236566	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	20236566	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2009.2010.bib	20236566	bowel	Tissue	bto:0000648
+IBS.Nutrition.2009.2010.bib	20236566	immune system	Tissue	bto:0005810
+IBS.Nutrition.2009.2010.bib	20236566	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19803452	phosphorus	Chemical Compound	cids00024404
+IBS.Nutrition.2009.2010.bib	19803452	vitamin b2	Chemical Compound	cids00006759
+IBS.Nutrition.2009.2010.bib	19803452	vitamin a	Chemical Compound	cids00445354
+IBS.Nutrition.2009.2010.bib	19803452	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19803452	cooper	Chemical Compound	cids00040463
+IBS.Nutrition.2009.2010.bib	19803452	fe	Chemical Compound	cids00023925
+IBS.Nutrition.2009.2010.bib	20920376	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2009.2010.bib	20920376	bifidobacteria	Organism	1678
+IBS.Nutrition.2009.2010.bib	20920376	colon	Organism	1542223
+IBS.Nutrition.2009.2010.bib	20920376	ca	Genes/Proteins	fbpp0084900
+IBS.Nutrition.2009.2010.bib	20920376	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20920376	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	20920376	metabolic processes	Biological Process	go:0008152
+IBS.Nutrition.2009.2010.bib	20920376	atopic eczema	Disease	doid:3310
+IBS.Nutrition.2009.2010.bib	20920376	human	Organism	9606
+IBS.Nutrition.2009.2010.bib	20920376	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2009.2010.bib	20920376	immune system	Tissue	bto:0005810
+IBS.Nutrition.2009.2010.bib	20920376	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	20920376	food products	Environment	envo:00002002
+IBS.Nutrition.2009.2010.bib	20920376	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2009.2010.bib	20920376	obesity	Disease	doid:9970
+IBS.Nutrition.2009.2010.bib	20920376	stimulation of growth	Biological Process	go:0045927
+IBS.Nutrition.2009.2010.bib	20920376	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	20920376	symbiosis	Biological Process	go:0044403
+IBS.Nutrition.2009.2010.bib	20920376	diabetes	Disease	doid:9351
+IBS.Nutrition.2009.2010.bib	20920376	colon cancer	Disease	doid:219
+IBS.Nutrition.2009.2010.bib	21637035	clostridium difficile	Organism	1496
+IBS.Nutrition.2009.2010.bib	21637035	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2009.2010.bib	21637035	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2009.2010.bib	21637035	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	21637035	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	21637035	h.pylori	Organism	210
+IBS.Nutrition.2009.2010.bib	21637035	rotavirus	Organism	10912
+IBS.Nutrition.2009.2010.bib	21637035	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2009.2010.bib	21637035	adults	Tissue	bto:0001043
+IBS.Nutrition.2009.2010.bib	19596010	amitriptyline	Chemical Compound	cids00002160
+IBS.Nutrition.2009.2010.bib	19296845	polyethylene glycol	Chemical Compound	cids00000174
+IBS.Nutrition.2009.2010.bib	19296845	defecation	Biological Process	go:0030421
+IBS.Nutrition.2009.2010.bib	19296845	taste	Biological Process	go:0050909
+IBS.Nutrition.2009.2010.bib	19296845	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19296845	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2009.2010.bib	19296845	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19296845	constipation	Disease	doid:2089
+IBS.Nutrition.2009.2010.bib	19296845	bifidobacterium lactis	Organism	302911
+IBS.Nutrition.2009.2010.bib	19874760	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19874760	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	19874760	gastroesophageal reflux	Disease	doid:8534
+IBS.Nutrition.2009.2010.bib	19874760	constipation	Disease	doid:2089
+IBS.Nutrition.2009.2010.bib	21115585	food products	Environment	envo:00002002
+IBS.Nutrition.2009.2010.bib	21115585	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2009.2010.bib	21115585	crohn disease	Disease	doid:8778
+IBS.Nutrition.2009.2010.bib	21115585	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2009.2010.bib	21115585	bacteria	Organism	1869227
+IBS.Nutrition.2009.2010.bib	21115585	gastritis	Disease	doid:4029
+IBS.Nutrition.2009.2010.bib	21115585	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2009.2010.bib	21115585	human	Organism	9606
+IBS.Nutrition.2009.2010.bib	21115585	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	21115585	growth	Biological Process	go:0040007
+IBS.Nutrition.2009.2010.bib	21115585	helicobacter pylori	Organism	210
+IBS.Nutrition.2009.2010.bib	21115585	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	21115585	atopic eczema	Disease	doid:3310
+IBS.Nutrition.2009.2010.bib	19244149	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19244149	disease	Disease	doid:4
+IBS.Nutrition.2009.2010.bib	19244149	human immunodeficiency virus	Organism	12721
+IBS.Nutrition.2009.2010.bib	19244149	diarrhea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19244149	short bowel syndrome	Disease	doid:10605
+IBS.Nutrition.2009.2010.bib	19570102	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	19570102	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	19570102	bile acid	Genes/Proteins	ensmusp00000030189
+IBS.Nutrition.2009.2010.bib	20220625	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2009.2010.bib	20220625	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2009.2010.bib	20220625	constipation	Disease	doid:2089
+IBS.Nutrition.2009.2010.bib	20220625	clostridium difficile	Organism	1496
+IBS.Nutrition.2009.2010.bib	18785988	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1995.1996.bib	8900914	oesophagus	Tissue	bto:0000959
+IBS.Nutrition.1995.1996.bib	8900914	colon	Organism	1542223
+IBS.Nutrition.1995.1996.bib	8900914	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.1995.1996.bib	8900914	small intestine	Tissue	bto:0000651
+IBS.Nutrition.1995.1996.bib	8900914	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1995.1996.bib	8890079	potato starch	Chemical Compound	cids24836924
+IBS.Nutrition.1995.1996.bib	8890079	citrus pectin	Chemical Compound	cids00441476
+IBS.Nutrition.1995.1996.bib	8890079	diarrhea	Disease	doid:13250
+IBS.Nutrition.1995.1996.bib	8890079	fiber	Tissue	bto:0000450
+IBS.Nutrition.1995.1996.bib	8890079	short-chain fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.1995.1996.bib	8890079	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.1995.1996.bib	8890079	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1995.1996.bib	8890079	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2011.2012.bib	22661301	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22937900	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22937900	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21079618	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	23016134	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2011.2012.bib	23016134	type 2 diabetes	Disease	doid:9352
+IBS.Nutrition.2011.2012.bib	23016134	diabetes	Disease	doid:9351
+IBS.Nutrition.2011.2012.bib	23016134	immune responses	Biological Process	go:0006955
+IBS.Nutrition.2011.2012.bib	23016134	human	Organism	9606
+IBS.Nutrition.2011.2012.bib	23016134	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	23016134	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	23016134	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	23016134	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	23017318	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	23017318	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2011.2012.bib	23017318	constipation	Disease	doid:2089
+IBS.Nutrition.2011.2012.bib	23017318	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21382232	american family	Organism	6974
+IBS.Nutrition.2011.2012.bib	21382232	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22690855	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22690855	constipation	Disease	doid:2089
+IBS.Nutrition.2011.2012.bib	21240023	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2011.2012.bib	21240023	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21240023	adults	Tissue	bto:0001043
+IBS.Nutrition.2011.2012.bib	23295690	human gut microbiota	Organism	408170
+IBS.Nutrition.2011.2012.bib	23295690	bacteria	Organism	1869227
+IBS.Nutrition.2011.2012.bib	23295690	behavior	Biological Process	go:0007610
+IBS.Nutrition.2011.2012.bib	23295690	humans	Organism	9605
+IBS.Nutrition.2011.2012.bib	23295690	bacteroides	Organism	816
+IBS.Nutrition.2011.2012.bib	23295690	intestinal metagenome	Organism	749906
+IBS.Nutrition.2011.2012.bib	23295690	ecosystem	Environment	envo:00000428
+IBS.Nutrition.2011.2012.bib	23295690	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	23295690	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	23295690	ruminococcus	Organism	1263
+IBS.Nutrition.2011.2012.bib	23295690	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	23295690	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2011.2012.bib	23295690	prevotella	Organism	838
+IBS.Nutrition.2011.2012.bib	22690145	vitamin c	Chemical Compound	cids11020241
+IBS.Nutrition.2011.2012.bib	22690145	arthritis	Disease	doid:848
+IBS.Nutrition.2011.2012.bib	22690145	heart	Tissue	bto:0000562
+IBS.Nutrition.2011.2012.bib	22690145	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	22690145	diabetes	Disease	doid:9351
+IBS.Nutrition.2011.2012.bib	22690145	carotene	Chemical Compound	cids05280489
+IBS.Nutrition.2011.2012.bib	22690145	marine	Environment	envo:00000447
+IBS.Nutrition.2011.2012.bib	22690145	oxygen	Chemical Compound	cids00000977
+IBS.Nutrition.2011.2012.bib	22690145	antioxidant	Molecular Function	go:0016209
+IBS.Nutrition.2011.2012.bib	22690145	vitamin e	Chemical Compound	cids00014985
+IBS.Nutrition.2011.2012.bib	22690145	rheumatoid arthritis	Disease	doid:7148
+IBS.Nutrition.2011.2012.bib	22690145	immune system	Tissue	bto:0005810
+IBS.Nutrition.2011.2012.bib	22690145	cancer	Disease	doid:162
+IBS.Nutrition.2011.2012.bib	22690145	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22690145	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	22690145	white blood cells	Tissue	bto:0000751
+IBS.Nutrition.2011.2012.bib	22690145	asthma	Disease	doid:2841
+IBS.Nutrition.2011.2012.bib	22888674	type 2 diabetes	Disease	doid:9352
+IBS.Nutrition.2011.2012.bib	22888674	srk	Genes/Proteins	ensp00000308413
+IBS.Nutrition.2011.2012.bib	22888674	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2011.2012.bib	22888674	lipid metabolism	Biological Process	go:0006629
+IBS.Nutrition.2011.2012.bib	22888674	constipation	Disease	doid:2089
+IBS.Nutrition.2011.2012.bib	22888674	irritable colon	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21962867	lactic acid	Chemical Compound	cids00000612
+IBS.Nutrition.2011.2012.bib	21962867	bacteria	Organism	1869227
+IBS.Nutrition.2011.2012.bib	21962867	enterococci	Organism	1350
+IBS.Nutrition.2011.2012.bib	21962867	humans	Organism	9605
+IBS.Nutrition.2011.2012.bib	21962867	e. faecium	Organism	1352
+IBS.Nutrition.2011.2012.bib	21962867	cc28	Genes/Proteins	ensmusp00000027290
+IBS.Nutrition.2011.2012.bib	21962867	islands	Environment	envo:00000098
+IBS.Nutrition.2011.2012.bib	21962867	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21962867	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	21962867	cholesterol	Chemical Compound	cids00005997
+IBS.Nutrition.2011.2012.bib	21962867	cc2	Genes/Proteins	fbpp0081187
+IBS.Nutrition.2011.2012.bib	21962867	cc9	Genes/Proteins	fbpp0073935
+IBS.Nutrition.2011.2012.bib	21962867	hospital	Environment	envo:00002173
+IBS.Nutrition.2011.2012.bib	21962867	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	21962867	e. faecalis	Organism	279970
+IBS.Nutrition.2011.2012.bib	21962867	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2011.2012.bib	21962867	pili	Cellular Component	go:0009289
+IBS.Nutrition.2011.2012.bib	21962867	virulence	Biological Process	go:0016032
+IBS.Nutrition.2011.2012.bib	21962867	growth	Biological Process	go:0040007
+IBS.Nutrition.2011.2012.bib	21962867	cc40	Chemical Compound	cids44195570
+IBS.Nutrition.2011.2012.bib	21962867	endocarditis	Disease	doid:10314
+IBS.Nutrition.2011.2012.bib	21962867	fermentations	Biological Process	go:0006113
+IBS.Nutrition.2011.2012.bib	22233286	vitamin c	Chemical Compound	cids23675738
+IBS.Nutrition.2011.2012.bib	22233286	caffeine	Chemical Compound	cids00002519
+IBS.Nutrition.2011.2012.bib	22233286	calcium glycerophosphate	Chemical Compound	cids00002526
+IBS.Nutrition.2011.2012.bib	22233286	bps	Genes/Proteins	fbpp0074978
+IBS.Nutrition.2011.2012.bib	22233286	fruits	Tissue	bto:0000486
+IBS.Nutrition.2011.2012.bib	22233286	citrus	Organism	2706
+IBS.Nutrition.2011.2012.bib	22233286	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2011.2012.bib	22233286	chronic fatigue syndrome	Disease	doid:8544
+IBS.Nutrition.2011.2012.bib	22233286	pain syndrome	Disease	doid:0060164
+IBS.Nutrition.2011.2012.bib	22233286	sodium bicarbonate	Chemical Compound	cids00000767
+IBS.Nutrition.2011.2012.bib	22233286	interstitial cystitis	Disease	doid:13949
+IBS.Nutrition.2011.2012.bib	22233286	bladder	Tissue	bto:0000123
+IBS.Nutrition.2011.2012.bib	22233286	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22233286	fibromyalgia	Disease	doid:631
+IBS.Nutrition.2011.2012.bib	22178854	humans	Organism	9605
+IBS.Nutrition.2011.2012.bib	22178854	gep	Genes/Proteins	ensgalp00000006958
+IBS.Nutrition.2011.2012.bib	22178854	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22178854	hormones	Molecular Function	go:0005179
+IBS.Nutrition.2011.2012.bib	22178854	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22178854	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	22178854	muscle	Tissue	bto:0000887
+IBS.Nutrition.2011.2012.bib	22178854	neurons	Tissue	bto:0000938
+IBS.Nutrition.2011.2012.bib	22178854	endocrine signaling	Biological Process	go:0038002
+IBS.Nutrition.2011.2012.bib	22178854	mice	Organism	10090
+IBS.Nutrition.2011.2012.bib	22178854	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	22178854	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	22178854	ileus	Disease	doid:8440
+IBS.Nutrition.2011.2012.bib	22178854	horses	Organism	9788
+IBS.Nutrition.2011.2012.bib	22178854	brain	Tissue	bto:0000142
+IBS.Nutrition.2011.2012.bib	22178854	enteroendocrine cells	Tissue	bto:0003865
+IBS.Nutrition.2011.2012.bib	22178854	diarrhea	Disease	doid:13250
+IBS.Nutrition.2011.2012.bib	22178854	mammals	Organism	40674
+IBS.Nutrition.2011.2012.bib	22178854	rats	Organism	10116
+IBS.Nutrition.2011.2012.bib	22178854	enteric nervous system	Tissue	bto:0002506
+IBS.Nutrition.2011.2012.bib	22178854	sympathetic nervous system	Tissue	bto:0001832
+IBS.Nutrition.2011.2012.bib	22178854	cattle	Organism	9913
+IBS.Nutrition.2011.2012.bib	22178854	prion disease	Disease	doid:649
+IBS.Nutrition.2011.2012.bib	21503810	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2011.2012.bib	21503810	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	21443725	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	23384810	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2011.2012.bib	23384810	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	23384810	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2011.2012.bib	21399505	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21399505	sleep	Biological Process	go:0030431
+IBS.Nutrition.2011.2012.bib	21734392	tissue transglutaminase	Genes/Proteins	ensgalp00000038435
+IBS.Nutrition.2011.2012.bib	21734392	antigen presentation	Biological Process	go:0019882
+IBS.Nutrition.2011.2012.bib	21734392	lamina propria	Tissue	bto:0002330
+IBS.Nutrition.2011.2012.bib	21734392	esophageal cancer	Disease	doid:5041
+IBS.Nutrition.2011.2012.bib	21734392	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	21734392	endopeptidases	Molecular Function	go:0004175
+IBS.Nutrition.2011.2012.bib	21734392	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21734392	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	21734392	wheat	Organism	4565
+IBS.Nutrition.2011.2012.bib	21734392	gastric cancer	Disease	doid:10534
+IBS.Nutrition.2011.2012.bib	21734392	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	21734392	human	Organism	9606
+IBS.Nutrition.2011.2012.bib	21734392	digestive tract	Tissue	bto:0000058
+IBS.Nutrition.2011.2012.bib	21734392	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2011.2012.bib	21734392	t-cell	Tissue	bto:0000782
+IBS.Nutrition.2011.2012.bib	21734392	esophagus	Tissue	bto:0000959
+IBS.Nutrition.2011.2012.bib	21734392	eosinophilic esophagitis	Disease	doid:13922
+IBS.Nutrition.2011.2012.bib	21734392	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2011.2012.bib	21734392	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	21734392	immune response	Biological Process	go:0006955
+IBS.Nutrition.2011.2012.bib	21734392	adenocarcinoma	Disease	doid:299
+IBS.Nutrition.2011.2012.bib	21734392	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2011.2012.bib	21734392	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2011.2012.bib	22473366	angiogenesis	Biological Process	go:0001525
+IBS.Nutrition.2011.2012.bib	22473366	human	Organism	9606
+IBS.Nutrition.2011.2012.bib	22473366	adult	Tissue	bto:0001043
+IBS.Nutrition.2011.2012.bib	22473366	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	22473366	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	22473366	immune response	Biological Process	go:0006955
+IBS.Nutrition.2011.2012.bib	22473366	human microbiome	Organism	646099
+IBS.Nutrition.2011.2012.bib	22950677	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22950677	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2011.2012.bib	22595988	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22595988	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22595988	hypersensitivity	Disease	doid:1205
+IBS.Nutrition.2011.2012.bib	22595988	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2011.2012.bib	22504901	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2011.2012.bib	22504901	defecation	Biological Process	go:0030421
+IBS.Nutrition.2011.2012.bib	22504901	rectal	Tissue	bto:0001158
+IBS.Nutrition.2011.2012.bib	22504901	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22504901	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21636013	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21636013	human	Organism	9606
+IBS.Nutrition.2011.2012.bib	22489905	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22489905	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2011.2012.bib	21863219	defecation	Biological Process	go:0030421
+IBS.Nutrition.2011.2012.bib	21863219	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21863219	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2011.2012.bib	22070725	bacteria	Organism	1869227
+IBS.Nutrition.2011.2012.bib	22070725	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	22070725	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2011.2012.bib	22070725	diarrhea	Disease	doid:13250
+IBS.Nutrition.2011.2012.bib	22070725	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22070725	constipation	Disease	doid:2089
+IBS.Nutrition.2011.2012.bib	22237879	dermatitis herpetiformis	Disease	doid:8505
+IBS.Nutrition.2011.2012.bib	22237879	wheat allergy	Disease	doid:3660
+IBS.Nutrition.2011.2012.bib	22237879	rye	Organism	4550
+IBS.Nutrition.2011.2012.bib	22237879	autism	Disease	doid:12849
+IBS.Nutrition.2011.2012.bib	22237879	oats	Organism	4498
+IBS.Nutrition.2011.2012.bib	22237879	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	22237879	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	22237879	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22237879	barley	Organism	4513
+IBS.Nutrition.2011.2012.bib	22664398	diabetes	Disease	doid:9351
+IBS.Nutrition.2011.2012.bib	22664398	cystic fibrosis	Disease	doid:1485
+IBS.Nutrition.2011.2012.bib	22664398	eating behaviors	Biological Process	go:0042755
+IBS.Nutrition.2011.2012.bib	22664398	young adults	Tissue	bto:0002168
+IBS.Nutrition.2011.2012.bib	22664398	eating disorder	Disease	doid:8670
+IBS.Nutrition.2011.2012.bib	22664398	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	22664398	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2011.2012.bib	22664398	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22664398	adults	Tissue	bto:0001043
+IBS.Nutrition.2011.2012.bib	23220208	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	23220208	adult	Tissue	bto:0001043
+IBS.Nutrition.2011.2012.bib	22744191	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22744191	adult	Tissue	bto:0001043
+IBS.Nutrition.2011.2012.bib	21513946	pyloric stenosis	Disease	doid:12639
+IBS.Nutrition.2011.2012.bib	20975580	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	20975580	milk allergy	Disease	doid:4376
+IBS.Nutrition.2011.2012.bib	22570928	allergic	Disease	doid:3310
+IBS.Nutrition.2011.2012.bib	22570928	human	Organism	9606
+IBS.Nutrition.2011.2012.bib	22570928	obesity	Disease	doid:9970
+IBS.Nutrition.2011.2012.bib	22570928	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	22570928	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2011.2012.bib	22570928	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22570928	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	22570928	celiac disease	Disease	doid:10608
+IBS.Nutrition.2011.2012.bib	22570928	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2011.2012.bib	22739368	bifidobacteria	Organism	1678
+IBS.Nutrition.2011.2012.bib	22739368	bacteria	Organism	1869227
+IBS.Nutrition.2011.2012.bib	22739368	fructo-oligosaccharides	Chemical Compound	cids00439709
+IBS.Nutrition.2011.2012.bib	22739368	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21615553	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21865971	amitriptyline	Chemical Compound	cids00002160
+IBS.Nutrition.2011.2012.bib	21865971	imipramine	Chemical Compound	cids00003696
+IBS.Nutrition.2011.2012.bib	21832904	disease	Disease	doid:4
+IBS.Nutrition.2011.2012.bib	21832904	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2011.2012.bib	21832904	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	22361864	rectal	Tissue	bto:0001158
+IBS.Nutrition.2011.2012.bib	22106509	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	22106509	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	22106509	uro	Genes/Proteins	fbpp0079109
+IBS.Nutrition.2011.2012.bib	22106509	gastritis	Disease	doid:4029
+IBS.Nutrition.2011.2012.bib	21892075	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2011.2012.bib	21892075	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21892075	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2011.2012.bib	21291551	bowel	Tissue	bto:0000648
+IBS.Nutrition.2011.2012.bib	21291551	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21636646	bacteria	Organism	1869227
+IBS.Nutrition.2011.2012.bib	21636646	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2011.2012.bib	21636646	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2011.2012.bib	21636646	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2011.2012.bib	21636646	mucosal immune responses	Biological Process	go:0002385
+IBS.Nutrition.1991.1992.bib	1765354	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.1991.1992.bib	1765354	retinol	Chemical Compound	cids00445354
+IBS.Nutrition.1991.1992.bib	1765354	retinol-binding protein	Genes/Proteins	ensdarp00000099156
+IBS.Nutrition.1991.1992.bib	1765354	protein catabolism	Biological Process	go:0030163
+IBS.Nutrition.1991.1992.bib	1765354	vitamin a metabolism	Biological Process	go:0006776
+IBS.Nutrition.1991.1992.bib	1765354	anorexia nervosa	Disease	doid:8689
+IBS.Nutrition.1991.1992.bib	1765354	diarrhea	Disease	doid:13250
+IBS.Nutrition.1991.1992.bib	1765354	ileal	Tissue	bto:0000620
+IBS.Nutrition.1991.1992.bib	1765354	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1991.1992.bib	1765354	disease	Disease	doid:4
+IBS.Nutrition.1991.1992.bib	1765354	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.1991.1992.bib	1765354	localization	Biological Process	go:0051179
+IBS.Nutrition.1991.1992.bib	1624165	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1991.1992.bib	1624165	constipation	Disease	doid:2089
+IBS.Nutrition.1991.1992.bib	1658281	excretion	Biological Process	go:0007588
+IBS.Nutrition.1991.1992.bib	1658281	albumin	Genes/Proteins	ensmusp00000031314
+IBS.Nutrition.1991.1992.bib	1658281	calcium	Genes/Proteins	fbpp0088134
+IBS.Nutrition.1991.1992.bib	1658281	cholesterol	Chemical Compound	cids00005997
+IBS.Nutrition.1991.1992.bib	1658281	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.1991.1992.bib	1658281	fuss	Genes/Proteins	fbpp0290550
+IBS.Nutrition.1991.1992.bib	1658281	soy	Genes/Proteins	fbpp0088684
+IBS.Nutrition.1991.1992.bib	1658281	behavior	Biological Process	go:0007610
+IBS.Nutrition.1991.1992.bib	1658281	fiber	Tissue	bto:0000450
+IBS.Nutrition.1991.1992.bib	1658281	growth	Biological Process	go:0040007
+IBS.Nutrition.1991.1992.bib	1658281	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.1991.1992.bib	1658281	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1991.1992.bib	1658281	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27154424	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27154424	vitamin d	Chemical Compound	cids05280795
+IBS.Nutrition.2015.2016.bib	27154424	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	27154424	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26448307	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	26448307	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26448307	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2015.2016.bib	26780116	lactic acid	Chemical Compound	cids00000612
+IBS.Nutrition.2015.2016.bib	26780116	intestine	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	26780116	humans	Organism	9605
+IBS.Nutrition.2015.2016.bib	26780116	bacteria	Organism	629395
+IBS.Nutrition.2015.2016.bib	26780116	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	26780116	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	26780116	bile salt	Chemical Compound	cids00439520
+IBS.Nutrition.2015.2016.bib	26780116	acute diarrhea	Disease	doid:0050140
+IBS.Nutrition.2015.2016.bib	26780116	helicobacter pylori	Organism	210
+IBS.Nutrition.2015.2016.bib	26780116	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26780116	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	27117114	ethyl acetate	Chemical Compound	cids00008857
+IBS.Nutrition.2015.2016.bib	27117114	boswellic acid	Chemical Compound	cids00168928
+IBS.Nutrition.2015.2016.bib	27117114	methylanisole	Chemical Compound	cids00007674
+IBS.Nutrition.2015.2016.bib	27117114	sinusitis	Disease	doid:0050127
+IBS.Nutrition.2015.2016.bib	27117114	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27117114	octyl acetate	Chemical Compound	cids00008164
+IBS.Nutrition.2015.2016.bib	27117114	asthma	Disease	doid:2841
+IBS.Nutrition.2015.2016.bib	27117114	5-lipoxygenase	Molecular Function	go:0004051
+IBS.Nutrition.2015.2016.bib	27117114	neurotic	Genes/Proteins	fbpp0086649
+IBS.Nutrition.2015.2016.bib	27117114	topoisomerase i	Genes/Proteins	fbpp0073822
+IBS.Nutrition.2015.2016.bib	27117114	boswellia	Organism	80276
+IBS.Nutrition.2015.2016.bib	27117114	keto	Chemical Compound	cids00066417
+IBS.Nutrition.2015.2016.bib	27117114	leukocyte elastase	Genes/Proteins	ensmusp00000038925
+IBS.Nutrition.2015.2016.bib	27117114	acetyl-beta-boswellic acid	Chemical Compound	cids11386458
+IBS.Nutrition.2015.2016.bib	27117114	boswellia serrata	Organism	613112
+IBS.Nutrition.2015.2016.bib	27117114	frankincense	Organism	173701
+IBS.Nutrition.2015.2016.bib	27117114	programmed cell death	Biological Process	go:0012501
+IBS.Nutrition.2015.2016.bib	27117114	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	27117114	apoptosis	Biological Process	go:0097194
+IBS.Nutrition.2015.2016.bib	27117114	bronchitis	Disease	doid:6132
+IBS.Nutrition.2015.2016.bib	25686620	wheat	Organism	4565
+IBS.Nutrition.2015.2016.bib	25686620	coeliac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	25686620	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	24727487	bile acids	Chemical Compound	cids00439520
+IBS.Nutrition.2015.2016.bib	24727487	colon	Organism	1542223
+IBS.Nutrition.2015.2016.bib	24727487	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	27136066	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25533646	mesalazine	Chemical Compound	cids00004075
+IBS.Nutrition.2015.2016.bib	26538058	lactobacillus rhamnosus gg	Organism	568703
+IBS.Nutrition.2015.2016.bib	26538058	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26538058	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2015.2016.bib	26538058	clostridium difficile	Organism	1496
+IBS.Nutrition.2015.2016.bib	26538058	saccharomyces	Organism	4930
+IBS.Nutrition.2015.2016.bib	26538058	infectious diarrhea	Disease	doid:12384
+IBS.Nutrition.2015.2016.bib	26538058	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	26538058	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26538058	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26538058	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26538058	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	29083560	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2015.2016.bib	29083560	functional diarrhea	Disease	doid:11371
+IBS.Nutrition.2015.2016.bib	29083560	intestine	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	29083560	enteric nervous system	Tissue	bto:0002506
+IBS.Nutrition.2015.2016.bib	29083560	central nervous system	Tissue	bto:0000227
+IBS.Nutrition.2015.2016.bib	29083560	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	29083560	group c	Genes/Proteins	fbpp0087529
+IBS.Nutrition.2015.2016.bib	29083560	intestinal mucosa	Tissue	bto:0000642
+IBS.Nutrition.2015.2016.bib	29083560	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	29083560	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	25918261	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27272011	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27272011	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	27272011	cytokines	Molecular Function	go:0005125
+IBS.Nutrition.2015.2016.bib	26467550	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26467550	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26467550	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25972430	occludin	Genes/Proteins	ensmusp00000065284
+IBS.Nutrition.2015.2016.bib	25972430	claudin-1	Genes/Proteins	ensgalp00000043047
+IBS.Nutrition.2015.2016.bib	25972430	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	25972430	colonic mucosa	Tissue	bto:0000271
+IBS.Nutrition.2015.2016.bib	25972430	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25817301	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27218818	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27319981	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27319981	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2015.2016.bib	26255043	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27845338	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27845338	behavior	Biological Process	go:0007610
+IBS.Nutrition.2015.2016.bib	27845338	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	25904236	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	27379637	sensory neurons	Tissue	bto:0001037
+IBS.Nutrition.2015.2016.bib	27379637	ion channels	Molecular Function	go:0022831
+IBS.Nutrition.2015.2016.bib	27379637	cell bodies	Cellular Component	go:0044297
+IBS.Nutrition.2015.2016.bib	27379637	neurons	Tissue	bto:0000938
+IBS.Nutrition.2015.2016.bib	27379637	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2015.2016.bib	27379637	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2015.2016.bib	27379637	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2015.2016.bib	27379637	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27379637	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25973666	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25973666	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25973666	diabetes	Disease	doid:9351
+IBS.Nutrition.2015.2016.bib	25973666	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	26887818	marine	Environment	envo:00000447
+IBS.Nutrition.2015.2016.bib	26887818	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	26887818	conus victoriae	Organism	319920
+IBS.Nutrition.2015.2016.bib	26887818	conotoxin	Biological Process	go:0046929
+IBS.Nutrition.2015.2016.bib	26887818	dorsal root ganglion	Tissue	bto:0001264
+IBS.Nutrition.2015.2016.bib	26096570	washout	Genes/Proteins	fbpp0087097
+IBS.Nutrition.2015.2016.bib	26096570	wheat allergy	Disease	doid:3660
+IBS.Nutrition.2015.2016.bib	26096570	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	27637372	allergens	Chemical Compound	cids06439874
+IBS.Nutrition.2015.2016.bib	27637372	allergic	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	27637372	gastroesophageal reflux disease	Disease	doid:8534
+IBS.Nutrition.2015.2016.bib	27637372	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	27637372	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26104013	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26104013	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26690980	rater	Organism	1553721
+IBS.Nutrition.2015.2016.bib	26690980	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26690980	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27639531	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27316779	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27316779	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27341511	wheat allergy	Disease	doid:3660
+IBS.Nutrition.2015.2016.bib	27341511	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	27341511	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	25799959	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	26301615	child	Tissue	bto:0002168
+IBS.Nutrition.2015.2016.bib	26784888	ssurrna	Genes/Proteins	rn18s
+IBS.Nutrition.2015.2016.bib	26784888	mount	Environment	envo:00000477
+IBS.Nutrition.2015.2016.bib	26784888	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26784888	blastocystis sp	Organism	46767
+IBS.Nutrition.2015.2016.bib	26784888	blastocystis	Organism	12967
+IBS.Nutrition.2015.2016.bib	26000888	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27110920	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27110920	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27110920	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27060367	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27060367	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2015.2016.bib	27060367	bile acid	Genes/Proteins	ensmusp00000030189
+IBS.Nutrition.2015.2016.bib	26387872	cd14	Genes/Proteins	ensgalp00000034245
+IBS.Nutrition.2015.2016.bib	26387872	innate immune responses	Biological Process	go:0045087
+IBS.Nutrition.2015.2016.bib	26387872	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26387872	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26387872	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2015.2016.bib	27092431	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	27618353	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26900283	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26900283	lactobacillus gg	Organism	568703
+IBS.Nutrition.2015.2016.bib	26900283	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26900283	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26900283	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26900283	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26900283	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	28094229	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	28094229	gastroesophageal reflux disease	Disease	doid:8534
+IBS.Nutrition.2015.2016.bib	28094229	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27159638	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2015.2016.bib	27159638	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	27159638	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	27159638	gastrointestinal disease	Disease	doid:77
+IBS.Nutrition.2015.2016.bib	27159638	epithelial	Tissue	bto:0000416
+IBS.Nutrition.2015.2016.bib	27159638	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27159638	brain	Tissue	bto:0000142
+IBS.Nutrition.2015.2016.bib	26832886	attention deficit hyperactivity disorder	Disease	doid:1094
+IBS.Nutrition.2015.2016.bib	26832886	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26832886	eczema	Disease	doid:2723
+IBS.Nutrition.2015.2016.bib	26832886	migraine	Disease	doid:6364
+IBS.Nutrition.2015.2016.bib	25623278	jaw	Tissue	bto:0001749
+IBS.Nutrition.2015.2016.bib	25623278	lost 1	Genes/Proteins	ensdarp00000120873
+IBS.Nutrition.2015.2016.bib	25623278	tooth	Tissue	bto:0000397
+IBS.Nutrition.2015.2016.bib	25623278	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25623278	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	25623278	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27725652	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27725652	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27725652	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26251177	gut microbiome	Organism	749906
+IBS.Nutrition.2015.2016.bib	26251177	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	26251177	skin cancer	Disease	doid:4159
+IBS.Nutrition.2015.2016.bib	26251177	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26251177	diverticulitis	Disease	doid:7475
+IBS.Nutrition.2015.2016.bib	26251177	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26251177	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26251177	vitamin d	Chemical Compound	cids05280795
+IBS.Nutrition.2015.2016.bib	26251177	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2015.2016.bib	27401139	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27457769	gerd	Disease	doid:8534
+IBS.Nutrition.2015.2016.bib	27457769	bladder syndrome	Disease	doid:365
+IBS.Nutrition.2015.2016.bib	27457769	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27457769	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2015.2016.bib	27457769	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27982124	bacteroides	Organism	816
+IBS.Nutrition.2015.2016.bib	27982124	enterobacteriaceae	Organism	543
+IBS.Nutrition.2015.2016.bib	27982124	eubacterium rectale	Organism	39491
+IBS.Nutrition.2015.2016.bib	27982124	colitis	Disease	doid:0060180
+IBS.Nutrition.2015.2016.bib	27982124	intestinal mucosal	Tissue	bto:0000642
+IBS.Nutrition.2015.2016.bib	27982124	bifidobacterium	Organism	1678
+IBS.Nutrition.2015.2016.bib	27982124	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	27982124	desulfovibrio sp	Organism	885
+IBS.Nutrition.2015.2016.bib	27982124	cytokines	Molecular Function	go:0005125
+IBS.Nutrition.2015.2016.bib	27982124	mice	Organism	10090
+IBS.Nutrition.2015.2016.bib	27982124	roseburia	Organism	841
+IBS.Nutrition.2015.2016.bib	27982124	rats	Organism	10116
+IBS.Nutrition.2015.2016.bib	27982124	escherichia coli	Organism	562
+IBS.Nutrition.2015.2016.bib	27982124	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27982124	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2015.2016.bib	27982124	akkermansia muciniphila	Organism	239935
+IBS.Nutrition.2015.2016.bib	27982124	immune response	Biological Process	go:0006955
+IBS.Nutrition.2015.2016.bib	26175488	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2015.2016.bib	26175488	allergic	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	26175488	infectious diarrhea	Disease	doid:12384
+IBS.Nutrition.2015.2016.bib	26175488	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2015.2016.bib	26175488	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	26175488	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	26175488	eosinophilic gastroenteritis	Disease	doid:4031
+IBS.Nutrition.2015.2016.bib	26175488	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26175488	allergy	Disease	doid:1205
+IBS.Nutrition.2015.2016.bib	26467837	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2015.2016.bib	26467837	rectal	Tissue	bto:0001158
+IBS.Nutrition.2015.2016.bib	26467837	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25391345	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	25391345	humans	Organism	9605
+IBS.Nutrition.2015.2016.bib	25391345	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	25391345	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25391345	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	25391345	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25391345	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27406943	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27406943	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2015.2016.bib	27872184	sucrase-isomaltase	Cellular Component	go:0070014
+IBS.Nutrition.2015.2016.bib	27872184	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27872184	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26329806	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27469369	nerves	Tissue	bto:0000925
+IBS.Nutrition.2015.2016.bib	27469369	nociceptin	Genes/Proteins	enssscp00000010333
+IBS.Nutrition.2015.2016.bib	27469369	central nervous system	Tissue	bto:0000227
+IBS.Nutrition.2015.2016.bib	27469369	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27469369	opioid receptor	Molecular Function	go:0004985
+IBS.Nutrition.2015.2016.bib	27469369	receptors	Cellular Component	go:0043235
+IBS.Nutrition.2015.2016.bib	27469369	nervous system	Tissue	bto:0001484
+IBS.Nutrition.2015.2016.bib	27469369	immune system	Tissue	bto:0005810
+IBS.Nutrition.2015.2016.bib	27469369	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27469369	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	27469369	enteric nervous system	Tissue	bto:0002506
+IBS.Nutrition.2015.2016.bib	27490103	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27490103	estrogen receptors	Molecular Function	go:0030284
+IBS.Nutrition.2015.2016.bib	27490103	vitamin d	Chemical Compound	cids05280795
+IBS.Nutrition.2015.2016.bib	27490103	smooth muscles	Tissue	bto:0001260
+IBS.Nutrition.2015.2016.bib	27490103	soy	Genes/Proteins	fbpp0088684
+IBS.Nutrition.2015.2016.bib	27636379	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27636379	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26079726	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26079726	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26270949	pmo	Chemical Compound	cids00446492
+IBS.Nutrition.2015.2016.bib	26270949	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26270949	peppermint oil	Chemical Compound	cids06850741
+IBS.Nutrition.2015.2016.bib	26270949	menthol	Chemical Compound	cids00001254
+IBS.Nutrition.2015.2016.bib	25982290	clostridium difficile	Organism	1496
+IBS.Nutrition.2015.2016.bib	25982290	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	25982290	organ system	Tissue	bto:0001491
+IBS.Nutrition.2015.2016.bib	25982290	metabolic syndrome	Disease	doid:0014667
+IBS.Nutrition.2015.2016.bib	25982290	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25982290	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	25982290	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26031193	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26031193	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2015.2016.bib	26031193	5-hydroxytryptophan	Chemical Compound	cids00000144
+IBS.Nutrition.2015.2016.bib	26031193	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2015.2016.bib	26031193	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27324285	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	28000477	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2015.2016.bib	28000477	bacteria	Organism	1869227
+IBS.Nutrition.2015.2016.bib	28000477	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2015.2016.bib	28000477	cancer	Disease	doid:162
+IBS.Nutrition.2015.2016.bib	28000477	helicobacter	Organism	209
+IBS.Nutrition.2015.2016.bib	28000477	panorama	Chemical Compound	cids00008174
+IBS.Nutrition.2015.2016.bib	28000477	intestines	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	28000477	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	28000477	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	28000477	colon cancer	Disease	doid:219
+IBS.Nutrition.2015.2016.bib	28000477	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	28000477	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	28000477	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2015.2016.bib	25406525	glucose	Chemical Compound	cids53782692
+IBS.Nutrition.2015.2016.bib	25406525	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2015.2016.bib	25406525	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26208234	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25216385	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27649150	cell adhesion	Biological Process	go:0007155
+IBS.Nutrition.2015.2016.bib	27649150	eczema	Disease	doid:2723
+IBS.Nutrition.2015.2016.bib	27649150	allergic	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	27649150	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27649150	bifidobacterium bifidum bgn4	Organism	484020
+IBS.Nutrition.2015.2016.bib	27649150	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27649150	immune cells	Tissue	bto:0000751
+IBS.Nutrition.2015.2016.bib	27649150	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27736943	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27736943	behavior	Biological Process	go:0007610
+IBS.Nutrition.2015.2016.bib	27736943	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26492847	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2015.2016.bib	26492847	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27957327	btnl9	Genes/Proteins	ensrnop00000065366
+IBS.Nutrition.2015.2016.bib	27957327	apc	Genes/Proteins	ensmusp00000078337
+IBS.Nutrition.2015.2016.bib	27957327	btn	Genes/Proteins	ensp00000244513
+IBS.Nutrition.2015.2016.bib	27957327	muc2	Genes/Proteins	ensdarp00000046575
+IBS.Nutrition.2015.2016.bib	27957327	mouse	Organism	10090
+IBS.Nutrition.2015.2016.bib	27957327	btn1a1	Genes/Proteins	ensbtap00000042450
+IBS.Nutrition.2015.2016.bib	27957327	btnl8	Genes/Proteins	ensrnop00000040105
+IBS.Nutrition.2015.2016.bib	27957327	btnl6	Genes/Proteins	ensrnop00000000500
+IBS.Nutrition.2015.2016.bib	27957327	btn2a2	Genes/Proteins	ensbtap00000042458
+IBS.Nutrition.2015.2016.bib	27957327	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	27957327	btnl2	Genes/Proteins	enssscp00000028246
+IBS.Nutrition.2015.2016.bib	27957327	btnl1	Genes/Proteins	ensmusp00000079140
+IBS.Nutrition.2015.2016.bib	27957327	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	27957327	colon	Tissue	bto:0000269
+IBS.Nutrition.2015.2016.bib	27957327	colon cancer	Disease	doid:219
+IBS.Nutrition.2015.2016.bib	27957327	t lymphocyte	Tissue	bto:0000782
+IBS.Nutrition.2015.2016.bib	27957327	btnl4	Genes/Proteins	ensmusp00000064161
+IBS.Nutrition.2015.2016.bib	27957327	btn3a3	Genes/Proteins	ensp00000244519
+IBS.Nutrition.2015.2016.bib	27957327	colitis	Disease	doid:0060180
+IBS.Nutrition.2015.2016.bib	27957327	butyrophilin	Genes/Proteins	ensgalp00000000171
+IBS.Nutrition.2015.2016.bib	27957327	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27957327	btnl3	Genes/Proteins	ensp00000341787
+IBS.Nutrition.2015.2016.bib	27957327	cancer	Disease	doid:162
+IBS.Nutrition.2015.2016.bib	26882900	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26882900	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	25970665	inflammatory responses	Biological Process	go:0006954
+IBS.Nutrition.2015.2016.bib	26585714	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26585714	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2015.2016.bib	26585714	giardia lamblia	Organism	5741
+IBS.Nutrition.2015.2016.bib	27373356	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2015.2016.bib	27373356	methane	Chemical Compound	cids00000297
+IBS.Nutrition.2015.2016.bib	27373356	rifaximin	Chemical Compound	cids06436173
+IBS.Nutrition.2015.2016.bib	27373356	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27373356	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.2015.2016.bib	27373356	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26296733	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26296733	f. prausnitzii	Organism	853
+IBS.Nutrition.2015.2016.bib	26296733	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26296733	gastrointestinal disease	Disease	doid:77
+IBS.Nutrition.2015.2016.bib	26296733	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26296733	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26296733	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2015.2016.bib	26296733	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26595550	escherichia coli	Organism	562
+IBS.Nutrition.2015.2016.bib	26595550	intestinal disease	Disease	doid:5295
+IBS.Nutrition.2015.2016.bib	26595550	f. prausnitzii	Organism	853
+IBS.Nutrition.2015.2016.bib	25752887	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.2015.2016.bib	25752887	docosahexaenoic acid (dha	Chemical Compound	cids00003144
+IBS.Nutrition.2015.2016.bib	25752887	pro	Genes/Proteins	at5g64660.1
+IBS.Nutrition.2015.2016.bib	25752887	synthesis	Biological Process	go:0009058
+IBS.Nutrition.2015.2016.bib	25752887	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25752887	eicosapentaenoic acid (epa	Chemical Compound	cids00003209
+IBS.Nutrition.2015.2016.bib	25752887	rheumatoid arthritis	Disease	doid:7148
+IBS.Nutrition.2015.2016.bib	25752887	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25752887	3 lc	Chemical Compound	cids91668544
+IBS.Nutrition.2015.2016.bib	25978614	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25978614	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27749843	tryptase	Genes/Proteins	ensmusp00000120741
+IBS.Nutrition.2015.2016.bib	27749843	connective tissue	Tissue	bto:0000421
+IBS.Nutrition.2015.2016.bib	27749843	tpsab1	Genes/Proteins	ensrnop00000025095
+IBS.Nutrition.2015.2016.bib	27749843	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27749843	joint	Tissue	bto:0001686
+IBS.Nutrition.2015.2016.bib	28082816	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	28082816	lactobacillus acidophilus	Organism	1579
+IBS.Nutrition.2015.2016.bib	26690475	trypsin	Genes/Proteins	ensdarp00000072127
+IBS.Nutrition.2015.2016.bib	26690475	innate immunity	Biological Process	go:0045087
+IBS.Nutrition.2015.2016.bib	26690475	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26690475	wheat allergy	Disease	doid:3660
+IBS.Nutrition.2015.2016.bib	26690475	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	26690475	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	26690475	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26690475	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26690475	wheat	Organism	4565
+IBS.Nutrition.2015.2016.bib	26690475	endosperm	Tissue	bto:0000390
+IBS.Nutrition.2015.2016.bib	25694210	fructans	Chemical Compound	cids00440946
+IBS.Nutrition.2015.2016.bib	25694210	sorbitol	Chemical Compound	cids00005780
+IBS.Nutrition.2015.2016.bib	25694210	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2015.2016.bib	25694210	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25694210	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2015.2016.bib	25694210	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	25694210	polydextrose	Chemical Compound	cids71306906
+IBS.Nutrition.2015.2016.bib	25694210	xylitol	Chemical Compound	cids00006912
+IBS.Nutrition.2015.2016.bib	25694210	maltitol	Chemical Compound	cids00493591
+IBS.Nutrition.2015.2016.bib	25694210	erythritol	Chemical Compound	cids00222285
+IBS.Nutrition.2015.2016.bib	25694210	isomalt	Chemical Compound	cids03034828
+IBS.Nutrition.2015.2016.bib	26443321	cvd	Genes/Proteins	fbpp0082643
+IBS.Nutrition.2015.2016.bib	26443321	osteoporosis	Disease	doid:11476
+IBS.Nutrition.2015.2016.bib	26443321	periodontal disease	Disease	doid:3388
+IBS.Nutrition.2015.2016.bib	26443321	allergic	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	26443321	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	26443321	immune system	Tissue	bto:0005810
+IBS.Nutrition.2015.2016.bib	26443321	respiratory tract	Tissue	bto:0000203
+IBS.Nutrition.2015.2016.bib	26443321	helicobacter pylori	Organism	210
+IBS.Nutrition.2015.2016.bib	26443321	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26443321	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25097003	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27272325	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27272325	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27265510	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27265510	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26290286	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27263852	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27263852	plasma	Tissue	bto:0000131
+IBS.Nutrition.2015.2016.bib	26172165	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2015.2016.bib	26172165	mucous membrane	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26172165	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	26172165	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	26172165	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26172165	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26172165	peristalsis	Biological Process	go:0030432
+IBS.Nutrition.2015.2016.bib	26548544	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26548544	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	25446728	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	25446728	immune systems	Tissue	bto:0005810
+IBS.Nutrition.2015.2016.bib	25446728	nervous system	Tissue	bto:0001484
+IBS.Nutrition.2015.2016.bib	28008787	lactobacillus rhamnosus gg	Organism	568703
+IBS.Nutrition.2015.2016.bib	28008787	blood	Tissue	bto:0000089
+IBS.Nutrition.2015.2016.bib	28008787	gastroenteritis	Disease	doid:2326
+IBS.Nutrition.2015.2016.bib	28008787	clostridium difficile	Organism	1496
+IBS.Nutrition.2015.2016.bib	28008787	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	28008787	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	28008787	atopic dermatitis	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	28008787	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	28008787	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	28008787	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2015.2016.bib	26317680	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2015.2016.bib	26317680	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26460205	methane	Chemical Compound	cids00000297
+IBS.Nutrition.2015.2016.bib	26460205	colonic mucosal	Tissue	bto:0000271
+IBS.Nutrition.2015.2016.bib	26460205	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26460205	colonic transit	Biological Process	go:0120056
+IBS.Nutrition.2015.2016.bib	26460205	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26768639	lactase	Genes/Proteins	ensrnop00000004908
+IBS.Nutrition.2015.2016.bib	26768639	short-chain fatty acids	Chemical Compound	cids00517045
+IBS.Nutrition.2015.2016.bib	26768639	lactose intolerance	Disease	doid:10604
+IBS.Nutrition.2015.2016.bib	26768639	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2015.2016.bib	26768639	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2015.2016.bib	26768639	colon	Organism	1542223
+IBS.Nutrition.2015.2016.bib	26768639	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	25142170	immunoglobulins	Cellular Component	go:0019814
+IBS.Nutrition.2015.2016.bib	25142170	not available	Chemical Compound	cids00006344
+IBS.Nutrition.2015.2016.bib	25142170	human immunodeficiency virus	Organism	12721
+IBS.Nutrition.2015.2016.bib	25142170	humans	Organism	9605
+IBS.Nutrition.2015.2016.bib	25142170	bovine	Organism	9913
+IBS.Nutrition.2015.2016.bib	25142170	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25142170	intestinal epithelial cell	Tissue	bto:0005937
+IBS.Nutrition.2015.2016.bib	25142170	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	25142170	immune system	Tissue	bto:0005810
+IBS.Nutrition.2015.2016.bib	25142170	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	25142170	homeostasis	Biological Process	go:0042592
+IBS.Nutrition.2015.2016.bib	26506213	hippurate	Chemical Compound	cids00000464
+IBS.Nutrition.2015.2016.bib	26506213	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2015.2016.bib	26506213	m-hydroxyphenylacetate	Chemical Compound	cids00012122
+IBS.Nutrition.2015.2016.bib	26506213	pyroglutamate	Chemical Compound	cids00007405
+IBS.Nutrition.2015.2016.bib	26914438	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26914438	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	25623659	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25623659	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2015.2016.bib	25608449	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	25608449	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	25903636	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25903636	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	25903636	monosaccharide	Chemical Compound	cids00005143
+IBS.Nutrition.2015.2016.bib	27212096	gallbladder	Tissue	bto:0000493
+IBS.Nutrition.2015.2016.bib	27212096	esophagus	Tissue	bto:0000959
+IBS.Nutrition.2015.2016.bib	27212096	gastroesophageal reflux	Disease	doid:8534
+IBS.Nutrition.2015.2016.bib	27212096	peptic ulcer disease	Disease	doid:750
+IBS.Nutrition.2015.2016.bib	27212096	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27212096	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27212096	colorectal cancer	Disease	doid:9256
+IBS.Nutrition.2015.2016.bib	27353222	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27353222	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26303129	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26303129	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2015.2016.bib	27437927	3 key	Genes/Proteins	ydr082w
+IBS.Nutrition.2015.2016.bib	27437927	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2015.2016.bib	27437927	migraine	Disease	doid:6364
+IBS.Nutrition.2015.2016.bib	27437927	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27437927	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2015.2016.bib	27437927	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27437927	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27437927	abdomen	Tissue	bto:0000020
+IBS.Nutrition.2015.2016.bib	25786053	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25786053	fibromyalgia	Disease	doid:631
+IBS.Nutrition.2015.2016.bib	25786053	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	25786053	sleep	Biological Process	go:0030431
+IBS.Nutrition.2015.2016.bib	26197999	glp-1	Genes/Proteins	ensmusp00000111157
+IBS.Nutrition.2015.2016.bib	26197999	type2 diabetes mellitus	Disease	doid:9352
+IBS.Nutrition.2015.2016.bib	26197999	synthesis	Biological Process	go:0009058
+IBS.Nutrition.2015.2016.bib	26197999	elobixibat	Chemical Compound	cids09939892
+IBS.Nutrition.2015.2016.bib	26197999	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26197999	glucagon-like peptide-1	Genes/Proteins	ensp00000387662
+IBS.Nutrition.2015.2016.bib	26197999	dyslipidemia	Disease	doid:3146
+IBS.Nutrition.2015.2016.bib	26197999	bile acid	Genes/Proteins	ensmusp00000030189
+IBS.Nutrition.2015.2016.bib	26197999	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26197999	ibat	Organism	385036
+IBS.Nutrition.2015.2016.bib	26197999	ileal	Tissue	bto:0000620
+IBS.Nutrition.2015.2016.bib	26197999	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26197999	plasma	Tissue	bto:0000131
+IBS.Nutrition.2015.2016.bib	25845918	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	25845918	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	27979583	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	27959272	adult	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	26017930	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26017930	child	Tissue	bto:0002168
+IBS.Nutrition.2015.2016.bib	25959064	ced	Genes/Proteins	ensp00000221930
+IBS.Nutrition.2015.2016.bib	25959064	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	25959064	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	25959064	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2015.2016.bib	25959064	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27080737	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.2015.2016.bib	27080737	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27080737	fiber	Tissue	bto:0000450
+IBS.Nutrition.2015.2016.bib	27080737	methane	Chemical Compound	cids00000297
+IBS.Nutrition.2015.2016.bib	27581702	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27102000	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27102000	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	27102000	behavior	Biological Process	go:0007610
+IBS.Nutrition.2015.2016.bib	27102000	peptic ulcer disease	Disease	doid:750
+IBS.Nutrition.2015.2016.bib	26908093	bifidobacteria	Organism	1678
+IBS.Nutrition.2015.2016.bib	26908093	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26908093	defecation	Biological Process	go:0030421
+IBS.Nutrition.2015.2016.bib	26908093	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	26908093	mucosal	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26908093	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26262064	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26262064	inflammatory bowel diseases	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26262064	pancreatitis	Disease	doid:4989
+IBS.Nutrition.2015.2016.bib	26262064	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26262064	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27725146	mucosa	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	27725146	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26024217	transport	Biological Process	go:0006810
+IBS.Nutrition.2015.2016.bib	26024217	defecation	Biological Process	go:0030421
+IBS.Nutrition.2015.2016.bib	26024217	copan	Disease	doid:0110740
+IBS.Nutrition.2015.2016.bib	26024217	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26024217	human microbiome	Organism	646099
+IBS.Nutrition.2015.2016.bib	26024217	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26024217	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26538292	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2015.2016.bib	26538292	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26538292	metabolism	Biological Process	go:0008152
+IBS.Nutrition.2015.2016.bib	26538292	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26538292	5-ht	Genes/Proteins	fbpp0080710
+IBS.Nutrition.2015.2016.bib	26940615	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26940615	chronic fatigue syndrome	Disease	doid:8544
+IBS.Nutrition.2015.2016.bib	26940615	urinary tract infection	Disease	doid:13148
+IBS.Nutrition.2015.2016.bib	26940615	type 2 diabetes	Disease	doid:9352
+IBS.Nutrition.2015.2016.bib	26892389	ulcerative colitis	Disease	doid:8577
+IBS.Nutrition.2015.2016.bib	26892389	allergy	Disease	doid:1205
+IBS.Nutrition.2015.2016.bib	26892389	mucous membrane	Tissue	bto:0000886
+IBS.Nutrition.2015.2016.bib	26892389	asthma	Disease	doid:2841
+IBS.Nutrition.2015.2016.bib	26892389	immune system	Tissue	bto:0005810
+IBS.Nutrition.2015.2016.bib	26892389	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26892389	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26892389	chronic obstructive pulmonary disorder	Disease	doid:3083
+IBS.Nutrition.2015.2016.bib	26892389	cervical epithelium	Tissue	bto:0000241
+IBS.Nutrition.2015.2016.bib	26892389	lung	Tissue	bto:0000763
+IBS.Nutrition.2015.2016.bib	24583746	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	24583746	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27184280	encephalitis	Disease	doid:9588
+IBS.Nutrition.2015.2016.bib	27184280	antidiarrheal	Chemical Compound	cids00003954
+IBS.Nutrition.2015.2016.bib	27184280	human immunodeficiency virus	Organism	12721
+IBS.Nutrition.2015.2016.bib	27184280	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	27184280	bovine	Organism	9913
+IBS.Nutrition.2015.2016.bib	27184280	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27184280	necrotizing enterocolitis	Disease	doid:8677
+IBS.Nutrition.2015.2016.bib	27184280	human	Organism	9606
+IBS.Nutrition.2015.2016.bib	27184280	diarrhea	Disease	doid:13250
+IBS.Nutrition.2015.2016.bib	27184280	gastrointestinal disease	Disease	doid:77
+IBS.Nutrition.2015.2016.bib	27184280	acute diarrhea	Disease	doid:0050140
+IBS.Nutrition.2015.2016.bib	27184280	immunoglobulin	Molecular Function	go:0003823
+IBS.Nutrition.2015.2016.bib	27184280	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27184280	igs	Disease	doid:13382
+IBS.Nutrition.2015.2016.bib	27184280	chicken	Organism	9031
+IBS.Nutrition.2015.2016.bib	27184280	adults	Tissue	bto:0001043
+IBS.Nutrition.2015.2016.bib	28525228	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	28525228	cancer	Disease	doid:162
+IBS.Nutrition.2015.2016.bib	28525228	obesity	Disease	doid:9970
+IBS.Nutrition.2015.2016.bib	26602216	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26020373	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26020373	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	26020482	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27409092	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2015.2016.bib	27409092	blastocystis hominis	Organism	12968
+IBS.Nutrition.2015.2016.bib	27409092	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	27409092	colitis	Disease	doid:0060180
+IBS.Nutrition.2015.2016.bib	27409092	soil	Environment	envo:00001998
+IBS.Nutrition.2015.2016.bib	27409092	entamoeba histolytica	Organism	5759
+IBS.Nutrition.2015.2016.bib	27409092	giardia lamblia	Organism	5741
+IBS.Nutrition.2015.2016.bib	27409092	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27409092	dientamoeba fragilis	Organism	43352
+IBS.Nutrition.2015.2016.bib	27409092	parasitism	Biological Process	go:0044403
+IBS.Nutrition.2015.2016.bib	27401607	ced	Genes/Proteins	ensp00000221930
+IBS.Nutrition.2015.2016.bib	27401607	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	27401607	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	26060112	wheat	Organism	4565
+IBS.Nutrition.2015.2016.bib	26060112	wheat allergy	Disease	doid:3660
+IBS.Nutrition.2015.2016.bib	26060112	gliadin	Chemical Compound	cids17787981
+IBS.Nutrition.2015.2016.bib	26060112	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2015.2016.bib	26060112	celiac disease	Disease	doid:10608
+IBS.Nutrition.2015.2016.bib	26621941	bile acid	Genes/Proteins	ensmusp00000030189
+IBS.Nutrition.2015.2016.bib	26621941	sehcat	Chemical Compound	cids00123829
+IBS.Nutrition.2015.2016.bib	26621941	low-fat	Genes/Proteins	fbpp0079592
+IBS.Nutrition.2015.2016.bib	26621941	selenium homocholic acid taurine	Chemical Compound	cids03086012
+IBS.Nutrition.2015.2016.bib	25871564	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27214096	ascending colon	Tissue	bto:0000270
+IBS.Nutrition.2015.2016.bib	27214096	polyethylene glycol	Chemical Compound	cids00000174
+IBS.Nutrition.2015.2016.bib	27214096	colon	Organism	1542223
+IBS.Nutrition.2015.2016.bib	27214096	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2015.2016.bib	27214096	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27214096	constipation	Disease	doid:2089
+IBS.Nutrition.2015.2016.bib	27664186	bowel	Tissue	bto:0000648
+IBS.Nutrition.2015.2016.bib	27664186	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	27664186	hypersensitivity	Disease	doid:1205
+IBS.Nutrition.2015.2016.bib	26530312	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26530312	inflammatory bowel disease	Disease	doid:0050589
+IBS.Nutrition.2015.2016.bib	26807908	25(oh)d	Chemical Compound	cids05283711
+IBS.Nutrition.2015.2016.bib	26807908	diabetes mellitus	Disease	doid:9351
+IBS.Nutrition.2015.2016.bib	26807908	25-hydroxyvitamin d	Chemical Compound	cids05353325
+IBS.Nutrition.2015.2016.bib	26807908	allergic	Disease	doid:3310
+IBS.Nutrition.2015.2016.bib	26807908	dry eye syndrome	Disease	doid:10140
+IBS.Nutrition.2015.2016.bib	26807908	rheumatoid arthritis	Disease	doid:7148
+IBS.Nutrition.2015.2016.bib	26807908	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2015.2016.bib	26807908	disease	Disease	doid:4
+IBS.Nutrition.2015.2016.bib	26807908	pain syndrome	Disease	doid:0060164
+IBS.Nutrition.2015.2016.bib	26807908	thyroid	Tissue	bto:0001379
+IBS.Nutrition.2015.2016.bib	27619957	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15325678	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15325678	fiber	Tissue	bto:0000450
+IBS.Nutrition.2003.2004.bib	15128493	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2003.2004.bib	15128493	bowel	Tissue	bto:0000648
+IBS.Nutrition.2003.2004.bib	15128493	diarrhea	Disease	doid:13250
+IBS.Nutrition.2003.2004.bib	15128493	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15128493	brain	Tissue	bto:0000142
+IBS.Nutrition.2003.2004.bib	15128493	adults	Tissue	bto:0001043
+IBS.Nutrition.2003.2004.bib	15673996	curcuma longa	Organism	136217
+IBS.Nutrition.2003.2004.bib	15673996	adults	Tissue	bto:0001043
+IBS.Nutrition.2003.2004.bib	15673996	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15353023	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15353023	artichoke	Organism	59895
+IBS.Nutrition.2003.2004.bib	15353023	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2003.2004.bib	15232359	menarche	Biological Process	go:0042696
+IBS.Nutrition.2003.2004.bib	15232359	adult	Tissue	bto:0001043
+IBS.Nutrition.2003.2004.bib	15232359	menopause	Biological Process	go:0042697
+IBS.Nutrition.2003.2004.bib	15232359	celiac disease	Disease	doid:10608
+IBS.Nutrition.2003.2004.bib	15232359	anemia	Disease	doid:2355
+IBS.Nutrition.2003.2004.bib	15232359	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15232359	disease	Disease	doid:4
+IBS.Nutrition.2003.2004.bib	15232359	amenorrhea	Disease	doid:13938
+IBS.Nutrition.2003.2004.bib	15166488	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15138210	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15138210	rectal	Tissue	bto:0001158
+IBS.Nutrition.2003.2004.bib	15220671	lactobacillus acidophilus	Organism	1579
+IBS.Nutrition.2003.2004.bib	15220671	cfu	Chemical Compound	cids77620543
+IBS.Nutrition.2003.2004.bib	15220671	bifidobacterium breve	Organism	1685
+IBS.Nutrition.2003.2004.bib	15220671	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15220671	lactobacillus plantarum	Organism	1590
+IBS.Nutrition.2003.2004.bib	15220671	fermentation	Biological Process	go:0006113
+IBS.Nutrition.2003.2004.bib	15373960	alpha-actin	Genes/Proteins	ensgalp00000010239
+IBS.Nutrition.2003.2004.bib	15373960	neuropathy	Disease	doid:870
+IBS.Nutrition.2003.2004.bib	15373960	intestinal pseudo-obstruction	Disease	doid:3878
+IBS.Nutrition.2003.2004.bib	15373960	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2003.2004.bib	15373960	spastic	Genes/Proteins	ensmusp00000029654
+IBS.Nutrition.2003.2004.bib	15373960	colon syndrome	Disease	doid:5353
+IBS.Nutrition.2003.2004.bib	15373960	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.2003.2004.bib	15373960	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2003.2004.bib	15373960	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15373960	midgut	Tissue	bto:0000863
+IBS.Nutrition.2003.2004.bib	15373960	intestinal smooth muscle	Tissue	bto:0000643
+IBS.Nutrition.2003.2004.bib	12781858	guar	Organism	3832
+IBS.Nutrition.2003.2004.bib	15054489	lactase	Genes/Proteins	ensrnop00000004908
+IBS.Nutrition.2003.2004.bib	15054489	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.2003.2004.bib	15054489	growth	Biological Process	go:0040007
+IBS.Nutrition.2003.2004.bib	15054489	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2003.2004.bib	15367850	disease	Disease	doid:4
+IBS.Nutrition.2003.2004.bib	15367850	celiac disease	Disease	doid:10608
+IBS.Nutrition.2001.2002.bib	12014237	blood	Tissue	bto:0000089
+IBS.Nutrition.2001.2002.bib	12014237	behaviour	Biological Process	go:0007610
+IBS.Nutrition.2001.2002.bib	12014237	haemoglobin	Cellular Component	go:0005833
+IBS.Nutrition.2001.2002.bib	12014237	leukocyte	Tissue	bto:0000751
+IBS.Nutrition.2001.2002.bib	12014237	defecation	Biological Process	go:0030421
+IBS.Nutrition.2001.2002.bib	12014237	colon	Organism	1542223
+IBS.Nutrition.2001.2002.bib	12014237	rectal	Tissue	bto:0001158
+IBS.Nutrition.2001.2002.bib	12014237	bowel	Tissue	bto:0000648
+IBS.Nutrition.2001.2002.bib	12014237	diarrhoea	Disease	doid:13250
+IBS.Nutrition.2001.2002.bib	12014237	constipation	Disease	doid:2089
+IBS.Nutrition.2001.2002.bib	12014237	abdomen	Tissue	bto:0000020
+IBS.Nutrition.2001.2002.bib	11424515	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11424515	caffeine	Chemical Compound	cids00002519
+IBS.Nutrition.2001.2002.bib	11858232	functional diarrhea	Disease	doid:11371
+IBS.Nutrition.2001.2002.bib	11858232	colon	Tissue	bto:0000269
+IBS.Nutrition.2001.2002.bib	11858232	peaks	Environment	envo:00000480
+IBS.Nutrition.2001.2002.bib	11858232	spastic	Genes/Proteins	ensmusp00000029654
+IBS.Nutrition.2001.2002.bib	11858232	diarrhea	Disease	doid:13250
+IBS.Nutrition.2001.2002.bib	11858232	colon syndrome	Disease	doid:5353
+IBS.Nutrition.2001.2002.bib	11858232	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11858232	midgut	Tissue	bto:0000863
+IBS.Nutrition.2001.2002.bib	12098741	dyspepsia	Disease	doid:2321
+IBS.Nutrition.2001.2002.bib	12098741	jungle	Environment	envo:00000109
+IBS.Nutrition.2001.2002.bib	12098741	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12533994	5-ht3	Genes/Proteins	ensmusp00000003826
+IBS.Nutrition.2001.2002.bib	12533994	anti-diarrheal	Chemical Compound	cids00003954
+IBS.Nutrition.2001.2002.bib	12533994	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12533994	style	Tissue	bto:0001313
+IBS.Nutrition.2001.2002.bib	12184139	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12184139	constipation	Disease	doid:2089
+IBS.Nutrition.2001.2002.bib	12184139	hypersensitivities	Biological Process	go:0002524
+IBS.Nutrition.2001.2002.bib	12184139	fiber	Tissue	bto:0000450
+IBS.Nutrition.2001.2002.bib	12184139	diarrhea	Disease	doid:13250
+IBS.Nutrition.2001.2002.bib	11392210	defecation	Biological Process	go:0030421
+IBS.Nutrition.2001.2002.bib	11392210	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11392210	adult	Tissue	bto:0001043
+IBS.Nutrition.2001.2002.bib	11566171	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.2001.2002.bib	11566171	bacteria	Organism	1869227
+IBS.Nutrition.2001.2002.bib	11566171	plasma	Tissue	bto:0000131
+IBS.Nutrition.2001.2002.bib	11566171	pancreatitis	Disease	doid:4989
+IBS.Nutrition.2001.2002.bib	11566171	osmotic diarrhea	Disease	doid:0050130
+IBS.Nutrition.2001.2002.bib	11566171	colon	Organism	1542223
+IBS.Nutrition.2001.2002.bib	11566171	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2001.2002.bib	11566171	folic acid	Chemical Compound	cids00003405
+IBS.Nutrition.2001.2002.bib	11566171	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11336160	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.2001.2002.bib	11336160	lactic acid	Chemical Compound	cids00000612
+IBS.Nutrition.2001.2002.bib	11336160	bacteria	Organism	1869227
+IBS.Nutrition.2001.2002.bib	11336160	co2	Chemical Compound	cids00000280
+IBS.Nutrition.2001.2002.bib	11336160	osmotic diarrhea	Disease	doid:0050130
+IBS.Nutrition.2001.2002.bib	11336160	colon	Organism	1542223
+IBS.Nutrition.2001.2002.bib	11336160	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.2001.2002.bib	11336160	tryptophan metabolism	Biological Process	go:0006568
+IBS.Nutrition.2001.2002.bib	11336160	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11336160	ch4	Genes/Proteins	fbpp0087935
+IBS.Nutrition.2001.2002.bib	11999677	nectar	Tissue	bto:0000537
+IBS.Nutrition.2001.2002.bib	11999677	juice	Tissue	bto:0000659
+IBS.Nutrition.2001.2002.bib	11999677	lactose intolerance	Disease	doid:10604
+IBS.Nutrition.2001.2002.bib	11999677	apple	Organism	3750
+IBS.Nutrition.2001.2002.bib	11999677	fruitjuice	Tissue	bto:0004057
+IBS.Nutrition.2001.2002.bib	11999677	pear	Organism	23211
+IBS.Nutrition.2001.2002.bib	11999677	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12184135	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2001.2002.bib	12184135	central nervous system	Tissue	bto:0000227
+IBS.Nutrition.2001.2002.bib	12184135	rectal	Tissue	bto:0001158
+IBS.Nutrition.2001.2002.bib	12184135	brain	Tissue	bto:0000142
+IBS.Nutrition.2001.2002.bib	12184135	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12184135	cognition	Biological Process	go:0050890
+IBS.Nutrition.2001.2002.bib	12184143	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2001.2002.bib	12184143	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12184143	brain	Tissue	bto:0000142
+IBS.Nutrition.2001.2002.bib	11160782	gastrointestinal tract	Tissue	bto:0000511
+IBS.Nutrition.2001.2002.bib	11160782	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11160782	gastrointestinal disorder	Disease	doid:77
+IBS.Nutrition.2001.2002.bib	11160782	brain	Tissue	bto:0000142
+IBS.Nutrition.2001.2002.bib	11160782	adults	Tissue	bto:0001043
+IBS.Nutrition.2001.2002.bib	11347592	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2001.2002.bib	11347592	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2001.2002.bib	11347592	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11347592	disease	Disease	doid:4
+IBS.Nutrition.2001.2002.bib	11347592	brain	Tissue	bto:0000142
+IBS.Nutrition.2001.2002.bib	11692059	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11768248	intestine	Tissue	bto:0000648
+IBS.Nutrition.2001.2002.bib	11768248	endothelin receptor	Molecular Function	go:0004962
+IBS.Nutrition.2001.2002.bib	11768248	small intestine	Tissue	bto:0000651
+IBS.Nutrition.2001.2002.bib	11768248	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.2001.2002.bib	11768248	learning	Biological Process	go:0007612
+IBS.Nutrition.2001.2002.bib	11768248	serotonin	Chemical Compound	cids00005202
+IBS.Nutrition.2001.2002.bib	11768248	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11768248	disease	Disease	doid:4
+IBS.Nutrition.2001.2002.bib	12014316	fibers	Tissue	bto:0000450
+IBS.Nutrition.2001.2002.bib	12014316	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.2001.2002.bib	12014316	lactose intolerance	Disease	doid:10604
+IBS.Nutrition.2001.2002.bib	12014316	human	Organism	9606
+IBS.Nutrition.2001.2002.bib	12014316	diarrhea	Disease	doid:13250
+IBS.Nutrition.2001.2002.bib	12014316	uterine	Chemical Compound	cids00008226
+IBS.Nutrition.2001.2002.bib	12014316	growth	Biological Process	go:0040007
+IBS.Nutrition.2001.2002.bib	12014316	allergy	Disease	doid:1205
+IBS.Nutrition.2001.2002.bib	12014316	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	12014316	disease	Disease	doid:4
+IBS.Nutrition.2001.2002.bib	11208711	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2001.2002.bib	11208711	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11406333	hypersensitivity	Biological Process	go:0002524
+IBS.Nutrition.2001.2002.bib	11406333	caudal	Genes/Proteins	ensdarp00000052708
+IBS.Nutrition.2001.2002.bib	11406333	rectum	Tissue	bto:0001158
+IBS.Nutrition.2001.2002.bib	11406333	lower extremity	Tissue	bto:0002345
+IBS.Nutrition.2001.2002.bib	11406333	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11406333	upper extremity	Tissue	bto:0001729
+IBS.Nutrition.2001.2002.bib	12184140	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11180525	bowel	Tissue	bto:0000648
+IBS.Nutrition.2001.2002.bib	11180525	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.2001.2002.bib	11180525	artichoke	Organism	59895
+IBS.Nutrition.2001.2002.bib	11180525	pathogenesis	Biological Process	go:0009405
+IBS.Nutrition.2001.2002.bib	11180525	dyspepsia	Disease	doid:2321
+IBS.Nutrition.1999.2000.bib	10555586	child	Tissue	bto:0002168
+IBS.Nutrition.1999.2000.bib	10776953	dyspepsia	Disease	doid:2321
+IBS.Nutrition.1999.2000.bib	11099057	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.1999.2000.bib	11099057	bacteria	Organism	1869227
+IBS.Nutrition.1999.2000.bib	11099057	co2	Chemical Compound	cids00000280
+IBS.Nutrition.1999.2000.bib	11099057	osmotic diarrhea	Disease	doid:0050130
+IBS.Nutrition.1999.2000.bib	11099057	colon	Organism	1542223
+IBS.Nutrition.1999.2000.bib	11099057	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.1999.2000.bib	11099057	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1999.2000.bib	11099057	mental depression	Disease	doid:1596
+IBS.Nutrition.1999.2000.bib	10961700	bacteria	Organism	629395
+IBS.Nutrition.1999.2000.bib	10961700	lactase	Genes/Proteins	ensbtap00000020185
+IBS.Nutrition.1999.2000.bib	10961700	colon	Organism	1542223
+IBS.Nutrition.1999.2000.bib	10961700	duodenal	Tissue	bto:0000365
+IBS.Nutrition.1999.2000.bib	10961700	mucosal	Tissue	bto:0000886
+IBS.Nutrition.1999.2000.bib	10961700	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1999.2000.bib	10961700	fatty acids	Chemical Compound	cids00000283
+IBS.Nutrition.1999.2000.bib	10961700	co2	Chemical Compound	cids00000280
+IBS.Nutrition.1999.2000.bib	10961700	mental depression	Disease	doid:1596
+IBS.Nutrition.1999.2000.bib	10961700	fructose	Chemical Compound	cids00439709
+IBS.Nutrition.1999.2000.bib	10961700	fructose transport	Biological Process	go:0015755
+IBS.Nutrition.1999.2000.bib	10961700	osmotic diarrhea	Disease	doid:0050130
+IBS.Nutrition.1999.2000.bib	10961700	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.1999.2000.bib	10580923	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1999.2000.bib	10192605	lactase	Genes/Proteins	ensrnop00000004908
+IBS.Nutrition.1999.2000.bib	10192605	lactose	Chemical Compound	cids00084571
+IBS.Nutrition.1999.2000.bib	10192605	hydrogen	Chemical Compound	cids00000783
+IBS.Nutrition.1999.2000.bib	10192605	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1999.2000.bib	10192605	jejunal	Tissue	bto:0000657
+IBS.Nutrition.1993.1994.bib	8387353	5-hydroxytryptamine	Chemical Compound	cids00005202
+IBS.Nutrition.1993.1994.bib	8387353	rectal	Tissue	bto:0001158
+IBS.Nutrition.1993.1994.bib	8387353	receptor antagonist	Molecular Function	go:0048019
+IBS.Nutrition.1993.1994.bib	8387353	granisetron	Chemical Compound	cids00003510
+IBS.Nutrition.1993.1994.bib	8387353	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1993.1994.bib	8439642	diarrhoea	Disease	doid:13250
+IBS.Nutrition.1993.1994.bib	8439642	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1993.1994.bib	8439642	calcium	Genes/Proteins	fbpp0088134
+IBS.Nutrition.1993.1994.bib	8439642	constipation	Disease	doid:2089
+IBS.Nutrition.1993.1994.bib	8211047	mouth	Tissue	bto:0001090
+IBS.Nutrition.1993.1994.bib	8211047	hydrogen	Chemical Compound	cids05362549
+IBS.Nutrition.1993.1994.bib	8211047	intestinal pseudo-obstruction	Disease	doid:3878
+IBS.Nutrition.1993.1994.bib	8211047	diabetes	Disease	doid:9351
+IBS.Nutrition.1993.1994.bib	8211047	scleroderma	Organism	386268
+IBS.Nutrition.1993.1994.bib	8211047	neuro	Genes/Proteins	fbpp0302942
+IBS.Nutrition.1993.1994.bib	8211047	caecum	Tissue	bto:0000166
+IBS.Nutrition.1993.1994.bib	8211047	bowel	Tissue	bto:0000648
+IBS.Nutrition.1993.1994.bib	8211047	small intestinal transit	Biological Process	go:0120055
+IBS.Nutrition.1993.1994.bib	8211047	intestinal motility	Biological Process	go:0120054
+IBS.Nutrition.1993.1994.bib	8211047	mucosal	Tissue	bto:0000886
+IBS.Nutrition.1993.1994.bib	8211047	lactulose	Chemical Compound	cids00011333
+IBS.Nutrition.1993.1994.bib	8211047	irritable bowel syndrome	Disease	doid:9778
+IBS.Nutrition.1993.1994.bib	8211047	disease	Disease	doid:4

@@ -1,0 +1,71 @@
+﻿@article{RN5220,
+   author = {Cummings, J. H.},
+   title = {Dietary carbohydrates and the colonic microflora},
+   journal = {Curr Opin Clin Nutr Metab Care},
+   volume = {1},
+   number = {5},
+   pages = {409-14},
+   ISSN = {1363-1950 (Print)
+1363-1950},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10565385}
+}
+
+@article{RN5221,
+   author = {D'Angelo, G. and Angeletti, C. and Catassi, C. and Coppa, G. V.},
+   title = {[Probiotics in childhood]},
+   journal = {Minerva Pediatr},
+   volume = {50},
+   number = {5},
+   pages = {163-73},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9842213}
+}
+
+@article{RN5222,
+   author = {Goerg, K. J. and Schlorer, E.},
+   title = {[Probiotic therapy of pseudomembranous colitis. Combination of intestinal lavage and oral administration of Escherichia coli]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {123},
+   number = {43},
+   pages = {1274-8},
+   ISSN = {0012-0472 (Print)
+0012-0472},
+   DOI = {10.1055/s-2007-1024168},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9817997}
+}
+
+@article{RN5224,
+   author = {Kruis, W. and Schutz, E. and Fric, P. and Fixa, B. and Judmaier, G. and Stolte, M.},
+   title = {Double-blind comparison of an oral Escherichia coli preparation and mesalazine in maintaining remission of ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {11},
+   number = {5},
+   pages = {853-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9354192}
+}
+
+@article{RN5223,
+   author = {von Ritter, C.},
+   title = {[Chronic inflammatory bowel diseases. Pathophysiology and drug therapy]},
+   journal = {Radiologe},
+   volume = {38},
+   number = {1},
+   pages = {3-7},
+   ISSN = {0033-832X (Print)
+0033-832x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9530772}
+}
+

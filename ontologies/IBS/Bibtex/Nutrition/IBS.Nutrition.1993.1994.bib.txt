@@ -1,0 +1,56 @@
+﻿@article{RN12550,
+   author = {Prior, A. and Read, N. W.},
+   title = {Reduction of rectal sensitivity and post-prandial motility by granisetron, a 5 HT3-receptor antagonist, in patients with irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {7},
+   number = {2},
+   pages = {175-80},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8387353}
+}
+
+@article{RN12549,
+   author = {Quigley, E. M.},
+   title = {The irritable bowel syndrome: motility, mind or message? Variations on an enigma},
+   journal = {Dig Dis},
+   volume = {12},
+   number = {2},
+   pages = {69-71},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000171439},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8045029}
+}
+
+@article{RN12551,
+   author = {Toskes, P. P. and Connery, K. L. and Ritchey, T. W.},
+   title = {Calcium polycarbophil compared with placebo in irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {7},
+   number = {1},
+   pages = {87-92},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8439642}
+}
+
+@article{RN12552,
+   author = {Turberg, Y. and Dederding, J. P.},
+   title = {[Evaluation of small intestinal motility]},
+   journal = {Schweiz Med Wochenschr Suppl},
+   volume = {54},
+   pages = {26-31},
+   ISSN = {0250-5525 (Print)
+0250-5525},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8211047}
+}
+

@@ -1,0 +1,128 @@
+﻿@article{RN12302,
+   author = {Bischoff, S. C.},
+   title = {Mucosal allergy: role of mast cells and eosinophil granulocytes in the gut},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {10},
+   number = {3},
+   pages = {443-59},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8905118}
+}
+
+@article{RN12301,
+   author = {Bohmer, C. J. and Tuynman, H. A.},
+   title = {The clinical relevance of lactose malabsorption in irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {8},
+   number = {10},
+   pages = {1013-6},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8930569}
+}
+
+@article{RN12309,
+   author = {Bonamico, M. and Culasso, F. and Colombo, C. and Giunta, A. M.},
+   title = {Irritable bowel syndrome in children: an Italian multicentre study. Collaborating Centres},
+   journal = {Ital J Gastroenterol},
+   volume = {27},
+   number = {1},
+   pages = {13-20},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7795282}
+}
+
+@article{RN12306,
+   author = {Heikkinen, M. and Pikkarainen, P. and Takala, J. and Rasanen, H. and Julkunen, R.},
+   title = {Etiology of dyspepsia: four hundred unselected consecutive patients in general practice},
+   journal = {Scand J Gastroenterol},
+   volume = {30},
+   number = {6},
+   pages = {519-23},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7569757}
+}
+
+@article{RN12304,
+   author = {Klauser, A. G. and Voderholzer, W. A. and Schindlbeck, N. E. and Muller-Lissner, S. A.},
+   title = {Functional diagnostic work-up in patients with irritable bowel syndrome},
+   journal = {Z Gastroenterol},
+   volume = {34},
+   number = {5},
+   pages = {273-8},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8686358}
+}
+
+@article{RN12307,
+   author = {Lewis, P. J.},
+   title = {Management of the irritable bowel syndrome. Food intolerance may play a part},
+   journal = {Bmj},
+   volume = {310},
+   number = {6986},
+   pages = {1067},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   DOI = {10.1136/bmj.310.6986.1067a},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7728073}
+}
+
+@article{RN12305,
+   author = {Stefanini, G. F. and Saggioro, A. and Alvisi, V. and Angelini, G. and Capurso, L. and di Lorenzo, G. and Dobrilla, G. and Dodero, M. and Galimberti, M. and Gasbarrini, G. and et al.},
+   title = {Oral cromolyn sodium in comparison with elimination diet in the irritable bowel syndrome, diarrheic type. Multicenter study of 428 patients},
+   journal = {Scand J Gastroenterol},
+   volume = {30},
+   number = {6},
+   pages = {535-41},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   DOI = {10.3109/00365529509089786},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7569760}
+}
+
+@article{RN12303,
+   author = {Tolliver, B. A. and Jackson, M. S. and Jackson, K. L. and Barnett, E. D. and Chastang, J. F. and DiPalma, J. A.},
+   title = {Does lactose maldigestion really play a role in the irritable bowel?},
+   journal = {J Clin Gastroenterol},
+   volume = {23},
+   number = {1},
+   pages = {15-7},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8835892}
+}
+
+@article{RN12308,
+   author = {Vernia, P. and Ricciardi, M. R. and Frandina, C. and Bilotta, T. and Frieri, G.},
+   title = {Lactose malabsorption and irritable bowel syndrome. Effect of a long-term lactose-free diet},
+   journal = {Ital J Gastroenterol},
+   volume = {27},
+   number = {3},
+   pages = {117-21},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7548919}
+}
+

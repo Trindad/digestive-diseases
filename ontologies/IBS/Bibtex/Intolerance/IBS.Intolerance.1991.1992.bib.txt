@@ -1,0 +1,97 @@
+﻿@article{RN12291,
+   author = {Bailey, L. D., Jr. and Stewart, W. R., Jr. and McCallum, R. W.},
+   title = {New directions in the irritable bowel syndrome},
+   journal = {Gastroenterol Clin North Am},
+   volume = {20},
+   number = {2},
+   pages = {335-49},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2066157}
+}
+
+@article{RN12289,
+   author = {Castiglione, F. and Daniele, B. and Mazzacca, G.},
+   title = {Therapeutic strategy for the irritable bowel syndrome},
+   journal = {Ital J Gastroenterol},
+   volume = {23},
+   number = {8 Suppl 1},
+   pages = {53-5},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1661628}
+}
+
+@article{RN12288,
+   author = {Collins, S. M.},
+   title = {Is the irritable gut an inflamed gut?},
+   journal = {Scand J Gastroenterol Suppl},
+   volume = {192},
+   pages = {102-5},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1439559}
+}
+
+@article{RN12292,
+   author = {Friedman, G.},
+   title = {Diet and the irritable bowel syndrome},
+   journal = {Gastroenterol Clin North Am},
+   volume = {20},
+   number = {2},
+   pages = {313-24},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2066155}
+}
+
+@article{RN12290,
+   author = {Lunardi, C. and Bambara, L. M. and Biasi, D. and Cortina, P. and Peroli, P. and Nicolis, F. and Favari, F. and Pacor, M. L.},
+   title = {Double-blind cross-over trial of oral sodium cromoglycate in patients with irritable bowel syndrome due to food intolerance},
+   journal = {Clin Exp Allergy},
+   volume = {21},
+   number = {5},
+   pages = {569-72},
+   ISSN = {0954-7894 (Print)
+0954-7894},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1742648}
+}
+
+@article{RN12287,
+   author = {Sullivan, S. N. and Wong, C.},
+   title = {Runners' diarrhea. Different patterns and associated factors},
+   journal = {J Clin Gastroenterol},
+   volume = {14},
+   number = {2},
+   pages = {101-4},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1556421}
+}
+
+@article{RN12286,
+   author = {Zboril, V. and Prokopova, L. and Geislerova, V. and Pokorny, A. and Dite, P. and Mihula, Z.},
+   title = {The effect of Hylak drops on symptomatology in persons with irritable bowel syndrome},
+   journal = {Vnitr Lek},
+   volume = {38},
+   number = {8},
+   pages = {764-8},
+   ISSN = {0042-773X (Print)
+0042-773x},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1455759}
+}
+

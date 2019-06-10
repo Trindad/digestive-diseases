@@ -1,0 +1,336 @@
+﻿@article{RN12420,
+   title = {Health tips. Squelch your belch},
+   journal = {Mayo Clin Health Lett},
+   volume = {28},
+   number = {12},
+   pages = {3},
+   ISSN = {0741-6245 (Print)
+0741-6245},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21226241}
+}
+
+@article{RN12423,
+   author = {Adams, C. and Zhen-Yu Tong, M. and Lawlor, D. K. and DeRose, G. and Forbes, T. L.},
+   title = {Recurrent aortic aneurysms in Behcet disease},
+   journal = {Vascular},
+   volume = {18},
+   number = {5},
+   pages = {299-302},
+   ISSN = {1708-5381 (Print)
+1708-5381},
+   DOI = {10.2310/6670.2010.00041},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20822728}
+}
+
+@article{RN12432,
+   author = {Babu, J. and Kumar, S. and Babu, P. and Prasad, J. H. and Ghoshal, U. C.},
+   title = {Frequency of lactose malabsorption among healthy southern and northern Indian populations by genetic analysis and lactose hydrogen breath and tolerance tests},
+   journal = {Am J Clin Nutr},
+   volume = {91},
+   number = {1},
+   pages = {140-6},
+   ISSN = {0002-9165},
+   DOI = {10.3945/ajcn.2009.27946},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {19889824}
+}
+
+@article{RN12427,
+   author = {Bolin, T.},
+   title = {IBS or intolerance?},
+   journal = {Aust Fam Physician},
+   volume = {38},
+   number = {12},
+   pages = {962-5},
+   ISSN = {0300-8495 (Print)
+0300-8495},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20369147}
+}
+
+@article{RN12422,
+   author = {Campbell, A. K. and Matthews, S. B. and Vassel, N. and Cox, C. D. and Naseem, R. and Chaichi, J. and Holland, I. B. and Green, J. and Wann, K. T.},
+   title = {Bacterial metabolic 'toxins': a new mechanism for lactose and food intolerance, and irritable bowel syndrome},
+   journal = {Toxicology},
+   volume = {278},
+   number = {3},
+   pages = {268-76},
+   ISSN = {0300-483x},
+   DOI = {10.1016/j.tox.2010.09.001},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20851732}
+}
+
+@article{RN12436,
+   author = {Corlew-Roath, M. and Di Palma, J. A.},
+   title = {Clinical impact of identifying lactose maldigestion or fructose malabsorption in irritable bowel syndrome or other conditions},
+   journal = {South Med J},
+   volume = {102},
+   number = {10},
+   pages = {1010-2},
+   ISSN = {0038-4348},
+   DOI = {10.1097/SMJ.0b013e3181b64c7f},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19738525}
+}
+
+@article{RN12434,
+   author = {Fernandez-Banares, F. and Esteve, M. and Viver, J. M.},
+   title = {Fructose-sorbitol malabsorption},
+   journal = {Curr Gastroenterol Rep},
+   volume = {11},
+   number = {5},
+   pages = {368-74},
+   ISSN = {1522-8037},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19765364}
+}
+
+@article{RN12435,
+   author = {Ghoshal, U. C. and Kumar, S. and Chourasia, D. and Misra, A.},
+   title = {Lactose hydrogen breath test versus lactose tolerance test in the tropics: does positive lactose tolerance test reflect more severe lactose malabsorption?},
+   journal = {Trop Gastroenterol},
+   volume = {30},
+   number = {2},
+   pages = {86-90},
+   ISSN = {0250-636X (Print)
+0250-636x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19760990}
+}
+
+@article{RN12441,
+   author = {Giorgi, P. L.},
+   title = {[Probiotics. A review]},
+   journal = {Recenti Prog Med},
+   volume = {100},
+   number = {1},
+   pages = {40-7},
+   ISSN = {0034-1193 (Print)
+0034-1193},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19445282}
+}
+
+@article{RN12440,
+   author = {Heizer, W. D. and Southern, S. and McGovern, S.},
+   title = {The role of diet in symptoms of irritable bowel syndrome in adults: a narrative review},
+   journal = {J Am Diet Assoc},
+   volume = {109},
+   number = {7},
+   pages = {1204-14},
+   ISSN = {0002-8223},
+   DOI = {10.1016/j.jada.2009.04.012},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19559137}
+}
+
+@article{RN12442,
+   author = {Hutyra, T. and Iwanczak, B.},
+   title = {[Determination of milk and diary products consumption and their connection with lactose malabsorption or lactose intolerance in selected disorders of the alimentary tract in children]},
+   journal = {Pol Merkur Lekarski},
+   volume = {26},
+   number = {152},
+   pages = {110-6},
+   ISSN = {1426-9686 (Print)
+1426-9686},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19388514}
+}
+
+@article{RN12424,
+   author = {Keough, M. E. and Timpano, K. R. and Zawilinski, L. L. and Schmidt, N. B.},
+   title = {The association between irritable bowel syndrome and the anxiety vulnerability factors: body vigilance and discomfort intolerance},
+   journal = {J Health Psychol},
+   volume = {16},
+   number = {1},
+   pages = {91-8},
+   ISSN = {1359-1053},
+   DOI = {10.1177/1359105310367689},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {20631041}
+}
+
+@article{RN12437,
+   author = {Lembcke, B.},
+   title = {[Irritable bowel disease with flatulence: is the breath test for carbohydrate malabsorption obligatory? Contra]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {134},
+   number = {37},
+   pages = {1829},
+   ISSN = {0012-0472},
+   DOI = {10.1055/s-0029-1237520},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19728253}
+}
+
+@article{RN12428,
+   author = {Leung Ki, E. L. and Roduit, J. and Delarive, J. and Guyot, J. and Michetti, P. and Dorta, G.},
+   title = {[Small intestine bacterial overgrowth]},
+   journal = {Rev Med Suisse},
+   volume = {6},
+   number = {233},
+   pages = {186-8, 190-1},
+   ISSN = {1660-9379 (Print)
+1660-9379},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20214190}
+}
+
+@article{RN12433,
+   author = {Lye, H. S. and Kuan, C. Y. and Ewe, J. A. and Fung, W. Y. and Liong, M. T.},
+   title = {The improvement of hypertension by probiotics: effects on cholesterol, diabetes, renin, and phytoestrogens},
+   journal = {Int J Mol Sci},
+   volume = {10},
+   number = {9},
+   pages = {3755-75},
+   ISSN = {1422-0067},
+   DOI = {10.3390/ijms10093755},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19865517}
+}
+
+@article{RN12438,
+   author = {Monnikes, H. and Schmidtmann, M.},
+   title = {[Irritable bowel disease with flatulence: is the breath test for carbohydrate malabsorption obligatory? Pro]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {134},
+   number = {37},
+   pages = {1828},
+   ISSN = {0012-0472},
+   DOI = {10.1055/s-0029-1237519},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19728252}
+}
+
+@article{RN12430,
+   author = {Morcos, A. and Dinan, T. and Quigley, E. M.},
+   title = {Irritable bowel syndrome: role of food in pathogenesis and management},
+   journal = {J Dig Dis},
+   volume = {10},
+   number = {4},
+   pages = {237-46},
+   ISSN = {1751-2972},
+   DOI = {10.1111/j.1751-2980.2009.00392.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19906102}
+}
+
+@article{RN12431,
+   author = {Piche, T.},
+   title = {[Alterations of intestinal epithelial barrier and flora in the irritable bowel syndrome]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {33 Suppl 1},
+   pages = {S40-7},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(09)71524-6},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19303538}
+}
+
+@article{RN12426,
+   author = {Pironti, A. and Tadeu, V. and Pedroni, A. and Porcu, A. and Manca, A. and Massarelli, G. and Realdi, G. and Dore, M. P.},
+   title = {Role of routine small intestinal biopsy in adult patient with irritable bowel syndrome-like symptoms},
+   journal = {Minerva Med},
+   volume = {101},
+   number = {3},
+   pages = {129-34},
+   ISSN = {0026-4806 (Print)
+0026-4806},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20562801}
+}
+
+@article{RN12421,
+   author = {Reyes-Huerta, J. U. and de la Cruz-Patino, E. and Ramirez-Gutierrez de Velasco, A. and Zamudio, C. and Remes-Troche, J. M.},
+   title = {[Fructose intolerance in patients with irritable bowel syndrome: a case-control study]},
+   journal = {Rev Gastroenterol Mex},
+   volume = {75},
+   number = {4},
+   pages = {405-11},
+   ISSN = {0375-0906 (Print)
+0375-0906},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21169107}
+}
+
+@article{RN12425,
+   author = {Shmerling, R.},
+   title = {By the way, doctor. I belch a lot and get a feeling of fullness in the upper abdomen. Is this common condition? What are the causes and cures? I would prefer natural remedies},
+   journal = {Harv Health Lett},
+   volume = {35},
+   number = {7},
+   pages = {7},
+   ISSN = {1052-1577 (Print)
+1052-1577},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20583362}
+}
+
+@article{RN12443,
+   author = {Wuthrich, B.},
+   title = {[Food allergy, food intolerance or functional disorder?]},
+   journal = {Praxis (Bern 1994)},
+   volume = {98},
+   number = {7},
+   pages = {375-87},
+   ISSN = {1661-8157 (Print)
+1661-8157},
+   DOI = {10.1024/1661-8157.98.7.375},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19340768}
+}
+
+@article{RN12429,
+   author = {Zhao, J. and Fox, M. and Cong, Y. and Chu, H. and Shang, Y. and Fried, M. and Dai, N.},
+   title = {Lactose intolerance in patients with chronic functional diarrhoea: the role of small intestinal bacterial overgrowth},
+   journal = {Aliment Pharmacol Ther},
+   volume = {31},
+   number = {8},
+   pages = {892-900},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2010.04252.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20132150}
+}
+
+@article{RN12439,
+   author = {Zwolinska-Wcislo, M. and Galicka-Latala, D. and Rozpondek, P. and Rudnicka-Sosin, L. and Mach, T.},
+   title = {[Frequency of celiac disease and irritable bowel syndrome coexistance and its influence on the disease course]},
+   journal = {Przegl Lek},
+   volume = {66},
+   number = {3},
+   pages = {126-9},
+   ISSN = {0033-2240 (Print)
+0033-2240},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19689036}
+}
+

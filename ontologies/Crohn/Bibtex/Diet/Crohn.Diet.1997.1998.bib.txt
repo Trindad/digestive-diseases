@@ -1,0 +1,698 @@
+﻿@article{RN6112,
+   author = {Annese, V. and Bassotti, G. and Napolitano, G. and Usai, P. and Andriulli, A. and Vantrappen, G.},
+   title = {Gastrointestinal motility disorders in patients with inactive Crohn's disease},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {11},
+   pages = {1107-17},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9399391}
+}
+
+@article{RN6083,
+   author = {Arkkila, P. and Vuorte, J.},
+   title = {[Short bowel syndrome and muscle weakness]},
+   journal = {Duodecim},
+   volume = {114},
+   number = {17},
+   pages = {1765,1767},
+   ISSN = {0012-7183 (Print)
+0012-7183},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {11757532}
+}
+
+@article{RN6121,
+   author = {Ballegaard, M. and Bjergstrom, A. and Brondum, S. and Hylander, E. and Jensen, L. and Ladefoged, K.},
+   title = {Self-reported food intolerance in chronic inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {6},
+   pages = {569-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9200289}
+}
+
+@article{RN6106,
+   author = {Bickston, S. J. and Cominelli, F.},
+   title = {Inflammatory bowel disease: short- and long-term treatments},
+   journal = {Adv Intern Med},
+   volume = {43},
+   pages = {143-74},
+   ISSN = {0065-2822 (Print)
+0065-2822},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9506181}
+}
+
+@article{RN6088,
+   author = {Capristo, E. and Addolorato, G. and Mingrone, G. and Greco, A. V. and Gasbarrini, G.},
+   title = {Effect of disease localization on the anthropometric and metabolic features of Crohn's disease},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {12},
+   pages = {2411-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00696.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9860401}
+}
+
+@article{RN6129,
+   author = {Cosgrove, M. and Jenkins, H. R.},
+   title = {Experience of percutaneous endoscopic gastrostomy in children with Crohn's disease},
+   journal = {Arch Dis Child},
+   volume = {76},
+   number = {2},
+   pages = {141-3},
+   ISSN = {0003-9888},
+   DOI = {10.1136/adc.76.2.141},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9068305}
+}
+
+@article{RN6084,
+   author = {Di Pentima, L. and Magnani, M. and Tortolani, D. and Montecchi, F. and Ardovini, C. and Caputo, G.},
+   title = {Use of the Parental Bonding Instrument to compare interpretations of the parental bond by adolescent girls with restricting and binge/purging anorexia nervosa},
+   journal = {Eat Weight Disord},
+   volume = {3},
+   number = {1},
+   pages = {25-31},
+   ISSN = {1124-4909 (Print)
+1124-4909},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {11234251}
+}
+
+@article{RN6097,
+   author = {Ferguson, A. and Glen, M. and Ghosh, S.},
+   title = {Crohn's disease: nutrition and nutritional therapy},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {12},
+   number = {1},
+   pages = {93-114},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9704157}
+}
+
+@article{RN6122,
+   author = {French, M. A. and Parrott, A. M. and Kielo, E. S. and Rajotte, R. V. and Wang, L. C. and Thomson, A. B. and Clandinin, M. T.},
+   title = {Polyunsaturated fat in the diet may improve intestinal function in patients with Crohn's disease},
+   journal = {Biochim Biophys Acta},
+   volume = {1360},
+   number = {3},
+   pages = {262-70},
+   ISSN = {0006-3002 (Print)
+0006-3002},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9197469}
+}
+
+@article{RN6102,
+   author = {Geerling, B. J. and Badart-Smook, A. and Stockbrugger, R. W. and Brummer, R. J.},
+   title = {Comprehensive nutritional status in patients with long-standing Crohn disease currently in remission},
+   journal = {Am J Clin Nutr},
+   volume = {67},
+   number = {5},
+   pages = {919-26},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/67.5.919},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9583850}
+}
+
+@article{RN6116,
+   author = {Gidvani, V. and Mizell, L.},
+   title = {Gastrocolic fistula in pediatric Crohn's disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {25},
+   number = {3},
+   pages = {347-9},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9285389}
+}
+
+@article{RN6109,
+   author = {Giovagnorio, F. and Diacinti, D. and Vernia, P.},
+   title = {Doppler sonography of the superior mesenteric artery in Crohn's disease},
+   journal = {AJR Am J Roentgenol},
+   volume = {170},
+   number = {1},
+   pages = {123-6},
+   ISSN = {0361-803X (Print)
+0361-803x},
+   DOI = {10.2214/ajr.170.1.9423614},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9423614}
+}
+
+@article{RN6094,
+   author = {Griffiths, A. M.},
+   title = {Inflammatory bowel disease},
+   journal = {Nutrition},
+   volume = {14},
+   number = {10},
+   pages = {788-91},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9785363}
+}
+
+@article{RN6115,
+   author = {Hiwatashi, N.},
+   title = {Enteral nutrition for Crohn's disease in Japan},
+   journal = {Dis Colon Rectum},
+   volume = {40},
+   number = {10 Suppl},
+   pages = {S48-53},
+   ISSN = {0012-3706 (Print)
+0012-3706},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9378012}
+}
+
+@article{RN6113,
+   author = {Horie, Y. and Chiba, M. and Miura, K. and Iizuka, M. and Masamune, O. and Komatsuda, A. and Ebina, T.},
+   title = {Crohn's disease associated with renal amyloidosis successfully treated with an elemental diet},
+   journal = {J Gastroenterol},
+   volume = {32},
+   number = {5},
+   pages = {663-7},
+   ISSN = {0944-1174 (Print)
+0944-1174},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9349994}
+}
+
+@article{RN6101,
+   author = {Hunter, J. O.},
+   title = {Nutritional factors in inflammatory bowel disease},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {10},
+   number = {3},
+   pages = {235-7},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9585027}
+}
+
+@article{RN6105,
+   author = {Janowitz, H. D. and Croen, E. C. and Sachar, D. B.},
+   title = {The role of the fecal stream in Crohn's disease: an historical and analytic review},
+   journal = {Inflamm Bowel Dis},
+   volume = {4},
+   number = {1},
+   pages = {29-39},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-199802000-00006},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9552226}
+}
+
+@article{RN6092,
+   author = {Jeppesen, P. B. and Mortensen, P. B.},
+   title = {The influence of a preserved colon on the absorption of medium chain fat in patients with small bowel resection},
+   journal = {Gut},
+   volume = {43},
+   number = {4},
+   pages = {478-83},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.43.4.478},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9824573}
+}
+
+@article{RN6123,
+   author = {King, T. S. and Hunter, J. O.},
+   title = {Dismissing dietary therapy may be premature},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {5},
+   pages = {909-10},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9149221}
+}
+
+@article{RN6118,
+   author = {King, T. S. and Woolner, J. T. and Hunter, J. O.},
+   title = {Dietary treatment of active Crohn's disease. Diet is the best treatment},
+   journal = {Bmj},
+   volume = {314},
+   number = {7097},
+   pages = {1827-8},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9224093}
+}
+
+@article{RN6130,
+   author = {King, T. S. and Woolner, J. T. and Hunter, J. O.},
+   title = {Review article: the dietary management of Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {11},
+   number = {1},
+   pages = {17-31},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9042971}
+}
+
+@article{RN6089,
+   author = {Kobayashi, K. and Katsumata, T. and Yokoyama, K. and Takahashi, H. and Igarashi, M. and Saigenji, K.},
+   title = {[A randomized controlled study of total parenteral nutrition and enteral nutrition by elemental and polymeric diet as primary therapy in active phase of Crohn's disease]},
+   journal = {Nihon Shokakibyo Gakkai Zasshi},
+   volume = {95},
+   number = {11},
+   pages = {1212-21},
+   ISSN = {0446-6586 (Print)
+0446-6586},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9852724}
+}
+
+@article{RN6111,
+   author = {Ledeboer, M. and Masclee, A. A. and Biemond, I. and Lamers, C. B.},
+   title = {Gallbladder motility and cholecystokinin secretion during continuous enteral nutrition},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {12},
+   pages = {2274-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9399769}
+}
+
+@article{RN6096,
+   author = {Leiper, K. and London, I. and Rhodes, J. M.},
+   title = {Adjuvant post-operative therapy},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {12},
+   number = {1},
+   pages = {179-99},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9704162}
+}
+
+@article{RN6108,
+   author = {Mingrone, G. and Benedetti, G. and Capristo, E. and De Gaetano, A. and Greco, A. V. and Tataranni, P. A. and Gasbarrini, G.},
+   title = {Twenty-four-hour energy balance in Crohn disease patients: metabolic implications of steroid treatment},
+   journal = {Am J Clin Nutr},
+   volume = {67},
+   number = {1},
+   pages = {118-23},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/67.1.118},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9440385}
+}
+
+@article{RN6131,
+   author = {Mishkin, S.},
+   title = {Dairy sensitivity, lactose malabsorption, and elimination diets in inflammatory bowel disease},
+   journal = {Am J Clin Nutr},
+   volume = {65},
+   number = {2},
+   pages = {564-7},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/65.2.564},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9022546}
+}
+
+@article{RN6085,
+   author = {Miura, S. and Tsuzuki, Y. and Hokari, R. and Ishii, H.},
+   title = {Modulation of intestinal immune system by dietary fat intake: relevance to Crohn's disease},
+   journal = {J Gastroenterol Hepatol},
+   volume = {13},
+   number = {12},
+   pages = {1183-90},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9918423}
+}
+
+@article{RN6124,
+   author = {Munakata, A. and Haga, Y.},
+   title = {[Current medical therapies for Crohn's disease in Japan]},
+   journal = {Nihon Geka Gakkai Zasshi},
+   volume = {98},
+   number = {4},
+   pages = {406-11},
+   ISSN = {0301-4894 (Print)
+0301-4894},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9168493}
+}
+
+@article{RN6099,
+   author = {Muro, K. and Kobayashi, M. and Shimizu, Y. and Kikuchi, S. and Yamaguchi, N. and Inadome, Y. and Watanabe, T. and Koyama, A.},
+   title = {[A case of systemic AA amyloidosis complicating Crohn's disease]},
+   journal = {Nihon Jinzo Gakkai Shi},
+   volume = {40},
+   number = {4},
+   pages = {284-9},
+   ISSN = {0385-2385 (Print)
+0385-2385},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9654912}
+}
+
+@article{RN6087,
+   author = {Nishida, Y. and Murase, K. and Ashida, R. and Sasaki, O. and Ozono, Y. and Mizuta, Y. and Takeshima, F. and Makiyama, K. and Kohno, S.},
+   title = {Familial Crohn's disease with systemic lupus erythematosus},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {12},
+   pages = {2599-601},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00734.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9860440}
+}
+
+@article{RN6104,
+   author = {O'Sullivan, M. A. and O'Morain, C. A.},
+   title = {Nutritional therapy in Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {4},
+   number = {1},
+   pages = {45-53},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9552228}
+}
+
+@article{RN6128,
+   author = {Prikazska, M. and Simoncic, R.},
+   title = {[Nutrition and Crohn's disease]},
+   journal = {Bratisl Lek Listy},
+   volume = {98},
+   number = {2},
+   pages = {107-10},
+   ISSN = {0006-9248 (Print)
+0006-9248},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9264808}
+}
+
+@article{RN6120,
+   author = {Reif, S. and Klein, I. and Lubin, F. and Farbstein, M. and Hallak, A. and Gilat, T.},
+   title = {Pre-illness dietary factors in inflammatory bowel disease},
+   journal = {Gut},
+   volume = {40},
+   number = {6},
+   pages = {754-60},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.40.6.754},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9245929}
+}
+
+@article{RN6103,
+   author = {Riordan, A. M. and Ruxton, C. H. and Hunter, J. O.},
+   title = {A review of associations between Crohn's disease and consumption of sugars},
+   journal = {Eur J Clin Nutr},
+   volume = {52},
+   number = {4},
+   pages = {229-38},
+   ISSN = {0954-3007 (Print)
+0954-3007},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9578334}
+}
+
+@article{RN6093,
+   author = {Robinson, R. J. and al-Azzawi, F. and Iqbal, S. J. and Kryswcki, T. and Almond, L. and Abrams, K. and Mayberry, J. F.},
+   title = {Osteoporosis and determinants of bone density in patients with Crohn's disease},
+   journal = {Dig Dis Sci},
+   volume = {43},
+   number = {11},
+   pages = {2500-6},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9824142}
+}
+
+@article{RN6100,
+   author = {Russel, M. G. and Engels, L. G. and Muris, J. W. and Limonard, C. B. and Volovics, A. and Brummer, R. J. and Stockbrugger, R. W.},
+   title = {Modern life' in the epidemiology of inflammatory bowel disease: a case-control study with special emphasis on nutritional factors},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {10},
+   number = {3},
+   pages = {243-9},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9585029}
+}
+
+@article{RN6125,
+   author = {Sanderson, J. D.},
+   title = {IBD: diagnosis and control},
+   journal = {Practitioner},
+   volume = {241},
+   number = {1572},
+   pages = {120-2, 127-8, 130},
+   ISSN = {0032-6518 (Print)
+0032-6518},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9196981}
+}
+
+@article{RN6086,
+   author = {Schwab, D. and Raithel, M. and Hahn, E. G.},
+   title = {[Enteral nutrition in acute Crohn disease]},
+   journal = {Z Gastroenterol},
+   volume = {36},
+   number = {11},
+   pages = {983-95},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9880825}
+}
+
+@article{RN6095,
+   author = {Shetty, A. K. and Udall, J., Jr. and Schmidt-Sommerfeld, E.},
+   title = {Highly destructive perianal Crohn's disease},
+   journal = {J Natl Med Assoc},
+   volume = {90},
+   number = {8},
+   pages = {491-2},
+   ISSN = {0027-9684 (Print)
+0027-9684},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9727293}
+}
+
+@article{RN6090,
+   author = {Shiraishi, K. and Yamamoto, M. and Takai, K. and Tei, Y. and Suga, A. and Aoki, A. and Ishizu, K. and Naito, K.},
+   title = {[Urolithiasis associated with Crohn's disease: a case report]},
+   journal = {Hinyokika Kiyo},
+   volume = {44},
+   number = {10},
+   pages = {719-23},
+   ISSN = {0018-1994 (Print)
+0018-1994},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9850837}
+}
+
+@article{RN6114,
+   author = {Siguel, E.},
+   title = {Low- and high-fat, peptide-based diets in adolescents with active Crohn's disease},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {21},
+   number = {5},
+   pages = {304},
+   ISSN = {0148-6071 (Print)
+0148-6071},
+   DOI = {10.1177/0148607197021005304a},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9323695}
+}
+
+@article{RN6091,
+   author = {Tremaine, W. J.},
+   title = {Inflammatory bowel disease workshop. Vail, Colorado, March 22 and 23, 1998. Maintenance therapy in IBD},
+   journal = {Inflamm Bowel Dis},
+   volume = {4},
+   number = {4},
+   pages = {292-5; discussion 295-301},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1002/ibd.3780040408},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9836082}
+}
+
+@article{RN6126,
+   author = {Vasseur, E. and Delaunay, J. and Meyniel, D. and Cocheton, J. J.},
+   title = {[Scurvy after a residue-free diet in Crohn disease]},
+   journal = {Presse Med},
+   volume = {26},
+   number = {5},
+   pages = {214},
+   ISSN = {0755-4982 (Print)
+0755-4982},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9122112}
+}
+
+@article{RN6107,
+   author = {Waki, S. and Kawanami, C. and Kanda, F. and Uenoyama, Y. and Maekawa, T. and Fukui, H. and Okada, A. and Matsushima, Y. and Kishi, K. and Kinoshita, Y. and Chiba, T.},
+   title = {Severe muscle damage induced by high carbohydrate intake from elemental diet in a patient with Crohn's disease},
+   journal = {J Gastroenterol},
+   volume = {33},
+   number = {1},
+   pages = {121-4},
+   ISSN = {0944-1174 (Print)
+0944-1174},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9497234}
+}
+
+@article{RN6119,
+   author = {Walker-Smith, J. A.},
+   title = {Dietary treatment of active Crohn's disease. Dietary treatment is best for children},
+   journal = {Bmj},
+   volume = {314},
+   number = {7097},
+   pages = {1827; author reply 1828},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9224092}
+}
+
+@article{RN6098,
+   author = {Weber, P. and Zimmer, K. P. and Husemann, S. and Harms, E.},
+   title = {False-positive gliadin and endomysium antibodies and exocrine pancreatic insufficiency as pitfalls in the differential diagnosis of duodenal Crohn's versus celiac disease},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {7},
+   pages = {1177-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.360_y.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9672361}
+}
+
+@article{RN6127,
+   author = {Wight, N. and Scott, B. B.},
+   title = {Dietary treatment of active Crohn's disease},
+   journal = {Bmj},
+   volume = {314},
+   number = {7079},
+   pages = {454-5},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   DOI = {10.1136/bmj.314.7079.454},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9056785}
+}
+
+@article{RN6117,
+   author = {Zoli, G. and Care, M. and Parazza, M. and Spano, C. and Biagi, P. L. and Bernardi, M. and Gasbarrini, G.},
+   title = {A randomized controlled study comparing elemental diet and steroid treatment in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {11},
+   number = {4},
+   pages = {735-40},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9305483}
+}
+
+@article{RN6110,
+   author = {Zorich, N. L. and Jones, M. B. and Kesler, J. M. and Carter, S. B. and Sutton, M. A. and Bayless, T.},
+   title = {A randomized, double-blind study of the effect of olestra on disease activity in patients with quiescent inflammatory bowel disease. Olestra in IBD Study Group},
+   journal = {Am J Med},
+   volume = {103},
+   number = {5},
+   pages = {389-99},
+   ISSN = {0002-9343 (Print)
+0002-9343},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9375707}
+}
+

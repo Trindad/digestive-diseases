@@ -1,0 +1,253 @@
+﻿@article{RN10169,
+   author = {Brostoff, J.},
+   title = {Irritable bowel syndrome},
+   journal = {N Engl J Med},
+   volume = {330},
+   number = {19},
+   pages = {1390; author reply 1390-1},
+   ISSN = {0028-4793 (Print)
+0028-4793},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8152461}
+}
+
+@article{RN10166,
+   author = {Francis, C. Y. and Whorwell, P. J.},
+   title = {Bran and irritable bowel syndrome: time for reappraisal},
+   journal = {Lancet},
+   volume = {344},
+   number = {8914},
+   pages = {39-40},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7912305}
+}
+
+@article{RN10174,
+   author = {Gabuzian, K. S. and Sarkisian, K. A. and Grigorian, N. L. and Azatian, Z. G.},
+   title = {[Long-term results in the treatment of patients with irritable bowel syndrome]},
+   journal = {Klin Med (Mosk)},
+   volume = {72},
+   number = {1},
+   pages = {47-8},
+   ISSN = {0023-2149 (Print)
+0023-2149},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7910871}
+}
+
+@article{RN10167,
+   author = {Gertner, D. and Powell-Tuck, J.},
+   title = {Irritable bowel syndrome and food intolerance},
+   journal = {Practitioner},
+   volume = {238},
+   number = {1540},
+   pages = {499-502, 504},
+   ISSN = {0032-6518 (Print)
+0032-6518},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7937502}
+}
+
+@article{RN10172,
+   author = {Gorard, D. A. and Libby, G. W. and Farthing, M. J.},
+   title = {Ambulatory small intestinal motility in 'diarrhoea' predominant irritable bowel syndrome},
+   journal = {Gut},
+   volume = {35},
+   number = {2},
+   pages = {203-10},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.35.2.203},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8307470}
+}
+
+@article{RN10176,
+   author = {Grazioli, I. and Melzi, G. and Balsamo, V. and Castellucci, G. and Castro, M. and Catassi, C. and Ratsch, J. M. and Scotta, S.},
+   title = {[Food intolerance and irritable bowel syndrome of childhood: clinical efficacy of oral sodium cromoglycate and elimination diet]},
+   journal = {Minerva Pediatr},
+   volume = {45},
+   number = {6},
+   pages = {253-8},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8232112}
+}
+
+@article{RN10161,
+   author = {Hotz, J. and Plein, K.},
+   title = {[Effectiveness of plantago seed husks in comparison with wheat brain on stool frequency and manifestations of irritable colon syndrome with constipation]},
+   journal = {Med Klin (Munich)},
+   volume = {89},
+   number = {12},
+   pages = {645-51},
+   ISSN = {0723-5003 (Print)
+0723-5003},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7869999}
+}
+
+@article{RN10168,
+   author = {Jarrett, M. and Heitkemper, M. M. and Bond, E. F. and Georges, J.},
+   title = {Comparison of diet composition in women with and without functional bowel disorder},
+   journal = {Gastroenterol Nurs},
+   volume = {16},
+   number = {6},
+   pages = {253-8},
+   ISSN = {1042-895X (Print)
+1042-895x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8075160}
+}
+
+@article{RN10175,
+   author = {Julkunen, R.},
+   title = {[Irritable bowel syndrome]},
+   journal = {Duodecim},
+   volume = {110},
+   number = {20},
+   pages = {1927-33},
+   ISSN = {0012-7183 (Print)
+0012-7183},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7555807}
+}
+
+@article{RN10170,
+   author = {Kocian, J.},
+   title = {[Irritable bowel syndrome]},
+   journal = {Vnitr Lek},
+   volume = {40},
+   number = {4},
+   pages = {246-9},
+   ISSN = {0042-773X (Print)
+0042-773x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8184587}
+}
+
+@article{RN10162,
+   author = {Layer, P. and von der Ohe, M.},
+   title = {[Irritable colon syndrome]},
+   journal = {Praxis (Bern 1994)},
+   volume = {83},
+   number = {42},
+   pages = {1179-85},
+   ISSN = {1661-8157 (Print)
+1661-8157},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7973266}
+}
+
+@article{RN10177,
+   author = {Meyenberger, C.},
+   title = {[Irritable colon and constipation]},
+   journal = {Schweiz Rundsch Med Prax},
+   volume = {82},
+   number = {16},
+   pages = {475-80},
+   ISSN = {1013-2058 (Print)
+1013-2058},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8488351}
+}
+
+@article{RN10173,
+   author = {Raymond, J. M. and Tissot, B. and Dartigues, J. F. and Capdenat Saint-Martin, E. and Vergier, J. F. and Michel, P. and Beyssac, R. and Salamon, R. and Amouretti, M.},
+   title = {[Quality assessment of colonscopies in current practice in the Aquitaine area]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {18},
+   number = {4},
+   pages = {310-6},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7958645}
+}
+
+@article{RN10165,
+   author = {Rees, G. A. and Davies, G. J. and Parker, M. and Trevan, M.},
+   title = {Gastrointestinal symptoms and diet of members of an irritable bowel self-help group},
+   journal = {J R Soc Health},
+   volume = {114},
+   number = {4},
+   pages = {182-7},
+   ISSN = {0264-0325 (Print)
+0264-0325},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7932495}
+}
+
+@article{RN10178,
+   author = {Schofl, R. and Ferenci, P. and Vogelsang, H. and Gangl, A.},
+   title = {[Effect of a lactose-free diet on irritable bowel syndrome]},
+   journal = {Wien Klin Wochenschr},
+   volume = {105},
+   number = {12},
+   pages = {342-5},
+   ISSN = {0043-5325 (Print)
+0043-5325},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8333203}
+}
+
+@article{RN10163,
+   author = {Snook, J. and Shepherd, H. A.},
+   title = {Bran supplementation in the treatment of irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {8},
+   number = {5},
+   pages = {511-4},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7865643}
+}
+
+@article{RN10171,
+   author = {Spollett, G. R.},
+   title = {Nutritional management of common gastrointestinal problems},
+   journal = {Nurse Pract Forum},
+   volume = {5},
+   number = {1},
+   pages = {24-7},
+   ISSN = {1045-5485 (Print)
+1045-5485},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8148654}
+}
+
+@article{RN10164,
+   author = {Sullivan, S. N. and Wong, C. and Heidenheim, P.},
+   title = {Does running cause gastrointestinal symptoms? A survey of 93 randomly selected runners compared with controls},
+   journal = {N Z Med J},
+   volume = {107},
+   number = {984},
+   pages = {328-31},
+   ISSN = {0028-8446 (Print)
+0028-8446},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8072729}
+}
+

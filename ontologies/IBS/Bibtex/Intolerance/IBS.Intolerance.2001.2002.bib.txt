@@ -1,0 +1,352 @@
+﻿@article{RN12335,
+   author = {Abdulkarim, A. S. and Burgart, L. J. and See, J. and Murray, J. A.},
+   title = {Etiology of nonresponsive celiac disease: results of a systematic approach},
+   journal = {Am J Gastroenterol},
+   volume = {97},
+   number = {8},
+   pages = {2016-21},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2002.05917.x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12190170}
+}
+
+@article{RN12347,
+   author = {Bohmer, C. J. and Tuynman, H. A.},
+   title = {The effect of a lactose-restricted diet in patients with a positive lactose tolerance test, earlier diagnosed as irritable bowel syndrome: a 5-year follow-up study},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {8},
+   pages = {941-4},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11507359}
+}
+
+@article{RN12344,
+   author = {Bouin, M. and Meunier, P. and Riberdy-Poitras, M. and Poitras, P.},
+   title = {Pain hypersensitivity in patients with functional gastrointestinal disorders: a gastrointestinal-specific defect or a general systemic condition?},
+   journal = {Dig Dis Sci},
+   volume = {46},
+   number = {11},
+   pages = {2542-8},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11713967}
+}
+
+@article{RN12349,
+   author = {Burden, S.},
+   title = {Dietary treatment of irritable bowel syndrome: current evidence and guidelines for future practice},
+   journal = {J Hum Nutr Diet},
+   volume = {14},
+   number = {3},
+   pages = {231-41},
+   ISSN = {0952-3871 (Print)
+0952-3871},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11424515}
+}
+
+@article{RN12345,
+   author = {Collins, S. M.},
+   title = {Peripheral mechanisms of symptom generation in irritable bowel syndrome},
+   journal = {Can J Gastroenterol},
+   volume = {15 Suppl B},
+   pages = {14b-16b},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11694910}
+}
+
+@article{RN12334,
+   author = {Garcia Novo, M. D. and Garcia Burriel, J. I. and Pereda Perez, A.},
+   title = {[Practical guides to nutrition (VII). Functional bowel disorders (equivalent to irritable bowel syndrome)]},
+   journal = {An Esp Pediatr},
+   volume = {57},
+   number = {3},
+   pages = {253-63},
+   ISSN = {0302-4342 (Print)
+0302-4342},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12199950}
+}
+
+@article{RN12346,
+   author = {Ledochowski, M. and Murr, C. and Lass-Florl, C. and Fuchs, D.},
+   title = {Increased serum amylase and lipase in fructose malabsorbers},
+   journal = {Clin Chim Acta},
+   volume = {311},
+   number = {2},
+   pages = {119-23},
+   ISSN = {0009-8981 (Print)
+0009-8981},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11566171}
+}
+
+@article{RN12333,
+   author = {Madden, J. A. and Hunter, J. O.},
+   title = {A review of the role of the gut microflora in irritable bowel syndrome and the effects of probiotics},
+   journal = {Br J Nutr},
+   volume = {88 Suppl 1},
+   pages = {S67-72},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   DOI = {10.1079/bjn2002631},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12215182}
+}
+
+@article{RN12332,
+   author = {Marteau, P. and Seksik, P. and Jian, R.},
+   title = {Probiotics and intestinal health effects: a clinical perspective},
+   journal = {Br J Nutr},
+   volume = {88 Suppl 1},
+   pages = {S51-7},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   DOI = {10.1079/bjn2002629},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12215185}
+}
+
+@article{RN12336,
+   author = {Marteau, P. R.},
+   title = {Probiotics in clinical conditions},
+   journal = {Clin Rev Allergy Immunol},
+   volume = {22},
+   number = {3},
+   pages = {255-73},
+   ISSN = {1080-0549 (Print)
+1080-0549},
+   DOI = {10.1007/s12016-002-0011-0},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12043384}
+}
+
+@article{RN12330,
+   author = {Montalto, M. and Arancio, F. and Izzi, D. and Cuoco, L. and Curigliano, V. and Manna, R. and Gasbarrini, G.},
+   title = {[Probiotics: history, definition, requirements and possible therapeutic applications]},
+   journal = {Ann Ital Med Int},
+   volume = {17},
+   number = {3},
+   pages = {157-65},
+   ISSN = {0393-9340 (Print)
+0393-9340},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12402663}
+}
+
+@article{RN12340,
+   author = {Moukarzel, A. A. and Lesicka, H. and Ament, M. E.},
+   title = {Irritable bowel syndrome and nonspecific diarrhea in infancy and childhood--relationship with juice carbohydrate malabsorption},
+   journal = {Clin Pediatr (Phila)},
+   volume = {41},
+   number = {3},
+   pages = {145-50},
+   ISSN = {0009-9228 (Print)
+0009-9228},
+   DOI = {10.1177/000992280204100303},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11999677}
+}
+
+@article{RN12337,
+   author = {Olden, K. W.},
+   title = {Diagnosis of irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {122},
+   number = {6},
+   pages = {1701-14},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12016433}
+}
+
+@article{RN12351,
+   author = {Parker, T. J. and Woolner, J. T. and Prevost, A. T. and Tuffnell, Q. and Shorthouse, M. and Hunter, J. O.},
+   title = {Irritable bowel syndrome: is the search for lactose intolerance justified?},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {3},
+   pages = {219-25},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11293439}
+}
+
+@article{RN12329,
+   author = {Parry, S. D. and Barton, J. R. and Welfare, M. R.},
+   title = {Is lactose intolerance implicated in the development of post-infectious irritable bowel syndrome or functional diarrhoea in previously asymptomatic people?},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {14},
+   number = {11},
+   pages = {1225-30},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12439117}
+}
+
+@article{RN12353,
+   author = {Pfaffenbach, B. and Lux, G.},
+   title = {[Nutritional therapy in gastrointestinal diseases. Diets--necessary or superfluous?]},
+   journal = {MMW Fortschr Med},
+   volume = {143},
+   number = {10},
+   pages = {22-5},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11268734}
+}
+
+@article{RN12342,
+   author = {Rana, S. V. and Mandal, A. K. and Kochhar, R. and Katyal, R. and Singh, K.},
+   title = {Lactose intolerance in different types of irritable bowel syndrome in north Indians},
+   journal = {Trop Gastroenterol},
+   volume = {22},
+   number = {4},
+   pages = {202-4},
+   ISSN = {0250-636X (Print)
+0250-636x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11963325}
+}
+
+@article{RN12348,
+   author = {Schuster, M. M.},
+   title = {Defining and diagnosing irritable bowel syndrome},
+   journal = {Am J Manag Care},
+   volume = {7},
+   number = {8 Suppl},
+   pages = {S246-51},
+   ISSN = {1088-0224 (Print)
+1088-0224},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11474909}
+}
+
+@article{RN12343,
+   author = {Stiefelhagen, P.},
+   title = {[Diets in irritable bowel syndrome--what do they really achieve? Please no culinary sadism!]},
+   journal = {MMW Fortschr Med},
+   volume = {143},
+   number = {46},
+   pages = {18},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11759593}
+}
+
+@article{RN12341,
+   author = {Svedberg, P. and Johansson, S. and Wallander, M. A. and Hamelin, B. and Pedersen, N. L.},
+   title = {Extra-intestinal manifestations associated with irritable bowel syndrome: a twin study},
+   journal = {Aliment Pharmacol Ther},
+   volume = {16},
+   number = {5},
+   pages = {975-83},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11966507}
+}
+
+@article{RN12331,
+   author = {Talley, N. J. and Spiller, R.},
+   title = {Irritable bowel syndrome: a little understood organic bowel disease?},
+   journal = {Lancet},
+   volume = {360},
+   number = {9332},
+   pages = {555-64},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   DOI = {10.1016/s0140-6736(02)09712-x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12241674}
+}
+
+@article{RN12339,
+   author = {Ursin, H. and Eriksen, H. R.},
+   title = {Sensitization, subjective health complaints, and sustained arousal},
+   journal = {Ann N Y Acad Sci},
+   volume = {933},
+   pages = {119-29},
+   ISSN = {0077-8923 (Print)
+0077-8923},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {12000015}
+}
+
+@article{RN12338,
+   author = {Van den Driessche, M. and Veereman-Wauters, G.},
+   title = {Functional foods in pediatrics},
+   journal = {Acta Gastroenterol Belg},
+   volume = {65},
+   number = {1},
+   pages = {45-51},
+   ISSN = {1784-3227 (Print)
+1784-3227},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12014316}
+}
+
+@article{RN12350,
+   author = {Vernia, P. and Di Camillo, M. and Marinaro, V.},
+   title = {Lactose malabsorption, irritable bowel syndrome and self-reported milk intolerance},
+   journal = {Dig Liver Dis},
+   volume = {33},
+   number = {3},
+   pages = {234-9},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11407668}
+}
+
+@article{RN12352,
+   author = {Zar, S. and Kumar, D. and Benson, M. J.},
+   title = {Food hypersensitivity and irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {15},
+   number = {4},
+   pages = {439-49},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11284772}
+}
+

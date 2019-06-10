@@ -1,0 +1,249 @@
+﻿@article{RN7902,
+   author = {Actis, G. C. and Pellicano, R. and Rosina, F.},
+   title = {6-Mercaptopurine for Azathioprine Intolerant Inflammatory Bowel Disease: Literature Search and Reappraisal of Own Data},
+   journal = {Inflamm Allergy Drug Targets},
+   volume = {14},
+   number = {2},
+   pages = {133-7},
+   ISSN = {1871-5281},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26728773}
+}
+
+@article{RN7908,
+   author = {Cross, R. K. and Jambaulikar, G. and Langenberg, P. and Tracy, J. K. and Collins, J. F. and Katz, J. and Regueiro, M. and Schwartz, D. A. and Quinn, C. C.},
+   title = {TELEmedicine for Patients with Inflammatory Bowel Disease (TELE-IBD): Design and implementation of randomized clinical trial},
+   journal = {Contemp Clin Trials},
+   volume = {42},
+   pages = {132-44},
+   ISSN = {1551-7144},
+   DOI = {10.1016/j.cct.2015.03.006},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25812483}
+}
+
+@article{RN7906,
+   author = {Fumery, M. and Jacob, A. and Sarter, H. and Michaud, L. and Spyckerelle, C. and Mouterde, O. and Savoye, G. and Colombel, J. F. and Peyrin-Biroulet, L. and Gower-Rousseau, C. and Turck, D.},
+   title = {Efficacy and safety of adalimumab after infliximab failure in pediatric Crohn disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {60},
+   number = {6},
+   pages = {744-8},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000713},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26000887}
+}
+
+@article{RN7913,
+   author = {Gagniere, C. and Beaugerie, L. and Pariente, B. and Seksik, P. and Amiot, A. and Abitbol, V. and Allez, M. and Cosnes, J. and Sokol, H.},
+   title = {Benefit of infliximab reintroduction after successive failure of infliximab and adalimumab in Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {9},
+   number = {4},
+   pages = {349-55},
+   ISSN = {1873-9946},
+   DOI = {10.1093/ecco-jcc/jju024},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25547977}
+}
+
+@article{RN7912,
+   author = {Gisbert, J. P. and Domenech, E.},
+   title = {[Vedolizumab in the treatment of Crohn's disease]},
+   journal = {Gastroenterol Hepatol},
+   volume = {38},
+   number = {5},
+   pages = {338-48},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/j.gastrohep.2014.12.003},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25619903}
+}
+
+@article{RN7911,
+   author = {Gisbert, J. P. and Marin, A. C. and McNicholl, A. G. and Chaparro, M.},
+   title = {Systematic review with meta-analysis: the efficacy of a second anti-TNF in patients with inflammatory bowel disease whose previous anti-TNF treatment has failed},
+   journal = {Aliment Pharmacol Ther},
+   volume = {41},
+   number = {7},
+   pages = {613-23},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13083},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25652884}
+}
+
+@article{RN7910,
+   author = {Haisma, S. M. and Lijftogt, T. and Kindermann, A. and Damen, G. and de Ridder, L. and Escher, J. C. and Mearin, M. L. and de Meij, T. and Hendriks, D. and George, E. and Hummel, T. and Norbruis, O. and van Rheenen, P.},
+   title = {Methotrexate for maintaining remission in paediatric Crohn's patients with prior failure or intolerance to thiopurines: a multicenter cohort study},
+   journal = {J Crohns Colitis},
+   volume = {9},
+   number = {4},
+   pages = {305-11},
+   ISSN = {1873-9946},
+   DOI = {10.1093/ecco-jcc/jjv031},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25656249}
+}
+
+@article{RN7898,
+   author = {Hibi, T. and Hirohata, S. and Kikuchi, H. and Tateishi, U. and Sato, N. and Ozaki, K. and Kondo, K. and Ishigatsubo, Y.},
+   title = {Infliximab therapy for intestinal, neurological, and vascular involvement in Behcet disease: Efficacy, safety, and pharmacokinetics in a multicenter, prospective, open-label, single-arm phase 3 study},
+   journal = {Medicine (Baltimore)},
+   volume = {95},
+   number = {24},
+   pages = {e3863},
+   ISSN = {0025-7974},
+   DOI = {10.1097/md.0000000000003863},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27310969}
+}
+
+@article{RN7907,
+   author = {Hurabielle, C. and Schneider, P. and Baudry, C. and Bagot, M. and Allez, M. and Viguier, M.},
+   title = {Certolizumab pegol - A new therapeutic option for refractory disseminated pyoderma gangrenosum associated with Crohn's disease},
+   journal = {J Dermatolog Treat},
+   volume = {27},
+   number = {1},
+   pages = {67-9},
+   ISSN = {0954-6634},
+   DOI = {10.3109/09546634.2015.1034075},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {25909366}
+}
+
+@article{RN7896,
+   author = {Klimczak, K. and Lykowska-Szuber, L. and Krela-Kazmierczak, I. and Eder, P. and Szymczak, A. and Stawczyk-Eder, K. and Linke, K.},
+   title = {[The use of methotrexate in an inflammatory bowel diseases based on the review of the current literature]},
+   journal = {Wiad Lek},
+   volume = {69},
+   number = {2 Pt 2},
+   pages = {262-6},
+   ISSN = {0043-5147 (Print)
+0043-5147},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27487545}
+}
+
+@article{RN7904,
+   author = {Marlow, G. and Han, D. Y. and Triggs, C. M. and Ferguson, L. R.},
+   title = {Food Intolerance: Associations with the rs12212067 Polymorphism of FOXO3 in Crohn's Disease Patients in New Zealand},
+   journal = {J Nutrigenet Nutrigenomics},
+   volume = {8},
+   number = {2},
+   pages = {70-80},
+   ISSN = {1661-6499},
+   DOI = {10.1159/000435783},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26226934}
+}
+
+@article{RN7905,
+   author = {Moran, G. W. and Dubeau, M. F. and Kaplan, G. G. and Yang, H. and Eksteen, B. and Ghosh, S. and Panaccione, R.},
+   title = {Clinical predictors of thiopurine-related adverse events in Crohn's disease},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {25},
+   pages = {7795-804},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i25.7795},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26167079}
+}
+
+@article{RN7901,
+   author = {Nitzan, O. and Elias, M. and Peretz, A. and Saliba, W.},
+   title = {Role of antibiotics for treatment of inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {3},
+   pages = {1078-87},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i3.1078},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26811648}
+}
+
+@article{RN7897,
+   author = {Rafia, R. and Scope, A. and Harnan, S. and Stevens, J. W. and Stevenson, M. and Lobo, A.},
+   title = {Vedolizumab for Treating Moderately to Severely Active Crohn's Disease After Prior Therapy: An Evidence Review Group Perspective of a NICE Single Technology Appraisal},
+   journal = {Pharmacoeconomics},
+   volume = {34},
+   number = {12},
+   pages = {1241-1253},
+   ISSN = {1170-7690},
+   DOI = {10.1007/s40273-016-0436-6},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27480631}
+}
+
+@article{RN7899,
+   author = {Rubio, A. and Pellissier, S. and Van Oudenhove, L. and Ly, H. G. and Dupont, P. and Tack, J. and Dantzer, C. and Delon-Martin, C. and Bonaz, B.},
+   title = {Brain responses to uncertainty about upcoming rectal discomfort in quiescent Crohn's disease - a fMRI study},
+   journal = {Neurogastroenterol Motil},
+   volume = {28},
+   number = {9},
+   pages = {1419-32},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12844},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27132547}
+}
+
+@article{RN7900,
+   author = {Shroff, G.},
+   title = {Human Embryonic Stem Cell Therapy in Crohn's Disease: A Case Report},
+   journal = {Am J Case Rep},
+   volume = {17},
+   pages = {124-8},
+   ISSN = {1941-5923},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26923312}
+}
+
+@article{RN7903,
+   author = {Tuna Kirsaclioglu, C. and Kuloglu, Z. and Ustundag, G. and Kansu, A. and Ince, E. and Ensari, A. and Girgin, N.},
+   title = {Mesalamine Intolerance in Three Children with Crohn's Disease},
+   journal = {Med Princ Pract},
+   volume = {25},
+   number = {3},
+   pages = {293-5},
+   ISSN = {1011-7571},
+   DOI = {10.1159/000442946},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26630041}
+}
+
+@article{RN7909,
+   author = {Tung, J. and Grunow, J. E. and Jacobs, N.},
+   title = {Pilot Development of an Electronic Pediatric Inflammatory Bowel Disease Quiz Game},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {61},
+   number = {3},
+   pages = {292-6},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000788},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25793902}
+}
+

@@ -1,0 +1,264 @@
+﻿@article{RN3135,
+   author = {Biesiekierski, J. R. and Newnham, E. D. and Irving, P. M. and Barrett, J. S. and Haines, M. and Doecke, J. D. and Shepherd, S. J. and Muir, J. G. and Gibson, P. R.},
+   title = {Gluten causes gastrointestinal symptoms in subjects without celiac disease: a double-blind randomized placebo-controlled trial},
+   journal = {Am J Gastroenterol},
+   volume = {106},
+   number = {3},
+   pages = {508-14; quiz 515},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2010.487},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21224837}
+}
+
+@article{RN3119,
+   author = {Bortlik, M. and Duricova, D. and Malickova, K. and Machkova, N. and Bouzkova, E. and Hrdlicka, L. and Komarek, A. and Lukas, M.},
+   title = {Infliximab trough levels may predict sustained response to infliximab in patients with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {9},
+   pages = {736-43},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.10.019},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23200919}
+}
+
+@article{RN3125,
+   author = {Cabrera-Acosta, G. A. and Milke-Garcia, M. P. and Ramirez-Iglesias, M. T. and Uscanga, L.},
+   title = {[Deficient lactose digestion and intolerance in a group of patients with chronic nonspecific ulcerative colitis: a controlled, double-blind, cross-over clinical trial]},
+   journal = {Rev Gastroenterol Mex},
+   volume = {77},
+   number = {1},
+   pages = {26-30},
+   ISSN = {0375-0906 (Print)
+0375-0906},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22450017}
+}
+
+@article{RN3132,
+   author = {De Cassan, C. and De Vroey, B. and Dussault, C. and Hachulla, E. and Buche, S. and Colombel, J. F.},
+   title = {Successful treatment with adalimumab in a familial case of gastrointestinal Behcet's disease},
+   journal = {J Crohns Colitis},
+   volume = {5},
+   number = {4},
+   pages = {364-8},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2011.03.006},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21683309}
+}
+
+@article{RN3122,
+   author = {de Silva, P. S. and Nguyen, D. D. and Sauk, J. and Korzenik, J. and Yajnik, V. and Ananthakrishnan, A. N.},
+   title = {Long-term outcome of a third anti-TNF monoclonal antibody after the failure of two prior anti-TNFs in inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {36},
+   number = {5},
+   pages = {459-66},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2012.05214.x},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22784296}
+}
+
+@article{RN3131,
+   author = {Eadala, P. and Matthews, S. B. and Waud, J. P. and Green, J. T. and Campbell, A. K.},
+   title = {Association of lactose sensitivity with inflammatory bowel disease--demonstrated by analysis of genetic polymorphism, breath gases and symptoms},
+   journal = {Aliment Pharmacol Ther},
+   volume = {34},
+   number = {7},
+   pages = {735-46},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2011.04799.x},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21815901}
+}
+
+@article{RN3134,
+   author = {Ferreiro-Iglesias, R. and Barreiro-de-Acosta, M. and Seijo-Rios, S. and Lorenzo, A. and Dominguez-Munoz, J. E.},
+   title = {Efficacy of intravenous iron in treating iron deficiency anaemia in patients with inflammatory bowel disease. Are there predictors of response?},
+   journal = {Rev Esp Enferm Dig},
+   volume = {103},
+   number = {5},
+   pages = {245-9},
+   ISSN = {1130-0108 (Print)
+1130-0108},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21619388}
+}
+
+@article{RN3129,
+   author = {Gisbert, J. P. and Chaparro, M. and Gomollon, F.},
+   title = {Common misconceptions about 5-aminosalicylates and thiopurines in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {17},
+   number = {30},
+   pages = {3467-78},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v17.i30.3467},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21941413}
+}
+
+@article{RN3123,
+   author = {Katsanos, K. H. and Tsianos, V. E. and Tsianos, E. V.},
+   title = {Intolerance of folic acid in a patient receiving methotrexate for Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {6},
+   number = {9},
+   pages = {960},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.05.017},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22705068}
+}
+
+@article{RN3126,
+   author = {Khani, S. and Hosseini, H. M. and Taheri, M. and Nourani, M. R. and Imani Fooladi, A. A.},
+   title = {Probiotics as an alternative strategy for prevention and treatment of human diseases: a review},
+   journal = {Inflamm Allergy Drug Targets},
+   volume = {11},
+   number = {2},
+   pages = {79-89},
+   ISSN = {1871-5281},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22280243}
+}
+
+@article{RN3130,
+   author = {Manosa, M. and Garcia, V. and Castro, L. and Garcia-Bosch, O. and Chaparro, M. and Barreiro-de Acosta, M. and Carpio, D. and Aguas, M.},
+   title = {Methotrexate in ulcerative colitis: a Spanish multicentric study on clinical use and efficacy},
+   journal = {J Crohns Colitis},
+   volume = {5},
+   number = {5},
+   pages = {397-401},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2011.03.012},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21939912}
+}
+
+@article{RN3124,
+   author = {McDermott, E. and Murphy, S. and Keegan, D. and O'Donoghue, D. and Mulcahy, H. and Doherty, G.},
+   title = {Efficacy of Adalimumab as a long term maintenance therapy in ulcerative colitis},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {2},
+   pages = {150-3},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.03.016},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {22520592}
+}
+
+@article{RN3136,
+   author = {Oustamanolakis, P. and Koutroubakis, I. E.},
+   title = {New desensitization regimen with mesalamine granules in a patient with ulcerative colitis and mesalamine intolerance},
+   journal = {Inflamm Bowel Dis},
+   volume = {17},
+   number = {2},
+   pages = {E8-9},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21323},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {20848496}
+}
+
+@article{RN3118,
+   author = {Pai, S. and Aliyu, S. H. and Enoch, D. A. and Karas, J. A.},
+   title = {Five years experience of Clostridium difficile infection in children at a UK tertiary hospital: proposed criteria for diagnosis and management},
+   journal = {PLoS One},
+   volume = {7},
+   number = {12},
+   pages = {e51728},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0051728},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {23300561}
+}
+
+@article{RN3120,
+   author = {Perrier, C. and Rutgeerts, P.},
+   title = {New drug therapies on the horizon for IBD},
+   journal = {Dig Dis},
+   volume = {30 Suppl 1},
+   pages = {100-5},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000341133},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {23075877}
+}
+
+@article{RN3121,
+   author = {Sartor, R. B.},
+   title = {Gut microbiota: Diet promotes dysbiosis and colitis in susceptible hosts},
+   journal = {Nat Rev Gastroenterol Hepatol},
+   volume = {9},
+   number = {10},
+   pages = {561-2},
+   ISSN = {1759-5045},
+   DOI = {10.1038/nrgastro.2012.157},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22890110}
+}
+
+@article{RN3128,
+   author = {Sicilia, B.},
+   title = {[No best treatment for severe outbreaks: Maintenance, the key in colitis]},
+   journal = {Gastroenterol Hepatol},
+   volume = {34 Suppl 3},
+   pages = {18-24},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/s0210-5705(11)70094-2},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {25443222}
+}
+
+@article{RN3133,
+   author = {Sprakes, M. B. and Hamlin, P. J. and Warren, L. and Greer, D. and Ford, A. C.},
+   title = {Adalimumab as second line anti-tumour necrosis factor alpha therapy for Crohn's disease: A single centre experience},
+   journal = {J Crohns Colitis},
+   volume = {5},
+   number = {4},
+   pages = {324-31},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2011.02.007},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21683302}
+}
+
+@article{RN3127,
+   author = {Thomas, S. and Baumgart, D. C.},
+   title = {Targeting leukocyte migration and adhesion in Crohn's disease and ulcerative colitis},
+   journal = {Inflammopharmacology},
+   volume = {20},
+   number = {1},
+   pages = {1-18},
+   ISSN = {0925-4692},
+   DOI = {10.1007/s10787-011-0104-6},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22205271}
+}
+

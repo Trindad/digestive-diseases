@@ -1,0 +1,140 @@
+﻿@article{RN2992,
+   author = {Abdullah, A. M.},
+   title = {Aetiology of chronic diarrhoea in children: experience at King Khalid University Hospital, Riyadh, Saudi Arabia},
+   journal = {Ann Trop Paediatr},
+   volume = {14},
+   number = {2},
+   pages = {111-7},
+   ISSN = {0272-4936 (Print)
+0272-4936},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7521625}
+}
+
+@article{RN2996,
+   author = {Aleksic, D.},
+   title = {[Disorders of lactase hydrolysis in patients with ulcerous colitis and irritable colon]},
+   journal = {Srp Arh Celok Lek},
+   volume = {121},
+   number = {1-2},
+   pages = {1-3},
+   ISSN = {0370-8179 (Print)
+0370-8179},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8202812}
+}
+
+@article{RN2988,
+   author = {Bernstein, C. N. and Ament, M. and Artinian, L. and Ridgeway, J. and Shanahan, F.},
+   title = {Milk tolerance in adults with ulcerative colitis},
+   journal = {Am J Gastroenterol},
+   volume = {89},
+   number = {6},
+   pages = {872-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8198097}
+}
+
+@article{RN2987,
+   author = {Brandt, J. R. and Fouser, L. S. and Watkins, S. L. and Zelikovic, I. and Tarr, P. I. and Nazar-Stewart, V. and Avner, E. D.},
+   title = {Escherichia coli O 157:H7-associated hemolytic-uremic syndrome after ingestion of contaminated hamburgers},
+   journal = {J Pediatr},
+   volume = {125},
+   number = {4},
+   pages = {519-26},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7931869}
+}
+
+@article{RN2994,
+   author = {Kochhar, R. and Mehta, S. K. and Goenka, M. K. and Mukherjee, J. J. and Rana, S. V. and Gupta, D.},
+   title = {Lactose intolerance in idiopathic ulcerative colitis in north Indians},
+   journal = {Indian J Med Res},
+   volume = {98},
+   pages = {79-82},
+   ISSN = {0971-5916 (Print)
+0971-5916},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8344736}
+}
+
+@article{RN2995,
+   author = {Kocian, J.},
+   title = {[Secondary osteopenia in gastrointestinal diseases]},
+   journal = {Vnitr Lek},
+   volume = {39},
+   number = {2},
+   pages = {125-31},
+   ISSN = {0042-773X (Print)
+0042-773x},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8506658}
+}
+
+@article{RN2990,
+   author = {Olson, M. M. and Shanholtzer, C. J. and Lee, J. T., Jr. and Gerding, D. N.},
+   title = {Ten years of prospective Clostridium difficile-associated disease surveillance and treatment at the Minneapolis VA Medical Center, 1982-1991},
+   journal = {Infect Control Hosp Epidemiol},
+   volume = {15},
+   number = {6},
+   pages = {371-81},
+   ISSN = {0899-823X (Print)
+0899-823x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7632199}
+}
+
+@article{RN2989,
+   author = {Thapa, B. R.},
+   title = {Intractable diarrhoea of infancy and its management: modified cost effective treatment},
+   journal = {J Trop Pediatr},
+   volume = {40},
+   number = {3},
+   pages = {157-61},
+   ISSN = {0142-6338 (Print)
+0142-6338},
+   DOI = {10.1093/tropej/40.3.157},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8078114}
+}
+
+@article{RN2991,
+   author = {Tolliver, B. A. and Herrera, J. L. and DiPalma, J. A.},
+   title = {Evaluation of patients who meet clinical criteria for irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {89},
+   number = {2},
+   pages = {176-8},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8304298}
+}
+
+@article{RN2993,
+   author = {van Elburg, R. M. and Kokke, F. T. and Uil, J. J. and Mulder, C. J. and de Monchy, J. G. and Heymans, H. S.},
+   title = {[Measurement of selective intestinal permeability using a new, simple sugar absorption test]},
+   journal = {Ned Tijdschr Geneeskd},
+   volume = {137},
+   number = {41},
+   pages = {2091-5},
+   ISSN = {0028-2162 (Print)
+0028-2162},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8413731}
+}
+

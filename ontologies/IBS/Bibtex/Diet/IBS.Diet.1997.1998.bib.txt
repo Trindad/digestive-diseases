@@ -1,0 +1,242 @@
+﻿@article{RN10206,
+   author = {Afifi, Z. E.},
+   title = {Daily practices, study performance and health during the Ramadan fast},
+   journal = {J R Soc Health},
+   volume = {117},
+   number = {4},
+   pages = {231-5},
+   ISSN = {0264-0325 (Print)
+0264-0325},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9375486}
+}
+
+@article{RN10197,
+   author = {Chassany, O. and Bergmann, J. F.},
+   title = {Quality of life in irritable bowel syndrome, effect of therapy},
+   journal = {Eur J Surg Suppl},
+   number = {583},
+   pages = {81-6},
+   ISSN = {1102-416X (Print)
+1102-416x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10027679}
+}
+
+@article{RN10203,
+   author = {Colwell, L. J. and Prather, C. M. and Phillips, S. F. and Zinsmeister, A. R.},
+   title = {Effects of an irritable bowel syndrome educational class on health-promoting behaviors and symptoms},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {6},
+   pages = {901-5},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00273.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9647015}
+}
+
+@article{RN10205,
+   author = {Evans, P. R. and Bak, Y. T. and Shuter, B. and Hoschl, R. and Kellow, J. E.},
+   title = {Gastroparesis and small bowel dysmotility in irritable bowel syndrome},
+   journal = {Dig Dis Sci},
+   volume = {42},
+   number = {10},
+   pages = {2087-93},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9365140}
+}
+
+@article{RN10202,
+   author = {Farthing, M. J.},
+   title = {New drugs in the management of the irritable bowel syndrome},
+   journal = {Drugs},
+   volume = {56},
+   number = {1},
+   pages = {11-21},
+   ISSN = {0012-6667 (Print)
+0012-6667},
+   DOI = {10.2165/00003495-199856010-00002},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9664195}
+}
+
+@article{RN10208,
+   author = {Fine, K. D. and Meyer, R. L. and Lee, E. L.},
+   title = {The prevalence and causes of chronic diarrhea in patients with celiac sprue treated with a gluten-free diet},
+   journal = {Gastroenterology},
+   volume = {112},
+   number = {6},
+   pages = {1830-8},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9178673}
+}
+
+@article{RN10209,
+   author = {Francis, C. Y. and Whorwell, P. J.},
+   title = {The irritable bowel syndrome},
+   journal = {Postgrad Med J},
+   volume = {73},
+   number = {855},
+   pages = {1-7},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.73.855.1},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9039402}
+}
+
+@article{RN10207,
+   author = {Hahn, B. A. and Kirchdoerfer, L. J. and Fullerton, S. and Mayer, E.},
+   title = {Evaluation of a new quality of life questionnaire for patients with irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {11},
+   number = {3},
+   pages = {547-52},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9218081}
+}
+
+@article{RN10211,
+   author = {Kajs, T. M. and Fitzgerald, J. A. and Buckner, R. Y. and Coyle, G. A. and Stinson, B. S. and Morel, J. G. and Levitt, M. D.},
+   title = {Influence of a methanogenic flora on the breath H2 and symptom response to ingestion of sorbitol or oat fiber},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {1},
+   pages = {89-94},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {8995944}
+}
+
+@article{RN10199,
+   author = {King, T. S. and Elia, M. and Hunter, J. O.},
+   title = {Abnormal colonic fermentation in irritable bowel syndrome},
+   journal = {Lancet},
+   volume = {352},
+   number = {9135},
+   pages = {1187-9},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9777836}
+}
+
+@article{RN10196,
+   author = {Milla, P. J.},
+   title = {Motility disorders in childhood},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {12},
+   number = {4},
+   pages = {775-97},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10079906}
+}
+
+@article{RN10198,
+   author = {Niec, A. M. and Frankum, B. and Talley, N. J.},
+   title = {Are adverse food reactions linked to irritable bowel syndrome?},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {11},
+   pages = {2184-90},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00531.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9820394}
+}
+
+@article{RN10204,
+   author = {Riobo, P. and Turbi, C. and Banet, R. and Badia, A. and Lara, J. I. and Miranda, R. and Herrera-Pombo, J. L.},
+   title = {Colonic volvulus and ulcerative jejunoileitis due to occult celiac sprue},
+   journal = {Am J Med Sci},
+   volume = {315},
+   number = {5},
+   pages = {317-8},
+   ISSN = {0002-9629 (Print)
+0002-9629},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9587089}
+}
+
+@article{RN10210,
+   author = {Small, P. K. and Loudon, M. A. and Hau, C. M. and Noor, N. and Campbell, F. C.},
+   title = {Large-scale ambulatory study of postprandial jejunal motility in irritable bowel syndrome},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {1},
+   pages = {39-47},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9018765}
+}
+
+@article{RN10200,
+   author = {Swiatczak, C. and Jawien, A. and Swiatkowski, M. and Slominski, J. M. and Kowianski, Z. and Zasieczny, W.},
+   title = {[Duodenogastric reflux in patients with irritable bowel syndrome treated with wheat bran]},
+   journal = {Pol Merkur Lekarski},
+   volume = {4},
+   number = {22},
+   pages = {196-8},
+   ISSN = {1426-9686 (Print)
+1426-9686},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9770995}
+}
+
+@article{RN10195,
+   author = {Vogelsang, H. and Schwarzenhofer, M. and Oberhuber, G.},
+   title = {Changes in gastrointestinal permeability in celiac disease},
+   journal = {Dig Dis},
+   volume = {16},
+   number = {6},
+   pages = {333-6},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000016886},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {10207217}
+}
+
+@article{RN10201,
+   author = {Wackerbauer, R. and Schmidt, T. and Widmer, R. and Pfeiffer, A. and Morfill, G. and Kaess, H.},
+   title = {Discrimination of irritable bowel syndrome by non-linear analysis of 24-h jejunal motility},
+   journal = {Neurogastroenterol Motil},
+   volume = {10},
+   number = {4},
+   pages = {331-7},
+   ISSN = {1350-1925 (Print)
+1350-1925},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9697107}
+}
+
