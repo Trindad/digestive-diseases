@@ -2,6 +2,9 @@
 
 ## Ontologies
 
+### Paper:
+  
+### Local: 
 
 ## Complex Network
 
@@ -29,6 +32,10 @@ Nhanes 2009-2010: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx
 
 ## Machine Learning
 
+### Dataset:
+  Paper: https://www.nature.com/articles/s41598-017-02606-2.pdf
+
+## Google colab: 
 
 ## Statistics
 
