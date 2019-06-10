@@ -1,5 +1,7 @@
 # Inflammatory bowel disease: complex network
 
+## Ontologies
+
 
 ## Complex Network
 
@@ -23,3 +25,11 @@ Nhanes 2009-2010: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx
 
 ### Jupyter:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Trindad/digestive-diseases/network)
+
+
+## Machine Learning
+
+
+## Statistics
+
+ The [statistics](https://github.com/Trindad/digestive-diseases/blob/network/network/statistics_and_correlation.ipynb) are inside the jupyter notebook used for the complex network.
