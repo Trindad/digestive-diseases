@@ -22,6 +22,9 @@ Nhanes 2009-2010: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx
 
   Queries:
   python correlation.py
+
+### File: 
+  [network.ipynb](https://github.com/Trindad/digestive-diseases/blob/master/network/network.ipynb)
   
 ### Dependency:
   To run locally, you need to install all dependencies listed in [requirements.txt](https://github.com/Trindad/digestive-diseases/blob/network/requirements.txt)
