@@ -1,4 +1,4 @@
-# Inflammatory bowel disease: complex network
+# Inflammatory bowel disease (IBD)
 
 ## Ontologies
 
