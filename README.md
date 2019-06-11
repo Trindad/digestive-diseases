@@ -23,7 +23,10 @@
 ### Paper:
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064635/
   
-### Local: 
+### Local:
+Weka project [All.Diseases.arff] (https://github.com/Trindad/digestive-diseases/blob/master/ontologies/Results/All.Diseases.arff)
+
+CSV for Weka analysis [All.Diseases.csv] (https://github.com/Trindad/digestive-diseases/blob/master/ontologies/Results/All.Diseases.csv)
 
 ## Complex Network
 
