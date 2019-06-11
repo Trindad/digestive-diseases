@@ -1,0 +1,1021 @@
+﻿@article{RN7066,
+   title = {CBP 1011: Colirest, Hematrol},
+   journal = {Drugs R D},
+   volume = {4},
+   number = {4},
+   pages = {241-2},
+   ISSN = {1174-5886 (Print)
+1174-5886},
+   DOI = {10.2165/00126839-200304040-00005},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12848589}
+}
+
+@article{RN7064,
+   title = {Off-label use of tumor necrosis factor inhibitors on ankylosing spondylitis, ulcerative colitis, and psoriasis},
+   journal = {TEC Bull (Online)},
+   volume = {20},
+   number = {2},
+   pages = {9-18},
+   ISSN = {1543-1622},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12854551}
+}
+
+@article{RN7072,
+   title = {Summaries for patients. Tumor necrosis factor antagonists and heart failure},
+   journal = {Ann Intern Med},
+   volume = {138},
+   number = {10},
+   pages = {I48},
+   ISSN = {0003-4819},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12755581}
+}
+
+@article{RN7017,
+   author = {Baker, D. E.},
+   title = {Adalimumab: human recombinant immunoglobulin g1 anti-tumor necrosis factor monoclonal antibody},
+   journal = {Rev Gastroenterol Disord},
+   volume = {4},
+   number = {4},
+   pages = {196-210},
+   ISSN = {1533-001X (Print)
+1533-001x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15580154}
+}
+
+@article{RN7080,
+   author = {Bamba, T. and Shimoyama, T. and Sasaki, M. and Tsujikawa, T. and Fukuda, Y. and Koganei, K. and Hibi, T. and Iwao, Y. and Munakata, A. and Fukuda, S. and Matsumoto, T. and Oshitani, N. and Hiwatashi, N. and Oriuchi, T. and Kitahora, T. and Utsunomiya, T. and Saitoh, Y. and Suzuki, Y. and Nakajima, M.},
+   title = {Dietary fat attenuates the benefits of an elemental diet in active Crohn's disease: a randomized, controlled trial},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {15},
+   number = {2},
+   pages = {151-7},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   DOI = {10.1097/01.meg.0000049987.68425.b3},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12560759}
+}
+
+@article{RN7058,
+   author = {Baumgart, D. C. and Wiedenmann, B. and Dignass, A. U.},
+   title = {[Biologic therapy of inflammatory bowel disease]},
+   journal = {Z Gastroenterol},
+   volume = {41},
+   number = {10},
+   pages = {1017-32},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   DOI = {10.1055/s-2003-42924},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14562200}
+}
+
+@article{RN7048,
+   author = {Bernstein, C. N. and Blanchard, J. F. and Rawsthorne, P. and Collins, M. T.},
+   title = {Population-based case control study of seroprevalence of Mycobacterium paratuberculosis in patients with Crohn's disease and ulcerative colitis},
+   journal = {J Clin Microbiol},
+   volume = {42},
+   number = {3},
+   pages = {1129-35},
+   ISSN = {0095-1137 (Print)
+0095-1137},
+   DOI = {10.1128/jcm.42.3.1129-1135.2004},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15004064}
+}
+
+@article{RN7055,
+   author = {Bernstein, C. N. and Nayar, G. and Hamel, A. and Blanchard, J. F.},
+   title = {Study of animal-borne infections in the mucosas of patients with inflammatory bowel disease and population-based controls},
+   journal = {J Clin Microbiol},
+   volume = {41},
+   number = {11},
+   pages = {4986-90},
+   ISSN = {0095-1137 (Print)
+0095-1137},
+   DOI = {10.1128/jcm.41.11.4986-4990.2003},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14605128}
+}
+
+@article{RN7023,
+   author = {Bjorkkjaer, T. and Brunborg, L. A. and Arslan, G. and Lind, R. A. and Brun, J. G. and Valen, M. and Klementsen, B. and Berstad, A. and Froyland, L.},
+   title = {Reduced joint pain after short-term duodenal administration of seal oil in patients with inflammatory bowel disease: comparison with soy oil},
+   journal = {Scand J Gastroenterol},
+   volume = {39},
+   number = {11},
+   pages = {1088-94},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   DOI = {10.1080/00365520410009429},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15545167}
+}
+
+@article{RN7065,
+   author = {Boudeau, J. and Glasser, A. L. and Julien, S. and Colombel, J. F. and Darfeuille-Michaud, A.},
+   title = {Inhibitory effect of probiotic Escherichia coli strain Nissle 1917 on adhesion to and invasion of intestinal epithelial cells by adherent-invasive E. coli strains isolated from patients with Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {18},
+   number = {1},
+   pages = {45-56},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12848625}
+}
+
+@article{RN7016,
+   author = {Braat, H. and van den Brande, J. and van Tol, E. and Hommes, D. and Peppelenbosch, M. and van Deventer, S.},
+   title = {Lactobacillus rhamnosus induces peripheral hyporesponsiveness in stimulated CD4+ T cells via modulation of dendritic cell function},
+   journal = {Am J Clin Nutr},
+   volume = {80},
+   number = {6},
+   pages = {1618-25},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/80.6.1618},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15585777}
+}
+
+@article{RN7040,
+   author = {Bruzzese, E. and Canani, R. B. and De Marco, G. and Guarino, A.},
+   title = {Microflora in inflammatory bowel diseases: a pediatric perspective},
+   journal = {J Clin Gastroenterol},
+   volume = {38},
+   number = {6 Suppl},
+   pages = {S91-3},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15220668}
+}
+
+@article{RN7084,
+   author = {Cameron, E. A. and Middleton, S. J.},
+   title = {Elemental diet in the treatment of orofacial Crohn's disease},
+   journal = {Gut},
+   volume = {52},
+   number = {1},
+   pages = {143},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.52.1.143},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12477777}
+}
+
+@article{RN7019,
+   author = {Chandran, P. and Satthaporn, S. and Robins, A. and Eremin, O.},
+   title = {Inflammatory bowel disease: dysfunction of GALT and gut bacterial flora (II)},
+   journal = {Surgeon},
+   volume = {1},
+   number = {3},
+   pages = {125-36},
+   ISSN = {1479-666X (Print)
+1479-666x},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {15570747}
+}
+
+@article{RN7046,
+   author = {Collins, M. T.},
+   title = {Paratuberculosis: review of present knowledge},
+   journal = {Acta Vet Scand},
+   volume = {44},
+   number = {3-4},
+   pages = {217-21},
+   ISSN = {0044-605X (Print)
+0044-605x},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {15074635}
+}
+
+@article{RN7070,
+   author = {Cottone, M. and Orlando, A. and Viscido, A. and Calabrese, E. and Camma, C. and Casa, A.},
+   title = {Review article: prevention of postsurgical relapse and recurrence in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17 Suppl 2},
+   pages = {38-42},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12786611}
+}
+
+@article{RN7020,
+   author = {Day, A. S. and Whitten, K. E. and Bohane, T. D.},
+   title = {Use of complementary and alternative medicines by children and adolescents with inflammatory bowel disease},
+   journal = {J Paediatr Child Health},
+   volume = {40},
+   number = {12},
+   pages = {681-4},
+   ISSN = {1034-4810 (Print)
+1034-4810},
+   DOI = {10.1111/j.1440-1754.2004.00510.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15569284}
+}
+
+@article{RN7022,
+   author = {Duggan, P. and O'Brien, M. and Kiely, M. and McCarthy, J. and Shanahan, F. and Cashman, K. D.},
+   title = {Vitamin K status in patients with Crohn's disease and relationship to bone turnover},
+   journal = {Am J Gastroenterol},
+   volume = {99},
+   number = {11},
+   pages = {2178-85},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2004.40071.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15555000}
+}
+
+@article{RN7029,
+   author = {Edsbacker, S. and Andersson, T.},
+   title = {Pharmacokinetics of budesonide (Entocort EC) capsules for Crohn's disease},
+   journal = {Clin Pharmacokinet},
+   volume = {43},
+   number = {12},
+   pages = {803-21},
+   ISSN = {0312-5963 (Print)
+0312-5963},
+   DOI = {10.2165/00003088-200443120-00003},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15355126}
+}
+
+@article{RN7042,
+   author = {Ekbom, A. and Montgomery, S. M.},
+   title = {Environmental risk factors (excluding tobacco and microorganisms): critical analysis of old and new hypotheses},
+   journal = {Best Pract Res Clin Gastroenterol},
+   volume = {18},
+   number = {3},
+   pages = {497-508},
+   ISSN = {1521-6918 (Print)
+1521-6918},
+   DOI = {10.1016/j.bpg.2003.12.005},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15157823}
+}
+
+@article{RN7069,
+   author = {Erichsen, K. and Hausken, T. and Ulvik, R. J. and Svardal, A. and Berstad, A. and Berge, R. K.},
+   title = {Ferrous fumarate deteriorated plasma antioxidant status in patients with Crohn disease},
+   journal = {Scand J Gastroenterol},
+   volume = {38},
+   number = {5},
+   pages = {543-8},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12795468}
+}
+
+@article{RN7052,
+   author = {Eriksson, A. and Shafazand, M. and Jennische, E. and Lonnroth, I. and Lange, S.},
+   title = {Antisecretory factor-induced regression of Crohn's disease in a weak responder to conventional pharmacological treatment},
+   journal = {Inflamm Bowel Dis},
+   volume = {9},
+   number = {6},
+   pages = {398-400},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200311000-00013},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14671491}
+}
+
+@article{RN7063,
+   author = {Famularo, G. and Mosca, L. and Minisola, G. and Trinchieri, V. and De Simone, C.},
+   title = {Probiotic lactobacilli: a new perspective for the treatment of inflammatory bowel disease},
+   journal = {Curr Pharm Des},
+   volume = {9},
+   number = {24},
+   pages = {1973-80},
+   ISSN = {1381-6128 (Print)
+1381-6128},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12871183}
+}
+
+@article{RN7035,
+   author = {Fedorak, R. N. and Madsen, K. L.},
+   title = {Probiotics and the management of inflammatory bowel disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {10},
+   number = {3},
+   pages = {286-99},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200405000-00018},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15290926}
+}
+
+@article{RN7067,
+   author = {Fellermann, K. and Wehkamp, J. and Herrlinger, K. R. and Stange, E. F.},
+   title = {Crohn's disease: a defensin deficiency syndrome?},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {15},
+   number = {6},
+   pages = {627-34},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   DOI = {10.1097/01.meg.0000059151.68845.88},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12840673}
+}
+
+@article{RN7031,
+   author = {Gassull, M. A.},
+   title = {Review article: the role of nutrition in the treatment of inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {20 Suppl 4},
+   pages = {79-83},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2004.02050.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15352899}
+}
+
+@article{RN7025,
+   author = {Ghadiali, A. H. and Strother, M. and Naser, S. A. and Manning, E. J. and Sreevatsan, S.},
+   title = {Mycobacterium avium subsp. paratuberculosis strains isolated from Crohn's disease patients and animal species exhibit similar polymorphic locus patterns},
+   journal = {J Clin Microbiol},
+   volume = {42},
+   number = {11},
+   pages = {5345-8},
+   ISSN = {0095-1137 (Print)
+0095-1137},
+   DOI = {10.1128/jcm.42.11.5345-5348.2004},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15528739}
+}
+
+@article{RN7059,
+   author = {Gionchetti, P. and Amadini, C. and Rizzello, F. and Venturi, A. and Poggioli, G. and Campieri, M.},
+   title = {Probiotics for the treatment of postoperative complications following intestinal surgery},
+   journal = {Best Pract Res Clin Gastroenterol},
+   volume = {17},
+   number = {5},
+   pages = {821-31},
+   ISSN = {1521-6918 (Print)
+1521-6918},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14507591}
+}
+
+@article{RN7079,
+   author = {Goh, J. and O'Morain, C. A.},
+   title = {Review article: nutrition and adult inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17},
+   number = {3},
+   pages = {307-20},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12562443}
+}
+
+@article{RN7050,
+   author = {Goossens, D. and Jonkers, D. and Stobberingh, E. and van den Bogaard, A. and Russel, M. and Stockbrugger, R.},
+   title = {Probiotics in gastroenterology: indications and future perspectives},
+   journal = {Scand J Gastroenterol Suppl},
+   number = {239},
+   pages = {15-23},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14743878}
+}
+
+@article{RN7081,
+   author = {Gorard, D. A.},
+   title = {Enteral nutrition in Crohn's disease: fat in the formula},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {15},
+   number = {2},
+   pages = {115-8},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   DOI = {10.1097/01.meg.0000049989.68425.1e},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12560753}
+}
+
+@article{RN7036,
+   author = {Greenstein, R. J. and Collins, M. T.},
+   title = {Emerging pathogens: is Mycobacterium avium subspecies paratuberculosis zoonotic?},
+   journal = {Lancet},
+   volume = {364},
+   number = {9432},
+   pages = {396-7},
+   ISSN = {0140-6736},
+   DOI = {10.1016/s0140-6736(04)16781-0},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15288721}
+}
+
+@article{RN7018,
+   author = {Hanauer, S. B.},
+   title = {Efficacy and safety of tumor necrosis factor antagonists in Crohn's disease: overview of randomized clinical studies},
+   journal = {Rev Gastroenterol Disord},
+   volume = {4 Suppl 3},
+   pages = {S18-24},
+   ISSN = {1533-001X (Print)
+1533-001x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15580149}
+}
+
+@article{RN7038,
+   author = {Ikeuchi, H. and Yamamura, T. and Nakano, H. and Kosaka, T. and Shimoyama, T. and Fukuda, Y.},
+   title = {Efficacy of nutritional therapy for perforating and non-perforating Crohn's disease},
+   journal = {Hepatogastroenterology},
+   volume = {51},
+   number = {58},
+   pages = {1050-2},
+   ISSN = {0172-6390 (Print)
+0172-6390},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15239244}
+}
+
+@article{RN7075,
+   author = {Ishida, T. and Himeno, K. and Torigoe, Y. and Inoue, M. and Wakisaka, O. and Tabuki, T. and Ono, H. and Honda, K. and Mori, T. and Seike, M. and Yoshimatsu, H. and Sakata, T.},
+   title = {Selenium deficiency in a patient with Crohn's disease receiving long-term total parenteral nutrition},
+   journal = {Intern Med},
+   volume = {42},
+   number = {2},
+   pages = {154-7},
+   ISSN = {0918-2918 (Print)
+0918-2918},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12636234}
+}
+
+@article{RN7021,
+   author = {Kaminska, B. and Landowski, P. and Korzon, M.},
+   title = {[Environmental factors in the etiopathology of inflammatory bowel syndrome]},
+   journal = {Med Wieku Rozwoj},
+   volume = {8},
+   number = {1},
+   pages = {97-105},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15557701}
+}
+
+@article{RN7030,
+   author = {Kamm, M. A.},
+   title = {Review article: chronic active disease and maintaining remission in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {20 Suppl 4},
+   pages = {102-5},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2004.02052.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15352904}
+}
+
+@article{RN7037,
+   author = {Kirchgatterer, A. and Knoflach, P.},
+   title = {[Natural therapy instead of chemistry? Probiotics in gastroenterology]},
+   journal = {Acta Med Austriaca},
+   volume = {31},
+   number = {1},
+   pages = {13-7},
+   ISSN = {0303-8173 (Print)
+0303-8173},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15259592}
+}
+
+@article{RN7041,
+   author = {Konrad, A. and Rutten, C. and Flogerzi, B. and Styner, M. and Goke, B. and Seibold, F.},
+   title = {Immune sensitization to yeast antigens in ASCA-positive patients with Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {10},
+   number = {2},
+   pages = {97-105},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200403000-00006},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15168808}
+}
+
+@article{RN7032,
+   author = {Kruis, W.},
+   title = {Review article: antibiotics and probiotics in inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {20 Suppl 4},
+   pages = {75-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2004.02051.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15352898}
+}
+
+@article{RN7073,
+   author = {Kwon, H. J. and Cote, T. R. and Cuffe, M. S. and Kramer, J. M. and Braun, M. M.},
+   title = {Case reports of heart failure after therapy with a tumor necrosis factor antagonist},
+   journal = {Ann Intern Med},
+   volume = {138},
+   number = {10},
+   pages = {807-11},
+   ISSN = {0003-4819},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12755552}
+}
+
+@article{RN7053,
+   author = {Lange, S. and Bosaeus, I. and Jennische, E. and Johansson, E. and Lundgren, B. K. and Lonnroth, I.},
+   title = {Food-induced antisecretory factor activity is correlated with small bowel length in patients with intestinal resections},
+   journal = {Apmis},
+   volume = {111},
+   number = {10},
+   pages = {985-8},
+   ISSN = {0903-4641 (Print)
+0903-4641},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14616552}
+}
+
+@article{RN7061,
+   author = {Lebenthal, E. and Lebenthal, Y.},
+   title = {[Probiotics: a therapeutic concept awaiting recognition]},
+   journal = {Zh Mikrobiol Epidemiol Immunobiol},
+   number = {4},
+   pages = {88-90},
+   ISSN = {0372-9311 (Print)
+0372-9311},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12966889}
+}
+
+@article{RN7015,
+   author = {Lomer, M. C. and Hutchinson, C. and Volkert, S. and Greenfield, S. M. and Catterall, A. and Thompson, R. P. and Powell, J. J.},
+   title = {Dietary sources of inorganic microparticles and their intake in healthy subjects and patients with Crohn's disease},
+   journal = {Br J Nutr},
+   volume = {92},
+   number = {6},
+   pages = {947-55},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15613257}
+}
+
+@article{RN7049,
+   author = {Lomer, M. C. and Kodjabashia, K. and Hutchinson, C. and Greenfield, S. M. and Thompson, R. P. and Powell, J. J.},
+   title = {Intake of dietary iron is low in patients with Crohn's disease: a case-control study},
+   journal = {Br J Nutr},
+   volume = {91},
+   number = {1},
+   pages = {141-8},
+   ISSN = {0007-1145 (Print)
+0007-1145},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {14748947}
+}
+
+@article{RN7044,
+   author = {Ludvigsson, J. F. and Krantz, M. and Bodin, L. and Stenhammar, L. and Lindquist, B.},
+   title = {Elemental versus polymeric enteral nutrition in paediatric Crohn's disease: a multicentre randomized controlled trial},
+   journal = {Acta Paediatr},
+   volume = {93},
+   number = {3},
+   pages = {327-35},
+   ISSN = {0803-5253 (Print)
+0803-5253},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15124834}
+}
+
+@article{RN7074,
+   author = {Motiwala, A. S. and Strother, M. and Amonsin, A. and Byrum, B. and Naser, S. A. and Stabel, J. R. and Shulaw, W. P. and Bannantine, J. P. and Kapur, V. and Sreevatsan, S.},
+   title = {Molecular epidemiology of Mycobacterium avium subsp. paratuberculosis: evidence for limited strain diversity, strain sharing, and identification of unique targets for diagnosis},
+   journal = {J Clin Microbiol},
+   volume = {41},
+   number = {5},
+   pages = {2015-26},
+   ISSN = {0095-1137 (Print)
+0095-1137},
+   DOI = {10.1128/jcm.41.5.2015-2026.2003},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12734243}
+}
+
+@article{RN7047,
+   author = {Mow, W. S. and Abreu-Martin, M. T. and Papadakis, K. A. and Pitchon, H. E. and Targan, S. R. and Vasiliauskas, E. A.},
+   title = {High incidence of anergy in inflammatory bowel disease patients limits the usefulness of PPD screening before infliximab therapy},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {2},
+   number = {4},
+   pages = {309-13},
+   ISSN = {1542-3565 (Print)
+1542-3565},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15067625}
+}
+
+@article{RN7076,
+   author = {Muller, S. and Schwab, D. and Aigner, T. and Kirchner, T.},
+   title = {[Allergy-associated colitis. Characterization of an entity and its differential diagnoses]},
+   journal = {Pathologe},
+   volume = {24},
+   number = {1},
+   pages = {28-35},
+   ISSN = {0172-8113 (Print)
+0172-8113},
+   DOI = {10.1007/s00292-002-0604-7},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12601475}
+}
+
+@article{RN7027,
+   author = {Naser, S. A. and Ghobrial, G. and Romero, C. and Valentine, J. F.},
+   title = {Culture of Mycobacterium avium subspecies paratuberculosis from the blood of patients with Crohn's disease},
+   journal = {Lancet},
+   volume = {364},
+   number = {9439},
+   pages = {1039-44},
+   ISSN = {0140-6736},
+   DOI = {10.1016/s0140-6736(04)17058-x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15380962}
+}
+
+@article{RN7054,
+   author = {Ogata, H. and Hibi, T.},
+   title = {Does an elemental diet affect operation and/or recurrence rate in Crohn's disease in Japan?},
+   journal = {J Gastroenterol},
+   volume = {38},
+   number = {10},
+   pages = {1019-21},
+   ISSN = {0944-1174 (Print)
+0944-1174},
+   DOI = {10.1007/s00535-003-1210-z},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14614616}
+}
+
+@article{RN7014,
+   author = {Perl, D. P. and Fogarty, U. and Harpaz, N. and Sachar, D. B.},
+   title = {Bacterial-metal interactions: the potential role of aluminum and other trace elements in the etiology of Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {10},
+   number = {6},
+   pages = {881-3},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200411000-00022},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15626906}
+}
+
+@article{RN7026,
+   author = {Phelan, C. and Wooltorton, E.},
+   title = {Infliximab and serious hematologic events},
+   journal = {Cmaj},
+   volume = {171},
+   number = {9},
+   pages = {1045},
+   ISSN = {0820-3946 (Print)
+0820-3946},
+   DOI = {10.1503/cmaj.1041597},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15505264}
+}
+
+@article{RN7078,
+   author = {Reimold, A. M.},
+   title = {New indications for treatment of chronic inflammation by TNF-alpha blockade},
+   journal = {Am J Med Sci},
+   volume = {325},
+   number = {2},
+   pages = {75-92},
+   ISSN = {0002-9629 (Print)
+0002-9629},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12589232}
+}
+
+@article{RN7056,
+   author = {Schultz, M. and Scholmerich, J. and Rath, H. C.},
+   title = {Rationale for probiotic and antibiotic treatment strategies in inflammatory bowel diseases},
+   journal = {Dig Dis},
+   volume = {21},
+   number = {2},
+   pages = {105-28},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000073243},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14571109}
+}
+
+@article{RN7045,
+   author = {Schultz, M. and Timmer, A. and Herfarth, H. H. and Sartor, R. B. and Vanderhoof, J. A. and Rath, H. C.},
+   title = {Lactobacillus GG in inducing and maintaining remission of Crohn's disease},
+   journal = {BMC Gastroenterol},
+   volume = {4},
+   pages = {5},
+   ISSN = {1471-230x},
+   DOI = {10.1186/1471-230x-4-5},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15113451}
+}
+
+@article{RN7057,
+   author = {Schutz, T. and Drude, C. and Paulisch, E. and Lange, K. P. and Lochs, H.},
+   title = {Sugar intake, taste changes and dental health in Crohn's disease},
+   journal = {Dig Dis},
+   volume = {21},
+   number = {3},
+   pages = {252-7},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000073343},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14571099}
+}
+
+@article{RN7068,
+   author = {Shanahan, F.},
+   title = {Probiotics: a perspective on problems and pitfalls},
+   journal = {Scand J Gastroenterol Suppl},
+   number = {237},
+   pages = {34-6},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12797679}
+}
+
+@article{RN7062,
+   author = {Shanahan, F.},
+   title = {Review article: colitis-associated cancer -- time for new strategies},
+   journal = {Aliment Pharmacol Ther},
+   volume = {18 Suppl 2},
+   pages = {6-9},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12950414}
+}
+
+@article{RN7028,
+   author = {Shi, H. N. and Walker, A.},
+   title = {Bacterial colonization and the development of intestinal defences},
+   journal = {Can J Gastroenterol},
+   volume = {18},
+   number = {8},
+   pages = {493-500},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15372112}
+}
+
+@article{RN7083,
+   author = {Shore, G. and Gonzalez, Q. H. and Bondora, A. and Vickers, S. M.},
+   title = {Laparoscopic vs conventional ileocolectomy for primary Crohn disease},
+   journal = {Arch Surg},
+   volume = {138},
+   number = {1},
+   pages = {76-9},
+   ISSN = {0004-0010 (Print)
+0004-0010},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12511156}
+}
+
+@article{RN7013,
+   author = {Stabel, J. R. and Lambertz, A.},
+   title = {Efficacy of pasteurization conditions for the inactivation of Mycobacterium avium subsp. paratuberculosis in milk},
+   journal = {J Food Prot},
+   volume = {67},
+   number = {12},
+   pages = {2719-26},
+   ISSN = {0362-028X (Print)
+0362-028x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15633677}
+}
+
+@article{RN7082,
+   author = {Stein, J.},
+   title = {[Nutrition]},
+   journal = {Z Gastroenterol},
+   volume = {41},
+   number = {1},
+   pages = {62-8},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   DOI = {10.1055/s-2003-36671},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12541177}
+}
+
+@article{RN7060,
+   author = {Tamboli, C. P. and Caucheteux, C. and Cortot, A. and Colombel, J. F. and Desreumaux, P.},
+   title = {Probiotics in inflammatory bowel disease: a critical review},
+   journal = {Best Pract Res Clin Gastroenterol},
+   volume = {17},
+   number = {5},
+   pages = {805-20},
+   ISSN = {1521-6918 (Print)
+1521-6918},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14507590}
+}
+
+@article{RN7033,
+   author = {Tella, R. and Gaig, P. and Lombardero, M. and Garcia-Ortega, P. and Bartra, J. and Papo, M. and Batlle, X.},
+   title = {Allergic eosinophilic gastroenteritis in a child with Crohn's disease},
+   journal = {J Investig Allergol Clin Immunol},
+   volume = {14},
+   number = {2},
+   pages = {159-61},
+   ISSN = {1018-9068 (Print)
+1018-9068},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15301307}
+}
+
+@article{RN7051,
+   author = {Thuraisingam, A. and Leiper, K.},
+   title = {Medical management of Crohn's disease},
+   journal = {Hosp Med},
+   volume = {64},
+   number = {12},
+   pages = {713-8},
+   ISSN = {1462-3935 (Print)
+1462-3935},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14702782}
+}
+
+@article{RN7039,
+   author = {Torok, H. P. and Glas, J. and Tonenchi, L. and Bruennler, G. and Folwaczny, M. and Folwaczny, C.},
+   title = {Crohn's disease is associated with a toll-like receptor-9 polymorphism},
+   journal = {Gastroenterology},
+   volume = {127},
+   number = {1},
+   pages = {365-6},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15236225}
+}
+
+@article{RN7024,
+   author = {Trebble, T. M. and Arden, N. K. and Wootton, S. A. and Calder, P. C. and Mullee, M. A. and Fine, D. R. and Stroud, M. A.},
+   title = {Fish oil and antioxidants alter the composition and function of circulating mononuclear cells in Crohn disease},
+   journal = {Am J Clin Nutr},
+   volume = {80},
+   number = {5},
+   pages = {1137-44},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/80.5.1137},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15531659}
+}
+
+@article{RN7034,
+   author = {Trebble, T. M. and Arden, N. K. and Wootton, S. A. and Mullee, M. A. and Calder, P. C. and Burdge, G. C. and Fine, D. R. and Stroud, M. A.},
+   title = {Peripheral blood mononuclear cell fatty acid composition and inflammatory mediator production in adult Crohn's disease},
+   journal = {Clin Nutr},
+   volume = {23},
+   number = {4},
+   pages = {647-55},
+   ISSN = {0261-5614 (Print)
+0261-5614},
+   DOI = {10.1016/j.clnu.2003.10.017},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15297102}
+}
+
+@article{RN7077,
+   author = {Tsujikawa, T. and Kanauchi, O. and Andoh, A. and Saotome, T. and Sasaki, M. and Fujiyama, Y. and Bamba, T.},
+   title = {Supplement of a chitosan and ascorbic acid mixture for Crohn's disease: a pilot study},
+   journal = {Nutrition},
+   volume = {19},
+   number = {2},
+   pages = {137-9},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12591545}
+}
+
+@article{RN7043,
+   author = {van Nuenen, M. H. and Venema, K. and van der Woude, J. C. and Kuipers, E. J.},
+   title = {The metabolic activity of fecal microbiota from healthy individuals and patients with inflammatory bowel disease},
+   journal = {Dig Dis Sci},
+   volume = {49},
+   number = {3},
+   pages = {485-91},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15139503}
+}
+
+@article{RN7071,
+   author = {Verkasalo, M.},
+   title = {[Drug therapy and nutrition therapy of a young patient with Crohn disease]},
+   journal = {Duodecim},
+   volume = {119},
+   number = {7},
+   pages = {617-24},
+   ISSN = {0012-7183 (Print)
+0012-7183},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12762201}
+}
+

@@ -1,0 +1,126 @@
+﻿@article{RN3021,
+   author = {Casellas, F. and Vaquero, E. and Armengol, J. R. and Malagelada, J. R.},
+   title = {Practicality of 5-aminosalicylic suppositories for long-term treatment of inactive distal ulcerative colitis},
+   journal = {Hepatogastroenterology},
+   volume = {46},
+   number = {28},
+   pages = {2343-6},
+   ISSN = {0172-6390 (Print)
+0172-6390},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10521994}
+}
+
+@article{RN3022,
+   author = {Castellano, V. M. and Munoz, M. T. and Colina, F. and Nevado, M. and Casis, B. and Solis-Herruzo, J. A.},
+   title = {Collagenous gastrobulbitis and collagenous colitis. Case report and review of the literature},
+   journal = {Scand J Gastroenterol},
+   volume = {34},
+   number = {6},
+   pages = {632-8},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10440616}
+}
+
+@article{RN3020,
+   author = {Fernandez-Banares, F. and Gassull Duro, M. A.},
+   title = {[Revision and consensus in nutritional therapy: nutrition in inflammatory intestinal diseases]},
+   journal = {Nutr Hosp},
+   volume = {14 Suppl 2},
+   pages = {71s-80s},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10548029}
+}
+
+@article{RN3024,
+   author = {Karcher, R. E. and Truding, R. M. and Stawick, L. E.},
+   title = {Using a cutoff of <10 ppm for breath hydrogen testing: a review of five years' experience},
+   journal = {Ann Clin Lab Sci},
+   volume = {29},
+   number = {1},
+   pages = {1-8},
+   ISSN = {0091-7370 (Print)
+0091-7370},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10074962}
+}
+
+@article{RN3018,
+   author = {Loranskaia, I. D. and Zorin, S. N. and Gmoshinskii, I. V. and Shirina, L. I. and Iurkov, MIu and Mitrofanova, I. P. and Mazo, V. K.},
+   title = {[Permeability of intestinal barrier fo macromolecules in patients with Crohn's disease and ulcerative colitis]},
+   journal = {Klin Med (Mosk)},
+   volume = {77},
+   number = {11},
+   pages = {31-3},
+   ISSN = {0023-2149 (Print)
+0023-2149},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10635629}
+}
+
+@article{RN3016,
+   author = {Messing, B.},
+   title = {[Parenteral nutrition: indications and techniques]},
+   journal = {Ann Med Interne (Paris)},
+   volume = {151},
+   number = {8},
+   pages = {652-8},
+   ISSN = {0003-410X (Print)
+0003-410x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11173709}
+}
+
+@article{RN3017,
+   author = {Stein, R. B. and Hanauer, S. B.},
+   title = {Comparative tolerability of treatments for inflammatory bowel disease},
+   journal = {Drug Saf},
+   volume = {23},
+   number = {5},
+   pages = {429-48},
+   ISSN = {0114-5916 (Print)
+0114-5916},
+   DOI = {10.2165/00002018-200023050-00006},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11085348}
+}
+
+@article{RN3023,
+   author = {Von Tirpitz, C. and Pischulti, G. and Klaus, J. and Rieber, A. and Bruckel, J. and Bohm, B. O. and Adler, G. and Reinshagen, M.},
+   title = {[Pathological bone density in chronic inflammatory bowel diseases--prevalence and risk factors]},
+   journal = {Z Gastroenterol},
+   volume = {37},
+   number = {1},
+   pages = {5-12},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10091278}
+}
+
+@article{RN3019,
+   author = {Willetts, I. E. and Dalzell, M. and Puntis, J. W. and Stringer, M. D.},
+   title = {Cow's milk enteropathy: surgical pitfalls},
+   journal = {J Pediatr Surg},
+   volume = {34},
+   number = {10},
+   pages = {1486-8},
+   ISSN = {0022-3468 (Print)
+0022-3468},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10549753}
+}
+

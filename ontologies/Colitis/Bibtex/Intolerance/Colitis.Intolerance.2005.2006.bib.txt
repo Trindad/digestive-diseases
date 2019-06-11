@@ -1,0 +1,303 @@
+﻿@article{RN3080,
+   author = {Cummings, J. R. and Herrlinger, K. R. and Travis, S. P. and Gorard, D. A. and McIntyre, A. S. and Jewell, D. P.},
+   title = {Oral methotrexate in ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {21},
+   number = {4},
+   pages = {385-9},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2005.02331.x},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {15709988}
+}
+
+@article{RN3075,
+   author = {de Silva, A. D. and Tsironi, E. and Feakins, R. M. and Rampton, D. S.},
+   title = {Efficacy and tolerability of oral iron therapy in inflammatory bowel disease: a prospective, comparative trial},
+   journal = {Aliment Pharmacol Ther},
+   volume = {22},
+   number = {11-12},
+   pages = {1097-105},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2005.02700.x},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16305723}
+}
+
+@article{RN3066,
+   author = {Derijks, L. J. and Gilissen, L. P. and Hooymans, P. M. and Hommes, D. W.},
+   title = {Review article: thiopurines in inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {24},
+   number = {5},
+   pages = {715-29},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.02980.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16918876}
+}
+
+@article{RN3078,
+   author = {Domenech, E. and Nos, P. and Papo, M. and Lopez-San Roman, A. and Garcia-Planella, E. and Gassull, M. A.},
+   title = {6-mercaptopurine in patients with inflammatory bowel disease and previous digestive intolerance of azathioprine},
+   journal = {Scand J Gastroenterol},
+   volume = {40},
+   number = {1},
+   pages = {52-5},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {15841714}
+}
+
+@article{RN3072,
+   author = {Doron, S. and Gorbach, S. L.},
+   title = {Probiotics: their role in the treatment and prevention of disease},
+   journal = {Expert Rev Anti Infect Ther},
+   volume = {4},
+   number = {2},
+   pages = {261-75},
+   ISSN = {1478-7210},
+   DOI = {10.1586/14787210.4.2.261},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16597207}
+}
+
+@article{RN3068,
+   author = {Frieling, T.},
+   title = {[Functional and inflammatory bowel disorders]},
+   journal = {Med Klin (Munich)},
+   volume = {101 Suppl 1},
+   pages = {139-42},
+   ISSN = {0723-5003 (Print)
+0723-5003},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16802539}
+}
+
+@article{RN3063,
+   author = {Gisbert, J. P. and Nino, P. and Rodrigo, L. and Cara, C. and Guijarro, L. G.},
+   title = {Thiopurine methyltransferase (TPMT) activity and adverse effects of azathioprine in inflammatory bowel disease: long-term follow-up study of 394 patients},
+   journal = {Am J Gastroenterol},
+   volume = {101},
+   number = {12},
+   pages = {2769-76},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2006.00843.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17026564}
+}
+
+@article{RN3065,
+   author = {Hanauer, S. B.},
+   title = {Review article: high-dose aminosalicylates to induce and maintain remissions in ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {24 Suppl 3},
+   pages = {37-40},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.03058.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16961743}
+}
+
+@article{RN3071,
+   author = {Krauss, N. and Schuppan, D.},
+   title = {Monitoring nonresponsive patients who have celiac disease},
+   journal = {Gastrointest Endosc Clin N Am},
+   volume = {16},
+   number = {2},
+   pages = {317-27},
+   ISSN = {1052-5157 (Print)
+1052-5157},
+   DOI = {10.1016/j.giec.2006.03.005},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16644460}
+}
+
+@article{RN3060,
+   author = {Kulnigg, S. and Gasche, C.},
+   title = {Systematic review: managing anaemia in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {24},
+   number = {11-12},
+   pages = {1507-23},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.03146.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17206940}
+}
+
+@article{RN3062,
+   author = {Lachaux, A.},
+   title = {[Acute abdominal and lumbar pain in the child]},
+   journal = {Rev Prat},
+   volume = {56},
+   number = {14},
+   pages = {1579-89},
+   ISSN = {0035-2640 (Print)
+0035-2640},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17139872}
+}
+
+@article{RN3070,
+   author = {Moneret-Vautrin, D. A.},
+   title = {[Is the seric eosinophil cationic protein level a valuable tool of diagnosis in clinical practice?]},
+   journal = {Rev Med Interne},
+   volume = {27},
+   number = {9},
+   pages = {679-83},
+   ISSN = {0248-8663 (Print)
+0248-8663},
+   DOI = {10.1016/j.revmed.2006.02.007},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16647168}
+}
+
+@article{RN3074,
+   author = {Paajanen, L. and Korpela, R. and Tuure, T. and Honkanen, J. and Jarvela, I. and Ilonen, J. and Knip, M. and Vaarala, O. and Kokkonen, J.},
+   title = {Cow milk is not responsible for most gastrointestinal immune-like syndromes--evidence from a population-based study},
+   journal = {Am J Clin Nutr},
+   volume = {82},
+   number = {6},
+   pages = {1327-35},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/82.6.1327},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16332667}
+}
+
+@article{RN3076,
+   author = {Raithel, M. and Baenkler, H. W. and Naegel, A. and Buchwald, F. and Schultis, H. W. and Backhaus, B. and Kimpel, S. and Koch, H. and Mach, K. and Hahn, E. G. and Konturek, P. C.},
+   title = {Significance of salicylate intolerance in diseases of the lower gastrointestinal tract},
+   journal = {J Physiol Pharmacol},
+   volume = {56 Suppl 5},
+   pages = {89-102},
+   ISSN = {0867-5910},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16247191}
+}
+
+@article{RN3067,
+   author = {Roberts, D. J. and Banh, H. L. and Hall, R. I.},
+   title = {Use of novel prokinetic agents to facilitate return of gastrointestinal motility in adult critically ill patients},
+   journal = {Curr Opin Crit Care},
+   volume = {12},
+   number = {4},
+   pages = {295-302},
+   ISSN = {1070-5295 (Print)
+1070-5295},
+   DOI = {10.1097/01.ccx.0000235205.54579.5d},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16810038}
+}
+
+@article{RN3073,
+   author = {Schroder, O. and Gerhard, R. and Stein, J.},
+   title = {[Antibiotic-associated diarrhea]},
+   journal = {Z Gastroenterol},
+   volume = {44},
+   number = {2},
+   pages = {193-204},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   DOI = {10.1055/s-2005-858978},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16456762}
+}
+
+@article{RN3061,
+   author = {Sood, A. and Midha, V. and Sood, N. and Bansal, M.},
+   title = {Long term results of use of azathioprine in patients with ulcerative colitis in India},
+   journal = {World J Gastroenterol},
+   volume = {12},
+   number = {45},
+   pages = {7332-6},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v12.i45.7332},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17143951}
+}
+
+@article{RN3079,
+   author = {Spiller, R. C.},
+   title = {Irritable bowel syndrome},
+   journal = {Br Med Bull},
+   volume = {72},
+   pages = {15-29},
+   ISSN = {0007-1420 (Print)
+0007-1420},
+   DOI = {10.1093/bmb/ldh039},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15767561}
+}
+
+@article{RN3064,
+   author = {Steenhagen, E. and de Roos, N. M. and Bouwman, C. A. and van Laarhoven, C. J. and van Staveren, W. A.},
+   title = {Sources and severity of self-reported food intolerance after ileal pouch-anal anastomosis},
+   journal = {J Am Diet Assoc},
+   volume = {106},
+   number = {9},
+   pages = {1459-62},
+   ISSN = {0002-8223 (Print)
+0002-8223},
+   DOI = {10.1016/j.jada.2006.06.013},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16963353}
+}
+
+@article{RN3077,
+   author = {Tlaskalova-Hogenova, H. and Tuckova, L. and Stepankova, R. and Hudcovic, T. and Palova-Jelinkova, L. and Kozakova, H. and Rossmann, P. and Sanchez, D. and Cinova, J. and Hrncir, T. and Kverka, M. and Frolova, L. and Uhlig, H. and Powrie, F. and Bland, P.},
+   title = {Involvement of innate immunity in the development of inflammatory and autoimmune diseases},
+   journal = {Ann N Y Acad Sci},
+   volume = {1051},
+   pages = {787-98},
+   ISSN = {0077-8923 (Print)
+0077-8923},
+   DOI = {10.1196/annals.1361.122},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16127016}
+}
+
+@article{RN3069,
+   author = {Van Assche, G. and Vermeire, S. and Rutgeerts, P.},
+   title = {Emerging biological treatments in inflammatory bowel diseases},
+   journal = {Dig Dis},
+   volume = {24},
+   number = {1-2},
+   pages = {131-6},
+   ISSN = {0257-2753 (Print)
+0257-2753},
+   DOI = {10.1159/000090316},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16699271}
+}
+

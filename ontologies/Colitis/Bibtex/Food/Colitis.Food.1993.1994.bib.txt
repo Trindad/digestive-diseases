@@ -1,0 +1,394 @@
+﻿@article{RN1029,
+   title = {Dietary and other risk factors of ulcerative colitis. A case-control study in Japan. Epidemiology Group of the Research Committee of Inflammatory Bowel Disease in Japan},
+   journal = {J Clin Gastroenterol},
+   volume = {19},
+   number = {2},
+   pages = {166-71},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7963367}
+}
+
+@article{RN1043,
+   author = {Abdul-Raouf, U. M. and Beuchat, L. R. and Ammar, M. S.},
+   title = {Survival and growth of Escherichia coli O157:H7 in ground, roasted beef as affected by pH, acidulants, and temperature},
+   journal = {Appl Environ Microbiol},
+   volume = {59},
+   number = {8},
+   pages = {2364-8},
+   ISSN = {0099-2240 (Print)
+0099-2240},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8368828}
+}
+
+@article{RN1033,
+   author = {Aitola, P. T. and Soppi, E. T. and Halonen, P. J. and Laine, S. T. and Matikainen, M. J.},
+   title = {The effect of proctocolectomy on serum antibody levels against cow's milk proteins in patients with chronic ulcerative colitis, with special reference to liver changes},
+   journal = {Scand J Gastroenterol},
+   volume = {29},
+   number = {7},
+   pages = {646-50},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7939402}
+}
+
+@article{RN1047,
+   author = {Besser, R. E. and Lett, S. M. and Weber, J. T. and Doyle, M. P. and Barrett, T. J. and Wells, J. G. and Griffin, P. M.},
+   title = {An outbreak of diarrhea and hemolytic uremic syndrome from Escherichia coli O157:H7 in fresh-pressed apple cider},
+   journal = {Jama},
+   volume = {269},
+   number = {17},
+   pages = {2217-20},
+   ISSN = {0098-7484 (Print)
+0098-7484},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8474200}
+}
+
+@article{RN1026,
+   author = {Brandt, J. R. and Fouser, L. S. and Watkins, S. L. and Zelikovic, I. and Tarr, P. I. and Nazar-Stewart, V. and Avner, E. D.},
+   title = {Escherichia coli O 157:H7-associated hemolytic-uremic syndrome after ingestion of contaminated hamburgers},
+   journal = {J Pediatr},
+   volume = {125},
+   number = {4},
+   pages = {519-26},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7931869}
+}
+
+@article{RN1023,
+   author = {Bryan, R. T. and Pinner, R. W. and Berkelman, R. L.},
+   title = {Emerging infectious diseases in the United States, Improved surveillance, a requisite for prevention},
+   journal = {Ann N Y Acad Sci},
+   volume = {740},
+   pages = {346-61},
+   ISSN = {0077-8923 (Print)
+0077-8923},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7840468}
+}
+
+@article{RN1039,
+   author = {Fratamico, P. M. and Bhaduri, S. and Buchanan, R. L.},
+   title = {Studies on Escherichia coli serotype O157:H7 strains containing a 60-MDa plasmid and on 60-MDa plasmid-cured derivatives},
+   journal = {J Med Microbiol},
+   volume = {39},
+   number = {5},
+   pages = {371-81},
+   ISSN = {0022-2615 (Print)
+0022-2615},
+   DOI = {10.1099/00222615-39-5-371},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {7902442}
+}
+
+@article{RN1038,
+   author = {Fuller, M. F. and Milne, A. and Harris, C. I. and Reid, T. M. and Keenan, R.},
+   title = {Amino acid losses in ileostomy fluid on a protein-free diet},
+   journal = {Am J Clin Nutr},
+   volume = {59},
+   number = {1},
+   pages = {70-3},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/59.1.70},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8279406}
+}
+
+@article{RN1046,
+   author = {Hoppen, T. and Keller, K. M. and Stolte, M. and Rister, M.},
+   title = {[Clostridium difficile in early childhood ulcerative pancolitis]},
+   journal = {Monatsschr Kinderheilkd},
+   volume = {141},
+   number = {6},
+   pages = {474-7},
+   ISSN = {0026-9298 (Print)
+0026-9298},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8101635}
+}
+
+@article{RN1028,
+   author = {Keene, W. E. and McAnulty, J. M. and Hoesly, F. C. and Williams, L. P., Jr. and Hedberg, K. and Oxman, G. L. and Barrett, T. J. and Pfaller, M. A. and Fleming, D. W.},
+   title = {A swimming-associated outbreak of hemorrhagic colitis caused by Escherichia coli O157:H7 and Shigella sonnei},
+   journal = {N Engl J Med},
+   volume = {331},
+   number = {9},
+   pages = {579-84},
+   ISSN = {0028-4793 (Print)
+0028-4793},
+   DOI = {10.1056/nejm199409013310904},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8047082}
+}
+
+@article{RN1041,
+   author = {Klotz, U. and Harings-Kaim, A.},
+   title = {Negligible excretion of 5-aminosalicylic acid in breast milk},
+   journal = {Lancet},
+   volume = {342},
+   number = {8871},
+   pages = {618-9},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8102746}
+}
+
+@article{RN1031,
+   author = {Lake, A. M.},
+   title = {The polymorph in red is no lady},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {19},
+   number = {1},
+   pages = {4-6},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7965475}
+}
+
+@article{RN1049,
+   author = {Lashner, B. A.},
+   title = {Red blood cell folate is associated with the development of dysplasia and cancer in ulcerative colitis},
+   journal = {J Cancer Res Clin Oncol},
+   volume = {119},
+   number = {9},
+   pages = {549-54},
+   ISSN = {0171-5216 (Print)
+0171-5216},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8392076}
+}
+
+@article{RN1032,
+   author = {Machida, H. M. and Catto Smith, A. G. and Gall, D. G. and Trevenen, C. and Scott, R. B.},
+   title = {Allergic colitis in infancy: clinical and pathologic aspects},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {19},
+   number = {1},
+   pages = {22-6},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7965472}
+}
+
+@article{RN1034,
+   author = {Matthew, J. A. and Pell, J. D. and Prior, A. and Kennedy, H. J. and Fellows, I. W. and Gee, J. M. and Burton, J. and Johnson, I. T.},
+   title = {Validation of a simple technique for the detection of abnormal mucosal cell replication in humans},
+   journal = {Eur J Cancer Prev},
+   volume = {3},
+   number = {4},
+   pages = {337-44},
+   ISSN = {0959-8278 (Print)
+0959-8278},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7524884}
+}
+
+@article{RN1040,
+   author = {O'Brien, A. D. and Melton, A. R. and Schmitt, C. K. and McKee, M. L. and Batts, M. L. and Griffin, D. E.},
+   title = {Profile of Escherichia coli O157:H7 pathogen responsible for hamburger-borne outbreak of hemorrhagic colitis and hemolytic uremic syndrome in Washington},
+   journal = {J Clin Microbiol},
+   volume = {31},
+   number = {10},
+   pages = {2799-801},
+   ISSN = {0095-1137 (Print)
+0095-1137},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8253989}
+}
+
+@article{RN1024,
+   author = {Rigaud, D. and Angel, L. A. and Cerf, M. and Carduner, M. J. and Melchior, J. C. and Sautier, C. and Rene, E. and Apfelbaum, M. and Mignon, M.},
+   title = {Mechanisms of decreased food intake during weight loss in adult Crohn's disease patients without obvious malabsorption},
+   journal = {Am J Clin Nutr},
+   volume = {60},
+   number = {5},
+   pages = {775-81},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/60.5.775},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7942586}
+}
+
+@article{RN1037,
+   author = {Ruppin, H. and Soergel, K. H.},
+   title = {[Diagnostic guidelines in diarrhea]},
+   journal = {Ther Umsch},
+   volume = {51},
+   number = {3},
+   pages = {166-71},
+   ISSN = {0040-5930 (Print)
+0040-5930},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8160162}
+}
+
+@article{RN1050,
+   author = {Skogh, T. and Peen, E.},
+   title = {Lactoferrin, anti-lactoferrin antibodies and inflammatory disease},
+   journal = {Adv Exp Med Biol},
+   volume = {336},
+   pages = {533-8},
+   ISSN = {0065-2598 (Print)
+0065-2598},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8296671}
+}
+
+@article{RN1036,
+   author = {Snape, W. J., Jr.},
+   title = {Current concepts in the management of the irritable bowel syndrome},
+   journal = {Rev Gastroenterol Mex},
+   volume = {59},
+   number = {2},
+   pages = {127-32},
+   ISSN = {0375-0906 (Print)
+0375-0906},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7991965}
+}
+
+@article{RN1027,
+   author = {Soergel, K. H.},
+   title = {Colonic fermentation: metabolic and clinical implications},
+   journal = {Clin Investig},
+   volume = {72},
+   number = {10},
+   pages = {742-8},
+   ISSN = {0941-0198 (Print)
+0941-0198},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7865976}
+}
+
+@article{RN1045,
+   author = {Swiatkowski, M. and Klopocka, M. and Suppan, K.},
+   title = {[Type I allergy and indices of immune response in patients with ulcerative colitis]},
+   journal = {Wiad Lek},
+   volume = {46},
+   number = {13-14},
+   pages = {496-501},
+   ISSN = {0043-5147 (Print)
+0043-5147},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8030326}
+}
+
+@article{RN1035,
+   author = {Thapa, B. R.},
+   title = {Intractable diarrhoea of infancy and its management: modified cost effective treatment},
+   journal = {J Trop Pediatr},
+   volume = {40},
+   number = {3},
+   pages = {157-61},
+   ISSN = {0142-6338 (Print)
+0142-6338},
+   DOI = {10.1093/tropej/40.3.157},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8078114}
+}
+
+@article{RN1044,
+   author = {Thomas, D. W. and Talley, N. J. and Mahnovski, V. and Haight, M. and Sinatra, F. R.},
+   title = {Rectal mucosal major basic protein in infants with dietary protein-induced colitis},
+   journal = {Ann Allergy},
+   volume = {71},
+   number = {1},
+   pages = {66-9},
+   ISSN = {0003-4738 (Print)
+0003-4738},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8328717}
+}
+
+@article{RN1030,
+   author = {Vandenplas, Y. and Edelman, R. and Sacre, L.},
+   title = {Chicken-induced anaphylactoid reaction and colitis},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {19},
+   number = {2},
+   pages = {240-1},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7815248}
+}
+
+@article{RN1048,
+   author = {Wilcox, D. T. and Fiorello, A. B. and Glick, P. L.},
+   title = {Hypovolemic shock and intestinal ischemia: a preventable complication of incomplete formula labeling},
+   journal = {J Pediatr},
+   volume = {122},
+   number = {1},
+   pages = {103-4},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8419595}
+}
+
+@article{RN1025,
+   author = {Willshaw, G. A. and Thirlwell, J. and Jones, A. P. and Parry, S. and Salmon, R. L. and Hickey, M.},
+   title = {Vero cytotoxin-producing Escherichia coli O157 in beefburgers linked to an outbreak of diarrhoea, haemorrhagic colitis and haemolytic uraemic syndrome in Britain},
+   journal = {Lett Appl Microbiol},
+   volume = {19},
+   number = {5},
+   pages = {304-7},
+   ISSN = {0266-8254 (Print)
+0266-8254},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7765442}
+}
+
+@article{RN1042,
+   author = {Zhao, T. and Doyle, M. P. and Besser, R. E.},
+   title = {Fate of enterohemorrhagic Escherichia coli O157:H7 in apple cider with and without preservatives},
+   journal = {Appl Environ Microbiol},
+   volume = {59},
+   number = {8},
+   pages = {2526-30},
+   ISSN = {0099-2240 (Print)
+0099-2240},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8368839}
+}
+

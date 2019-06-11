@@ -1,0 +1,227 @@
+﻿@article{RN11061,
+   author = {Addolorato, G. and Gasbarrini, G. and Marsigli, L. and Stefanini, G. F.},
+   title = {Irritable bowel syndrome and food allergy: an association via anxiety-depression?},
+   journal = {Gastroenterology},
+   volume = {111},
+   number = {3},
+   pages = {833-4},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8780597}
+}
+
+@article{RN11071,
+   author = {Awad, R. and Dibildox, M. and Ortiz, F.},
+   title = {Irritable bowel syndrome treatment using pinaverium bromide as a calcium channel blocker. A randomized double-blind placebo-controlled trial},
+   journal = {Acta Gastroenterol Latinoam},
+   volume = {25},
+   number = {3},
+   pages = {137-44},
+   ISSN = {0300-9033 (Print)
+0300-9033},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {8600700}
+}
+
+@article{RN11064,
+   author = {Bennett, W. G. and Cerda, J. J.},
+   title = {Benefits of dietary fiber. Myth or medicine?},
+   journal = {Postgrad Med},
+   volume = {99},
+   number = {2},
+   pages = {153-6, 166-8, 171-2 passim},
+   ISSN = {0032-5481 (Print)
+0032-5481},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8632964}
+}
+
+@article{RN11060,
+   author = {Bischoff, S. C.},
+   title = {Mucosal allergy: role of mast cells and eosinophil granulocytes in the gut},
+   journal = {Baillieres Clin Gastroenterol},
+   volume = {10},
+   number = {3},
+   pages = {443-59},
+   ISSN = {0950-3528 (Print)
+0950-3528},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8905118}
+}
+
+@article{RN11058,
+   author = {Bischoff, S. C. and Herrmann, A. and Manns, M. P.},
+   title = {Prevalence of adverse reactions to food in patients with gastrointestinal disease},
+   journal = {Allergy},
+   volume = {51},
+   number = {11},
+   pages = {811-8},
+   ISSN = {0105-4538 (Print)
+0105-4538},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8947339}
+}
+
+@article{RN11073,
+   author = {Bonamico, M. and Culasso, F. and Colombo, C. and Giunta, A. M.},
+   title = {Irritable bowel syndrome in children: an Italian multicentre study. Collaborating Centres},
+   journal = {Ital J Gastroenterol},
+   volume = {27},
+   number = {1},
+   pages = {13-20},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7795282}
+}
+
+@article{RN11062,
+   author = {Haq, S. A. and Rahman, M. T. and Hasan, M. and Khan, A. K.},
+   title = {Predictors of duodenal ulcer healing in sucralfate treated patients},
+   journal = {Bangladesh Med Res Counc Bull},
+   volume = {22},
+   number = {2},
+   pages = {65-9},
+   ISSN = {0377-9238 (Print)
+0377-9238},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {9103658}
+}
+
+@article{RN11070,
+   author = {Hyams, J. S. and Treem, W. R. and Justinich, C. J. and Davis, P. and Shoup, M. and Burke, G.},
+   title = {Characterization of symptoms in children with recurrent abdominal pain: resemblance to irritable bowel syndrome},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {20},
+   number = {2},
+   pages = {209-14},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7714688}
+}
+
+@article{RN11069,
+   author = {Lewis, P. J.},
+   title = {Management of the irritable bowel syndrome. Food intolerance may play a part},
+   journal = {Bmj},
+   volume = {310},
+   number = {6986},
+   pages = {1067},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   DOI = {10.1136/bmj.310.6986.1067a},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7728073}
+}
+
+@article{RN11068,
+   author = {Olubuyide, I. O. and Olawuyi, F. and Fasanmade, A. A.},
+   title = {A study of irritable bowel syndrome diagnosed by Manning criteria in an African population},
+   journal = {Dig Dis Sci},
+   volume = {40},
+   number = {5},
+   pages = {983-5},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7729288}
+}
+
+@article{RN11072,
+   author = {Pace, F. and Coremans, G. and Dapoigny, M. and Muller-Lissner, S. A. and Smout, A. and Stockbruegger, R. W. and Whorwell, P. J.},
+   title = {Therapy of irritable bowel syndrome--an overview},
+   journal = {Digestion},
+   volume = {56},
+   number = {5},
+   pages = {433-42},
+   ISSN = {0012-2823 (Print)
+0012-2823},
+   DOI = {10.1159/000201272},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {8549889}
+}
+
+@article{RN11066,
+   author = {Reiter, G. S.},
+   title = {Abdominal pain in an HIV-infected man},
+   journal = {AIDS Clin Care},
+   volume = {7},
+   number = {11},
+   pages = {92, 96},
+   ISSN = {1043-1543 (Print)
+1043-1543},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {11362836}
+}
+
+@article{RN11059,
+   author = {Sjolund, K. and Ekman, R. and Lindgren, S. and Rehfeld, J. F.},
+   title = {Disturbed motilin and cholecystokinin release in the irritable bowel syndrome},
+   journal = {Scand J Gastroenterol},
+   volume = {31},
+   number = {11},
+   pages = {1110-4},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8938905}
+}
+
+@article{RN11065,
+   author = {Sriratanaban, A.},
+   title = {Chemosensitivity in irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {110},
+   number = {2},
+   pages = {655},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8566623}
+}
+
+@article{RN11067,
+   author = {Stefanini, G. F. and Saggioro, A. and Alvisi, V. and Angelini, G. and Capurso, L. and di Lorenzo, G. and Dobrilla, G. and Dodero, M. and Galimberti, M. and Gasbarrini, G. and et al.},
+   title = {Oral cromolyn sodium in comparison with elimination diet in the irritable bowel syndrome, diarrheic type. Multicenter study of 428 patients},
+   journal = {Scand J Gastroenterol},
+   volume = {30},
+   number = {6},
+   pages = {535-41},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   DOI = {10.3109/00365529509089786},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7569760}
+}
+
+@article{RN11063,
+   author = {Tolliver, B. A. and Jackson, M. S. and Jackson, K. L. and Barnett, E. D. and Chastang, J. F. and DiPalma, J. A.},
+   title = {Does lactose maldigestion really play a role in the irritable bowel?},
+   journal = {J Clin Gastroenterol},
+   volume = {23},
+   number = {1},
+   pages = {15-7},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8835892}
+}
+

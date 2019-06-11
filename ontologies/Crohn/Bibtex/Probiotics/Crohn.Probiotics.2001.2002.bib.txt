@@ -1,0 +1,308 @@
+﻿@article{RN9888,
+   author = {Biancone, L. and Monteleone, I. and Del Vecchio Blanco, G. and Vavassori, P. and Pallone, F.},
+   title = {Resident bacterial flora and immune system},
+   journal = {Dig Liver Dis},
+   volume = {34 Suppl 2},
+   pages = {S37-43},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12408438}
+}
+
+@article{RN9889,
+   author = {Borruel, N. and Carol, M. and Casellas, F. and Antolin, M. and de Lara, F. and Espin, E. and Naval, J. and Guarner, F. and Malagelada, J. R.},
+   title = {Increased mucosal tumour necrosis factor alpha production in Crohn's disease can be downregulated ex vivo by probiotic bacteria},
+   journal = {Gut},
+   volume = {51},
+   number = {5},
+   pages = {659-64},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.51.5.659},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12377803}
+}
+
+@article{RN9891,
+   author = {Bremner, A. R. and Beattie, R. M.},
+   title = {Therapy of Crohn's disease in childhood},
+   journal = {Expert Opin Pharmacother},
+   volume = {3},
+   number = {7},
+   pages = {809-25},
+   ISSN = {1465-6566 (Print)
+1465-6566},
+   DOI = {10.1517/14656566.3.7.809},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12083982}
+}
+
+@article{RN9894,
+   author = {Desreumaux, P. and Colombel, J. F.},
+   title = {[Intestinal microflora and chronic inflammatory bowel diseases]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {2 Pt 2},
+   pages = {C89-93},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11787387}
+}
+
+@article{RN9900,
+   author = {Dunne, C.},
+   title = {Adaptation of bacteria to the intestinal niche: probiotics and gut disorder},
+   journal = {Inflamm Bowel Dis},
+   volume = {7},
+   number = {2},
+   pages = {136-45},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200105000-00010},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11383587}
+}
+
+@article{RN9902,
+   author = {Dunne, C. and O'Mahony, L. and Murphy, L. and Thornton, G. and Morrissey, D. and O'Halloran, S. and Feeney, M. and Flynn, S. and Fitzgerald, G. and Daly, C. and Kiely, B. and O'Sullivan, G. C. and Shanahan, F. and Collins, J. K.},
+   title = {In vitro selection criteria for probiotic bacteria of human origin: correlation with in vivo findings},
+   journal = {Am J Clin Nutr},
+   volume = {73},
+   number = {2 Suppl},
+   pages = {386s-392s},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/73.2.386s},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11157346}
+}
+
+@article{RN9887,
+   author = {Guandalini, S.},
+   title = {Use of Lactobacillus-GG in paediatric Crohn's disease},
+   journal = {Dig Liver Dis},
+   volume = {34 Suppl 2},
+   pages = {S63-5},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12408443}
+}
+
+@article{RN9899,
+   author = {Guslandi, M.},
+   title = {Probiotics (Br J Surg 2001; 88: 161-2)},
+   journal = {Br J Surg},
+   volume = {88},
+   number = {6},
+   pages = {890-1},
+   ISSN = {0007-1323 (Print)
+0007-1323},
+   DOI = {10.1046/j.1365-2168.2001.01814-10.x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11412272}
+}
+
+@article{RN9897,
+   author = {Guslandi, M.},
+   title = {Probiotics in Crohn's disease},
+   journal = {Gut},
+   volume = {49},
+   number = {6},
+   pages = {873-4},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.49.6.873b},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11758503}
+}
+
+@article{RN9883,
+   author = {Hoffmann, R. M. and Kruis, W.},
+   title = {[Probiotics and prebiotics--a renaissance?]},
+   journal = {Internist (Berl)},
+   volume = {43},
+   number = {11},
+   pages = {1400-6},
+   ISSN = {0020-9554 (Print)
+0020-9554},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12524920}
+}
+
+@article{RN9901,
+   author = {Lerebours, E.},
+   title = {[Questions for Professor Eric Lerebours]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {1},
+   pages = {64-6},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11300119}
+}
+
+@article{RN9896,
+   author = {Linskens, R. K. and Huijsdens, X. W. and Savelkoul, P. H. and Vandenbroucke-Grauls, C. M. and Meuwissen, S. G.},
+   title = {The bacterial flora in inflammatory bowel disease: current insights in pathogenesis and the influence of antibiotics and probiotics},
+   journal = {Scand J Gastroenterol Suppl},
+   number = {234},
+   pages = {29-40},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11768558}
+}
+
+@article{RN9895,
+   author = {Marteau, P.},
+   title = {Inflammatory bowel disease},
+   journal = {Endoscopy},
+   volume = {34},
+   number = {1},
+   pages = {63-8},
+   ISSN = {0013-726X (Print)
+0013-726x},
+   DOI = {10.1055/s-2002-19392},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11778131}
+}
+
+@article{RN9893,
+   author = {Marteau, P. and Seksik, P.},
+   title = {[Role of prebiotics and probiotics in therapeutic management of cryptogenetic inflammatory bowel disease]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {2 Pt 2},
+   pages = {C94-7},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11787388}
+}
+
+@article{RN9882,
+   author = {Mitsuyama, K. and Toyonaga, A. and Sata, M.},
+   title = {Intestinal microflora as a therapeutic target in inflammatory bowel disease},
+   journal = {J Gastroenterol},
+   volume = {37 Suppl 14},
+   pages = {73-7},
+   ISSN = {0944-1174 (Print)
+0944-1174},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12572870}
+}
+
+@article{RN9886,
+   author = {Prantera, C. and Scribano, M. L.},
+   title = {Probiotics and Crohn's disease},
+   journal = {Dig Liver Dis},
+   volume = {34 Suppl 2},
+   pages = {S66-7},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12408444}
+}
+
+@article{RN9890,
+   author = {Prantera, C. and Scribano, M. L. and Falasco, G. and Andreoli, A. and Luzi, C.},
+   title = {Ineffectiveness of probiotics in preventing recurrence after curative resection for Crohn's disease: a randomised controlled trial with Lactobacillus GG},
+   journal = {Gut},
+   volume = {51},
+   number = {3},
+   pages = {405-9},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.51.3.405},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12171964}
+}
+
+@article{RN9892,
+   author = {Rutgeerts, P.},
+   title = {A critical assessment of new therapies in inflammatory bowel disease},
+   journal = {J Gastroenterol Hepatol},
+   volume = {17 Suppl},
+   pages = {S176-85},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12000604}
+}
+
+@article{RN9881,
+   author = {Rutgeerts, P.},
+   title = {Current dilemmas in the management of inflammatory bowel disease},
+   journal = {Eur J Surg Suppl},
+   number = {587},
+   pages = {58-61},
+   ISSN = {1102-416X (Print)
+1102-416x},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {16144202}
+}
+
+@article{RN9898,
+   author = {Sands, B. E.},
+   title = {Biological therapies for ulcerative colitis},
+   journal = {Acta Gastroenterol Belg},
+   volume = {64},
+   number = {2},
+   pages = {205-9},
+   ISSN = {1784-3227 (Print)
+1784-3227},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11475137}
+}
+
+@article{RN9884,
+   author = {Scholmerich, J.},
+   title = {[Therapeutic innovations in chronic inflammatory bowel diseases with "biological therapy"--anti-TNF and more]},
+   journal = {Internist (Berl)},
+   volume = {43},
+   number = {11},
+   pages = {1386-99},
+   ISSN = {0020-9554 (Print)
+0020-9554},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12524919}
+}
+
+@article{RN9885,
+   author = {Seidman, E. G. and Bernotti, S. and Levy, E.},
+   title = {Nutritional modulation of gut inflammation},
+   journal = {Nestle Nutr Workshop Ser Clin Perform Programme},
+   volume = {7},
+   pages = {41-61; discussion 61-5},
+   ISSN = {1422-7584 (Print)
+1422-7584},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12481694}
+}
+

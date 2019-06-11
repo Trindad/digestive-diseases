@@ -1,0 +1,173 @@
+﻿@article{RN7830,
+   author = {Baidoo, L. and Lichtenstein, G. R.},
+   title = {What next after infliximab?},
+   journal = {Am J Gastroenterol},
+   volume = {100},
+   number = {1},
+   pages = {80-3},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2005.41716.x},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {15654785}
+}
+
+@article{RN7828,
+   author = {Chande, N. and Ponich, T. and Gregor, J.},
+   title = {A survey of Canadian gastroenterologists about the use of methotrexate in patients with Crohn's disease},
+   journal = {Can J Gastroenterol},
+   volume = {19},
+   number = {9},
+   pages = {553-8},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16151547}
+}
+
+@article{RN7823,
+   author = {Derijks, L. J. and Gilissen, L. P. and Hooymans, P. M. and Hommes, D. W.},
+   title = {Review article: thiopurines in inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {24},
+   number = {5},
+   pages = {715-29},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.02980.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16918876}
+}
+
+@article{RN7829,
+   author = {Domenech, E. and Nos, P. and Papo, M. and Lopez-San Roman, A. and Garcia-Planella, E. and Gassull, M. A.},
+   title = {6-mercaptopurine in patients with inflammatory bowel disease and previous digestive intolerance of azathioprine},
+   journal = {Scand J Gastroenterol},
+   volume = {40},
+   number = {1},
+   pages = {52-5},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {15841714}
+}
+
+@article{RN7824,
+   author = {Fornaro, R. and Secco, G. B. and Picori, E. and Stabilini, C. and Frascio, M. and Ricci, B. and Mandolfino, F. and De Salvo, L. and Gianetta, E.},
+   title = {[Surgical treatment of Crohn's disease complications. Our experience]},
+   journal = {G Chir},
+   volume = {27},
+   number = {1-2},
+   pages = {21-6},
+   ISSN = {0391-9005 (Print)
+0391-9005},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16608628}
+}
+
+@article{RN7819,
+   author = {Kulnigg, S. and Gasche, C.},
+   title = {Systematic review: managing anaemia in Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {24},
+   number = {11-12},
+   pages = {1507-23},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.03146.x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17206940}
+}
+
+@article{RN7825,
+   author = {Oostenbrug, L. E. and van Dullemen, H. M. and te Meerman, G. J. and Jansen, P. L. and Kleibeuker, J. H.},
+   title = {Clinical outcome of Crohn's disease according to the Vienna classification: disease location is a useful predictor of disease course},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {18},
+   number = {3},
+   pages = {255-61},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16462538}
+}
+
+@article{RN7826,
+   author = {Raithel, M. and Baenkler, H. W. and Naegel, A. and Buchwald, F. and Schultis, H. W. and Backhaus, B. and Kimpel, S. and Koch, H. and Mach, K. and Hahn, E. G. and Konturek, P. C.},
+   title = {Significance of salicylate intolerance in diseases of the lower gastrointestinal tract},
+   journal = {J Physiol Pharmacol},
+   volume = {56 Suppl 5},
+   pages = {89-102},
+   ISSN = {0867-5910},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16247191}
+}
+
+@article{RN7820,
+   author = {Richter, J. A. and Bickston, S. J.},
+   title = {Infliximab use in luminal Crohn's disease},
+   journal = {Gastroenterol Clin North Am},
+   volume = {35},
+   number = {4},
+   pages = {775-93},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   DOI = {10.1016/j.gtc.2006.09.003},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17129813}
+}
+
+@article{RN7822,
+   author = {Steenhagen, E. and de Roos, N. M. and Bouwman, C. A. and van Laarhoven, C. J. and van Staveren, W. A.},
+   title = {Sources and severity of self-reported food intolerance after ileal pouch-anal anastomosis},
+   journal = {J Am Diet Assoc},
+   volume = {106},
+   number = {9},
+   pages = {1459-62},
+   ISSN = {0002-8223 (Print)
+0002-8223},
+   DOI = {10.1016/j.jada.2006.06.013},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {16963353}
+}
+
+@article{RN7821,
+   author = {Uhlen, S. and Belbouab, R. and Narebski, K. and Goulet, O. and Schmitz, J. and Cezard, J. P. and Turck, D. and Ruemmele, F. M.},
+   title = {Efficacy of methotrexate in pediatric Crohn's disease: a French multicenter study},
+   journal = {Inflamm Bowel Dis},
+   volume = {12},
+   number = {11},
+   pages = {1053-7},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/01.mib.0000235103.47280.bb},
+   year = {2006},
+   type = {Journal Article},
+   Accession Number= {17075346}
+}
+
+@article{RN7827,
+   author = {von Ahsen, N. and Armstrong, V. W. and Behrens, C. and von Tirpitz, C. and Stallmach, A. and Herfarth, H. and Stein, J. and Bias, P. and Adler, G. and Shipkova, M. and Oellerich, M. and Kruis, W. and Reinshagen, M. and Schutz, E.},
+   title = {Association of inosine triphosphatase 94C>A and thiopurine S-methyltransferase deficiency with adverse events and study drop-outs under azathioprine therapy in a prospective Crohn disease study},
+   journal = {Clin Chem},
+   volume = {51},
+   number = {12},
+   pages = {2282-8},
+   ISSN = {0009-9147 (Print)
+0009-9147},
+   DOI = {10.1373/clinchem.2005.057158},
+   year = {2005},
+   type = {Journal Article},
+   Accession Number= {16214825}
+}
+

@@ -1,0 +1,72 @@
+﻿@article{RN13024,
+   author = {Barbara, G. and Corinaldesi, R.},
+   title = {Probiotics: could they turn out to be ineffective in irritable bowel syndrome?},
+   journal = {Dig Liver Dis},
+   volume = {32},
+   number = {4},
+   pages = {302-4},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11515627}
+}
+
+@article{RN13028,
+   author = {Gardiner, G. E. and Ross, R. P. and Wallace, J. M. and Scanlan, F. P. and Jagers, P. P. and Fitzgerald, G. F. and Collins, J. K. and Stanton, C.},
+   title = {Influence of a probiotic adjunct culture of Enterococcus faecium on the quality of cheddar cheese},
+   journal = {J Agric Food Chem},
+   volume = {47},
+   number = {12},
+   pages = {4907-16},
+   ISSN = {0021-8561 (Print)
+0021-8561},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10606551}
+}
+
+@article{RN13026,
+   author = {Nobaek, S. and Johansson, M. L. and Molin, G. and Ahrne, S. and Jeppsson, B.},
+   title = {Alteration of intestinal microflora is associated with reduction in abdominal bloating and pain in patients with irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {5},
+   pages = {1231-8},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2000.02015.x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10811333}
+}
+
+@article{RN13025,
+   author = {O'Sullivan, M. A. and O'Morain, C. A.},
+   title = {Bacterial supplementation in the irritable bowel syndrome. A randomised double-blind placebo-controlled crossover study},
+   journal = {Dig Liver Dis},
+   volume = {32},
+   number = {4},
+   pages = {294-301},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11515626}
+}
+
+@article{RN13027,
+   author = {Rolfe, R. D.},
+   title = {The role of probiotic cultures in the control of gastrointestinal health},
+   journal = {J Nutr},
+   volume = {130},
+   number = {2S Suppl},
+   pages = {396s-402s},
+   ISSN = {0022-3166 (Print)
+0022-3166},
+   DOI = {10.1093/jn/130.2.396S},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10721914}
+}
+

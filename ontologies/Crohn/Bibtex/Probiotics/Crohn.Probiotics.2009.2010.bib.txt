@@ -1,0 +1,397 @@
+﻿@article{RN10025,
+   title = {Drugs for inflammatory bowel disease},
+   journal = {Treat Guidel Med Lett},
+   volume = {7},
+   number = {85},
+   pages = {65-74; quiz 75-6},
+   ISSN = {1541-2784 (Print)
+1541-2784},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19696709}
+}
+
+@article{RN10027,
+   author = {Babincova, M. and Babinec, P.},
+   title = {Probiotic culture genetically modified to produce SDF-1 chemokine may be useful for stem cell based therapy of Crohn's disease},
+   journal = {Med Hypotheses},
+   volume = {73},
+   number = {5},
+   pages = {860},
+   ISSN = {0306-9877},
+   DOI = {10.1016/j.mehy.2009.04.017},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19467791}
+}
+
+@article{RN10010,
+   author = {Cottone, M. and Orlando, A. and Renna, S.},
+   title = {Investigational agents for Crohn's disease},
+   journal = {Expert Opin Investig Drugs},
+   volume = {19},
+   number = {10},
+   pages = {1147-59},
+   ISSN = {1354-3784},
+   DOI = {10.1517/13543784.2010.510513},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20836616}
+}
+
+@article{RN10023,
+   author = {Diggs, N. G. and Surawicz, C. M.},
+   title = {Evolving concepts in Clostridium difficile colitis},
+   journal = {Curr Gastroenterol Rep},
+   volume = {11},
+   number = {5},
+   pages = {400-5},
+   ISSN = {1522-8037},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19765368}
+}
+
+@article{RN10022,
+   author = {Doherty, G. and Bennett, G. and Patil, S. and Cheifetz, A. and Moss, A. C.},
+   title = {Interventions for prevention of post-operative recurrence of Crohn's disease},
+   journal = {Cochrane Database Syst Rev},
+   number = {4},
+   pages = {Cd006873},
+   ISSN = {1361-6137},
+   DOI = {10.1002/14651858.CD006873.pub2},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19821389}
+}
+
+@article{RN10019,
+   author = {Doherty, G. A. and Bennett, G. C. and Cheifetz, A. S. and Moss, A. C.},
+   title = {Meta-analysis: targeting the intestinal microbiota in prophylaxis for post-operative Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {31},
+   number = {8},
+   pages = {802-9},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2010.04231.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20055785}
+}
+
+@article{RN10006,
+   author = {Edwards, L. A. and Lucas, M. and Edwards, E. A. and Torrente, F. and Heuschkel, R. B. and Klein, N. J. and Murch, S. H. and Bajaj-Elliott, M. and Phillips, A. D.},
+   title = {Aberrant response to commensal Bacteroides thetaiotaomicron in Crohn's disease: an ex vivo human organ culture study},
+   journal = {Inflamm Bowel Dis},
+   volume = {17},
+   number = {5},
+   pages = {1201-8},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21501},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21484962}
+}
+
+@article{RN10014,
+   author = {Fiasse, R. and Denis, M. A. and Dewit, O.},
+   title = {[Chronic inflammatory bowel disease: Crohn's disease and ulcerative colitis]},
+   journal = {J Pharm Belg},
+   number = {1},
+   pages = {1-9},
+   ISSN = {0047-2166 (Print)
+0047-2166},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20432590}
+}
+
+@article{RN10012,
+   author = {Grehan, M. J. and Borody, T. J. and Leis, S. M. and Campbell, J. and Mitchell, H. and Wettstein, A.},
+   title = {Durable alteration of the colonic microbiota by the administration of donor fecal flora},
+   journal = {J Clin Gastroenterol},
+   volume = {44},
+   number = {8},
+   pages = {551-61},
+   ISSN = {0192-0790},
+   DOI = {10.1097/MCG.0b013e3181e5d06b},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20716985}
+}
+
+@article{RN10015,
+   author = {Guandalini, S.},
+   title = {Update on the role of probiotics in the therapy of pediatric inflammatory bowel disease},
+   journal = {Expert Rev Clin Immunol},
+   volume = {6},
+   number = {1},
+   pages = {47-54},
+   ISSN = {1744-666X (Print)
+1744-666x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20383890}
+}
+
+@article{RN10009,
+   author = {Hedin, C. R. and Mullard, M. and Sharratt, E. and Jansen, C. and Sanderson, J. D. and Shirlaw, P. and Howe, L. C. and Djemal, S. and Stagg, A. J. and Lindsay, J. O. and Whelan, K.},
+   title = {Probiotic and prebiotic use in patients with inflammatory bowel disease: a case-control study},
+   journal = {Inflamm Bowel Dis},
+   volume = {16},
+   number = {12},
+   pages = {2099-108},
+   ISSN = {1078-0998},
+   DOI = {10.1002/ibd.21286},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20848469}
+}
+
+@article{RN10013,
+   author = {Iannitti, T. and Palmieri, B.},
+   title = {Therapeutical use of probiotic formulations in clinical practice},
+   journal = {Clin Nutr},
+   volume = {29},
+   number = {6},
+   pages = {701-25},
+   ISSN = {0261-5614},
+   DOI = {10.1016/j.clnu.2010.05.004},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20576332}
+}
+
+@article{RN10033,
+   author = {Langhorst, J. and Junge, A. and Rueffer, A. and Wehkamp, J. and Foell, D. and Michalsen, A. and Musial, F. and Dobos, G. J.},
+   title = {Elevated human beta-defensin-2 levels indicate an activation of the innate immune system in patients with irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {104},
+   number = {2},
+   pages = {404-10},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2008.86},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19174795}
+}
+
+@article{RN10008,
+   author = {Leske, D. and Hoffmann, J. C.},
+   title = {[Inflammatory bowel disease: longterm management]},
+   journal = {MMW Fortschr Med},
+   volume = {152},
+   number = {28-30},
+   pages = {40-2},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20848988}
+}
+
+@article{RN10029,
+   author = {Macfarlane, G. T. and Blackett, K. L. and Nakayama, T. and Steed, H. and Macfarlane, S.},
+   title = {The gut microbiota in inflammatory bowel disease},
+   journal = {Curr Pharm Des},
+   volume = {15},
+   number = {13},
+   pages = {1528-36},
+   ISSN = {1381-6128},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19442170}
+}
+
+@article{RN10017,
+   author = {Marteau, P. and Sokol, H. and Dray, X. and Seksik, P.},
+   title = {Bacteriotherapy for inflammatory bowel disease: therapeutic tool and/or pharmacological vectors?},
+   journal = {Gastroenterol Clin Biol},
+   volume = {33 Suppl 3},
+   pages = {S228-34},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(09)73158-6},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20117346}
+}
+
+@article{RN10020,
+   author = {Mills, S. C. and von Roon, A. C. and Tekkis, P. P. and Orchard, T. R.},
+   title = {Crohn's disease},
+   journal = {BMJ Clin Evid},
+   volume = {2010},
+   ISSN = {1462-3846},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21406129}
+}
+
+@article{RN10028,
+   author = {Prantera, C. and Scribano, M. L.},
+   title = {Antibiotics and probiotics in inflammatory bowel disease: why, when, and how},
+   journal = {Curr Opin Gastroenterol},
+   volume = {25},
+   number = {4},
+   pages = {329-33},
+   ISSN = {0267-1379},
+   DOI = {10.1097/MOG.0b013e32832b20bf},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19444096}
+}
+
+@article{RN10026,
+   author = {Resta-Lenert, S. C. and Barrett, K. E.},
+   title = {Modulation of intestinal barrier properties by probiotics: role in reversing colitis},
+   journal = {Ann N Y Acad Sci},
+   volume = {1165},
+   pages = {175-82},
+   ISSN = {0077-8923},
+   DOI = {10.1111/j.1749-6632.2009.04042.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19538304}
+}
+
+@article{RN10034,
+   author = {Sans, M.},
+   title = {Probiotics for inflammatory bowel disease: a critical appraisal},
+   journal = {Dig Dis},
+   volume = {27 Suppl 1},
+   pages = {111-4},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000268130},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20203506}
+}
+
+@article{RN10024,
+   author = {Sartor, R. B.},
+   title = {Microbial-host interactions in inflammatory bowel diseases and experimental colitis},
+   journal = {Nestle Nutr Workshop Ser Pediatr Program},
+   volume = {64},
+   pages = {121-32; discussion 132-7, 251-7},
+   ISSN = {1661-6677 (Print)
+1661-6677},
+   DOI = {10.1159/000235787},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19710519}
+}
+
+@article{RN10031,
+   author = {Shen, J. and Ran, H. Z. and Yin, M. H. and Zhou, T. X. and Xiao, D. S.},
+   title = {Meta-analysis: the effect and adverse events of Lactobacilli versus placebo in maintenance therapy for Crohn disease},
+   journal = {Intern Med J},
+   volume = {39},
+   number = {2},
+   pages = {103-9},
+   ISSN = {1444-0903},
+   DOI = {10.1111/j.1445-5994.2008.01791.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19220543}
+}
+
+@article{RN10016,
+   author = {Slonim, A. E. and Grovit, M. and Bulone, L.},
+   title = {Effect of exclusion diet with nutraceutical therapy in juvenile Crohn's disease},
+   journal = {J Am Coll Nutr},
+   volume = {28},
+   number = {3},
+   pages = {277-85},
+   ISSN = {0731-5724},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20150601}
+}
+
+@article{RN10011,
+   author = {Steed, H. and Macfarlane, G. T. and Blackett, K. L. and Bahrami, B. and Reynolds, N. and Walsh, S. V. and Cummings, J. H. and Macfarlane, S.},
+   title = {Clinical trial: the microbiological and immunological effects of synbiotic consumption - a randomized double-blind placebo-controlled study in active Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {32},
+   number = {7},
+   pages = {872-83},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2010.04417.x},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {20735782}
+}
+
+@article{RN10007,
+   author = {Thomas, D. W. and Greer, F. R.},
+   title = {Probiotics and prebiotics in pediatrics},
+   journal = {Pediatrics},
+   volume = {126},
+   number = {6},
+   pages = {1217-31},
+   ISSN = {0031-4005},
+   DOI = {10.1542/peds.2010-2548},
+   year = {2010},
+   type = {Journal Article},
+   Accession Number= {21115585}
+}
+
+@article{RN10032,
+   author = {van Lierop, P. P. and Samsom, J. N. and Escher, J. C. and Nieuwenhuis, E. E.},
+   title = {Role of the innate immune system in the pathogenesis of inflammatory bowel disease},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {48},
+   number = {2},
+   pages = {142-51},
+   ISSN = {0277-2116},
+   DOI = {10.1097/MPG.0b013e3181821964},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19179875}
+}
+
+@article{RN10021,
+   author = {Vavricka, S. R. and Rogler, G.},
+   title = {New insights into the pathogenesis of Crohn's disease: are they relevant for therapeutic options?},
+   journal = {Swiss Med Wkly},
+   volume = {139},
+   number = {37-38},
+   pages = {527-34},
+   ISSN = {1424-7860 (Print)
+0036-7672},
+   DOI = {smw-12520},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19838869}
+}
+
+@article{RN10030,
+   author = {Wallace, B.},
+   title = {Clinical use of probiotics in the pediatric population},
+   journal = {Nutr Clin Pract},
+   volume = {24},
+   number = {1},
+   pages = {50-9},
+   ISSN = {0884-5336 (Print)
+0884-5336},
+   DOI = {10.1177/0884533608329298},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19244149}
+}
+
+@article{RN10018,
+   author = {Wehkamp, J. and Stange, E. F. and Fellermann, K.},
+   title = {Defensin-immunology in inflammatory bowel disease},
+   journal = {Gastroenterol Clin Biol},
+   volume = {33 Suppl 3},
+   pages = {S137-44},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   DOI = {10.1016/s0399-8320(09)73149-5},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {20117337}
+}
+

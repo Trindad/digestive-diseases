@@ -1,0 +1,252 @@
+﻿@article{RN11051,
+   author = {Bell, I. R. and Schwartz, G. E. and Peterson, J. M. and Amend, D.},
+   title = {Symptom and personality profiles of young adults from a college student population with self-reported illness from foods and chemicals},
+   journal = {J Am Coll Nutr},
+   volume = {12},
+   number = {6},
+   pages = {693-702},
+   ISSN = {0731-5724 (Print)
+0731-5724},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8294725}
+}
+
+@article{RN11048,
+   author = {Brostoff, J.},
+   title = {Irritable bowel syndrome},
+   journal = {N Engl J Med},
+   volume = {330},
+   number = {19},
+   pages = {1390; author reply 1390-1},
+   ISSN = {0028-4793 (Print)
+0028-4793},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8152461}
+}
+
+@article{RN11044,
+   author = {Francis, C. Y. and Whorwell, P. J.},
+   title = {Bran and irritable bowel syndrome: time for reappraisal},
+   journal = {Lancet},
+   volume = {344},
+   number = {8914},
+   pages = {39-40},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7912305}
+}
+
+@article{RN11046,
+   author = {Gertner, D. and Powell-Tuck, J.},
+   title = {Irritable bowel syndrome and food intolerance},
+   journal = {Practitioner},
+   volume = {238},
+   number = {1540},
+   pages = {499-502, 504},
+   ISSN = {0032-6518 (Print)
+0032-6518},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7937502}
+}
+
+@article{RN11055,
+   author = {Grazioli, I. and Melzi, G. and Balsamo, V. and Castellucci, G. and Castro, M. and Catassi, C. and Ratsch, J. M. and Scotta, S.},
+   title = {[Food intolerance and irritable bowel syndrome of childhood: clinical efficacy of oral sodium cromoglycate and elimination diet]},
+   journal = {Minerva Pediatr},
+   volume = {45},
+   number = {6},
+   pages = {253-8},
+   ISSN = {0026-4946 (Print)
+0026-4946},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8232112}
+}
+
+@article{RN11041,
+   author = {Hotz, J. and Plein, K.},
+   title = {[Effectiveness of plantago seed husks in comparison with wheat brain on stool frequency and manifestations of irritable colon syndrome with constipation]},
+   journal = {Med Klin (Munich)},
+   volume = {89},
+   number = {12},
+   pages = {645-51},
+   ISSN = {0723-5003 (Print)
+0723-5003},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7869999}
+}
+
+@article{RN11047,
+   author = {Jarrett, M. and Heitkemper, M. M. and Bond, E. F. and Georges, J.},
+   title = {Comparison of diet composition in women with and without functional bowel disorder},
+   journal = {Gastroenterol Nurs},
+   volume = {16},
+   number = {6},
+   pages = {253-8},
+   ISSN = {1042-895X (Print)
+1042-895x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8075160}
+}
+
+@article{RN11052,
+   author = {Lennard-Jones, J. E.},
+   title = {Clinical management of constipation},
+   journal = {Pharmacology},
+   volume = {47 Suppl 1},
+   pages = {216-23},
+   ISSN = {0031-7012 (Print)
+0031-7012},
+   DOI = {10.1159/000139861},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8234432}
+}
+
+@article{RN11045,
+   author = {McKendrick, M. W. and Read, N. W.},
+   title = {Irritable bowel syndrome--post salmonella infection},
+   journal = {J Infect},
+   volume = {29},
+   number = {1},
+   pages = {1-3},
+   ISSN = {0163-4453 (Print)
+0163-4453},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7963621}
+}
+
+@article{RN11057,
+   author = {Nyhlin, H. and Ford, M. J. and Eastwood, J. and Smith, J. H. and Nicol, E. F. and Elton, R. A. and Eastwood, M. A.},
+   title = {Non-alimentary aspects of the irritable bowel syndrome},
+   journal = {J Psychosom Res},
+   volume = {37},
+   number = {2},
+   pages = {155-62},
+   ISSN = {0022-3999 (Print)
+0022-3999},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8385215}
+}
+
+@article{RN11040,
+   author = {Sharma, B. C. and Pal, L. S. and Rana, S.},
+   title = {Aetiology and dynamics of dyspepsia in Shimla: a study of 500 patients},
+   journal = {Trop Gastroenterol},
+   volume = {15},
+   number = {4},
+   pages = {213-8},
+   ISSN = {0250-636X (Print)
+0250-636x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7618203}
+}
+
+@article{RN11056,
+   author = {Shepherd, C.},
+   title = {The role of Candida albicans in the pathogenesis of food-intolerant irritable bowel syndrome},
+   journal = {Postgrad Med J},
+   volume = {69},
+   number = {807},
+   pages = {80},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.69.807.80},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8446564}
+}
+
+@article{RN11049,
+   author = {Snape, W. J., Jr.},
+   title = {Current concepts in the management of the irritable bowel syndrome},
+   journal = {Rev Gastroenterol Mex},
+   volume = {59},
+   number = {2},
+   pages = {127-32},
+   ISSN = {0375-0906 (Print)
+0375-0906},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7991965}
+}
+
+@article{RN11042,
+   author = {Snook, J. and Shepherd, H. A.},
+   title = {Bran supplementation in the treatment of irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {8},
+   number = {5},
+   pages = {511-4},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7865643}
+}
+
+@article{RN11053,
+   author = {Swiatkowski, M.},
+   title = {[Certain etiopathogenic factors of irritable colon syndrome]},
+   journal = {Wiad Lek},
+   volume = {46},
+   number = {13-14},
+   pages = {489-95},
+   ISSN = {0043-5147 (Print)
+0043-5147},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8030325}
+}
+
+@article{RN11054,
+   author = {Swiatkowski, M. and Klopocka, M. and Suppan, K.},
+   title = {[Hypersensitivity reactions in patients with irritable colon syndrome]},
+   journal = {Wiad Lek},
+   volume = {46},
+   number = {13-14},
+   pages = {482-8},
+   ISSN = {0043-5147 (Print)
+0043-5147},
+   year = {1993},
+   type = {Journal Article},
+   Accession Number= {8030324}
+}
+
+@article{RN11050,
+   author = {Thompson, W. G.},
+   title = {Irritable bowel syndrome. Strategy for the family physician},
+   journal = {Can Fam Physician},
+   volume = {40},
+   pages = {307-10, 313-6},
+   ISSN = {0008-350X (Print)
+0008-350x},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {8130678}
+}
+
+@article{RN11043,
+   author = {Viebig, R. G. and Pontes, J. F. and Michelsohn, N. H.},
+   title = {Electromanometry of the rectosigmoid in colonic diverticulosis},
+   journal = {Arq Gastroenterol},
+   volume = {31},
+   number = {4},
+   pages = {135-44},
+   ISSN = {0004-2803 (Print)
+0004-2803},
+   year = {1994},
+   type = {Journal Article},
+   Accession Number= {7575173}
+}
+

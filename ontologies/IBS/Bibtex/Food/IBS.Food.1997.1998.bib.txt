@@ -1,0 +1,271 @@
+﻿@article{RN11076,
+   author = {Addolorato, G. and Marsigli, L. and Capristo, E. and Caputo, F. and Dall'Aglio, C. and Baudanza, P.},
+   title = {Anxiety and depression: a common feature of health care seeking patients with irritable bowel syndrome and food allergy},
+   journal = {Hepatogastroenterology},
+   volume = {45},
+   number = {23},
+   pages = {1559-64},
+   ISSN = {0172-6390 (Print)
+0172-6390},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9840105}
+}
+
+@article{RN11088,
+   author = {Afifi, Z. E.},
+   title = {Daily practices, study performance and health during the Ramadan fast},
+   journal = {J R Soc Health},
+   volume = {117},
+   number = {4},
+   pages = {231-5},
+   ISSN = {0264-0325 (Print)
+0264-0325},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9375486}
+}
+
+@article{RN11090,
+   author = {Awad, R. A. and Cordova, V. H. and Dibildox, M. and Santiago, R. and Camacho, S.},
+   title = {Reduction of post-prandial motility by pinaverium bromide a calcium channel blocker acting selectively on the gastrointestinal tract in patients with irritable bowel syndrome},
+   journal = {Acta Gastroenterol Latinoam},
+   volume = {27},
+   number = {4},
+   pages = {247-51},
+   ISSN = {0300-9033 (Print)
+0300-9033},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9401097}
+}
+
+@article{RN11074,
+   author = {Bouchoucha, M. and Odinot, J. M. and Devroede, G. and Landi, B. and Cugnenc, P. H. and Barbier, J. P.},
+   title = {Simple clinical assessment of colonic response to food},
+   journal = {Int J Colorectal Dis},
+   volume = {13},
+   number = {5-6},
+   pages = {217-22},
+   ISSN = {0179-1958 (Print)
+0179-1958},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9870164}
+}
+
+@article{RN11086,
+   author = {Carlson, E.},
+   title = {Irritable bowel syndrome},
+   journal = {Nurse Pract},
+   volume = {23},
+   number = {1},
+   pages = {82-91; quiz 92-3},
+   ISSN = {0361-1817 (Print)
+0361-1817},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9470197}
+}
+
+@article{RN11087,
+   author = {Evans, J. M. and Fleming, K. C. and Talley, N. J. and Schleck, C. D. and Zinsmeister, A. R. and Melton, L. J., 3rd},
+   title = {Relation of colonic transit to functional bowel disease in older people: a population-based study},
+   journal = {J Am Geriatr Soc},
+   volume = {46},
+   number = {1},
+   pages = {83-7},
+   ISSN = {0002-8614 (Print)
+0002-8614},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9434670}
+}
+
+@article{RN11091,
+   author = {Francis, C. Y. and Whorwell, P. J.},
+   title = {The irritable bowel syndrome},
+   journal = {Postgrad Med J},
+   volume = {73},
+   number = {855},
+   pages = {1-7},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.73.855.1},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9039402}
+}
+
+@article{RN11077,
+   author = {Gui, X. Y.},
+   title = {Mast cells: a possible link between psychological stress, enteric infection, food allergy and gut hypersensitivity in the irritable bowel syndrome},
+   journal = {J Gastroenterol Hepatol},
+   volume = {13},
+   number = {10},
+   pages = {980-9},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9835312}
+}
+
+@article{RN11092,
+   author = {Kajs, T. M. and Fitzgerald, J. A. and Buckner, R. Y. and Coyle, G. A. and Stinson, B. S. and Morel, J. G. and Levitt, M. D.},
+   title = {Influence of a methanogenic flora on the breath H2 and symptom response to ingestion of sorbitol or oat fiber},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {1},
+   pages = {89-94},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {8995944}
+}
+
+@article{RN11079,
+   author = {King, T. S. and Elia, M. and Hunter, J. O.},
+   title = {Abnormal colonic fermentation in irritable bowel syndrome},
+   journal = {Lancet},
+   volume = {352},
+   number = {9135},
+   pages = {1187-9},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9777836}
+}
+
+@article{RN11089,
+   author = {Neal, K. R. and Hebden, J. and Spiller, R.},
+   title = {Prevalence of gastrointestinal symptoms six months after bacterial gastroenteritis and risk factors for development of the irritable bowel syndrome: postal survey of patients},
+   journal = {Bmj},
+   volume = {314},
+   number = {7083},
+   pages = {779-82},
+   ISSN = {0959-8138 (Print)
+0959-8138},
+   DOI = {10.1136/bmj.314.7083.779},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9080994}
+}
+
+@article{RN11078,
+   author = {Niec, A. M. and Frankum, B. and Talley, N. J.},
+   title = {Are adverse food reactions linked to irritable bowel syndrome?},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {11},
+   pages = {2184-90},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00531.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9820394}
+}
+
+@article{RN11075,
+   author = {Pedersen, B. S. and Helo, O. H. and Jorgensen, F. B. and Kromann-Andersen, H.},
+   title = {[Treatment of irritable colon with the food additive Appital]},
+   journal = {Ugeskr Laeger},
+   volume = {160},
+   number = {50},
+   pages = {7259-62},
+   ISSN = {0041-5782 (Print)
+0041-5782},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9859725}
+}
+
+@article{RN11084,
+   author = {Riobo, P. and Turbi, C. and Banet, R. and Badia, A. and Lara, J. I. and Miranda, R. and Herrera-Pombo, J. L.},
+   title = {Colonic volvulus and ulcerative jejunoileitis due to occult celiac sprue},
+   journal = {Am J Med Sci},
+   volume = {315},
+   number = {5},
+   pages = {317-8},
+   ISSN = {0002-9629 (Print)
+0002-9629},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9587089}
+}
+
+@article{RN11081,
+   author = {Srinivasan, R. and Minocha, A.},
+   title = {When to suspect lactose intolerance. Symptomatic, ethnic, and laboratory clues},
+   journal = {Postgrad Med},
+   volume = {104},
+   number = {3},
+   pages = {109-11, 115-6, 122-3},
+   ISSN = {0032-5481 (Print)
+0032-5481},
+   DOI = {10.3810/pgm.1998.09.577},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9742907}
+}
+
+@article{RN11083,
+   author = {Sturniolo, G. C. and Mestriner, C. and Lecis, P. E. and D'Odorico, A. and Venturi, C. and Irato, P. and Cecchetto, A. and Tropea, A. and Longo, G. and D'Inca, R.},
+   title = {Altered plasma and mucosal concentrations of trace elements and antioxidants in active ulcerative colitis},
+   journal = {Scand J Gastroenterol},
+   volume = {33},
+   number = {6},
+   pages = {644-9},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9669638}
+}
+
+@article{RN11080,
+   author = {Swiatczak, C. and Jawien, A. and Swiatkowski, M. and Slominski, J. M. and Kowianski, Z. and Zasieczny, W.},
+   title = {[Duodenogastric reflux in patients with irritable bowel syndrome treated with wheat bran]},
+   journal = {Pol Merkur Lekarski},
+   volume = {4},
+   number = {22},
+   pages = {196-8},
+   ISSN = {1426-9686 (Print)
+1426-9686},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9770995}
+}
+
+@article{RN11082,
+   author = {Vanderhoof, J. A. and Young, R. J.},
+   title = {Use of probiotics in childhood gastrointestinal disorders},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {27},
+   number = {3},
+   pages = {323-32},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9740206}
+}
+
+@article{RN11085,
+   author = {Vesa, T. H. and Seppo, L. M. and Marteau, P. R. and Sahi, T. and Korpela, R.},
+   title = {Role of irritable bowel syndrome in subjective lactose intolerance},
+   journal = {Am J Clin Nutr},
+   volume = {67},
+   number = {4},
+   pages = {710-5},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/67.4.710},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9537618}
+}
+

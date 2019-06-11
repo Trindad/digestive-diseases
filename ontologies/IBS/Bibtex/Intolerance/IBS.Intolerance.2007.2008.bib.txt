@@ -1,0 +1,290 @@
+﻿@article{RN12411,
+   author = {Bernardes-Silva, C. F. and Pereira, A. C. and de Fatima Alves da Mota, G. and Krieger, J. E. and Laudanna, A. A.},
+   title = {Lactase persistence/non-persistence variants, C/T_13910 and G/A_22018, as a diagnostic tool for lactose intolerance in IBS patients},
+   journal = {Clin Chim Acta},
+   volume = {386},
+   number = {1-2},
+   pages = {7-11},
+   ISSN = {0009-8981 (Print)
+0009-8981},
+   DOI = {10.1016/j.cca.2007.07.012},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17706627}
+}
+
+@article{RN12416,
+   author = {Cappello, G. and Spezzaferro, M. and Grossi, L. and Manzoli, L. and Marzio, L.},
+   title = {Peppermint oil (Mintoil) in the treatment of irritable bowel syndrome: a prospective double blind placebo-controlled randomized trial},
+   journal = {Dig Liver Dis},
+   volume = {39},
+   number = {6},
+   pages = {530-6},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   DOI = {10.1016/j.dld.2007.02.006},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17420159}
+}
+
+@article{RN12403,
+   author = {Choi, Y. K. and Kraft, N. and Zimmerman, B. and Jackson, M. and Rao, S. S.},
+   title = {Fructose intolerance in IBS and utility of fructose-restricted diet},
+   journal = {J Clin Gastroenterol},
+   volume = {42},
+   number = {3},
+   pages = {233-8},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   DOI = {10.1097/MCG.0b013e31802cbc2f},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18223504}
+}
+
+@article{RN12409,
+   author = {Esposito, I. and de Leone, A. and Di Gregorio, G. and Giaquinto, S. and de Magistris, L. and Ferrieri, A. and Riegler, G.},
+   title = {Breath test for differential diagnosis between small intestinal bacterial overgrowth and irritable bowel disease: an observation on non-absorbable antibiotics},
+   journal = {World J Gastroenterol},
+   volume = {13},
+   number = {45},
+   pages = {6016-21},
+   ISSN = {1007-9327 (Print)
+1007-9327},
+   DOI = {10.3748/wjg.v13.45.6016},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {18023092}
+}
+
+@article{RN12401,
+   author = {Ghoshal, U. C. and Abraham, P. and Bhatt, C. and Choudhuri, G. and Bhatia, S. J. and Shenoy, K. T. and Banka, N. H. and Bose, K. and Bohidar, N. P. and Chakravartty, K. and Shekhar, N. C. and Desai, N. and Dutta, U. and Das, G. and Dutta, S. and Dixit, V. K. and Goswami, B. D. and Jain, R. K. and Jain, S. and Jayanthi, V. and Kochhar, R. and Kumar, A. and Makharia, G. and Mukewar, S. V. and Mohan Prasad, V. G. and Mohanty, A. and Mohan, A. T. and Sathyaprakash, B. S. and Prabhakar, B. and Philip, M. and Veerraju, E. P. and Ray, G. and Rai, R. R. and Seth, A. K. and Sachdeva, A. and Singh, S. P. and Sood, A. and Thomas, V. and Tiwari, S. and Tandan, M. and Upadhyay, R. and Vij, J. C.},
+   title = {Epidemiological and clinical profile of irritable bowel syndrome in India: report of the Indian Society of Gastroenterology Task Force},
+   journal = {Indian J Gastroenterol},
+   volume = {27},
+   number = {1},
+   pages = {22-8},
+   ISSN = {0254-8860 (Print)
+0254-8860},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18541934}
+}
+
+@article{RN12407,
+   author = {Guery, M. J. and Douillard, C. and Marcelli-Tourvieille, S. and Dobbelaere, D. and Wemeau, J. L. and Vantyghem, M. C.},
+   title = {Doctor, my son is so tired... about a case of hereditary fructose intolerance},
+   journal = {Ann Endocrinol (Paris)},
+   volume = {68},
+   number = {6},
+   pages = {456-9},
+   ISSN = {0003-4266 (Print)
+0003-4266},
+   DOI = {10.1016/j.ando.2007.09.002},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {18035330}
+}
+
+@article{RN12414,
+   author = {Gupta, D. and Ghoshal, U. C. and Misra, A. and Misra, A. and Choudhuri, G. and Singh, K.},
+   title = {Lactose intolerance in patients with irritable bowel syndrome from northern India: a case-control study},
+   journal = {J Gastroenterol Hepatol},
+   volume = {22},
+   number = {12},
+   pages = {2261-5},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   DOI = {10.1111/j.1440-1746.2007.04986.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17559357}
+}
+
+@article{RN12405,
+   author = {Jonkers, D. and Stockbrugger, R.},
+   title = {Review article: Probiotics in gastrointestinal and liver diseases},
+   journal = {Aliment Pharmacol Ther},
+   volume = {26 Suppl 2},
+   pages = {133-48},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03480.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {18081657}
+}
+
+@article{RN12413,
+   author = {Kerber, M. and Oberkanins, C. and Kriegshauser, G. and Kollerits, B. and Dossenbach-Glaninger, A. and Fuchs, D. and Ledochowski, M.},
+   title = {Hydrogen breath testing versus LCT genotyping for the diagnosis of lactose intolerance: a matter of age?},
+   journal = {Clin Chim Acta},
+   volume = {383},
+   number = {1-2},
+   pages = {91-6},
+   ISSN = {0009-8981 (Print)
+0009-8981},
+   DOI = {10.1016/j.cca.2007.04.028},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17574225}
+}
+
+@article{RN12400,
+   author = {Landau, D. A. and Goldberg, A. and Levi, Z. and Levy, Y. and Niv, Y. and Bar-Dayan, Y.},
+   title = {The prevalence of gastrointestinal diseases in Israeli adolescents and its association with body mass index, gender, and Jewish ethnicity},
+   journal = {J Clin Gastroenterol},
+   volume = {42},
+   number = {8},
+   pages = {903-9},
+   ISSN = {0192-0790},
+   DOI = {10.1097/MCG.0b013e31814685f9},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18645527}
+}
+
+@article{RN12418,
+   author = {Layer, P. and Keller, J.},
+   title = {[Therapy of functional bowel disorders]},
+   journal = {Praxis (Bern 1994)},
+   volume = {96},
+   number = {9},
+   pages = {323-6},
+   ISSN = {1661-8157 (Print)
+1661-8157},
+   DOI = {10.1024/1661-8157.96.9.323},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17361633}
+}
+
+@article{RN12417,
+   author = {Leffler, D. A. and Dennis, M. and Hyett, B. and Kelly, E. and Schuppan, D. and Kelly, C. P.},
+   title = {Etiologies and predictors of diagnosis in nonresponsive celiac disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {5},
+   number = {4},
+   pages = {445-50},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2006.12.006},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17382600}
+}
+
+@article{RN12410,
+   author = {Lomer, M. C. and Parkes, G. C. and Sanderson, J. D.},
+   title = {Review article: lactose intolerance in clinical practice--myths and realities},
+   journal = {Aliment Pharmacol Ther},
+   volume = {27},
+   number = {2},
+   pages = {93-103},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03557.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {17956597}
+}
+
+@article{RN12419,
+   author = {MacDermott, R. P.},
+   title = {Treatment of irritable bowel syndrome in outpatients with inflammatory bowel disease using a food and beverage intolerance, food and beverage avoidance diet},
+   journal = {Inflamm Bowel Dis},
+   volume = {13},
+   number = {1},
+   pages = {91-6},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1002/ibd.20048},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17206644}
+}
+
+@article{RN12406,
+   author = {Poitras, P. and Gougeon, A. and Binn, M. and Bouin, M.},
+   title = {Extra digestive manifestations of irritable bowel syndrome: intolerance to drugs?},
+   journal = {Dig Dis Sci},
+   volume = {53},
+   number = {8},
+   pages = {2168-76},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   DOI = {10.1007/s10620-007-0123-8},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18095162}
+}
+
+@article{RN12408,
+   author = {Saberi-Firoozi, M. and Khademolhosseini, F. and Mehrabani, D. and Yousefi, M. and Salehi, M. and Heidary, S. T.},
+   title = {Subjective lactose intolerance in apparently healthy adults in southern Iran: Is it related to irritable bowel syndrome?},
+   journal = {Indian J Med Sci},
+   volume = {61},
+   number = {11},
+   pages = {591-7},
+   ISSN = {0019-5359 (Print)
+0019-5359},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {18025745}
+}
+
+@article{RN12404,
+   author = {Skoog, S. M. and Bharucha, A. E. and Zinsmeister, A. R.},
+   title = {Comparison of breath testing with fructose and high fructose corn syrups in health and IBS},
+   journal = {Neurogastroenterol Motil},
+   volume = {20},
+   number = {5},
+   pages = {505-11},
+   ISSN = {1350-1925},
+   DOI = {10.1111/j.1365-2982.2007.01074.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18221251}
+}
+
+@article{RN12415,
+   author = {Soifer, L. O. and Iantorno, G. and Bustos Fernandez, L. M. and Soifer, G. and Dima, G. and Peralta, D. and Besasso, H.},
+   title = {[Breath hydrogen levels do not predict fiber intolerance in irritable bowel syndrome with constipation]},
+   journal = {Acta Gastroenterol Latinoam},
+   volume = {37},
+   number = {1},
+   pages = {15-9},
+   ISSN = {0300-9033 (Print)
+0300-9033},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17486741}
+}
+
+@article{RN12402,
+   author = {Stiefelhagen, P.},
+   title = {[Irritable bowl or maldigestion: why is digestion not working properly?]},
+   journal = {MMW Fortschr Med},
+   volume = {150},
+   number = {17},
+   pages = {12-4},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18510150}
+}
+
+@article{RN12412,
+   author = {Teufel, M. and Biedermann, T. and Rapps, N. and Hausteiner, C. and Henningsen, P. and Enck, P. and Zipfel, S.},
+   title = {Psychological burden of food allergy},
+   journal = {World J Gastroenterol},
+   volume = {13},
+   number = {25},
+   pages = {3456-65},
+   ISSN = {1007-9327 (Print)
+1007-9327},
+   DOI = {10.3748/wjg.v13.i25.3456},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17659692}
+}
+

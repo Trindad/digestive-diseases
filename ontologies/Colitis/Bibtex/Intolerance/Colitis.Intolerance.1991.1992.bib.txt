@@ -1,0 +1,101 @@
+﻿@article{RN2982,
+   author = {Giaffer, M. H. and Clark, A. and Holdsworth, C. D.},
+   title = {Antibodies to Saccharomyces cerevisiae in patients with Crohn's disease and their possible pathogenic importance},
+   journal = {Gut},
+   volume = {33},
+   number = {8},
+   pages = {1071-5},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.33.8.1071},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1398231}
+}
+
+@article{RN2983,
+   author = {Giaffer, M. H. and Holdsworth, C. D. and Lennard-Jones, J. E. and Rodrigues, C. A. and McIntyre, P. B. and Manjunatha, S. and Baron, J. H. and Barrison, I. G. and Polson, R. J. and Hoare, A. M. and et al.},
+   title = {Improved maintenance of remission in ulcerative colitis by balsalazide 4 g/day compared with 2 g/day},
+   journal = {Aliment Pharmacol Ther},
+   volume = {6},
+   number = {4},
+   pages = {479-85},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1358234}
+}
+
+@article{RN2981,
+   author = {Green, J. R. and Swan, C. H. and Rowlinson, A. and Gibson, J. A. and Brown, P. and Kerr, G. D. and Swarbrick, E. T. and Thornton, P.},
+   title = {Short report: comparison of two doses of balsalazide in maintaining ulcerative colitis in remission over 12 months},
+   journal = {Aliment Pharmacol Ther},
+   volume = {6},
+   number = {5},
+   pages = {647-52},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1420754}
+}
+
+@article{RN2986,
+   author = {Hanauer, S. B. and Stathopoulos, G.},
+   title = {Risk-benefit assessment of drugs used in the treatment of inflammatory bowel disease},
+   journal = {Drug Saf},
+   volume = {6},
+   number = {3},
+   pages = {192-219},
+   ISSN = {0114-5916 (Print)
+0114-5916},
+   DOI = {10.2165/00002018-199106030-00005},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1676590}
+}
+
+@article{RN2985,
+   author = {Harrison, C. J. and Puntis, J. W. and Durbin, G. M. and Gornall, P. and Booth, I. W.},
+   title = {Atypical allergic colitis in preterm infants},
+   journal = {Acta Paediatr Scand},
+   volume = {80},
+   number = {11},
+   pages = {1113-6},
+   ISSN = {0001-656X (Print)
+0001-656x},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1750352}
+}
+
+@article{RN2980,
+   author = {Huppe, D. and Tromm, A. and Langhorst, H. and May, B.},
+   title = {[Lactose intolerance in chronic inflammatory bowel diseases]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {117},
+   number = {41},
+   pages = {1550-5},
+   ISSN = {0012-0472 (Print)
+0012-0472},
+   DOI = {10.1055/s-2008-1062476},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1396146}
+}
+
+@article{RN2984,
+   author = {Tolia, V.},
+   title = {Sulfasalazine desensitization in children and adolescents with chronic inflammatory bowel disease},
+   journal = {Am J Gastroenterol},
+   volume = {87},
+   number = {8},
+   pages = {1029-32},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1353658}
+}
+

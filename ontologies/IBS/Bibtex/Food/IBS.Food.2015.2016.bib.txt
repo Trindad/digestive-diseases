@@ -1,0 +1,2758 @@
+﻿@article{RN12249,
+   title = {Does a low FODMAP diet help IBS?},
+   journal = {Drug Ther Bull},
+   volume = {53},
+   number = {8},
+   pages = {93-6},
+   ISSN = {0012-6543},
+   DOI = {10.1136/dtb.2015.8.0346},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26251411}
+}
+
+@article{RN12169,
+   title = {The latest drug therapies for treating IBS. Longtime sufferers of irritable bowel syndrome have new options for relief},
+   journal = {Health After 50 Sci Am Consum Health},
+   volume = {27},
+   number = {12},
+   pages = {3},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {27062744}
+}
+
+@article{RN12119,
+   title = {Drugs for irritable bowel syndrome},
+   journal = {Med Lett Drugs Ther},
+   volume = {58},
+   number = {1504},
+   pages = {121-6},
+   ISSN = {0025-732x},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27649342}
+}
+
+@article{RN12203,
+   title = {Eluxadoline (Viberzi) for irritable bowel syndrome with diarrhea},
+   journal = {Med Lett Drugs Ther},
+   volume = {58},
+   number = {1485},
+   pages = {4-5},
+   ISSN = {0025-732x},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26714241}
+}
+
+@article{RN12232,
+   author = {Almquist, E. and Tornblom, H. and Simren, M.},
+   title = {Practical management of irritable bowel syndrome: a clinical review},
+   journal = {Minerva Gastroenterol Dietol},
+   volume = {62},
+   number = {1},
+   pages = {30-48},
+   ISSN = {1121-421x},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26448307}
+}
+
+@article{RN12195,
+   author = {Alvarez-Calatayud, G. and Margolles, A.},
+   title = {Dual-coated lactic acid bacteria: an emerging innovative technology in the field of probiotics},
+   journal = {Future Microbiol},
+   volume = {11},
+   number = {3},
+   pages = {467-75},
+   ISSN = {1746-0913},
+   DOI = {10.2217/fmb.15.150},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26780116}
+}
+
+@article{RN12194,
+   author = {Aziz, I. and Dwivedi, K. and Sanders, D. S.},
+   title = {From coeliac disease to noncoeliac gluten sensitivity; should everyone be gluten free?},
+   journal = {Curr Opin Gastroenterol},
+   volume = {32},
+   number = {2},
+   pages = {120-7},
+   ISSN = {0267-1379},
+   DOI = {10.1097/mog.0000000000000248},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26808363}
+}
+
+@article{RN12263,
+   author = {Aziz, I. and Hadjivassiliou, M. and Sanders, D. S.},
+   title = {The spectrum of noncoeliac gluten sensitivity},
+   journal = {Nat Rev Gastroenterol Hepatol},
+   volume = {12},
+   number = {9},
+   pages = {516-26},
+   ISSN = {1759-5045},
+   DOI = {10.1038/nrgastro.2015.107},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26122473}
+}
+
+@article{RN12199,
+   author = {Aziz, I. and Trott, N. and Briggs, R. and North, J. R. and Hadjivassiliou, M. and Sanders, D. S.},
+   title = {Efficacy of a Gluten-Free Diet in Subjects With Irritable Bowel Syndrome-Diarrhea Unaware of Their HLA-DQ2/8 Genotype},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {14},
+   number = {5},
+   pages = {696-703.e1},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2015.12.031},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26748221}
+}
+
+@article{RN12220,
+   author = {Bai, J. P. F. and Burckart, G. J. and Mulberg, A. E.},
+   title = {Literature Review of Gastrointestinal Physiology in the Elderly, in Pediatric Patients, and in Patients with Gastrointestinal Diseases},
+   journal = {J Pharm Sci},
+   volume = {105},
+   number = {2},
+   pages = {476-483},
+   ISSN = {0022-3549},
+   DOI = {10.1002/jps.24696},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26539698}
+}
+
+@article{RN12162,
+   author = {Baranska, A. and Mujagic, Z. and Smolinska, A. and Dallinga, J. W. and Jonkers, D. M. and Tigchelaar, E. F. and Dekens, J. and Zhernakova, A. and Ludwig, T. and Masclee, A. A. and Wijmenga, C. and van Schooten, F. J.},
+   title = {Volatile organic compounds in breath as markers for irritable bowel syndrome: a metabolomic approach},
+   journal = {Aliment Pharmacol Ther},
+   volume = {44},
+   number = {1},
+   pages = {45-56},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13654},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27136066}
+}
+
+@article{RN12115,
+   author = {Barmeyer, C. and Schumann, M. and Meyer, T. and Zielinski, C. and Zuberbier, T. and Siegmund, B. and Schulzke, J. D. and Daum, S. and Ullrich, R.},
+   title = {Long-term response to gluten-free diet as evidence for non-celiac wheat sensitivity in one third of patients with diarrhea-dominant and mixed-type irritable bowel syndrome},
+   journal = {Int J Colorectal Dis},
+   volume = {32},
+   number = {1},
+   pages = {29-39},
+   ISSN = {0179-1958},
+   DOI = {10.1007/s00384-016-2663-x},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27695975}
+}
+
+@article{RN12221,
+   author = {Barnes, D. and Yeh, A. M.},
+   title = {Bugs and Guts: Practical Applications of Probiotics for Gastrointestinal Disorders in Children},
+   journal = {Nutr Clin Pract},
+   volume = {30},
+   number = {6},
+   pages = {747-59},
+   ISSN = {0884-5336},
+   DOI = {10.1177/0884533615610081},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26538058}
+}
+
+@article{RN12102,
+   author = {Basturk, A. and Artan, R. and Yilmaz, A.},
+   title = {Efficacy of synbiotic, probiotic, and prebiotic treatments for irritable bowel syndrome in children: A randomized controlled trial},
+   journal = {Turk J Gastroenterol},
+   volume = {27},
+   number = {5},
+   pages = {439-443},
+   ISSN = {1300-4948},
+   DOI = {10.5152/tjg.2016.16301},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27782892}
+}
+
+@article{RN12231,
+   author = {Bennett, W. E., Jr.},
+   title = {Quantitative Risk-Benefit Analysis of Probiotic Use for Irritable Bowel Syndrome and Inflammatory Bowel Disease},
+   journal = {Drug Saf},
+   volume = {39},
+   number = {4},
+   pages = {295-305},
+   ISSN = {0114-5916},
+   DOI = {10.1007/s40264-015-0349-x},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26467550}
+}
+
+@article{RN12140,
+   author = {Bilkova, A. and Bilka, F. and Kinova Sepova, H.},
+   title = {[Potential immunomodulatory and antiinflammatory mechanisms of probiotics]},
+   journal = {Ceska Slov Farm},
+   volume = {65},
+   number = {2},
+   pages = {43-51},
+   ISSN = {1210-7816 (Print)
+1210-7816},
+   type = {Journal Article},
+   Accession Number= {27356593}
+}
+
+@article{RN12189,
+   author = {Bischoff, S. C.},
+   title = {Mast cells in gastrointestinal disorders},
+   journal = {Eur J Pharmacol},
+   volume = {778},
+   pages = {139-45},
+   ISSN = {0014-2999},
+   DOI = {10.1016/j.ejphar.2016.02.018},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26852959}
+}
+
+@article{RN12090,
+   author = {Boeckxstaens, G. E. and Wouters, M. M.},
+   title = {Neuroimmune factors in functional gastrointestinal disorders: A focus on irritable bowel syndrome},
+   journal = {Neurogastroenterol Motil},
+   volume = {29},
+   number = {6},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.13007},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {28027594}
+}
+
+@article{RN12161,
+   author = {Bogovic Matijasic, B. and Obermajer, T. and Lipoglavsek, L. and Sernel, T. and Locatelli, I. and Kos, M. and Smid, A. and Rogelj, I.},
+   title = {Effects of synbiotic fermented milk containing Lactobacillus acidophilus La-5 and Bifidobacterium animalis ssp. lactis BB-12 on the fecal microbiota of adults with irritable bowel syndrome: A randomized double-blind, placebo-controlled trial},
+   journal = {J Dairy Sci},
+   volume = {99},
+   number = {7},
+   pages = {5008-5021},
+   ISSN = {0022-0302},
+   DOI = {10.3168/jds.2015-10743},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27157575}
+}
+
+@article{RN12248,
+   author = {Bohn, L. and Storsrud, S. and Liljebo, T. and Collin, L. and Lindfors, P. and Tornblom, H. and Simren, M.},
+   title = {Diet low in FODMAPs reduces symptoms of irritable bowel syndrome as well as traditional dietary advice: a randomized controlled trial},
+   journal = {Gastroenterology},
+   volume = {149},
+   number = {6},
+   pages = {1399-1407.e2},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2015.07.054},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26255043}
+}
+
+@article{RN12262,
+   author = {Bokic, T. and Storr, M. and Schicho, R.},
+   title = {Potential Causes and Present Pharmacotherapy of Irritable Bowel Syndrome: An Overview},
+   journal = {Pharmacology},
+   volume = {96},
+   number = {1-2},
+   pages = {76-85},
+   ISSN = {0031-7012},
+   DOI = {10.1159/000435816},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26139425}
+}
+
+@article{RN12184,
+   author = {Borghini, R. and Puzzono, M. and Rosato, E. and Di Tola, M. and Marino, M. and Greco, F. and Picarelli, A.},
+   title = {Nickel-Related Intestinal Mucositis in IBS-Like Patients: Laser Doppler Perfusion Imaging and Oral Mucosa Patch Test in Use},
+   journal = {Biol Trace Elem Res},
+   volume = {173},
+   number = {1},
+   pages = {55-61},
+   ISSN = {0163-4984},
+   DOI = {10.1007/s12011-016-0650-2},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26899317}
+}
+
+@article{RN12252,
+   author = {Brown, G.},
+   title = {A Moral Distress: Chewing Gum (Harmful or Helpful?)},
+   journal = {Abnf j},
+   volume = {26},
+   number = {2},
+   pages = {27-8},
+   ISSN = {1046-7041 (Print)
+1046-7041},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26197629}
+}
+
+@article{RN12099,
+   author = {Caio, G. and Riegler, G. and Patturelli, M. and Facchiano, A. and L, D. E. Magistris and Sapone, A.},
+   title = {Pathophysiology of non-celiac gluten sensitivity: where are we now?},
+   journal = {Minerva Gastroenterol Dietol},
+   volume = {63},
+   number = {1},
+   pages = {16-21},
+   ISSN = {1121-421x},
+   DOI = {10.23736/s1121-421x.16.02346-1},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27808487}
+}
+
+@article{RN12276,
+   author = {Carroccio, A. and D'Alcamo, A. and Cavataio, F. and Soresi, M. and Seidita, A. and Sciume, C. and Geraci, G. and Iacono, G. and Mansueto, P.},
+   title = {High Proportions of People With Nonceliac Wheat Sensitivity Have Autoimmune Disease or Antinuclear Antibodies},
+   journal = {Gastroenterology},
+   volume = {149},
+   number = {3},
+   pages = {596-603.e1},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2015.05.040},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26026392}
+}
+
+@article{RN12280,
+   author = {Casen, C. and Vebo, H. C. and Sekelja, M. and Hegge, F. T. and Karlsson, M. K. and Ciemniejewska, E. and Dzankovic, S. and Froyland, C. and Nestestog, R. and Engstrand, L. and Munkholm, P. and Nielsen, O. H. and Rogler, G. and Simren, M. and Ohman, L. and Vatn, M. H. and Rudi, K.},
+   title = {Deviations in human gut microbiota: a novel diagnostic test for determining dysbiosis in patients with IBS or IBD},
+   journal = {Aliment Pharmacol Ther},
+   volume = {42},
+   number = {1},
+   pages = {71-83},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13236},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25973666}
+}
+
+@article{RN12213,
+   author = {Catassi, C.},
+   title = {Gluten Sensitivity},
+   journal = {Ann Nutr Metab},
+   volume = {67 Suppl 2},
+   pages = {16-26},
+   ISSN = {0250-6807},
+   DOI = {10.1159/000440990},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26605537}
+}
+
+@article{RN12267,
+   author = {Catassi, C. and Elli, L. and Bonaz, B. and Bouma, G. and Carroccio, A. and Castillejo, G. and Cellier, C. and Cristofori, F. and de Magistris, L. and Dolinsek, J. and Dieterich, W. and Francavilla, R. and Hadjivassiliou, M. and Holtmeier, W. and Korner, U. and Leffler, D. A. and Lundin, K. E. and Mazzarella, G. and Mulder, C. J. and Pellegrini, N. and Rostami, K. and Sanders, D. and Skodje, G. I. and Schuppan, D. and Ullrich, R. and Volta, U. and Williams, M. and Zevallos, V. F. and Zopf, Y. and Fasano, A.},
+   title = {Diagnosis of Non-Celiac Gluten Sensitivity (NCGS): The Salerno Experts' Criteria},
+   journal = {Nutrients},
+   volume = {7},
+   number = {6},
+   pages = {4966-77},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu7064966},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26096570}
+}
+
+@article{RN12097,
+   author = {Caubet, J. C. and Szajewska, H. and Shamir, R. and Nowak-Wegrzyn, A.},
+   title = {Non-IgE-mediated gastrointestinal food allergies in children},
+   journal = {Pediatr Allergy Immunol},
+   volume = {28},
+   number = {1},
+   pages = {6-17},
+   ISSN = {0905-6157},
+   DOI = {10.1111/pai.12659},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27637372}
+}
+
+@article{RN12117,
+   author = {Chang, L. and Chey, W. D. and Drossman, D. and Losch-Beridon, T. and Wang, M. and Lichtlen, P. and Mareya, S.},
+   title = {Effects of baseline abdominal pain and bloating on response to lubiprostone in patients with irritable bowel syndrome with constipation},
+   journal = {Aliment Pharmacol Ther},
+   volume = {44},
+   number = {10},
+   pages = {1114-1122},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13807},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27669680}
+}
+
+@article{RN12188,
+   author = {Chey, W. D.},
+   title = {Food: The Main Course to Wellness and Illness in Patients With Irritable Bowel Syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {111},
+   number = {3},
+   pages = {366-71},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2016.12},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26856749}
+}
+
+@article{RN12114,
+   author = {Cheyette, B. N. and Cheyette, S. N.},
+   title = {Acute exacerbation of irritable bowel syndrome prevented by prn oral triptan},
+   journal = {Clin J Gastroenterol},
+   volume = {9},
+   number = {6},
+   pages = {375-378},
+   ISSN = {1865-7265},
+   DOI = {10.1007/s12328-016-0689-9},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27699640}
+}
+
+@article{RN12146,
+   author = {Chumpitazi, B. P. and Weidler, E. M. and Lu, D. Y. and Tsai, C. M. and Shulman, R. J.},
+   title = {Self-Perceived Food Intolerances Are Common and Associated with Clinical Severity in Childhood Irritable Bowel Syndrome},
+   journal = {J Acad Nutr Diet},
+   volume = {116},
+   number = {9},
+   pages = {1458-1464},
+   ISSN = {2212-2672 (Print)
+2212-2672},
+   DOI = {10.1016/j.jand.2016.04.017},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27316779}
+}
+
+@article{RN12247,
+   author = {Chung, C. F. and Cook, J. and Bales, E. and Zia, J. and Munson, S. A.},
+   title = {More Than Telemonitoring: Health Provider Use and Nonuse of Life-Log Data in Irritable Bowel Syndrome and Weight Management},
+   journal = {J Med Internet Res},
+   volume = {17},
+   number = {8},
+   pages = {e203},
+   ISSN = {1438-8871},
+   DOI = {10.2196/jmir.4364},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26297627}
+}
+
+@article{RN12142,
+   author = {Collyer, E. M. and Kaplan, B. S.},
+   title = {Nonceliac gluten sensitivity: an approach to diagnosis and management},
+   journal = {Curr Opin Pediatr},
+   volume = {28},
+   number = {5},
+   pages = {638-43},
+   ISSN = {1040-8703},
+   DOI = {10.1097/mop.0000000000000392},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27341511}
+}
+
+@article{RN12237,
+   author = {Cong, L. and Ma, J. T. and Jin, Z. J. and Duan, L. W. and Su, W. P. and Zheng, J. and Zhang, L. J. and Xu, J. and Li, D. F.},
+   title = {Efficacy and Safety of High Specific Volume Polysaccharide-A New Type of Dietary Fiber for Treatment of Functional Constipation and IBS-C},
+   journal = {J Nutr Sci Vitaminol (Tokyo)},
+   volume = {61},
+   number = {4},
+   pages = {326-31},
+   ISSN = {0301-4800},
+   DOI = {10.3177/jnsv.61.326},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26440640}
+}
+
+@article{RN12103,
+   author = {Curro, D. and Ianiro, G. and Pecere, S. and Bibbo, S. and Cammarota, G.},
+   title = {Probiotics, fibre and herbal medicinal products for functional and inflammatory bowel disorders},
+   journal = {Br J Pharmacol},
+   volume = {174},
+   number = {11},
+   pages = {1426-1449},
+   ISSN = {0007-1188},
+   DOI = {10.1111/bph.13632},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27696378}
+}
+
+@article{RN12113,
+   author = {Darbaky, Y. and Evrard, B. and Patrier, S. and Falenta, J. and Garcin, S. and Tridon, A. and Dapoigny, M. and Silberberg, C. and Nivoliez, A. and Diop, L.},
+   title = {Oral probiotic treatment of Lactobacillus rhamnosus Lcr35((R)) prevents visceral hypersensitivity to a colonic inflammation and an acute psychological stress},
+   journal = {J Appl Microbiol},
+   volume = {122},
+   number = {1},
+   pages = {188-200},
+   ISSN = {1364-5072},
+   DOI = {10.1111/jam.13320},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27718511}
+}
+
+@article{RN12272,
+   author = {De Giorgio, R. and Volta, U. and Gibson, P. R.},
+   title = {Sensitivity to wheat, gluten and FODMAPs in IBS: facts or fiction?},
+   journal = {Gut},
+   volume = {65},
+   number = {1},
+   pages = {169-78},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2015-309757},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26078292}
+}
+
+@article{RN12240,
+   author = {Deng, Y. and Misselwitz, B. and Dai, N. and Fox, M.},
+   title = {Lactose Intolerance in Adults: Biological Mechanism and Dietary Management},
+   journal = {Nutrients},
+   volume = {7},
+   number = {9},
+   pages = {8020-35},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu7095380},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26393648}
+}
+
+@article{RN12167,
+   author = {Deng, Y. and Zhu, Y. and Dai, N. and Fox, M.},
+   title = {Dietary Challenge Tests: Identifying Food Intolerance as a Cause of Symptoms in Irritable Bowel Syndrome Patients},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {14},
+   number = {9},
+   pages = {1364-5},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2016.04.011},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27085755}
+}
+
+@article{RN12156,
+   author = {DeWeerdt, S.},
+   title = {Diet: Food for thought},
+   journal = {Nature},
+   volume = {533},
+   number = {7603},
+   pages = {S108-9},
+   ISSN = {0028-0836},
+   DOI = {10.1038/533S108a},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27191488}
+}
+
+@article{RN12181,
+   author = {Distrutti, E. and Monaldi, L. and Ricci, P. and Fiorucci, S.},
+   title = {Gut microbiota role in irritable bowel syndrome: New therapeutic strategies},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {7},
+   pages = {2219-41},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i7.2219},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26900286}
+}
+
+@article{RN12186,
+   author = {Duboc, H. and Dior, M. and Coffin, B.},
+   title = {[Irritable bowel syndrome: New pathophysiological hypotheses and practical issues]},
+   journal = {Rev Med Interne},
+   volume = {37},
+   number = {8},
+   pages = {536-43},
+   ISSN = {0248-8663},
+   DOI = {10.1016/j.revmed.2015.12.030},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26872433}
+}
+
+@article{RN12123,
+   author = {Dugum, M. and Barco, K. and Garg, S.},
+   title = {Managing irritable bowel syndrome: The low-FODMAP diet},
+   journal = {Cleve Clin J Med},
+   volume = {83},
+   number = {9},
+   pages = {655-62},
+   ISSN = {0891-1150},
+   DOI = {10.3949/ccjm.83a.14159},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27618353}
+}
+
+@article{RN12182,
+   author = {Durchschein, F. and Petritsch, W. and Hammer, H. F.},
+   title = {Diet therapy for inflammatory bowel diseases: The established and the new},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {7},
+   pages = {2179-94},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i7.2179},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26900283}
+}
+
+@article{RN12098,
+   author = {Einarsson, E. and Ma'ayeh, S. and Svard, S. G.},
+   title = {An up-date on Giardia and giardiasis},
+   journal = {Curr Opin Microbiol},
+   volume = {34},
+   pages = {47-52},
+   ISSN = {1369-5274},
+   DOI = {10.1016/j.mib.2016.07.019},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27501461}
+}
+
+@article{RN12157,
+   author = {Eisenstein, M.},
+   title = {Microbiome: Bacterial broadband},
+   journal = {Nature},
+   volume = {533},
+   number = {7603},
+   pages = {S104-6},
+   ISSN = {0028-0836},
+   DOI = {10.1038/533S104a},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27191486}
+}
+
+@article{RN12187,
+   author = {Elli, L. and Tomba, C. and Branchi, F. and Roncoroni, L. and Lombardo, V. and Bardella, M. T. and Ferretti, F. and Conte, D. and Valiante, F. and Fini, L. and Forti, E. and Cannizzaro, R. and Maiero, S. and Londoni, C. and Lauri, A. and Fornaciari, G. and Lenoci, N. and Spagnuolo, R. and Basilisco, G. and Somalvico, F. and Borgatta, B. and Leandro, G. and Segato, S. and Barisani, D. and Morreale, G. and Buscarini, E.},
+   title = {Evidence for the Presence of Non-Celiac Gluten Sensitivity in Patients with Functional Gastrointestinal Symptoms: Results from a Multicenter Randomized Double-Blind Placebo-Controlled Gluten Challenge},
+   journal = {Nutrients},
+   volume = {8},
+   number = {2},
+   pages = {84},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu8020084},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26867199}
+}
+
+@article{RN12258,
+   author = {El-Salhy, M.},
+   title = {Recent developments in the pathophysiology of irritable bowel syndrome},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {25},
+   pages = {7621-36},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i25.7621},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26167065}
+}
+
+@article{RN12243,
+   author = {El-Salhy, M. and Hatlebakk, J. G. and Gilja, O. H. and Hausken, T.},
+   title = {The relation between celiac disease, nonceliac gluten sensitivity and irritable bowel syndrome},
+   journal = {Nutr J},
+   volume = {14},
+   pages = {92},
+   ISSN = {1475-2891},
+   DOI = {10.1186/s12937-015-0080-6},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26345589}
+}
+
+@article{RN12253,
+   author = {Elsenbruch, S. and Enck, P.},
+   title = {Placebo effects and their determinants in gastrointestinal disorders},
+   journal = {Nat Rev Gastroenterol Hepatol},
+   volume = {12},
+   number = {8},
+   pages = {472-85},
+   ISSN = {1759-5045},
+   DOI = {10.1038/nrgastro.2015.117},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26194942}
+}
+
+@article{RN12109,
+   author = {Elzouki, A. N.},
+   title = {Probiotics and Liver Disease: Where Are We Now and Where Are We Going?},
+   journal = {J Clin Gastroenterol},
+   volume = {50 Suppl 2, Proceedings from the 8th Probiotics, Prebiotics & New Foods for Microbiota and Human Health meeting held in Rome, Italy on September 13-15, 2015},
+   pages = {S188-s190},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000712},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27741172}
+}
+
+@article{RN12226,
+   author = {Eriksson, E. M. and Andren, K. I. and Kurlberg, G. K. and Eriksson, H. T.},
+   title = {Aspects of the non-pharmacological treatment of irritable bowel syndrome},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {40},
+   pages = {11439-49},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i40.11439},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26523108}
+}
+
+@article{RN12192,
+   author = {Erlichman, J. and Hall, A. and Dean, A. and Godwin, B. and Mascarenhas, M.},
+   title = {Integrative Nutrition for Pediatrics},
+   journal = {Curr Probl Pediatr Adolesc Health Care},
+   volume = {46},
+   number = {6},
+   pages = {165-71},
+   ISSN = {1538-3199},
+   DOI = {10.1016/j.cppeds.2015.12.007},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26832886}
+}
+
+@article{RN12241,
+   author = {Eskesen, D. and Jespersen, L. and Michelsen, B. and Whorwell, P. J. and Muller-Lissner, S. and Morberg, C. M.},
+   title = {Effect of the probiotic strain Bifidobacterium animalis subsp. lactis, BB-12(R), on defecation frequency in healthy subjects with low defecation frequency and abdominal discomfort: a randomised, double-blind, placebo-controlled, parallel-group trial},
+   journal = {Br J Nutr},
+   volume = {114},
+   number = {10},
+   pages = {1638-46},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114515003347},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26382580}
+}
+
+@article{RN12093,
+   author = {Esteban-Zubero, E. and Lopez-Pingarron, L. and Alatorre-Jimenez, M. A. and Ochoa-Moneo, P. and Buisac-Ramon, C. and Rivas-Jimenez, M. and Castan-Ruiz, S. and Antonanzas-Lombarte, A. and Tan, D. X. and Garcia, J. J. and Reiter, R. J.},
+   title = {Melatonin's role as a co-adjuvant treatment in colonic diseases: A review},
+   journal = {Life Sci},
+   volume = {170},
+   pages = {72-81},
+   ISSN = {0024-3205},
+   DOI = {10.1016/j.lfs.2016.11.031},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27919824}
+}
+
+@article{RN12216,
+   author = {Faghihi, A. H. and Agah, S. and Masoudi, M. and Ghafoori, S. M. and Eshraghi, A.},
+   title = {Efficacy of Probiotic Escherichia coli Nissle 1917 in Patients with Irritable Bowel Syndrome: a Double Blind Placebo-controlled Randomized Trial},
+   journal = {Acta Med Indones},
+   volume = {47},
+   number = {3},
+   pages = {201-8},
+   ISSN = {0125-9326 (Print)
+0125-9326},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26586385}
+}
+
+@article{RN12163,
+   author = {Farup, P. G. and Rudi, K. and Hestad, K.},
+   title = {Faecal short-chain fatty acids - a diagnostic biomarker for irritable bowel syndrome?},
+   journal = {BMC Gastroenterol},
+   volume = {16},
+   number = {1},
+   pages = {51},
+   ISSN = {1471-230x},
+   DOI = {10.1186/s12876-016-0446-z},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27121286}
+}
+
+@article{RN12250,
+   author = {Ferguson, L. R. and Laing, B. and Marlow, G. and Bishop, K.},
+   title = {The role of vitamin D in reducing gastrointestinal disease risk and assessment of individual dietary intake needs: Focus on genetic and genomic technologies},
+   journal = {Mol Nutr Food Res},
+   volume = {60},
+   number = {1},
+   pages = {119-33},
+   ISSN = {1613-4125},
+   DOI = {10.1002/mnfr.201500243},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26251177}
+}
+
+@article{RN12233,
+   author = {Floch, M. H. and Walker, W. A. and Sanders, M. E. and Nieuwdorp, M. and Kim, A. S. and Brenner, D. A. and Qamar, A. A. and Miloh, T. A. and Guarino, A. and Guslandi, M. and Dieleman, L. A. and Ringel, Y. and Quigley, E. M. and Brandt, L. J.},
+   title = {Recommendations for Probiotic Use--2015 Update: Proceedings and Consensus Opinion},
+   journal = {J Clin Gastroenterol},
+   volume = {49 Suppl 1},
+   pages = {S69-73},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000420},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26447969}
+}
+
+@article{RN12153,
+   author = {Fox, R. K. and Muniraj, T.},
+   title = {Pharmacologic Therapies in Gastrointestinal Diseases},
+   journal = {Med Clin North Am},
+   volume = {100},
+   number = {4},
+   pages = {827-50},
+   ISSN = {0025-7125},
+   DOI = {10.1016/j.mcna.2016.03.009},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27235617}
+}
+
+@article{RN12136,
+   author = {Francavilla, R. and Cristofori, F. and Indrio, F.},
+   title = {Indications and Recommendations by Societies and Institutions for the Use of Probiotics and Prebiotics in Paediatric Functional Intestinal Disorders},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {63 Suppl 1},
+   pages = {S36-7},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000001220},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27380598}
+}
+
+@article{RN12148,
+   author = {Fukudo, S.},
+   title = {[Irritable Bowel Syndrome, Emotion Regulation, and Gut Microbiota]},
+   journal = {Brain Nerve},
+   volume = {68},
+   number = {6},
+   pages = {607-15},
+   ISSN = {1881-6096 (Print)
+1881-6096},
+   DOI = {10.11477/mf.1416200448},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27279158}
+}
+
+@article{RN12121,
+   author = {Gallo, A. and Passaro, G. and Gasbarrini, A. and Landolfi, R. and Montalto, M.},
+   title = {Modulation of microbiota as treatment for intestinal inflammatory disorders: An uptodate},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {32},
+   pages = {7186-202},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i32.7186},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27621567}
+}
+
+@article{RN12101,
+   author = {Gareau, M. G.},
+   title = {Cognitive Function and the Microbiome},
+   journal = {Int Rev Neurobiol},
+   volume = {131},
+   pages = {227-246},
+   ISSN = {0074-7742},
+   DOI = {10.1016/bs.irn.2016.08.001},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27793221}
+}
+
+@article{RN12137,
+   author = {Giannetti, E. and Staiano, A.},
+   title = {Probiotics for Irritable Bowel Syndrome: Clinical Data in Children},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {63 Suppl 1},
+   pages = {S25-6},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000001220},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27380595}
+}
+
+@article{RN12183,
+   author = {Giddings, S. L. and Stevens, A. M. and Leung, D. T.},
+   title = {Traveler's Diarrhea},
+   journal = {Med Clin North Am},
+   volume = {100},
+   number = {2},
+   pages = {317-30},
+   ISSN = {0025-7125},
+   DOI = {10.1016/j.mcna.2015.08.017},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26900116}
+}
+
+@article{RN12257,
+   author = {Goulet, O.},
+   title = {Potential role of the intestinal microbiota in programming health and disease},
+   journal = {Nutr Rev},
+   volume = {73 Suppl 1},
+   pages = {32-40},
+   ISSN = {0029-6643},
+   DOI = {10.1093/nutrit/nuv039},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26175488}
+}
+
+@article{RN12266,
+   author = {Gracie, D. J. and Ford, A. C.},
+   title = {Symbiotics in irritable bowel syndrome--better than probiotics alone?},
+   journal = {Curr Opin Clin Nutr Metab Care},
+   volume = {18},
+   number = {5},
+   pages = {485-9},
+   ISSN = {1363-1950},
+   DOI = {10.1097/mco.0000000000000199},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26107141}
+}
+
+@article{RN12160,
+   author = {Grimm, V. and Riedel, C. U.},
+   title = {Manipulation of the Microbiota Using Probiotics},
+   journal = {Adv Exp Med Biol},
+   volume = {902},
+   pages = {109-17},
+   ISSN = {0065-2598 (Print)
+0065-2598},
+   DOI = {10.1007/978-3-319-31248-4_8},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27161354}
+}
+
+@article{RN12179,
+   author = {Grover, M. and Camilleri, M. and Hines, J. and Burton, D. and Ryks, M. and Wadhwa, A. and Sundt, W. and Dyer, R. and Singh, R. J.},
+   title = {(13) C mannitol as a novel biomarker for measurement of intestinal permeability},
+   journal = {Neurogastroenterol Motil},
+   volume = {28},
+   number = {7},
+   pages = {1114-9},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12802},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26914765}
+}
+
+@article{RN12135,
+   author = {Halmos, E. P. and Bogatyrev, A. and Ly, E. and Liels, K. L. and Muir, J. G. and Gibson, P. R.},
+   title = {Challenges of Quantifying FODMAPs in Enteral Nutrition Formulas: Evaluation of Artifacts and Solutions},
+   journal = {JPEN J Parenter Enteral Nutr},
+   volume = {41},
+   number = {8},
+   pages = {1262-1271},
+   ISSN = {0148-6071},
+   DOI = {10.1177/0148607116658763},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27406943}
+}
+
+@article{RN12159,
+   author = {Han, K. and Wang, J. and Seo, J. G. and Kim, H.},
+   title = {Efficacy of double-coated probiotics for irritable bowel syndrome: a randomized double-blind controlled trial},
+   journal = {J Gastroenterol},
+   volume = {52},
+   number = {4},
+   pages = {432-443},
+   ISSN = {0944-1174},
+   DOI = {10.1007/s00535-016-1224-y},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27178566}
+}
+
+@article{RN12152,
+   author = {Harris, L. A. and Umar, S. B. and Baffy, N. and Heitkemper, M. M.},
+   title = {Irritable Bowel Syndrome and Female Patients},
+   journal = {Gastroenterol Clin North Am},
+   volume = {45},
+   number = {2},
+   pages = {179-204},
+   ISSN = {0889-8553},
+   DOI = {10.1016/j.gtc.2016.02.001},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27261893}
+}
+
+@article{RN12170,
+   author = {Hod, K. and Ringel, Y.},
+   title = {Probiotics in functional bowel disorders},
+   journal = {Best Pract Res Clin Gastroenterol},
+   volume = {30},
+   number = {1},
+   pages = {89-97},
+   ISSN = {1521-6918},
+   DOI = {10.1016/j.bpg.2016.01.003},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27048900}
+}
+
+@article{RN12105,
+   author = {Hoekman, D. R. and Zeevenhooven, J. and Benninga, M. A.},
+   title = {Should We Treat Our Pediatric Irritable Bowel Syndrome Patients With Psyllium?},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {14},
+   number = {11},
+   pages = {1667},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2016.06.001},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27283796}
+}
+
+@article{RN12255,
+   author = {Hornby, P. J.},
+   title = {Drug discovery approaches to irritable bowel syndrome},
+   journal = {Expert Opin Drug Discov},
+   volume = {10},
+   number = {8},
+   pages = {809-24},
+   ISSN = {1746-0441},
+   DOI = {10.1517/17460441.2015.1049528},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26193876}
+}
+
+@article{RN12271,
+   author = {Hu, Y. and Tao, L. and Lyu, B.},
+   title = {[A meta-analysis of probiotics for the treatment of irritable bowel syndrome]},
+   journal = {Zhonghua Nei Ke Za Zhi},
+   volume = {54},
+   number = {5},
+   pages = {445-51},
+   ISSN = {0578-1426 (Print)
+0578-1426},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26080826}
+}
+
+@article{RN12198,
+   author = {Hungin, A. P. and Paxman, L. and Koenig, K. and Dalrymple, J. and Wicks, N. and Walmsley, J.},
+   title = {Prevalence, symptom patterns and management of episodic diarrhoea in the community: a population-based survey in 11 countries},
+   journal = {Aliment Pharmacol Ther},
+   volume = {43},
+   number = {5},
+   pages = {586-95},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13513},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26749499}
+}
+
+@article{RN12106,
+   author = {Hustoft, T. N. and Hausken, T. and Ystad, S. O. and Valeur, J. and Brokstad, K. and Hatlebakk, J. G. and Lied, G. A.},
+   title = {Effects of varying dietary content of fermentable short-chain carbohydrates on symptoms, fecal microenvironment, and cytokine profiles in patients with irritable bowel syndrome},
+   journal = {Neurogastroenterol Motil},
+   volume = {29},
+   number = {4},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12969},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27747984}
+}
+
+@article{RN12126,
+   author = {Ibarra, C. and Herrera, V. and Perez de Arce, E. and Gil, L. C. and Madrid, A. M. and Valenzuela, L. and Beltran, C. J.},
+   title = {[Parasitosis and irritable bowel syndrome]},
+   journal = {Rev Chilena Infectol},
+   volume = {33},
+   number = {3},
+   pages = {268-74},
+   ISSN = {0716-1018},
+   DOI = {10.4067/s0716-10182016000300003},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27598274}
+}
+
+@article{RN12173,
+   author = {Ibrahim, N. K. and Al-Bloushy, R. I. and Sait, S. H. and Al-Azhary, H. W. and Al Bar, N. H. and Mirdad, G. A.},
+   title = {Irritable bowel syndrome among nurses working in King Abdulaziz University Hospital, Jeddah, Saudi Arabia},
+   journal = {Libyan J Med},
+   volume = {11},
+   pages = {30866},
+   ISSN = {1819-6357},
+   DOI = {10.3402/ljm.v11.30866},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27032964}
+}
+
+@article{RN12202,
+   author = {Ibrahim, N. K. and Al-Bloushy, R. I. and Sait, S. H. and Al-Azhary, H. W. and Bar, N. H. and Mirdad, G. A.},
+   title = {Irritable bowel syndrome among nurses working in King Abdulaziz University Hospital, Jeddah, Saudi Arabia},
+   journal = {Libyan J Med},
+   volume = {11},
+   number = {1},
+   pages = {30866},
+   ISSN = {1819-6357},
+   DOI = {10.3402/ljm.v11.30866},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28349846}
+}
+
+@article{RN12130,
+   author = {Jalili, M. and Hekmatdoost, A. and Vahedi, H. and Poustchi, H. and Khademi, B. and Saadi, M. and Zemestani, M. and Janani, L.},
+   title = {Co-Administration of Soy Isoflavones and Vitamin D in Management of Irritable Bowel Disease},
+   journal = {PLoS One},
+   volume = {11},
+   number = {8},
+   pages = {e0158545},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0158545},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27490103}
+}
+
+@article{RN12282,
+   author = {Jarmuz, A. and Zielinska, M. and Storr, M. and Fichna, J.},
+   title = {Emerging treatments in Neurogastroenterology: Perspectives of guanylyl cyclase C agonists use in functional gastrointestinal disorders and inflammatory bowel diseases},
+   journal = {Neurogastroenterol Motil},
+   volume = {27},
+   number = {8},
+   pages = {1057-68},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12574},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25930667}
+}
+
+@article{RN12238,
+   author = {Johanson, L.},
+   title = {The Gluten-Free Frenzy: Fad or Fitting?},
+   journal = {Medsurg Nurs},
+   volume = {24},
+   number = {4},
+   pages = {213-7},
+   ISSN = {1092-0811 (Print)
+1092-0811},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26434032}
+}
+
+@article{RN12197,
+   author = {Kane, J. S. and Ford, A. C.},
+   title = {Rifaximin for the treatment of diarrhea-predominant irritable bowel syndrome},
+   journal = {Expert Rev Gastroenterol Hepatol},
+   volume = {10},
+   number = {4},
+   pages = {431-42},
+   ISSN = {1747-4124},
+   DOI = {10.1586/17474124.2016.1140571},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26753693}
+}
+
+@article{RN12275,
+   author = {Keszthelyi, D. and Troost, F. J. and Jonkers, D. M. and van Eijk, H. M. and Dekker, J. and Buurman, W. A. and Masclee, A. A.},
+   title = {Visceral hypersensitivity in irritable bowel syndrome: evidence for involvement of serotonin metabolism--a preliminary study},
+   journal = {Neurogastroenterol Motil},
+   volume = {27},
+   number = {8},
+   pages = {1127-37},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12600},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26031193}
+}
+
+@article{RN12144,
+   author = {Khayyatzadeh, S. S. and Esmaillzadeh, A. and Saneei, P. and Keshteli, A. H. and Adibi, P.},
+   title = {Dietary patterns and prevalence of irritable bowel syndrome in Iranian adults},
+   journal = {Neurogastroenterol Motil},
+   volume = {28},
+   number = {12},
+   pages = {1921-1933},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12895},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27324285}
+}
+
+@article{RN12228,
+   author = {Khurshid, M. and Aslam, B. and Nisar, M. A. and Akbar, R. and Rahman, H. and Khan, A. A. and Rasool, M. H.},
+   title = {Bacterial munch for infants: potential pediatric therapeutic interventions of probiotics},
+   journal = {Future Microbiol},
+   volume = {10},
+   number = {11},
+   pages = {1881-95},
+   ISSN = {1746-0913},
+   DOI = {10.2217/fmb.15.102},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26515509}
+}
+
+@article{RN12092,
+   author = {Kich, D. M. and Vincenzi, A. and Majolo, F. and Volken de Souza, C. F. and Goettert, M. I.},
+   title = {Probiotic: effectiveness nutrition in cancer treatment and prevention},
+   journal = {Nutr Hosp},
+   volume = {33},
+   number = {6},
+   pages = {1430-1437},
+   ISSN = {0212-1611},
+   DOI = {10.20960/nh.806},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28000477}
+}
+
+@article{RN12211,
+   author = {Korada, S. K. and Yarla, N. S. and Bishayee, A. and Aliev, G. and Aruna Lakshmi, K. and Arunasree, M. K. and Dananajaya, B. L. and Mishra, V.},
+   title = {Can Probiotics Cure Inflammatory Bowel Diseases?},
+   journal = {Curr Pharm Des},
+   volume = {22},
+   number = {7},
+   pages = {904-17},
+   ISSN = {1381-6128},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26648465}
+}
+
+@article{RN12120,
+   author = {Ku, S. and Park, M. S. and Ji, G. E. and You, H. J.},
+   title = {Review on Bifidobacterium bifidum BGN4: Functionality and Nutraceutical Applications as a Probiotic Microorganism},
+   journal = {Int J Mol Sci},
+   volume = {17},
+   number = {9},
+   ISSN = {1422-0067},
+   DOI = {10.3390/ijms17091544},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27649150}
+}
+
+@article{RN12242,
+   author = {Kuchibhatla, R. and Petschow, B. W. and Odle, J. and Weaver, E. M.},
+   title = {Nutritional Impact of Dietary Plasma Proteins in Animals Undergoing Experimental Challenge and Implications for Patients with Inflammatory Bowel Disorders: A Meta-analysis},
+   journal = {Adv Nutr},
+   volume = {6},
+   number = {5},
+   pages = {541-51},
+   ISSN = {2161-8313},
+   DOI = {10.3945/an.114.007930},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26374176}
+}
+
+@article{RN12134,
+   author = {Laatikainen, R. and Koskenpato, J. and Hongisto, S. M. and Loponen, J. and Poussa, T. and Hillila, M. and Korpela, R.},
+   title = {Randomised clinical trial: low-FODMAP rye bread vs. regular rye bread to relieve the symptoms of irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {44},
+   number = {5},
+   pages = {460-70},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13726},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27417338}
+}
+
+@article{RN12112,
+   author = {Laatikainen, R. and Loponen, J. and Korpela, R.},
+   title = {Editorial: balancing fibre and FODMAPs in IBS - a 'rye' look at an old problem. Authors' reply},
+   journal = {Aliment Pharmacol Ther},
+   volume = {44},
+   number = {10},
+   pages = {1135},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13812},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27734544}
+}
+
+@article{RN12110,
+   author = {Lahner, E. and Annibale, B.},
+   title = {Probiotics and Diverticular Disease: Evidence-based?},
+   journal = {J Clin Gastroenterol},
+   volume = {50 Suppl 2, Proceedings from the 8th Probiotics, Prebiotics & New Foods for Microbiota and Human Health meeting held in Rome, Italy on September 13-15, 2015},
+   pages = {S159-s160},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000684},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27741164}
+}
+
+@article{RN12273,
+   author = {Lauche, R. and Janzen, A. and Ludtke, R. and Cramer, H. and Dobos, G. and Langhorst, J.},
+   title = {Efficacy of Caraway Oil Poultices in Treating Irritable Bowel Syndrome--A Randomized Controlled Cross-Over Trial},
+   journal = {Digestion},
+   volume = {92},
+   number = {1},
+   pages = {22-31},
+   ISSN = {0012-2823},
+   DOI = {10.1159/000398790},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26044145}
+}
+
+@article{RN12185,
+   author = {Lee, E. H. and Kwon, O. and Hahm, K. B. and Kim, W. and Kim, J. I. and Cheung, D. Y. and Kim, Y. J. and Kim, J. H. and Park, J. J. and Joo, M. K.},
+   title = {Irritable bowel syndrome-specific health-related quality of life instrument: development and psychometric evaluation},
+   journal = {Health Qual Life Outcomes},
+   volume = {14},
+   pages = {22},
+   ISSN = {1477-7525},
+   DOI = {10.1186/s12955-016-0423-9},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26882900}
+}
+
+@article{RN12171,
+   author = {Leiby, A. and Vazirani, M.},
+   title = {Complementary, Integrative, and Holistic Medicine: Integrative Approaches to Pediatric Irritable Bowel Syndrome},
+   journal = {Pediatr Rev},
+   volume = {37},
+   number = {4},
+   pages = {e10-5},
+   ISSN = {0191-9601},
+   DOI = {10.1542/pir.2015-0036},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27037108}
+}
+
+@article{RN12190,
+   author = {Limdi, J. K. and Aggarwal, D. and McLaughlin, J. T.},
+   title = {Diet and Exacerbation of Inflammatory Bowel Disease Symptoms--Food for Thought},
+   journal = {Inflamm Bowel Dis},
+   volume = {22},
+   number = {3},
+   pages = {E11},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000701},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26841225}
+}
+
+@article{RN12281,
+   author = {Lis, D. and Stellingwerff, T. and Kitic, C. M. and Ahuja, K. D. and Fell, J.},
+   title = {No Effects of a Short-Term Gluten-free Diet on Performance in Nonceliac Athletes},
+   journal = {Med Sci Sports Exerc},
+   volume = {47},
+   number = {12},
+   pages = {2563-70},
+   ISSN = {0195-9131},
+   DOI = {10.1249/mss.0000000000000699},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25970665}
+}
+
+@article{RN12217,
+   author = {Litleskare, S. and Wensaas, K. A. and Eide, G. E. and Hanevik, K. and Kahrs, G. E. and Langeland, N. and Rortveit, G.},
+   title = {Perceived food intolerance and irritable bowel syndrome in a population 3 years after a giardiasis-outbreak: a historical cohort study},
+   journal = {BMC Gastroenterol},
+   volume = {15},
+   pages = {164},
+   ISSN = {1471-230x},
+   DOI = {10.1186/s12876-015-0393-0},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26585714}
+}
+
+@article{RN12261,
+   author = {Losurdo, G. and Piscitelli, D. and Giangaspero, A. and Principi, M. and Buffelli, F. and Giorgio, F. and Montenegro, L. and Sorrentino, C. and Amoruso, A. and Ierardi, E. and Di Leo, A.},
+   title = {Evolution of nonspecific duodenal lymphocytosis over 2 years of follow-up},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {24},
+   pages = {7545-52},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i24.7545},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26140001}
+}
+
+@article{RN12087,
+   author = {Lyra, A. and Hillila, M. and Huttunen, T. and Mannikko, S. and Taalikka, M. and Tennila, J. and Tarpila, A. and Lahtinen, S. and Ouwehand, A. C. and Veijola, L.},
+   title = {Irritable bowel syndrome symptom severity improves equally with probiotic and placebo},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {48},
+   pages = {10631-10642},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i48.10631},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28082816}
+}
+
+@article{RN12165,
+   author = {Maagaard, L. and Ankersen, D. V. and Vegh, Z. and Burisch, J. and Jensen, L. and Pedersen, N. and Munkholm, P.},
+   title = {Follow-up of patients with functional bowel symptoms treated with a low FODMAP diet},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {15},
+   pages = {4009-19},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i15.4009},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27099444}
+}
+
+@article{RN12178,
+   author = {Majeed, M. and Nagabhushanam, K. and Natarajan, S. and Sivakumar, A. and Ali, F. and Pande, A. and Majeed, S. and Karri, S. K.},
+   title = {Bacillus coagulans MTCC 5856 supplementation in the management of diarrhea predominant Irritable Bowel Syndrome: a double blind randomized placebo controlled pilot clinical study},
+   journal = {Nutr J},
+   volume = {15},
+   pages = {21},
+   ISSN = {1475-2891},
+   DOI = {10.1186/s12937-016-0140-6},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26922379}
+}
+
+@article{RN12175,
+   author = {Majewski, M. and Kozlowska, A. and Thoene, M. and Lepiarczyk, E. and Grzegorzewski, W. J.},
+   title = {Overview of the role of vitamins and minerals on the kynurenine pathway in health and disease},
+   journal = {J Physiol Pharmacol},
+   volume = {67},
+   number = {1},
+   pages = {3-19},
+   ISSN = {0867-5910},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27010891}
+}
+
+@article{RN12107,
+   author = {Major, G. and Pritchard, S. and Murray, K. and Alappadan, J. P. and Hoad, C. L. and Marciani, L. and Gowland, P. and Spiller, R.},
+   title = {Colon Hypersensitivity to Distension, Rather Than Excessive Gas Production, Produces Carbohydrate-Related Symptoms in Individuals With Irritable Bowel Syndrome},
+   journal = {Gastroenterology},
+   volume = {152},
+   number = {1},
+   pages = {124-133.e2},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2016.09.062},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27746233}
+}
+
+@article{RN12205,
+   author = {Makharia, A. and Catassi, C. and Makharia, G. K.},
+   title = {The Overlap between Irritable Bowel Syndrome and Non-Celiac Gluten Sensitivity: A Clinical Dilemma},
+   journal = {Nutrients},
+   volume = {7},
+   number = {12},
+   pages = {10417-26},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu7125541},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26690475}
+}
+
+@article{RN12239,
+   author = {Makkar, R. and Graff, L. A. and Bharadwaj, S. and Lopez, R. and Shen, B.},
+   title = {Psychological Factors in Irritable Pouch Syndrome and Other Pouch Disorders},
+   journal = {Inflamm Bowel Dis},
+   volume = {21},
+   number = {12},
+   pages = {2815-24},
+   ISSN = {1078-0998},
+   DOI = {10.1097/mib.0000000000000552},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26398708}
+}
+
+@article{RN12265,
+   author = {Mansueto, P. and D'Alcamo, A. and Seidita, A. and Carroccio, A.},
+   title = {Food allergy in irritable bowel syndrome: The case of non-celiac wheat sensitivity},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {23},
+   pages = {7089-109},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i23.7089},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26109796}
+}
+
+@article{RN12236,
+   author = {Martinez, R. C. and Bedani, R. and Saad, S. M.},
+   title = {Scientific evidence for health effects attributed to the consumption of probiotics and prebiotics: an update for current perspectives and future challenges},
+   journal = {Br J Nutr},
+   volume = {114},
+   number = {12},
+   pages = {1993-2015},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114515003864},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26443321}
+}
+
+@article{RN12086,
+   author = {Marum, A. P. and Moreira, C. and Saraiva, F. and Tomas-Carus, P. and Sousa-Guerreiro, C.},
+   title = {A low fermentable oligo-di-mono saccharides and polyols (FODMAP) diet reduced pain and improved daily life in fibromyalgia patients},
+   journal = {Scand J Pain},
+   volume = {13},
+   pages = {166-172},
+   ISSN = {1877-8860},
+   DOI = {10.1016/j.sjpain.2016.07.004},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28850525}
+}
+
+@article{RN12094,
+   author = {Mascolo, M. and Geer, B. and Feuerstein, J. and Mehler, P. S.},
+   title = {Gastrointestinal comorbidities which complicate the treatment of anorexia nervosa},
+   journal = {Eat Disord},
+   volume = {25},
+   number = {2},
+   pages = {122-133},
+   ISSN = {1064-0266},
+   DOI = {10.1080/10640266.2016.1255108},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27869566}
+}
+
+@article{RN12214,
+   author = {Mazzawi, T. and Hausken, T. and Gundersen, D. and El-Salhy, M.},
+   title = {Dietary guidance normalizes large intestinal endocrine cell densities in patients with irritable bowel syndrome},
+   journal = {Eur J Clin Nutr},
+   volume = {70},
+   number = {2},
+   pages = {175-81},
+   ISSN = {0954-3007},
+   DOI = {10.1038/ejcn.2015.191},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26603880}
+}
+
+@article{RN12149,
+   author = {McKenzie, Y. A. and Bowyer, R. K. and Leach, H. and Gulia, P. and Horobin, J. and O'Sullivan, N. A. and Pettitt, C. and Reeves, L. B. and Seamark, L. and Williams, M. and Thompson, J. and Lomer, M. C.},
+   title = {British Dietetic Association systematic review and evidence-based practice guidelines for the dietary management of irritable bowel syndrome in adults (2016 update)},
+   journal = {J Hum Nutr Diet},
+   volume = {29},
+   number = {5},
+   pages = {549-75},
+   ISSN = {0952-3871},
+   DOI = {10.1111/jhn.12385},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27272325}
+}
+
+@article{RN12150,
+   author = {McKenzie, Y. A. and Thompson, J. and Gulia, P. and Lomer, M. C.},
+   title = {British Dietetic Association systematic review of systematic reviews and evidence-based practice guidelines for the use of probiotics in the management of irritable bowel syndrome in adults (2016 update)},
+   journal = {J Hum Nutr Diet},
+   volume = {29},
+   number = {5},
+   pages = {576-92},
+   ISSN = {0952-3871},
+   DOI = {10.1111/jhn.12386},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27265510}
+}
+
+@article{RN12206,
+   author = {McMillan, M. and Rotenberg, K. S. and Vora, K. and Sterman, A. B. and Thevathasan, L. and Ryan, M. F. and Mehra, M. and Sandulli, W.},
+   title = {Comorbidities, Concomitant Medications, and Diet as Factors Affecting Levothyroxine Therapy: Results of the CONTROL Surveillance Project},
+   journal = {Drugs R D},
+   volume = {16},
+   number = {1},
+   pages = {53-68},
+   ISSN = {1174-5886},
+   DOI = {10.1007/s40268-015-0116-6},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26689565}
+}
+
+@article{RN12154,
+   author = {Mearin, F. and Ciriza, C. and Minguez, M. and Rey, E. and Mascort, J. J. and Pena, E. and Canones, P. and Judez, J.},
+   title = {Clinical Practice Guideline: Irritable bowel syndrome with constipation and functional constipation in the adult},
+   journal = {Rev Esp Enferm Dig},
+   volume = {108},
+   number = {6},
+   pages = {332-63},
+   ISSN = {1130-0108 (Print)
+1130-0108},
+   DOI = {10.17235/reed.2016.4389/2016},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27230827}
+}
+
+@article{RN12227,
+   author = {Mearin, F. and Rey, E. and Balboa, A.},
+   title = {[Functional and motor gastrointestinal disorders]},
+   journal = {Gastroenterol Hepatol},
+   volume = {38 Suppl 1},
+   pages = {3-12},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   DOI = {10.1016/s0210-5705(15)30014-5},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26520191}
+}
+
+@article{RN12127,
+   author = {Mezzasalma, V. and Manfrini, E. and Ferri, E. and Sandionigi, A. and La Ferla, B. and Schiano, I. and Michelotti, A. and Nobile, V. and Labra, M. and Di Gennaro, P.},
+   title = {A Randomized, Double-Blind, Placebo-Controlled Trial: The Efficacy of Multispecies Probiotic Supplementation in Alleviating Symptoms of Irritable Bowel Syndrome Associated with Constipation},
+   journal = {Biomed Res Int},
+   volume = {2016},
+   pages = {4740907},
+   DOI = {10.1155/2016/4740907},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27595104}
+}
+
+@article{RN12285,
+   author = {Mizock, B. A.},
+   title = {Probiotics},
+   journal = {Dis Mon},
+   volume = {61},
+   number = {7},
+   pages = {259-90},
+   ISSN = {0011-5029},
+   DOI = {10.1016/j.disamonth.2015.03.011},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25921792}
+}
+
+@article{RN12124,
+   author = {Moctezuma-Velazquez, C. and Aguirre-Valadez, J.},
+   title = {[Gastrointestinal and hepatic diseases]},
+   journal = {Gac Med Mex},
+   volume = {152 Suppl 1},
+   pages = {74-83},
+   ISSN = {0016-3813 (Print)
+0016-3813},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27603892}
+}
+
+@article{RN12129,
+   author = {Molina-Infante, J. and Carroccio, A.},
+   title = {Suspected Nonceliac Gluten Sensitivity Confirmed in Few Patients After Gluten Challenge in Double-Blind, Placebo-Controlled Trials},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {15},
+   number = {3},
+   pages = {339-348},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2016.08.007},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27523634}
+}
+
+@article{RN12177,
+   author = {Mondot, S. and Lepage, P.},
+   title = {The human gut microbiome and its dysfunctions through the meta-omics prism},
+   journal = {Ann N Y Acad Sci},
+   volume = {1372},
+   number = {1},
+   pages = {9-19},
+   ISSN = {0077-8923},
+   DOI = {10.1111/nyas.13033},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26945826}
+}
+
+@article{RN12191,
+   author = {Moraes-Filho, J. P. and Quigley, E. M.},
+   title = {THE INTESTINAL MICROBIOTA AND THE ROLE OF PROBIOTICS IN IRRITABLE BOWEL SYNDROME: a review},
+   journal = {Arq Gastroenterol},
+   volume = {52},
+   number = {4},
+   pages = {331-8},
+   ISSN = {0004-2803},
+   DOI = {10.1590/s0004-28032015000400015},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26840477}
+}
+
+@article{RN12264,
+   author = {Moubax, K. and Urbain, D.},
+   title = {Diverticulitis: new insights on the traditional point of view},
+   journal = {Acta Gastroenterol Belg},
+   volume = {78},
+   number = {1},
+   pages = {38-48},
+   ISSN = {1784-3227 (Print)
+1784-3227},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26118576}
+}
+
+@article{RN12151,
+   author = {Mujagic, Z. and Tigchelaar, E. F. and Zhernakova, A. and Ludwig, T. and Ramiro-Garcia, J. and Baranska, A. and Swertz, M. A. and Masclee, A. A. and Wijmenga, C. and van Schooten, F. J. and Smolinska, A. and Jonkers, D. M.},
+   title = {A novel biomarker panel for irritable bowel syndrome and the application in the general population},
+   journal = {Sci Rep},
+   volume = {6},
+   pages = {26420},
+   ISSN = {2045-2322},
+   DOI = {10.1038/srep26420},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27263852}
+}
+
+@article{RN12166,
+   author = {Murray, K. A. and Lam, C. and Rehman, S. and Marciani, L. and Costigan, C. and Hoad, C. L. and Lingaya, M. R. and Banwait, R. and Bawden, S. J. and Gowland, P. A. and Spiller, R. C.},
+   title = {Corticotropin-releasing factor increases ascending colon volume after a fructose test meal in healthy humans: a randomized controlled trial},
+   journal = {Am J Clin Nutr},
+   volume = {103},
+   number = {5},
+   pages = {1318-26},
+   ISSN = {0002-9165},
+   DOI = {10.3945/ajcn.115.125047},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27099247}
+}
+
+@article{RN12259,
+   author = {Nagarajan, N. and Morden, A. and Bischof, D. and King, E. A. and Kosztowski, M. and Wick, E. C. and Stein, E. M.},
+   title = {The role of fiber supplementation in the treatment of irritable bowel syndrome: a systematic review and meta-analysis},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {27},
+   number = {9},
+   pages = {1002-10},
+   ISSN = {0954-691x},
+   DOI = {10.1097/meg.0000000000000425},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26148247}
+}
+
+@article{RN12251,
+   author = {Navarro, E. and Araya, M.},
+   title = {[Non-celiac gluten sensitivity: Another condition that responds to gluten]},
+   journal = {Rev Med Chil},
+   volume = {143},
+   number = {5},
+   pages = {619-26},
+   ISSN = {0034-9887},
+   DOI = {10.4067/s0034-98872015000500010},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26203574}
+}
+
+@article{RN12089,
+   author = {Navarro, F. and Liu, Y. and Rhoads, J. M.},
+   title = {Can probiotics benefit children with autism spectrum disorders?},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {46},
+   pages = {10093-10102},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i46.10093},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28028357}
+}
+
+@article{RN12091,
+   author = {Ouwehand, A. C.},
+   title = {A review of dose-responses of probiotics in human studies},
+   journal = {Benef Microbes},
+   volume = {8},
+   number = {2},
+   pages = {143-151},
+   ISSN = {1876-2883},
+   DOI = {10.3920/bm2016.0140},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {28008787}
+}
+
+@article{RN12245,
+   author = {Ozaki, R. K. and Soares, A. C. and Speridiao Pda, G. and de Morais, M. B.},
+   title = {Water Load Test in Childhood Functional Abdominal Pain: No Relation to Food Intake and Nutritional Status},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {61},
+   number = {3},
+   pages = {330-3},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000805},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26317680}
+}
+
+@article{RN12209,
+   author = {Pace, F. and Pace, M. and Quartarone, G.},
+   title = {Probiotics in digestive diseases: focus on Lactobacillus GG},
+   journal = {Minerva Gastroenterol Dietol},
+   volume = {61},
+   number = {4},
+   pages = {273-92},
+   ISSN = {1121-421x},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26657927}
+}
+
+@article{RN12138,
+   author = {Pan, H. Y. and Xiang, X. L. and Lyu, S. Z. and Xie, X. P. and Hou, X. H.},
+   title = {[A comparison of clinical characteristics between non-erosive reflux disease and reflux esophagitis]},
+   journal = {Zhonghua Nei Ke Za Zhi},
+   volume = {55},
+   number = {7},
+   pages = {510-4},
+   ISSN = {0578-1426 (Print)
+0578-1426},
+   DOI = {10.3760/cma.j.issn.0578-1426.2016.07.005},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27373284}
+}
+
+@article{RN12116,
+   author = {Pasalar, M. and Mosaffa-Jahromi, M. and Lankarani, K. B.},
+   title = {Toward Food Therapy for Irritable Bowel Syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {111},
+   number = {10},
+   pages = {1499-1500},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2016.314},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27694878}
+}
+
+@article{RN12176,
+   author = {Patcharatrakul, T. and Gonlachanvit, S.},
+   title = {Chili Peppers, Curcumins, and Prebiotics in Gastrointestinal Health and Disease},
+   journal = {Curr Gastroenterol Rep},
+   volume = {18},
+   number = {4},
+   pages = {19},
+   ISSN = {1522-8037},
+   DOI = {10.1007/s11894-016-0494-0},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26973345}
+}
+
+@article{RN12284,
+   author = {Patel, R. and DuPont, H. L.},
+   title = {New approaches for bacteriotherapy: prebiotics, new-generation probiotics, and synbiotics},
+   journal = {Clin Infect Dis},
+   volume = {60 Suppl 2},
+   pages = {S108-21},
+   ISSN = {1058-4838},
+   DOI = {10.1093/cid/civ177},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25922396}
+}
+
+@article{RN12100,
+   author = {Paul, S. P. and Basude, D.},
+   title = {Non-pharmacological management of abdominal pain-related functional gastrointestinal disorders in children},
+   journal = {World J Pediatr},
+   volume = {12},
+   number = {4},
+   pages = {389-398},
+   DOI = {10.1007/s12519-016-0044-8},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27363985}
+}
+
+@article{RN12208,
+   author = {Peat, J. and Frazee, C. and Kearns, G. and Garg, U.},
+   title = {Determination of Menthol in Plasma and Urine by Gas Chromatography/Mass Spectrometry (GC/MS)},
+   journal = {Methods Mol Biol},
+   volume = {1383},
+   pages = {205-11},
+   ISSN = {1064-3745},
+   DOI = {10.1007/978-1-4939-3252-8_22},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26660189}
+}
+
+@article{RN12246,
+   author = {Perez y Lopez, N. and Torres-Lopez, E. and Zamarripa-Dorsey, F.},
+   title = {Clinical response in Mexican patients with irritable bowel syndrome treated with a low diet low in fermentable carbohydrates (FODMAP)},
+   journal = {Rev Gastroenterol Mex},
+   volume = {80},
+   number = {3},
+   pages = {180-5},
+   ISSN = {0375-0906 (Print)
+0375-0906},
+   DOI = {10.1016/j.rgmx.2015.06.008},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26300323}
+}
+
+@article{RN12131,
+   author = {Pettit, J. and Glickman-Simon, R.},
+   title = {Osteopathic Manipulative Therapy for Preterm Infants, Acupuncture for Menopausal Symptoms, Mindfulness-Based Stress Reduction for Chronic Low Back Pain, Chocolate for Ischemic Heart Disease, Berberine for Irritable Bowel Syndrome},
+   journal = {Explore (NY)},
+   volume = {12},
+   number = {5},
+   pages = {388-92},
+   ISSN = {1550-8307},
+   DOI = {10.1016/j.explore.2016.06.015},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27473312}
+}
+
+@article{RN12225,
+   author = {Philpott, H. and Nandurkar, S. and Lubel, J. and Gibson, P. R.},
+   title = {Food, fibre, bile acids and the pelvic floor: An integrated low risk low cost approach to managing irritable bowel syndrome},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {40},
+   pages = {11379-86},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i40.11379},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26525925}
+}
+
+@article{RN12218,
+   author = {Pigrau, M. and Rodino-Janeiro, B. K. and Casado-Bedmar, M. and Lobo, B. and Vicario, M. and Santos, J. and Alonso-Cotoner, C.},
+   title = {The joint power of sex and stress to modulate brain-gut-microbiota axis and intestinal barrier homeostasis: implications for irritable bowel syndrome},
+   journal = {Neurogastroenterol Motil},
+   volume = {28},
+   number = {4},
+   pages = {463-86},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12717},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26556786}
+}
+
+@article{RN12133,
+   author = {Pilipenko, V. I. and Teplyuk, D. A. and Shakhovskaya, A. K. and Isakov, V. A. and Vorobyova, V. M. and Vorobyova, I. S. and Sarkisyan, V. A. and Kochetkova, A. A. and Mikheeva, G. A. and Yudina, A. V.},
+   title = {[Using a multicomponent functional food in IBS patients with constipation a comparative controlled study]},
+   journal = {Vopr Pitan},
+   volume = {85},
+   number = {2},
+   pages = {84-91},
+   ISSN = {0042-8833 (Print)
+0042-8833},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27455604}
+}
+
+@article{RN12212,
+   author = {Pimentel, M.},
+   title = {Review article: potential mechanisms of action of rifaximin in the management of irritable bowel syndrome with diarrhoea},
+   journal = {Aliment Pharmacol Ther},
+   volume = {43 Suppl 1},
+   pages = {37-49},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13437},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26618924}
+}
+
+@article{RN12104,
+   author = {Plotnikoff, G. and Barber, M.},
+   title = {Refractory Depression, Fatigue, Irritable Bowel Syndrome, and Chronic Pain: A Functional Medicine Case Report},
+   journal = {Perm J},
+   volume = {20},
+   number = {4},
+   pages = {15-242},
+   ISSN = {1552-5767},
+   DOI = {10.7812/tpp/15-242},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27768569}
+}
+
+@article{RN12234,
+   author = {Quigley, E. M.},
+   title = {Probiotics in Irritable Bowel Syndrome: The Science and the Evidence},
+   journal = {J Clin Gastroenterol},
+   volume = {49 Suppl 1},
+   pages = {S60-4},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000348},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26447967}
+}
+
+@article{RN12111,
+   author = {Quigley, E. M.},
+   title = {Editorial: balancing fibre and FODMAPs in IBS - a 'rye' look at an old problem},
+   journal = {Aliment Pharmacol Ther},
+   volume = {44},
+   number = {10},
+   pages = {1134-1135},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13805},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27734545}
+}
+
+@article{RN12279,
+   author = {Ragavan, N. D. and Govind, S. K. and Chye, T. T. and Mahadeva, S.},
+   title = {Factors that influence the shedding of Blastocystis cysts in an irritable bowel syndrome (IBS) patient--an evidence-based case study},
+   journal = {Parasitol Res},
+   volume = {114},
+   number = {8},
+   pages = {2999-3005},
+   ISSN = {0932-0113},
+   DOI = {10.1007/s00436-015-4502-3},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25982571}
+}
+
+@article{RN12145,
+   author = {Raithel, M. and Kluger, A. K. and Dietz, B. and Hetterich, U.},
+   title = {[Non-allergic gluten sensitivity. A controversial disease - or not yet sufficiently explored?]},
+   journal = {Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz},
+   volume = {59},
+   number = {7},
+   pages = {821-6},
+   ISSN = {1436-9990},
+   DOI = {10.1007/s00103-016-2366-z},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27324250}
+}
+
+@article{RN12172,
+   author = {Rao, S. S. and Rattanakovit, K. and Patcharatrakul, T.},
+   title = {Diagnosis and management of chronic constipation in adults},
+   journal = {Nat Rev Gastroenterol Hepatol},
+   volume = {13},
+   number = {5},
+   pages = {295-305},
+   ISSN = {1759-5045},
+   DOI = {10.1038/nrgastro.2016.53},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27033126}
+}
+
+@article{RN12244,
+   author = {Rebizak, E. and Sierant, K. and Labuzek, K. and Okopien, B.},
+   title = {[Fecal transplantation the future therapy?]},
+   journal = {Pol Merkur Lekarski},
+   volume = {39},
+   number = {230},
+   pages = {73-6},
+   ISSN = {1426-9686 (Print)
+1426-9686},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26319378}
+}
+
+@article{RN12141,
+   author = {Reed-Knight, B. and Squires, M. and Chitkara, D. K. and van Tilburg, M. A.},
+   title = {Adolescents with irritable bowel syndrome report increased eating-associated symptoms, changes in dietary composition, and altered eating behaviors: a pilot comparison study to healthy adolescents},
+   journal = {Neurogastroenterol Motil},
+   volume = {28},
+   number = {12},
+   pages = {1915-1920},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12894},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27353222}
+}
+
+@article{RN12235,
+   author = {Ringel, Y. and Ringel-Kulka, T.},
+   title = {The Intestinal Microbiota and Irritable Bowel Syndrome},
+   journal = {J Clin Gastroenterol},
+   volume = {49 Suppl 1},
+   pages = {S56-9},
+   ISSN = {0192-0790},
+   DOI = {10.1097/mcg.0000000000000418},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26447966}
+}
+
+@article{RN12204,
+   author = {Ringel-Kulka, T. and Benson, A. K. and Carroll, I. M. and Kim, J. and Legge, R. M. and Ringel, Y.},
+   title = {Molecular characterization of the intestinal microbiota in patients with and without abdominal bloating},
+   journal = {Am J Physiol Gastrointest Liver Physiol},
+   volume = {310},
+   number = {6},
+   pages = {G417-26},
+   ISSN = {0193-1857},
+   DOI = {10.1152/ajpgi.00044.2015},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26702134}
+}
+
+@article{RN12095,
+   author = {Ringel-Kulka, T. and McRorie, J. and Ringel, Y.},
+   title = {Multi-Center, Double-Blind, Randomized, Placebo-Controlled, Parallel-Group Study to Evaluate the Benefit of the Probiotic Bifidobacterium infantis 35624 in Non-Patients With Symptoms of Abdominal Discomfort and Bloating},
+   journal = {Am J Gastroenterol},
+   volume = {112},
+   number = {1},
+   pages = {145-151},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2016.511},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27845337}
+}
+
+@article{RN12274,
+   author = {Sanchez Almaraz, R. and Martin Fuentes, M. and Palma Milla, S. and Lopez Plaza, B. and Bermejo Lopez, L. M. and Gomez Candela, C.},
+   title = {[Fiber-type indication among different pathologies]},
+   journal = {Nutr Hosp},
+   volume = {31},
+   number = {6},
+   pages = {2372-83},
+   ISSN = {0212-1611},
+   DOI = {10.3305/nh.2015.31.6.9023},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26040341}
+}
+
+@article{RN12207,
+   author = {Satake, R. and Sugawara, N. and Sato, K. and Takahashi, I. and Nakaji, S. and Yasui-Furukori, N. and Fukuda, S.},
+   title = {Prevalence and Predictive Factors of Irritable Bowel Syndrome in a Community-dwelling Population in Japan},
+   journal = {Intern Med},
+   volume = {54},
+   number = {24},
+   pages = {3105-12},
+   ISSN = {0918-2918},
+   DOI = {10.2169/internalmedicine.54.5378},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26666595}
+}
+
+@article{RN12229,
+   author = {Sato, Y. and Fukudo, S.},
+   title = {Gastrointestinal symptoms and disorders in patients with eating disorders},
+   journal = {Clin J Gastroenterol},
+   volume = {8},
+   number = {5},
+   pages = {255-63},
+   ISSN = {1865-7265},
+   DOI = {10.1007/s12328-015-0611-x},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26499370}
+}
+
+@article{RN12210,
+   author = {Sebastian Domingo, J. J.},
+   title = {[Irritable bowel syndrome: the next-to-last that is being investigated]},
+   journal = {Med Clin (Barc)},
+   volume = {146},
+   number = {6},
+   pages = {260-2},
+   ISSN = {0025-7753},
+   DOI = {10.1016/j.medcli.2015.10.010},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26654550}
+}
+
+@article{RN12139,
+   author = {Shah, S. L. and Lacy, B. E.},
+   title = {Dietary Interventions and Irritable Bowel Syndrome: A Review of the Evidence},
+   journal = {Curr Gastroenterol Rep},
+   volume = {18},
+   number = {8},
+   pages = {41},
+   ISSN = {1522-8037},
+   DOI = {10.1007/s11894-016-0517-x},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27372289}
+}
+
+@article{RN12132,
+   author = {Sheptulin, A. A. and Vize-Khripunova, M. A.},
+   title = {[NEWS IN ETIOLOGY AND PATHOGENESIS OF IRRITATED BOWEL SYNDROME]},
+   journal = {Klin Med (Mosk)},
+   volume = {94},
+   number = {2},
+   pages = {92-6},
+   ISSN = {0023-2149 (Print)
+0023-2149},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27459756}
+}
+
+@article{RN12168,
+   author = {Shulman, R. J. and Hollister, E. B. and Cain, K. and Czyzewski, D. I. and Self, M. M. and Weidler, E. M. and Devaraj, S. and Luna, R. A. and Versalovic, J. and Heitkemper, M.},
+   title = {Psyllium Fiber Reduces Abdominal Pain in Children With Irritable Bowel Syndrome in a Randomized, Double-Blind Trial},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {15},
+   number = {5},
+   pages = {712-719.e4},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2016.03.045},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27080737}
+}
+
+@article{RN12256,
+   author = {Singh, P. and Staller, K. and Barshop, K. and Dai, E. and Newman, J. and Yoon, S. and Castel, S. and Kuo, B.},
+   title = {Patients with irritable bowel syndrome-diarrhea have lower disease-specific quality of life than irritable bowel syndrome-constipation},
+   journal = {World J Gastroenterol},
+   volume = {21},
+   number = {26},
+   pages = {8103-9},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v21.i26.8103},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26185382}
+}
+
+@article{RN12196,
+   author = {Smith, R. C. and Smith, S. F. and Wilson, J. and Pearce, C. and Wray, N. and Vo, R. and Chen, J. and Ooi, C. Y. and Oliver, M. and Katz, T. and Turner, R. and Nikfarjam, M. and Rayner, C. and Horowitz, M. and Holtmann, G. and Talley, N. and Windsor, J. and Pirola, R. and Neale, R.},
+   title = {Summary and recommendations from the Australasian guidelines for the management of pancreatic exocrine insufficiency},
+   journal = {Pancreatology},
+   volume = {16},
+   number = {2},
+   pages = {164-80},
+   ISSN = {1424-3903},
+   DOI = {10.1016/j.pan.2015.12.006},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26775768}
+}
+
+@article{RN12270,
+   author = {Staudacher, H.},
+   title = {Probiotics for lactose intolerance and irritable bowel syndrome},
+   journal = {Br J Community Nurs},
+   volume = {Suppl Nutrition},
+   pages = {S12, s14},
+   ISSN = {1462-4753 (Print)
+1462-4753},
+   DOI = {10.12968/bjcn.2015.20.Sup6a.S12},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26087202}
+}
+
+@article{RN12180,
+   author = {Staudacher, H. M. and Whelan, K.},
+   title = {Altered gastrointestinal microbiota in irritable bowel syndrome and its modification by diet: probiotics, prebiotics and the low FODMAP diet},
+   journal = {Proc Nutr Soc},
+   volume = {75},
+   number = {3},
+   pages = {306-18},
+   ISSN = {0029-6651},
+   DOI = {10.1017/s0029665116000021},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26908093}
+}
+
+@article{RN12200,
+   author = {Szachta, P. and Bartnicka, A. and Galecka, M.},
+   title = {Microbiota - a key to healing the gastrointestinal tract?},
+   journal = {Pomeranian J Life Sci},
+   volume = {62},
+   number = {1},
+   pages = {21-4},
+   ISSN = {2450-4637 (Print)
+2450-4637},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {29533578}
+}
+
+@article{RN12174,
+   author = {Szajewska, H. and Konarska, Z. and Kolodziej, M.},
+   title = {Probiotic Bacterial and Fungal Strains: Claims with Evidence},
+   journal = {Dig Dis},
+   volume = {34},
+   number = {3},
+   pages = {251-9},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000443359},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27028756}
+}
+
+@article{RN12155,
+   author = {Tack, J. and Schumacher, K. and Tonini, G. and Scartoni, S. and Capriati, A. and Maggi, C. A.},
+   title = {The neurokinin-2 receptor antagonist ibodutant improves overall symptoms, abdominal pain and stool pattern in female patients in a phase II study of diarrhoea-predominant IBS},
+   journal = {Gut},
+   volume = {66},
+   number = {8},
+   pages = {1403-1413},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2015-310683},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27196574}
+}
+
+@article{RN12143,
+   author = {Tack, J. and Vanuytsel, T. and Corsetti, M.},
+   title = {Modern Management of Irritable Bowel Syndrome: More Than Motility},
+   journal = {Dig Dis},
+   volume = {34},
+   number = {5},
+   pages = {566-73},
+   ISSN = {0257-2753},
+   DOI = {10.1159/000445265},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27331917}
+}
+
+@article{RN12128,
+   author = {Talley, N. J.},
+   title = {Board Review Vignette: Irritable Bowel Syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {111},
+   number = {9},
+   pages = {1223-5},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2016.317},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27527743}
+}
+
+@article{RN12230,
+   author = {Thijssen, A. Y. and Clemens, C. H. and Vankerckhoven, V. and Goossens, H. and Jonkers, D. M. and Masclee, A. A.},
+   title = {Efficacy of Lactobacillus casei Shirota for patients with irritable bowel syndrome},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {28},
+   number = {1},
+   pages = {8-14},
+   ISSN = {0954-691x},
+   DOI = {10.1097/meg.0000000000000484},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26469356}
+}
+
+@article{RN12219,
+   author = {Thomas, L. V. and Suzuki, K. and Zhao, J.},
+   title = {Probiotics: a proactive approach to health. A symposium report},
+   journal = {Br J Nutr},
+   volume = {114 Suppl 1},
+   pages = {S1-15},
+   ISSN = {0007-1145},
+   DOI = {10.1017/s0007114515004043},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26548336}
+}
+
+@article{RN12193,
+   author = {Thompson, J. R.},
+   title = {Is irritable bowel syndrome an infectious disease?},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {4},
+   pages = {1331-4},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i4.1331},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26819502}
+}
+
+@article{RN12269,
+   author = {Traynor, K.},
+   title = {Eluxadoline approved for irritable bowel syndrome with diarrhea},
+   journal = {Am J Health Syst Pharm},
+   volume = {72},
+   number = {13},
+   pages = {1078},
+   ISSN = {1079-2082},
+   DOI = {10.2146/news150043},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26092951}
+}
+
+@article{RN12125,
+   author = {Tuck, C. J. and Ross, L. A. and Gibson, P. R. and Barrett, J. S. and Muir, J. G.},
+   title = {Adding glucose to food and solutions to enhance fructose absorption is not effective in preventing fructose-induced functional gastrointestinal symptoms: randomised controlled trials in patients with fructose malabsorption},
+   journal = {J Hum Nutr Diet},
+   volume = {30},
+   number = {1},
+   pages = {73-82},
+   ISSN = {0952-3871},
+   DOI = {10.1111/jhn.12409},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27600184}
+}
+
+@article{RN12158,
+   author = {Van Arsdall, M. and Haque, I. and Liu, Y. and Rhoads, J. M.},
+   title = {Is There a Role for the Enteral Administration of Serum-Derived Immunoglobulins in Human Gastrointestinal Disease and Pediatric Critical Care Nutrition?},
+   journal = {Adv Nutr},
+   volume = {7},
+   number = {3},
+   pages = {535-43},
+   ISSN = {2161-8313},
+   DOI = {10.3945/an.115.011924},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27184280}
+}
+
+@article{RN12096,
+   author = {van Gils, T. and Nijeboer, P. and CE, I. Jssennagger and Sanders, D. S. and Mulder, C. J. and Bouma, G.},
+   title = {Prevalence and Characterization of Self-Reported Gluten Sensitivity in The Netherlands},
+   journal = {Nutrients},
+   volume = {8},
+   number = {11},
+   ISSN = {2072-6643},
+   DOI = {10.3390/nu8110714},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27834802}
+}
+
+@article{RN12201,
+   author = {Van Gossum, A.},
+   title = {[What is the optimal diet?]},
+   journal = {Rev Med Brux},
+   volume = {37},
+   number = {4},
+   pages = {289-293},
+   ISSN = {0035-3639 (Print)
+0035-3639},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28525228}
+}
+
+@article{RN12215,
+   author = {Van Oudenhove, L. and Tornblom, H. and Storsrud, S. and Tack, J. and Simren, M.},
+   title = {Depression and Somatization Are Associated With Increased Postprandial Symptoms in Patients With Irritable Bowel Syndrome},
+   journal = {Gastroenterology},
+   volume = {150},
+   number = {4},
+   pages = {866-74},
+   ISSN = {0016-5085},
+   DOI = {10.1053/j.gastro.2015.11.010},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26602216}
+}
+
+@article{RN12278,
+   author = {Varni, J. W. and Nurko, S. and Shulman, R. J. and Self, M. M. and Saps, M. and Bendo, C. B. and Vaughan Dark, C. and Pohl, J. F.},
+   title = {Pediatric Functional Constipation Gastrointestinal Symptom Profile Compared With Healthy Controls},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {61},
+   number = {4},
+   pages = {424-30},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000869},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26020373}
+}
+
+@article{RN12277,
+   author = {Varni, J. W. and Shulman, R. J. and Self, M. M. and Nurko, S. and Saps, M. and Saeed, S. A. and Bendo, C. B. and Patel, A. S. and Dark, C. V. and Zacur, G. M. and Pohl, J. F.},
+   title = {Symptom Profiles in Patients With Irritable Bowel Syndrome or Functional Abdominal Pain Compared With Healthy Controls},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {61},
+   number = {3},
+   pages = {323-9},
+   ISSN = {0277-2116},
+   DOI = {10.1097/mpg.0000000000000795},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26020482}
+}
+
+@article{RN12108,
+   author = {Varni, J. W. and Shulman, R. J. and Self, M. M. and Nurko, S. and Saps, M. and Saeed, S. A. and Patel, A. S. and Dark, C. V. and Bendo, C. B. and Pohl, J. F.},
+   title = {Gastrointestinal symptoms predictors of health-related quality of life in pediatric patients with functional gastrointestinal disorders},
+   journal = {Qual Life Res},
+   volume = {26},
+   number = {4},
+   pages = {1015-1025},
+   ISSN = {0962-9343},
+   DOI = {10.1007/s11136-016-1430-3},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27743332}
+}
+
+@article{RN12260,
+   author = {Whelan, K.},
+   title = {Editorial: fibre and FODMAPs in constipation and irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {42},
+   number = {3},
+   pages = {383-4},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13279},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26147109}
+}
+
+@article{RN12118,
+   author = {Wong, W. M.},
+   title = {Restriction of FODMAP in the management of bloating in irritable bowel syndrome},
+   journal = {Singapore Med J},
+   volume = {57},
+   number = {9},
+   pages = {476-84},
+   ISSN = {0037-5675 (Print)
+0037-5675},
+   DOI = {10.11622/smedj.2016152},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27664186}
+}
+
+@article{RN12254,
+   author = {Wouters, M. M. and Vicario, M. and Santos, J.},
+   title = {The role of mast cells in functional GI disorders},
+   journal = {Gut},
+   volume = {65},
+   number = {1},
+   pages = {155-68},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2015-309151},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26194403}
+}
+
+@article{RN12268,
+   author = {Yao, C. K. and Barrett, J. S. and Philpott, H. and Chung, A. R. and van Langenberg, D. and Garg, M. and Gibson, P. R.},
+   title = {Poor predictive value of breath hydrogen response for probiotic effects in IBS},
+   journal = {J Gastroenterol Hepatol},
+   volume = {30},
+   number = {12},
+   pages = {1731-9},
+   ISSN = {0815-9319},
+   DOI = {10.1111/jgh.13015},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26095068}
+}
+
+@article{RN12224,
+   author = {Yao, C. K. and Muir, J. G. and Gibson, P. R.},
+   title = {Review article: insights into colonic protein fermentation, its modulation and potential health implications},
+   journal = {Aliment Pharmacol Ther},
+   volume = {43},
+   number = {2},
+   pages = {181-96},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.13456},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {26527169}
+}
+
+@article{RN12223,
+   author = {Yoon, S. R. and Lee, J. H. and Lee, J. H. and Na, G. Y. and Lee, K. H. and Lee, Y. B. and Jung, G. H. and Kim, O. Y.},
+   title = {Low-FODMAP formula improves diarrhea and nutritional status in hospitalized patients receiving enteral nutrition: a randomized, multicenter, double-blind clinical trial},
+   journal = {Nutr J},
+   volume = {14},
+   pages = {116},
+   ISSN = {1475-2891},
+   DOI = {10.1186/s12937-015-0106-0},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26530312}
+}
+
+@article{RN12164,
+   author = {Zang, K. H. and Shao, Y. Y. and Zuo, X. and Rao, Z. and Qin, H. Y.},
+   title = {Oridonin Alleviates Visceral Hyperalgesia in a Rat Model of Postinflammatory Irritable Bowel Syndrome: Role of Colonic Enterochromaffin Cell and Serotonin Availability},
+   journal = {J Med Food},
+   volume = {19},
+   number = {6},
+   pages = {586-92},
+   ISSN = {1096-620x},
+   DOI = {10.1089/jmf.2015.3595},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27111743}
+}
+
+@article{RN12088,
+   author = {Zhang, F. and Xiang, W. and Li, C. Y. and Li, S. C.},
+   title = {Economic burden of irritable bowel syndrome in China},
+   journal = {World J Gastroenterol},
+   volume = {22},
+   number = {47},
+   pages = {10450-10460},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v22.i47.10450},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {28058026}
+}
+
+@article{RN12147,
+   author = {Zhang, Y. and Li, L. and Guo, C. and Mu, D. and Feng, B. and Zuo, X. and Li, Y.},
+   title = {Effects of probiotic type, dose and treatment duration on irritable bowel syndrome diagnosed by Rome III criteria: a meta-analysis},
+   journal = {BMC Gastroenterol},
+   volume = {16},
+   number = {1},
+   pages = {62},
+   ISSN = {1471-230x},
+   DOI = {10.1186/s12876-016-0470-z},
+   year = {2016},
+   type = {Journal Article},
+   Accession Number= {27296254}
+}
+
+@article{RN12283,
+   author = {Zhu, L. and Huang, D. and Shi, L. and Liang, L. and Xu, T. and Chang, M. and Chen, W. and Wu, D. and Zhang, F. and Fang, X.},
+   title = {Intestinal symptoms and psychological factors jointly affect quality of life of patients with irritable bowel syndrome with diarrhea},
+   journal = {Health Qual Life Outcomes},
+   volume = {13},
+   pages = {49},
+   ISSN = {1477-7525},
+   DOI = {10.1186/s12955-015-0243-3},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {25925746}
+}
+
+@article{RN12122,
+   author = {Zia, J. K. and Chung, C. F. and Schroeder, J. and Munson, S. A. and Kientz, J. A. and Fogarty, J. and Bales, E. and Schenk, J. M. and Heitkemper, M. M.},
+   title = {The feasibility, usability, and clinical utility of traditional paper food and symptom journals for patients with irritable bowel syndrome},
+   journal = {Neurogastroenterol Motil},
+   volume = {29},
+   number = {2},
+   ISSN = {1350-1925},
+   DOI = {10.1111/nmo.12935},
+   year = {2017},
+   type = {Journal Article},
+   Accession Number= {27619957}
+}
+
+@article{RN12222,
+   author = {Zopf, Y. and Dieterich, W.},
+   title = {[Non-celiac disease non-wheat allergy wheat sensitivity]},
+   journal = {Dtsch Med Wochenschr},
+   volume = {140},
+   number = {22},
+   pages = {1683-7},
+   ISSN = {0012-0472},
+   DOI = {10.1055/s-0041-106311},
+   year = {2015},
+   type = {Journal Article},
+   Accession Number= {26536646}
+}
+

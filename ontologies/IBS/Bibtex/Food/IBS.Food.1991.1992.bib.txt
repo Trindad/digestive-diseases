@@ -1,0 +1,280 @@
+﻿@article{RN11037,
+   author = {Bailey, L. D., Jr. and Stewart, W. R., Jr. and McCallum, R. W.},
+   title = {New directions in the irritable bowel syndrome},
+   journal = {Gastroenterol Clin North Am},
+   volume = {20},
+   number = {2},
+   pages = {335-49},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2066157}
+}
+
+@article{RN11033,
+   author = {Castiglione, F. and Daniele, B. and Mazzacca, G.},
+   title = {Therapeutic strategy for the irritable bowel syndrome},
+   journal = {Ital J Gastroenterol},
+   volume = {23},
+   number = {8 Suppl 1},
+   pages = {53-5},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1661628}
+}
+
+@article{RN11030,
+   author = {Collins, S. M.},
+   title = {Is the irritable gut an inflamed gut?},
+   journal = {Scand J Gastroenterol Suppl},
+   volume = {192},
+   pages = {102-5},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1439559}
+}
+
+@article{RN11023,
+   author = {Finn, R.},
+   title = {Food allergy--fact or fiction: a review},
+   journal = {J R Soc Med},
+   volume = {85},
+   number = {9},
+   pages = {560-4},
+   ISSN = {0141-0768 (Print)
+0141-0768},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1433127}
+}
+
+@article{RN11027,
+   author = {Fowlie, S. and Eastwood, M. A. and Prescott, R.},
+   title = {Irritable bowel syndrome: assessment of psychological disturbance and its influence on the response to fibre supplementation},
+   journal = {J Psychosom Res},
+   volume = {36},
+   number = {2},
+   pages = {175-80},
+   ISSN = {0022-3999 (Print)
+0022-3999},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1313875}
+}
+
+@article{RN11038,
+   author = {Friedman, G.},
+   title = {Diet and the irritable bowel syndrome},
+   journal = {Gastroenterol Clin North Am},
+   volume = {20},
+   number = {2},
+   pages = {313-24},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2066155}
+}
+
+@article{RN11031,
+   author = {Lambert, J. P. and Brunt, P. W. and Mowat, N. A. and Khin, C. C. and Lai, C. K. and Morrison, V. and Dickerson, J. W. and Eastwood, M. A.},
+   title = {The value of prescribed 'high-fibre' diets for the treatment of the irritable bowel syndrome},
+   journal = {Eur J Clin Nutr},
+   volume = {45},
+   number = {12},
+   pages = {601-9},
+   ISSN = {0954-3007 (Print)
+0954-3007},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1667298}
+}
+
+@article{RN11035,
+   author = {Lunardi, C. and Bambara, L. M. and Biasi, D. and Cortina, P. and Peroli, P. and Nicolis, F. and Favari, F. and Pacor, M. L.},
+   title = {Double-blind cross-over trial of oral sodium cromoglycate in patients with irritable bowel syndrome due to food intolerance},
+   journal = {Clin Exp Allergy},
+   volume = {21},
+   number = {5},
+   pages = {569-72},
+   ISSN = {0954-7894 (Print)
+0954-7894},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1742648}
+}
+
+@article{RN11036,
+   author = {Mesnard, B. and Desreumaux, P. and Colombel, J. F.},
+   title = {[Digestive manifestations of food hypersensitivity in adults]},
+   journal = {Rev Med Interne},
+   volume = {12},
+   number = {4},
+   pages = {289-94},
+   ISSN = {0248-8663 (Print)
+0248-8663},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1759069}
+}
+
+@article{RN11025,
+   author = {Middleton, S. J. and Coley, A. and Hunter, J. O.},
+   title = {The role of faecal Candida albicans in the pathogenesis of food-intolerant irritable bowel syndrome},
+   journal = {Postgrad Med J},
+   volume = {68},
+   number = {800},
+   pages = {453-4},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.68.800.453},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1437926}
+}
+
+@article{RN11039,
+   author = {Mullin, G. E.},
+   title = {Food allergy and irritable bowel syndrome},
+   journal = {Jama},
+   volume = {265},
+   number = {13},
+   pages = {1736},
+   ISSN = {0098-7484 (Print)
+0098-7484},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2002578}
+}
+
+@article{RN11021,
+   author = {Nagaoka, Y.},
+   title = {[Dietary treatment in patients with irritable bowel syndrome]},
+   journal = {Nihon Rinsho},
+   volume = {50},
+   number = {11},
+   pages = {2740-5},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1337565}
+}
+
+@article{RN11024,
+   author = {Niederau, C. and Faber, S. and Karaus, M.},
+   title = {Cholecystokinin's role in regulation of colonic motility in health and in irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {102},
+   number = {6},
+   pages = {1889-98},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1587408}
+}
+
+@article{RN11022,
+   author = {Okamura, S. and Sekiguchi, T.},
+   title = {[Irritable bowel syndrome--criteria, sub-classification, etiology]},
+   journal = {Nihon Rinsho},
+   volume = {50},
+   number = {11},
+   pages = {2686-90},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1287243}
+}
+
+@article{RN11029,
+   author = {Schmidt, M. and Floch, M. H.},
+   title = {Food hypersensitivity and the irritable bowel syndrome},
+   journal = {Am J Gastroenterol},
+   volume = {87},
+   number = {1},
+   pages = {18-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1728118}
+}
+
+@article{RN11028,
+   author = {Stefanini, G. F. and Prati, E. and Albini, M. C. and Piccinini, G. and Capelli, S. and Castelli, E. and Mazzetti, M. and Gasbarrini, G.},
+   title = {Oral disodium cromoglycate treatment on irritable bowel syndrome: an open study on 101 subjects with diarrheic type},
+   journal = {Am J Gastroenterol},
+   volume = {87},
+   number = {1},
+   pages = {55-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1728124}
+}
+
+@article{RN11026,
+   author = {Sullivan, S. N. and Wong, C.},
+   title = {Runners' diarrhea. Different patterns and associated factors},
+   journal = {J Clin Gastroenterol},
+   volume = {14},
+   number = {2},
+   pages = {101-4},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1556421}
+}
+
+@article{RN11034,
+   author = {Treem, W. R. and Hyams, J. S. and Blankschen, E. and Etienne, N. and Paule, C. L. and Borschel, M. W.},
+   title = {Evaluation of the effect of a fiber-enriched formula on infant colic},
+   journal = {J Pediatr},
+   volume = {119},
+   number = {5},
+   pages = {695-701},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1658281}
+}
+
+@article{RN11032,
+   author = {Villagrasa, M. and Boix, J. and Humbert, P. and Quer, J. C.},
+   title = {Aleatory clinical study comparing otilonium bromide with a fiber-rich diet in the treatment of irritable bowel syndrome},
+   journal = {Ital J Gastroenterol},
+   volume = {23},
+   number = {8 Suppl 1},
+   pages = {67-70},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1661630}
+}
+
+@article{RN11020,
+   author = {West, L. and Warren, J. and Cutts, T.},
+   title = {Diagnosis and management of irritable bowel syndrome, constipation, and diarrhea in pregnancy},
+   journal = {Gastroenterol Clin North Am},
+   volume = {21},
+   number = {4},
+   pages = {793-802},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1478735}
+}
+

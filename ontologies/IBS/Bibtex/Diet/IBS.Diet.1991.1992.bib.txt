@@ -1,0 +1,353 @@
+﻿@article{RN10137,
+   author = {Beck, E. and Hurwitz, B.},
+   title = {Irritable bowel syndrome},
+   journal = {Occas Pap R Coll Gen Pract},
+   number = {58},
+   pages = {32-5},
+   ISSN = {1352-2450 (Print)
+1352-2450},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1345152}
+}
+
+@article{RN10153,
+   author = {Born, P. and Vierling, T. and Barina, W.},
+   title = {Fructose malabsorption and the irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {101},
+   number = {5},
+   pages = {1454},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1796960}
+}
+
+@article{RN10155,
+   author = {Castiglione, F. and Daniele, B. and Mazzacca, G.},
+   title = {Therapeutic strategy for the irritable bowel syndrome},
+   journal = {Ital J Gastroenterol},
+   volume = {23},
+   number = {8 Suppl 1},
+   pages = {53-5},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1661628}
+}
+
+@article{RN10160,
+   author = {Ciampolini, M. and Bini, S.},
+   title = {Serum lipids in celiac children},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {12},
+   number = {4},
+   pages = {459-60},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1865279}
+}
+
+@article{RN10141,
+   author = {Finn, R.},
+   title = {Food allergy--fact or fiction: a review},
+   journal = {J R Soc Med},
+   volume = {85},
+   number = {9},
+   pages = {560-4},
+   ISSN = {0141-0768 (Print)
+0141-0768},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1433127}
+}
+
+@article{RN10148,
+   author = {Fowlie, S. and Eastwood, M. A. and Prescott, R.},
+   title = {Irritable bowel syndrome: assessment of psychological disturbance and its influence on the response to fibre supplementation},
+   journal = {J Psychosom Res},
+   volume = {36},
+   number = {2},
+   pages = {175-80},
+   ISSN = {0022-3999 (Print)
+0022-3999},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1313875}
+}
+
+@article{RN10158,
+   author = {Friedman, G.},
+   title = {Diet and the irritable bowel syndrome},
+   journal = {Gastroenterol Clin North Am},
+   volume = {20},
+   number = {2},
+   pages = {313-24},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2066155}
+}
+
+@article{RN10157,
+   author = {Hall, M. J. and Barry, R. E.},
+   title = {Current views on the aetiology and management of the irritable bowel syndrome},
+   journal = {Postgrad Med J},
+   volume = {67},
+   number = {791},
+   pages = {785-9},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.67.791.785},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1946124}
+}
+
+@article{RN10138,
+   author = {Iwai, A. and Miyahara, T. and Koyama, H. and Niwa, H.},
+   title = {[The general aspects of the treatment of irritable bowel syndrome]},
+   journal = {Nihon Rinsho},
+   volume = {50},
+   number = {11},
+   pages = {2734-9},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1363123}
+}
+
+@article{RN10152,
+   author = {Lambert, J. P. and Brunt, P. W. and Mowat, N. A. and Khin, C. C. and Lai, C. K. and Morrison, V. and Dickerson, J. W. and Eastwood, M. A.},
+   title = {The value of prescribed 'high-fibre' diets for the treatment of the irritable bowel syndrome},
+   journal = {Eur J Clin Nutr},
+   volume = {45},
+   number = {12},
+   pages = {601-9},
+   ISSN = {0954-3007 (Print)
+0954-3007},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1667298}
+}
+
+@article{RN10145,
+   author = {Long, D. E. and Jones, S. C. and Boyd, N. and Rothwell, J. and Clayden, A. D. and Axon, A. T.},
+   title = {Abdominal migraine: a cause of abdominal pain in adults?},
+   journal = {J Gastroenterol Hepatol},
+   volume = {7},
+   number = {2},
+   pages = {210-3},
+   ISSN = {0815-9319 (Print)
+0815-9319},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1571506}
+}
+
+@article{RN10139,
+   author = {Nagaoka, Y.},
+   title = {[Dietary treatment in patients with irritable bowel syndrome]},
+   journal = {Nihon Rinsho},
+   volume = {50},
+   number = {11},
+   pages = {2740-5},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1337565}
+}
+
+@article{RN10151,
+   author = {O'Donnell, L. J. and Davidson, K. and Cameron, D. and Wass, J. A. and Farthing, M. J.},
+   title = {Short report: plasma somatostatin concentrations in the irritable bowel syndrome},
+   journal = {Aliment Pharmacol Ther},
+   volume = {5},
+   number = {6},
+   pages = {659-63},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1685924}
+}
+
+@article{RN10143,
+   author = {Pattee, P. L. and Thompson, W. G.},
+   title = {Drug treatment of the irritable bowel syndrome},
+   journal = {Drugs},
+   volume = {44},
+   number = {2},
+   pages = {200-6},
+   ISSN = {0012-6667 (Print)
+0012-6667},
+   DOI = {10.2165/00003495-199244020-00004},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1382014}
+}
+
+@article{RN10149,
+   author = {Quigley, E. M. and Donovan, J. P. and Lane, M. J. and Gallagher, T. F.},
+   title = {Antroduodenal manometry. Usefulness and limitations as an outpatient study},
+   journal = {Dig Dis Sci},
+   volume = {37},
+   number = {1},
+   pages = {20-8},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1728526}
+}
+
+@article{RN10140,
+   author = {Sasaki, D. and Sutoh, T. and Abe, T.},
+   title = {[Psychosomatic treatment of irritable bowel syndrome]},
+   journal = {Nihon Rinsho},
+   volume = {50},
+   number = {11},
+   pages = {2758-63},
+   ISSN = {0047-1852 (Print)
+0047-1852},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1287250}
+}
+
+@article{RN10147,
+   author = {Stanghellini, V. and Ghidini, C. and Maccarini, M. R. and Paparo, G. F. and Corinaldesi, R. and Barbara, L.},
+   title = {Fasting and postprandial gastrointestinal motility in ulcer and non-ulcer dyspepsia},
+   journal = {Gut},
+   volume = {33},
+   number = {2},
+   pages = {184-90},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.33.2.184},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1541413}
+}
+
+@article{RN10150,
+   author = {Stefanini, G. F. and Prati, E. and Albini, M. C. and Piccinini, G. and Capelli, S. and Castelli, E. and Mazzetti, M. and Gasbarrini, G.},
+   title = {Oral disodium cromoglycate treatment on irritable bowel syndrome: an open study on 101 subjects with diarrheic type},
+   journal = {Am J Gastroenterol},
+   volume = {87},
+   number = {1},
+   pages = {55-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1728124}
+}
+
+@article{RN10146,
+   author = {Sullivan, S. N. and Wong, C.},
+   title = {Runners' diarrhea. Different patterns and associated factors},
+   journal = {J Clin Gastroenterol},
+   volume = {14},
+   number = {2},
+   pages = {101-4},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1556421}
+}
+
+@article{RN10156,
+   author = {Treem, W. R. and Hyams, J. S. and Blankschen, E. and Etienne, N. and Paule, C. L. and Borschel, M. W.},
+   title = {Evaluation of the effect of a fiber-enriched formula on infant colic},
+   journal = {J Pediatr},
+   volume = {119},
+   number = {5},
+   pages = {695-701},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1658281}
+}
+
+@article{RN10142,
+   author = {Vassallo, M. J. and Camilleri, M. and Phillips, S. F. and Steadman, C. J. and Talley, N. J. and Hanson, R. B. and Haddad, A. C.},
+   title = {Colonic tone and motility in patients with irritable bowel syndrome},
+   journal = {Mayo Clin Proc},
+   volume = {67},
+   number = {8},
+   pages = {725-31},
+   ISSN = {0025-6196 (Print)
+0025-6196},
+   DOI = {10.1016/s0025-6196(12)60796-4},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1434910}
+}
+
+@article{RN10159,
+   author = {Veale, D. and Kavanagh, G. and Fielding, J. F. and Fitzgerald, O.},
+   title = {Primary fibromyalgia and the irritable bowel syndrome: different expressions of a common pathogenetic process},
+   journal = {Br J Rheumatol},
+   volume = {30},
+   number = {3},
+   pages = {220-2},
+   ISSN = {0263-7103 (Print)
+0263-7103},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {2049586}
+}
+
+@article{RN10154,
+   author = {Villagrasa, M. and Boix, J. and Humbert, P. and Quer, J. C.},
+   title = {Aleatory clinical study comparing otilonium bromide with a fiber-rich diet in the treatment of irritable bowel syndrome},
+   journal = {Ital J Gastroenterol},
+   volume = {23},
+   number = {8 Suppl 1},
+   pages = {67-70},
+   ISSN = {0392-0623 (Print)
+0392-0623},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1661630}
+}
+
+@article{RN10136,
+   author = {West, L. and Warren, J. and Cutts, T.},
+   title = {Diagnosis and management of irritable bowel syndrome, constipation, and diarrhea in pregnancy},
+   journal = {Gastroenterol Clin North Am},
+   volume = {21},
+   number = {4},
+   pages = {793-802},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1478735}
+}
+
+@article{RN10144,
+   author = {Whorwell, P. J. and Houghton, L. A. and Taylor, E. E. and Maxton, D. G.},
+   title = {Physiological effects of emotion: assessment via hypnosis},
+   journal = {Lancet},
+   volume = {340},
+   number = {8811},
+   pages = {69-72},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1352012}
+}
+

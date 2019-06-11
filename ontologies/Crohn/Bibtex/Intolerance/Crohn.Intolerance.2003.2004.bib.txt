@@ -1,0 +1,155 @@
+﻿@article{RN7810,
+   author = {Bodemar, G. and Kechagias, S. and Almer, S. and Danielson, B. G.},
+   title = {Treatment of anaemia in inflammatory bowel disease with iron sucrose},
+   journal = {Scand J Gastroenterol},
+   volume = {39},
+   number = {5},
+   pages = {454-8},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15180183}
+}
+
+@article{RN7814,
+   author = {Bonaz, B. and Boitard, J. and Marteau, P. and Lemann, M. and Coffin, B. and Flourie, B. and Belaiche, J. and Cadiot, G. and Metman, E. H. and Cortot, A. and Colombel, J. F.},
+   title = {Tioguanine in patients with Crohn's disease intolerant or resistant to azathioprine/mercaptopurine},
+   journal = {Aliment Pharmacol Ther},
+   volume = {18},
+   number = {4},
+   pages = {401-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12940925}
+}
+
+@article{RN7816,
+   author = {Buning, C. and Ockenga, J. and Kruger, S. and Jurga, J. and Baier, P. and Dignass, A. and Vogel, A. and Strassburg, C. and Weltrich, R. and Genschel, J. and Lochs, H. and Schmidt, H.},
+   title = {The C/C(-13910) and G/G(-22018) genotypes for adult-type hypolactasia are not associated with inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {38},
+   number = {5},
+   pages = {538-42},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12795467}
+}
+
+@article{RN7817,
+   author = {Ford, A. C. and Towler, R. J. and Moayyedi, P. and Chalmers, D. M. and Axon, A. T.},
+   title = {Mycophenolate mofetil in refractory inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17},
+   number = {11},
+   pages = {1365-9},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12786630}
+}
+
+@article{RN7812,
+   author = {Goossens, D. and Jonkers, D. and Stobberingh, E. and van den Bogaard, A. and Russel, M. and Stockbrugger, R.},
+   title = {Probiotics in gastroenterology: indications and future perspectives},
+   journal = {Scand J Gastroenterol Suppl},
+   number = {239},
+   pages = {15-23},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14743878}
+}
+
+@article{RN7815,
+   author = {Herrlinger, K. R. and Deibert, P. and Schwab, M. and Kreisel, W. and Fischer, C. and Fellermann, K. and Stange, E. F.},
+   title = {Remission maintenance by tioguanine in chronic active Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17},
+   number = {12},
+   pages = {1459-64},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12823147}
+}
+
+@article{RN7818,
+   author = {Herrlinger, K. R. and Kreisel, W. and Schwab, M. and Schoelmerich, J. and Fleig, W. E. and Ruhl, A. and Reinshagen, M. and Deibert, P. and Fellermann, K. and Greinwald, R. and Stange, E. F.},
+   title = {6-thioguanine--efficacy and safety in chronic active Crohn's disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17},
+   number = {4},
+   pages = {503-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12622758}
+}
+
+@article{RN7813,
+   author = {Hessels, J. and Eidhof, H. H. and Steggink, J. and Roeloffzen, W. W. and Wu, K. and Tan, G. and van de Stadt, J. and van Bergeijk, L.},
+   title = {Assessment of hypolactasia and site-specific intestinal permeability by differential sugar absorption of raffinose, lactose, sucrose and mannitol},
+   journal = {Clin Chem Lab Med},
+   volume = {41},
+   number = {8},
+   pages = {1056-63},
+   ISSN = {1434-6621 (Print)
+1434-6621},
+   DOI = {10.1515/cclm.2003.163},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12964814}
+}
+
+@article{RN7811,
+   author = {Marinaki, A. M. and Ansari, A. and Duley, J. A. and Arenas, M. and Sumi, S. and Lewis, C. M. and Shobowale-Bakre el, M. and Escuredo, E. and Fairbanks, L. D. and Sanderson, J. D.},
+   title = {Adverse drug reactions to azathioprine therapy are associated with polymorphism in the gene encoding inosine triphosphate pyrophosphatase (ITPase)},
+   journal = {Pharmacogenetics},
+   volume = {14},
+   number = {3},
+   pages = {181-7},
+   ISSN = {0960-314X (Print)
+0960-314x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15167706}
+}
+
+@article{RN7809,
+   author = {Sandborn, W. J. and Hanauer, S. and Loftus, E. V., Jr. and Tremaine, W. J. and Kane, S. and Cohen, R. and Hanson, K. and Johnson, T. and Schmitt, D. and Jeche, R.},
+   title = {An open-label study of the human anti-TNF monoclonal antibody adalimumab in subjects with prior loss of response or intolerance to infliximab for Crohn's disease},
+   journal = {Am J Gastroenterol},
+   volume = {99},
+   number = {10},
+   pages = {1984-9},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2004.40462.x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15447761}
+}
+
+@article{RN7808,
+   author = {Stiefelhagen, P.},
+   title = {[To positively exclude organic disorders. How much diagnosis needs irritable colon?]},
+   journal = {MMW Fortschr Med},
+   volume = {146},
+   number = {37},
+   pages = {16},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15887697}
+}
+

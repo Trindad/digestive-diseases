@@ -1,0 +1,182 @@
+﻿@article{RN7873,
+   author = {Ananthakrishnan, A. N. and Hur, C. and Juillerat, P. and Korzenik, J. R.},
+   title = {Strategies for the prevention of postoperative recurrence in Crohn's disease: results of a decision analysis},
+   journal = {Am J Gastroenterol},
+   volume = {106},
+   number = {11},
+   pages = {2009-17},
+   ISSN = {0002-9270},
+   DOI = {10.1038/ajg.2011.237},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21788991}
+}
+
+@article{RN7865,
+   author = {Bortlik, M. and Duricova, D. and Malickova, K. and Machkova, N. and Bouzkova, E. and Hrdlicka, L. and Komarek, A. and Lukas, M.},
+   title = {Infliximab trough levels may predict sustained response to infliximab in patients with Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {7},
+   number = {9},
+   pages = {736-43},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.10.019},
+   year = {2013},
+   type = {Journal Article},
+   Accession Number= {23200919}
+}
+
+@article{RN7874,
+   author = {De Cassan, C. and De Vroey, B. and Dussault, C. and Hachulla, E. and Buche, S. and Colombel, J. F.},
+   title = {Successful treatment with adalimumab in a familial case of gastrointestinal Behcet's disease},
+   journal = {J Crohns Colitis},
+   volume = {5},
+   number = {4},
+   pages = {364-8},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2011.03.006},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21683309}
+}
+
+@article{RN7877,
+   author = {Einarsdottir, E. and Bevova, M. R. and Zhernakova, A. and Monsuur, A. and Koskinen, L. L. and van't Slot, R. and Mulder, C. and Mearin, M. L. and Korponay-Szabo, I. R. and Kaukinen, K. and Kurppa, K. and Kere, J. and Maki, M. and Wijmenga, C. and Saavalainen, P.},
+   title = {Multiple independent variants in 6q21-22 associated with susceptibility to celiac disease in the Dutch, Finnish and Hungarian populations},
+   journal = {Eur J Hum Genet},
+   volume = {19},
+   number = {6},
+   pages = {682-6},
+   ISSN = {1018-4813},
+   DOI = {10.1038/ejhg.2011.2},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21326284}
+}
+
+@article{RN7876,
+   author = {Ferreiro-Iglesias, R. and Barreiro-de-Acosta, M. and Seijo-Rios, S. and Lorenzo, A. and Dominguez-Munoz, J. E.},
+   title = {Efficacy of intravenous iron in treating iron deficiency anaemia in patients with inflammatory bowel disease. Are there predictors of response?},
+   journal = {Rev Esp Enferm Dig},
+   volume = {103},
+   number = {5},
+   pages = {245-9},
+   ISSN = {1130-0108 (Print)
+1130-0108},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21619388}
+}
+
+@article{RN7868,
+   author = {Giles, E. and Hanci, O. and McLean, A. and Power, N. and Cole, A. and Croft, N. M. and McDonald, K. and Chippington, S. and Naik, S.},
+   title = {Optimal assessment of paediatric IBD with MRI and barium follow-through},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {54},
+   number = {6},
+   pages = {758-62},
+   ISSN = {0277-2116},
+   DOI = {10.1097/MPG.0b013e3182460111},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22588598}
+}
+
+@article{RN7872,
+   author = {Gisbert, J. P. and Chaparro, M. and Gomollon, F.},
+   title = {Common misconceptions about 5-aminosalicylates and thiopurines in inflammatory bowel disease},
+   journal = {World J Gastroenterol},
+   volume = {17},
+   number = {30},
+   pages = {3467-78},
+   ISSN = {1007-9327},
+   DOI = {10.3748/wjg.v17.i30.3467},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21941413}
+}
+
+@article{RN7867,
+   author = {Katsanos, K. H. and Tsianos, V. E. and Tsianos, E. V.},
+   title = {Intolerance of folic acid in a patient receiving methotrexate for Crohn's disease},
+   journal = {J Crohns Colitis},
+   volume = {6},
+   number = {9},
+   pages = {960},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2012.05.017},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22705068}
+}
+
+@article{RN7866,
+   author = {Reenaers, C. and Louis, E. and Belaiche, J. and Seidel, L. and Keshav, S. and Travis, S.},
+   title = {Does co-treatment with immunosuppressors improve outcome in patients with Crohn's disease treated with adalimumab?},
+   journal = {Aliment Pharmacol Ther},
+   volume = {36},
+   number = {11-12},
+   pages = {1040-8},
+   ISSN = {0269-2813},
+   DOI = {10.1111/apt.12076},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {23061650}
+}
+
+@article{RN7875,
+   author = {Sprakes, M. B. and Hamlin, P. J. and Warren, L. and Greer, D. and Ford, A. C.},
+   title = {Adalimumab as second line anti-tumour necrosis factor alpha therapy for Crohn's disease: A single centre experience},
+   journal = {J Crohns Colitis},
+   volume = {5},
+   number = {4},
+   pages = {324-31},
+   ISSN = {1873-9946},
+   DOI = {10.1016/j.crohns.2011.02.007},
+   year = {2011},
+   type = {Journal Article},
+   Accession Number= {21683302}
+}
+
+@article{RN7870,
+   author = {Suares, N. C. and Hamlin, P. J. and Greer, D. P. and Warren, L. and Clark, T. and Ford, A. C.},
+   title = {Efficacy and tolerability of methotrexate therapy for refractory Crohn's disease: a large single-centre experience},
+   journal = {Aliment Pharmacol Ther},
+   volume = {35},
+   number = {2},
+   pages = {284-91},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2011.04925.x},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22112005}
+}
+
+@article{RN7869,
+   author = {Thomas, S. and Baumgart, D. C.},
+   title = {Targeting leukocyte migration and adhesion in Crohn's disease and ulcerative colitis},
+   journal = {Inflammopharmacology},
+   volume = {20},
+   number = {1},
+   pages = {1-18},
+   ISSN = {0925-4692},
+   DOI = {10.1007/s10787-011-0104-6},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {22205271}
+}
+
+@article{RN7871,
+   author = {Van Assche, G. and Vermeire, S. and Ballet, V. and Gabriels, F. and Noman, M. and D'Haens, G. and Claessens, C. and Humblet, E. and Vande Casteele, N. and Gils, A. and Rutgeerts, P.},
+   title = {Switch to adalimumab in patients with Crohn's disease controlled by maintenance infliximab: prospective randomised SWITCH trial},
+   journal = {Gut},
+   volume = {61},
+   number = {2},
+   pages = {229-34},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2011-300755},
+   year = {2012},
+   type = {Journal Article},
+   Accession Number= {21948942}
+}
+

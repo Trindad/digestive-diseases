@@ -1,0 +1,226 @@
+﻿@article{RN3096,
+   author = {Brunner, B. and Scheurer, U. and Seibold, F.},
+   title = {Differences in yeast intolerance between patients with Crohn's disease and ulcerative colitis},
+   journal = {Dis Colon Rectum},
+   volume = {50},
+   number = {1},
+   pages = {83-8},
+   ISSN = {0012-3706 (Print)
+0012-3706},
+   DOI = {10.1007/s10350-006-0749-1},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17096175}
+}
+
+@article{RN3088,
+   author = {Grzybowska-Chlebowczyk, U. and Wos, H. and Sieron, A. L. and Kajor, M. and Wiecek, S. and Koryciak-Komarska, H. and Augusciak-Duma, A.},
+   title = {[Parenteral symptoms and intestinal complications in children with inflammatory bowel diseases in relation to card15 mutation]},
+   journal = {Med Wieku Rozwoj},
+   volume = {12},
+   number = {3},
+   pages = {754-60},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {19305026}
+}
+
+@article{RN3081,
+   author = {Hindorf, U. and Johansson, M. and Eriksson, A. and Kvifors, E. and Almer, S. H.},
+   title = {Mercaptopurine treatment should be considered in azathioprine intolerant patients with inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {29},
+   number = {6},
+   pages = {654-61},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2008.03925.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19183142}
+}
+
+@article{RN3095,
+   author = {Hinojosa, J. and Gomollon, F. and Garcia, S. and Bastida, G. and Cabriada, J. L. and Saro, C. and Ceballos, D. and Penate, M. and Gassull, M. A.},
+   title = {Efficacy and safety of short-term adalimumab treatment in patients with active Crohn's disease who lost response or showed intolerance to infliximab: a prospective, open-label, multicentre trial},
+   journal = {Aliment Pharmacol Ther},
+   volume = {25},
+   number = {4},
+   pages = {409-18},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.03232.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17269996}
+}
+
+@article{RN3087,
+   author = {Jonkers, D. and Stockbrugger, R.},
+   title = {Review article: Probiotics in gastrointestinal and liver diseases},
+   journal = {Aliment Pharmacol Ther},
+   volume = {26 Suppl 2},
+   pages = {133-48},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03480.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {18081657}
+}
+
+@article{RN3089,
+   author = {Lees, C. W. and Maan, A. K. and Hansoti, B. and Satsangi, J. and Arnott, I. D.},
+   title = {Tolerability and safety of mercaptopurine in azathioprine-intolerant patients with inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {27},
+   number = {3},
+   pages = {220-7},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03570.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {17988235}
+}
+
+@article{RN3093,
+   author = {Leffler, D. A. and Dennis, M. and Hyett, B. and Kelly, E. and Schuppan, D. and Kelly, C. P.},
+   title = {Etiologies and predictors of diagnosis in nonresponsive celiac disease},
+   journal = {Clin Gastroenterol Hepatol},
+   volume = {5},
+   number = {4},
+   pages = {445-50},
+   ISSN = {1542-3565},
+   DOI = {10.1016/j.cgh.2006.12.006},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17382600}
+}
+
+@article{RN3091,
+   author = {Nathan, D. M. and Iser, J. H. and Gibson, P. R.},
+   title = {A single center experience of methotrexate in the treatment of Crohn's disease and ulcerative colitis: a case for subcutaneous administration},
+   journal = {J Gastroenterol Hepatol},
+   volume = {23},
+   number = {6},
+   pages = {954-8},
+   ISSN = {0815-9319},
+   DOI = {10.1111/j.1440-1746.2007.05006.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {17559377}
+}
+
+@article{RN3084,
+   author = {Oussalah, A. and Laclotte, C. and Chevaux, J. B. and Bensenane, M. and Babouri, A. and Serre, A. A. and Boucekkine, T. and Roblin, X. and Bigard, M. A. and Peyrin-Biroulet, L.},
+   title = {Long-term outcome of adalimumab therapy for ulcerative colitis with intolerance or lost response to infliximab: a single-centre experience},
+   journal = {Aliment Pharmacol Ther},
+   volume = {28},
+   number = {8},
+   pages = {966-72},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2008.03811.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18652603}
+}
+
+@article{RN3083,
+   author = {Pancaldi, M. and Mariotti, I. and Balli, F.},
+   title = {Intestinal inflammation in nursing infants: different causes and a single treatment ... but of protected origin},
+   journal = {Acta Biomed},
+   volume = {79},
+   number = {2},
+   pages = {144-50},
+   ISSN = {0392-4203 (Print)
+0392-4203},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18788512}
+}
+
+@article{RN3082,
+   author = {Perez Tarrago, C. and Puebla Maestu, A. and Mijan de la Torre, A. A.},
+   title = {[Nutritional management of inflammatory bowel disease]},
+   journal = {Nutr Hosp},
+   volume = {23},
+   number = {5},
+   pages = {418-28},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {19160891}
+}
+
+@article{RN3092,
+   author = {Peyrin-Biroulet, L. and Laclotte, C. and Roblin, X. and Bigard, M. A.},
+   title = {Adalimumab induction therapy for ulcerative colitis with intolerance or lost response to infliximab: an open-label study},
+   journal = {World J Gastroenterol},
+   volume = {13},
+   number = {16},
+   pages = {2328-32},
+   ISSN = {1007-9327 (Print)
+1007-9327},
+   DOI = {10.3748/wjg.v13.i16.2328},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17511032}
+}
+
+@article{RN3094,
+   author = {Qasim, A. and McDonald, S. and Sebastian, S. and McLoughlin, R. and Buckley, M. and O'Connor, H. and O'Morain, C.},
+   title = {Efficacy and safety of 6-thioguanine in the management of inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {42},
+   number = {2},
+   pages = {194-9},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   DOI = {10.1080/00365520600825166},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17327939}
+}
+
+@article{RN3086,
+   author = {Quin, A. and Kane, S. and Ulitsky, O.},
+   title = {A case of fistulizing Crohn's disease and erythema nodosum managed with adalimumab},
+   journal = {Nat Clin Pract Gastroenterol Hepatol},
+   volume = {5},
+   number = {5},
+   pages = {278-81},
+   ISSN = {1743-4378},
+   DOI = {10.1038/ncpgasthep1099},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18364718}
+}
+
+@article{RN3085,
+   author = {Shrier, I. and Szilagyi, A. and Correa, J. A.},
+   title = {Impact of lactose containing foods and the genetics of lactase on diseases: an analytical review of population data},
+   journal = {Nutr Cancer},
+   volume = {60},
+   number = {3},
+   pages = {292-300},
+   ISSN = {0163-5581 (Print)
+0163-5581},
+   DOI = {10.1080/01635580701745301},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18444163}
+}
+
+@article{RN3090,
+   author = {van Assche, G. and Vermeire, S. and Rutgeerts, P.},
+   title = {Emerging biological treatments in inflammatory bowel diseases},
+   journal = {Minerva Gastroenterol Dietol},
+   volume = {53},
+   number = {3},
+   pages = {249-55},
+   ISSN = {1121-421X (Print)
+1121-421x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17912187}
+}
+

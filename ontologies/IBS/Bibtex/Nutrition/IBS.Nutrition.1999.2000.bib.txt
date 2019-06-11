@@ -1,0 +1,111 @@
+﻿@article{RN12570,
+   author = {Hyams, J. S.},
+   title = {Functional gastrointestinal disorders},
+   journal = {Curr Opin Pediatr},
+   volume = {11},
+   number = {5},
+   pages = {375-8},
+   ISSN = {1040-8703 (Print)
+1040-8703},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10555586}
+}
+
+@article{RN12568,
+   author = {Hyams, J. S. and Davis, P. and Sylvester, F. A. and Zeiter, D. K. and Justinich, C. J. and Lerer, T.},
+   title = {Dyspepsia in children and adolescents: a prospective study},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {30},
+   number = {4},
+   pages = {413-8},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10776953}
+}
+
+@article{RN12571,
+   author = {Hyams, J. S. and Hyman, P. E. and Rasquin-Weber, A.},
+   title = {Childhood recurrent abdominal pain and subsequent adult irritable bowel syndrome},
+   journal = {J Dev Behav Pediatr},
+   volume = {20},
+   number = {5},
+   pages = {318-9},
+   ISSN = {0196-206X (Print)
+0196-206x},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10533988}
+}
+
+@article{RN12565,
+   author = {Ledochowski, M. and Widner, B. and Bair, H. and Probst, T. and Fuchs, D.},
+   title = {Fructose- and sorbitol-reduced diet improves mood and gastrointestinal disturbances in fructose malabsorbers},
+   journal = {Scand J Gastroenterol},
+   volume = {35},
+   number = {10},
+   pages = {1048-52},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11099057}
+}
+
+@article{RN12566,
+   author = {Ledochowski, M. and Widner, B. and Sperner-Unterweger, B. and Propst, T. and Vogel, W. and Fuchs, D.},
+   title = {Carbohydrate malabsorption syndromes and early signs of mental depression in females},
+   journal = {Dig Dis Sci},
+   volume = {45},
+   number = {7},
+   pages = {1255-9},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10961700}
+}
+
+@article{RN12569,
+   author = {Read, N. W.},
+   title = {Harnessing the patient's powers of recovery: the role of the psychotherapies in the irritable bowel syndrome},
+   journal = {Baillieres Best Pract Res Clin Gastroenterol},
+   volume = {13},
+   number = {3},
+   pages = {473-87},
+   DOI = {10.1053/bega.1999.0041},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10580923}
+}
+
+@article{RN12572,
+   author = {Shaw, A. D. and Davies, G. J.},
+   title = {Lactose intolerance: problems in diagnosis and treatment},
+   journal = {J Clin Gastroenterol},
+   volume = {28},
+   number = {3},
+   pages = {208-16},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10192605}
+}
+
+@article{RN12567,
+   author = {Turnbull, G. K.},
+   title = {Lactose intolerance and irritable bowel syndrome},
+   journal = {Nutrition},
+   volume = {16},
+   number = {7-8},
+   pages = {665-6},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10906590}
+}
+

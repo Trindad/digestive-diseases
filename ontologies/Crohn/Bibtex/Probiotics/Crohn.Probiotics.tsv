@@ -1,0 +1,1437 @@
+Crohn.Probiotics.1999.2000.bib	10575571	6-mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.1999.2000.bib	10575571	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.1999.2000.bib	10575571	5-aminosalicylic acid	Chemical Compound	cids00004075
+Crohn.Probiotics.1999.2000.bib	10575571	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.1999.2000.bib	10575571	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.1999.2000.bib	10575571	sulphasalazine	Chemical Compound	cids05353980
+Crohn.Probiotics.1999.2000.bib	10575571	disease	Disease	doid:4
+Crohn.Probiotics.1999.2000.bib	10949626	bacterium	Organism	1869227
+Crohn.Probiotics.1999.2000.bib	10949626	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.1999.2000.bib	10949626	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.1999.2000.bib	10949626	e. coli nissle 1917	Organism	316435
+Crohn.Probiotics.1999.2000.bib	10949626	disease	Disease	doid:4
+Crohn.Probiotics.1999.2000.bib	10949626	immune response	Biological Process	go:0006955
+Crohn.Probiotics.1999.2000.bib	11045848	bacterium	Organism	1869227
+Crohn.Probiotics.1999.2000.bib	11045848	intestine	Tissue	bto:0000648
+Crohn.Probiotics.1999.2000.bib	11045848	human	Organism	9606
+Crohn.Probiotics.1999.2000.bib	11045848	lactobacillus gg	Organism	568703
+Crohn.Probiotics.1999.2000.bib	11045848	disease	Disease	doid:4
+Crohn.Probiotics.1999.2000.bib	10961730	intestine	Tissue	bto:0000648
+Crohn.Probiotics.1999.2000.bib	10961730	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.1999.2000.bib	10961730	disease	Disease	doid:4
+Crohn.Probiotics.1999.2000.bib	10961730	human	Organism	9606
+Crohn.Probiotics.1999.2000.bib	10961730	saccharomyces	Organism	4930
+Crohn.Probiotics.1999.2000.bib	10696841	bacteria	Organism	1869227
+Crohn.Probiotics.1999.2000.bib	10696841	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.1999.2000.bib	10696841	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.1999.2000.bib	10696841	leukocyte	Tissue	bto:0000751
+Crohn.Probiotics.1999.2000.bib	10696841	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.1999.2000.bib	10696841	cancer	Disease	doid:162
+Crohn.Probiotics.1999.2000.bib	10696841	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.1999.2000.bib	10833070	bacteria	Organism	1869227
+Crohn.Probiotics.1999.2000.bib	10833070	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.1999.2000.bib	10833070	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.1999.2000.bib	10833070	humans	Organism	9606
+Crohn.Probiotics.1999.2000.bib	10833070	disease	Disease	doid:4
+Crohn.Probiotics.1997.1998.bib	9530772	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.1997.1998.bib	9530772	antioxidants	Molecular Function	go:0016209
+Crohn.Probiotics.1997.1998.bib	9530772	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.1997.1998.bib	9530772	5-aminosalicylic acid	Chemical Compound	cids00004075
+Crohn.Probiotics.1997.1998.bib	9530772	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.1997.1998.bib	9530772	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.1997.1998.bib	9530772	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.1997.1998.bib	9530772	immune system	Tissue	bto:0005810
+Crohn.Probiotics.1997.1998.bib	9530772	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12377803	tnf-alpha	Genes/Proteins	fbpp0087493
+Crohn.Probiotics.2001.2002.bib	12377803	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	12377803	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2001.2002.bib	12377803	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2001.2002.bib	12377803	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12377803	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2001.2002.bib	12083982	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2001.2002.bib	12083982	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2001.2002.bib	12083982	growth	Biological Process	go:0040007
+Crohn.Probiotics.2001.2002.bib	12083982	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	11383587	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	11383587	ecosystem	Environment	envo:00000428
+Crohn.Probiotics.2001.2002.bib	11383587	human	Organism	9606
+Crohn.Probiotics.2001.2002.bib	11383587	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2001.2002.bib	11383587	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2001.2002.bib	11383587	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2001.2002.bib	11383587	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	11383587	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11383587	constipation	Disease	doid:2089
+Crohn.Probiotics.2001.2002.bib	11157346	mouse	Organism	10090
+Crohn.Probiotics.2001.2002.bib	11157346	lactic acid	Chemical Compound	cids00000612
+Crohn.Probiotics.2001.2002.bib	11157346	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	11157346	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2001.2002.bib	11157346	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2001.2002.bib	11157346	ilea	Tissue	bto:0000620
+Crohn.Probiotics.2001.2002.bib	11157346	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2001.2002.bib	11157346	l. salivarius strain ucc118	Organism	362948
+Crohn.Probiotics.2001.2002.bib	11157346	bacteria	Organism	629395
+Crohn.Probiotics.2001.2002.bib	11157346	human	Organism	9606
+Crohn.Probiotics.2001.2002.bib	11157346	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2001.2002.bib	11157346	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2001.2002.bib	11157346	lactobacillus salivarius subsp. salivarius	Organism	1624
+Crohn.Probiotics.2001.2002.bib	11157346	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	12408443	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	12408443	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2001.2002.bib	12408443	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2001.2002.bib	12408443	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2001.2002.bib	12408443	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12408443	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11768558	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	11768558	rectum	Tissue	bto:0001158
+Crohn.Probiotics.2001.2002.bib	11768558	caecum	Organism	761541
+Crohn.Probiotics.2001.2002.bib	11768558	eubacteria	Organism	2
+Crohn.Probiotics.2001.2002.bib	11768558	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2001.2002.bib	11768558	human	Organism	9606
+Crohn.Probiotics.2001.2002.bib	11768558	germ	Tissue	bto:0000514
+Crohn.Probiotics.2001.2002.bib	11768558	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2001.2002.bib	11768558	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2001.2002.bib	11768558	localization	Biological Process	go:0051179
+Crohn.Probiotics.2001.2002.bib	11768558	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11768558	stasis	Genes/Proteins	fbpp0291358
+Crohn.Probiotics.2001.2002.bib	11768558	bacteroides	Organism	816
+Crohn.Probiotics.2001.2002.bib	11768558	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2001.2002.bib	11768558	t-lymphocytes	Tissue	bto:0000782
+Crohn.Probiotics.2001.2002.bib	11768558	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2001.2002.bib	11768558	bifidobacteria	Organism	1678
+Crohn.Probiotics.2001.2002.bib	11768558	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	11768558	colitis	Disease	doid:0060180
+Crohn.Probiotics.2001.2002.bib	11768558	peptostreptococcus	Organism	1257
+Crohn.Probiotics.2001.2002.bib	11768558	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2001.2002.bib	11778131	nod2	Genes/Proteins	ensrnop00000061463
+Crohn.Probiotics.2001.2002.bib	11778131	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	11778131	cancer	Disease	doid:162
+Crohn.Probiotics.2001.2002.bib	11778131	leukocyte	Tissue	bto:0000751
+Crohn.Probiotics.2001.2002.bib	11778131	necrosis	Biological Process	go:0008219
+Crohn.Probiotics.2001.2002.bib	11778131	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	11778131	saccharomyces cerevisiae	Organism	4932
+Crohn.Probiotics.2001.2002.bib	11778131	erythrocyte	Tissue	bto:0000424
+Crohn.Probiotics.2001.2002.bib	11778131	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11778131	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	11778131	6-thioguanine	Chemical Compound	cids02723601
+Crohn.Probiotics.2001.2002.bib	12572870	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	12572870	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2001.2002.bib	12408444	lactobacillus rhamnosus strain gg	Organism	568703
+Crohn.Probiotics.2001.2002.bib	12408444	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12408444	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	12171964	bacteria	Organism	1869227
+Crohn.Probiotics.2001.2002.bib	12171964	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2001.2002.bib	12171964	mouth	Tissue	bto:0001090
+Crohn.Probiotics.2001.2002.bib	12171964	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12000604	tnf	Genes/Proteins	ensrnop00000001114
+Crohn.Probiotics.2001.2002.bib	12000604	6-mp	Chemical Compound	cids00667490
+Crohn.Probiotics.2001.2002.bib	12000604	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2001.2002.bib	12000604	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	12000604	integrins	Cellular Component	go:0008305
+Crohn.Probiotics.2001.2002.bib	12000604	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	12000604	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	12000604	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2001.2002.bib	12000604	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2001.2002.bib	12000604	inflammatory cells	Tissue	bto:0003861
+Crohn.Probiotics.2001.2002.bib	12000604	methotrexate	Chemical Compound	cids00126941
+Crohn.Probiotics.2001.2002.bib	16144202	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2001.2002.bib	16144202	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2001.2002.bib	16144202	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2001.2002.bib	16144202	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	16144202	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11475137	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2001.2002.bib	11475137	disease	Disease	doid:4
+Crohn.Probiotics.2001.2002.bib	11475137	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2001.2002.bib	11475137	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16753341	tailor	Genes/Proteins	fbpp0305518
+Crohn.Probiotics.2005.2006.bib	16753341	interleukin-12	Cellular Component	go:0043514
+Crohn.Probiotics.2005.2006.bib	16753341	interferon-gamma	Genes/Proteins	ensbtap00000016634
+Crohn.Probiotics.2005.2006.bib	16753341	regulatory t cells	Tissue	bto:0004520
+Crohn.Probiotics.2005.2006.bib	16753341	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	16753341	nod2/card15	Genes/Proteins	ensp00000300589
+Crohn.Probiotics.2005.2006.bib	16753341	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2005.2006.bib	16753341	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2005.2006.bib	16753341	leukocytes	Tissue	bto:0000751
+Crohn.Probiotics.2005.2006.bib	16753341	innate immune responses	Biological Process	go:0045087
+Crohn.Probiotics.2005.2006.bib	16753341	bacteria	Organism	2
+Crohn.Probiotics.2005.2006.bib	16753341	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2005.2006.bib	16753341	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15929439	colitis	Disease	doid:0060180
+Crohn.Probiotics.2005.2006.bib	15929439	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15929439	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	15929439	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2005.2006.bib	15929439	human	Organism	9606
+Crohn.Probiotics.2005.2006.bib	16995360	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16995360	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16995360	e. coli nissle 1917	Organism	316435
+Crohn.Probiotics.2005.2006.bib	16116318	6-mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2005.2006.bib	16116318	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16116318	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2005.2006.bib	16116318	lactobacillus rhamnosus strain gg	Organism	568703
+Crohn.Probiotics.2005.2006.bib	15980279	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15980279	adults	Tissue	bto:0001043
+Crohn.Probiotics.2005.2006.bib	16313879	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16313879	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16313879	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15667551	tumor necrosis factor-alpha	Genes/Proteins	ensmusp00000025263
+Crohn.Probiotics.2005.2006.bib	15667551	bacteria	Organism	1869227
+Crohn.Probiotics.2005.2006.bib	15667551	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	15667551	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2005.2006.bib	15667551	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2005.2006.bib	15667551	chronic inflammatory response	Biological Process	go:0002544
+Crohn.Probiotics.2005.2006.bib	15667551	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15667551	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16633136	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16633136	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2005.2006.bib	16633136	h pylori	Organism	210
+Crohn.Probiotics.2005.2006.bib	16633136	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2005.2006.bib	16633136	acute diarrhea	Disease	doid:0050140
+Crohn.Probiotics.2005.2006.bib	16633136	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2005.2006.bib	16633136	intestinal disease	Disease	doid:5295
+Crohn.Probiotics.2005.2006.bib	16633136	adults	Tissue	bto:0001043
+Crohn.Probiotics.2005.2006.bib	15711050	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2005.2006.bib	15711050	6-mp	Chemical Compound	cids00667490
+Crohn.Probiotics.2005.2006.bib	15711050	mesalamine	Chemical Compound	cids00004075
+Crohn.Probiotics.2005.2006.bib	15711050	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2005.2006.bib	15711050	ornidazole	Chemical Compound	cids00028061
+Crohn.Probiotics.2005.2006.bib	15711050	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2005.2006.bib	15711050	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2005.2006.bib	15711050	nitroimidazole	Chemical Compound	cids18379476
+Crohn.Probiotics.2005.2006.bib	15711050	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16733845	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16733845	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16733845	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16733845	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	16633130	lactic acid	Chemical Compound	cids00000612
+Crohn.Probiotics.2005.2006.bib	16633130	bacteria	Organism	1869227
+Crohn.Probiotics.2005.2006.bib	16633130	infectious diarrhea	Disease	doid:12384
+Crohn.Probiotics.2005.2006.bib	16633130	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2005.2006.bib	16633130	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2005.2006.bib	16633130	bifidobacteria	Organism	1678
+Crohn.Probiotics.2005.2006.bib	16633130	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16633130	lactobacilli	Organism	1578
+Crohn.Probiotics.2005.2006.bib	16633130	hospital	Environment	envo:00002173
+Crohn.Probiotics.2005.2006.bib	16633130	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2005.2006.bib	16633130	saccharomyces	Organism	4930
+Crohn.Probiotics.2005.2006.bib	16633130	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.2005.2006.bib	16673007	bifidobacteria	Organism	1678
+Crohn.Probiotics.2005.2006.bib	16673007	regulatory t cells	Tissue	bto:0004520
+Crohn.Probiotics.2005.2006.bib	16673007	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2005.2006.bib	16673007	mycobacteria	Organism	1763
+Crohn.Probiotics.2005.2006.bib	16673007	lactobacilli	Organism	1578
+Crohn.Probiotics.2005.2006.bib	16673007	human	Organism	9606
+Crohn.Probiotics.2005.2006.bib	16673007	allergy	Disease	doid:1205
+Crohn.Probiotics.2005.2006.bib	16673007	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16673007	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	15932981	lactobacillus casei dn-114 001	Organism	742815
+Crohn.Probiotics.2005.2006.bib	15932981	intestine-407 cells	Tissue	bto:0000633
+Crohn.Probiotics.2005.2006.bib	15932981	l. casei	Organism	1582
+Crohn.Probiotics.2005.2006.bib	15932981	e. coli	Organism	562
+Crohn.Probiotics.2005.2006.bib	15932981	cfu	Chemical Compound	cids77620543
+Crohn.Probiotics.2005.2006.bib	15932981	intestinal epithelial cells	Tissue	bto:0005937
+Crohn.Probiotics.2005.2006.bib	15932981	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2005.2006.bib	15932981	human	Organism	9606
+Crohn.Probiotics.2005.2006.bib	15932981	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2005.2006.bib	15932981	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15932981	caco-2	Tissue	bto:0000195
+Crohn.Probiotics.2005.2006.bib	16193098	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16193098	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	16193098	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16193098	intestinal disease	Disease	doid:5295
+Crohn.Probiotics.2005.2006.bib	16193098	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2005.2006.bib	16193098	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2005.2006.bib	16193098	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16193098	flare	Genes/Proteins	fbpp0075581
+Crohn.Probiotics.2005.2006.bib	16313880	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16313880	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17256276	nod2	Genes/Proteins	ensrnop00000061463
+Crohn.Probiotics.2005.2006.bib	17256276	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	17256276	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17256276	intracellular	Cellular Component	go:0005622
+Crohn.Probiotics.2005.2006.bib	17256276	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2005.2006.bib	17256276	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	17256276	secretion	Biological Process	go:0046903
+Crohn.Probiotics.2005.2006.bib	17256276	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2005.2006.bib	17256276	t-cells	Tissue	bto:0000782
+Crohn.Probiotics.2005.2006.bib	17256276	cell membrane	Cellular Component	go:0005886
+Crohn.Probiotics.2005.2006.bib	16961740	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2005.2006.bib	16961740	mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2005.2006.bib	16961740	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2005.2006.bib	16961740	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2005.2006.bib	16961740	ornidazole	Chemical Compound	cids00028061
+Crohn.Probiotics.2005.2006.bib	16961740	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2005.2006.bib	16961740	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15980280	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17242485	bacteria	Organism	1869227
+Crohn.Probiotics.2005.2006.bib	17242485	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	17242485	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2005.2006.bib	17242485	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	17242485	diarrhoea	Disease	doid:13250
+Crohn.Probiotics.2005.2006.bib	17242485	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17242485	adults	Tissue	bto:0001043
+Crohn.Probiotics.2005.2006.bib	16377775	bacteria	Organism	629395
+Crohn.Probiotics.2005.2006.bib	16377775	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2005.2006.bib	16377775	lactobacillus johnsonii	Organism	33959
+Crohn.Probiotics.2005.2006.bib	16377775	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16043993	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16633133	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16633133	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16633133	bacteria	Organism	629395
+Crohn.Probiotics.2005.2006.bib	16633133	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2005.2006.bib	16633133	growth	Biological Process	go:0040007
+Crohn.Probiotics.2005.2006.bib	16633133	t cell apoptosis	Biological Process	go:0070231
+Crohn.Probiotics.2005.2006.bib	16633133	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	16633133	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2005.2006.bib	17054217	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17037946	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	17037946	colon	Organism	1542223
+Crohn.Probiotics.2005.2006.bib	17037946	mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2005.2006.bib	17037946	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2005.2006.bib	17037946	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	17037946	cyclosporine	Chemical Compound	cids05280754
+Crohn.Probiotics.2005.2006.bib	17037946	vitamin d	Chemical Compound	cids05280795
+Crohn.Probiotics.2005.2006.bib	17037946	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	17037946	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2005.2006.bib	17037946	behavior	Biological Process	go:0007610
+Crohn.Probiotics.2005.2006.bib	17037946	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2005.2006.bib	17037946	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2005.2006.bib	17037946	growth	Biological Process	go:0040007
+Crohn.Probiotics.2005.2006.bib	17037946	folate	Chemical Compound	cids00006037
+Crohn.Probiotics.2005.2006.bib	17037946	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2005.2006.bib	17037946	colitis	Disease	doid:0060180
+Crohn.Probiotics.2005.2006.bib	17037946	cecum	Tissue	bto:0000166
+Crohn.Probiotics.2005.2006.bib	17037946	methotrexate	Chemical Compound	cids00126941
+Crohn.Probiotics.2005.2006.bib	17037946	colon cancer	Disease	doid:219
+Crohn.Probiotics.2005.2006.bib	17037946	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2005.2006.bib	16313878	thioguanosine triphosphate	Chemical Compound	cids87131079
+Crohn.Probiotics.2005.2006.bib	16313878	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16313878	peroxisome proliferator activated receptor gamma	Genes/Proteins	ensdarp00000039949
+Crohn.Probiotics.2005.2006.bib	16313878	mesalamine	Chemical Compound	cids00004075
+Crohn.Probiotics.2005.2006.bib	16313878	intestinal mucosal	Tissue	bto:0000642
+Crohn.Probiotics.2005.2006.bib	16313878	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2005.2006.bib	16313878	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2005.2006.bib	16313878	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15976487	nod2	Genes/Proteins	ensrnop00000061463
+Crohn.Probiotics.2005.2006.bib	15976487	bacteria	Organism	1869227
+Crohn.Probiotics.2005.2006.bib	15976487	paneth cell	Tissue	bto:0000993
+Crohn.Probiotics.2005.2006.bib	15976487	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	15976487	colon	Organism	1542223
+Crohn.Probiotics.2005.2006.bib	15976487	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2005.2006.bib	15976487	human	Organism	9606
+Crohn.Probiotics.2005.2006.bib	15976487	intracellular	Cellular Component	go:0005622
+Crohn.Probiotics.2005.2006.bib	15976487	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2005.2006.bib	15976487	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2005.2006.bib	15976487	peptidoglycan receptor	Molecular Function	go:0016019
+Crohn.Probiotics.2005.2006.bib	15976487	disease	Disease	doid:4
+Crohn.Probiotics.2005.2006.bib	15976487	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2005.2006.bib	16927942	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2005.2006.bib	16927942	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20836616	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19765368	c. difficile	Organism	485939
+Crohn.Probiotics.2009.2010.bib	19765368	clostridium difficile	Organism	1496
+Crohn.Probiotics.2009.2010.bib	19765368	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2009.2010.bib	19765368	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2009.2010.bib	19765368	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19765368	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19821389	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20055785	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	20055785	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20055785	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	21484962	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	21484962	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	21484962	human	Organism	9606
+Crohn.Probiotics.2009.2010.bib	21484962	innate immune response	Biological Process	go:0045087
+Crohn.Probiotics.2009.2010.bib	21484962	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	21484962	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2009.2010.bib	20432590	tnf-alpha	Genes/Proteins	fbpp0087493
+Crohn.Probiotics.2009.2010.bib	20432590	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	20432590	colitis	Disease	doid:0060180
+Crohn.Probiotics.2009.2010.bib	20432590	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2009.2010.bib	20432590	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	20432590	flare	Genes/Proteins	fbpp0075581
+Crohn.Probiotics.2009.2010.bib	20432590	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20383890	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20383890	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	20383890	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	20383890	adult	Tissue	bto:0001043
+Crohn.Probiotics.2009.2010.bib	20848469	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	20576332	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	19174795	hbd-2	Genes/Proteins	ensp00000303532
+Crohn.Probiotics.2009.2010.bib	19174795	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	19174795	beta-defensin-2	Genes/Proteins	ensmusp00000006745
+Crohn.Probiotics.2009.2010.bib	19174795	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2009.2010.bib	19174795	human	Organism	9606
+Crohn.Probiotics.2009.2010.bib	19174795	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2009.2010.bib	19174795	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2009.2010.bib	19174795	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2009.2010.bib	19442170	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2009.2010.bib	19442170	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19442170	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19442170	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	19442170	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	20117346	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	20117346	toll like	Genes/Proteins	fbpp0077898
+Crohn.Probiotics.2009.2010.bib	20117346	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2009.2010.bib	20117346	receptors	Cellular Component	go:0043235
+Crohn.Probiotics.2009.2010.bib	20117346	nf-kappab	Cellular Component	go:0071159
+Crohn.Probiotics.2009.2010.bib	20117346	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2009.2010.bib	20117346	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	20117346	inflammatory response	Biological Process	go:0006954
+Crohn.Probiotics.2009.2010.bib	20117346	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20117346	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2009.2010.bib	21406129	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2009.2010.bib	21406129	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	21406129	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	19444096	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19444096	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	19538304	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	19538304	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	19538304	colitis	Disease	doid:0060180
+Crohn.Probiotics.2009.2010.bib	19538304	ion transport	Biological Process	go:0006811
+Crohn.Probiotics.2009.2010.bib	19538304	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2009.2010.bib	19538304	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19538304	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2009.2010.bib	19538304	intestinal epithelium	Tissue	bto:0000781
+Crohn.Probiotics.2009.2010.bib	19538304	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20203506	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	20203506	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	20203506	colitis	Disease	doid:0060180
+Crohn.Probiotics.2009.2010.bib	20203506	human	Organism	9606
+Crohn.Probiotics.2009.2010.bib	20203506	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2009.2010.bib	20203506	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20203506	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19710519	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	19710519	t cells	Tissue	bto:0000782
+Crohn.Probiotics.2009.2010.bib	19710519	enterobacteriaceae	Organism	543
+Crohn.Probiotics.2009.2010.bib	19710519	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2009.2010.bib	19710519	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	19710519	clostridial	Organism	186801
+Crohn.Probiotics.2009.2010.bib	19710519	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	19710519	macrophages	Tissue	bto:0000801
+Crohn.Probiotics.2009.2010.bib	19710519	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19710519	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2009.2010.bib	19710519	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2009.2010.bib	19710519	escherichia coli	Organism	562
+Crohn.Probiotics.2009.2010.bib	19710519	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19710519	homeostasis	Biological Process	go:0042592
+Crohn.Probiotics.2009.2010.bib	19220543	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2009.2010.bib	19220543	lactobacilli	Organism	1578
+Crohn.Probiotics.2009.2010.bib	20150601	juvenile	Tissue	bto:0002168
+Crohn.Probiotics.2009.2010.bib	20150601	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20150601	hormone	Molecular Function	go:0005179
+Crohn.Probiotics.2009.2010.bib	20150601	growth	Biological Process	go:0040007
+Crohn.Probiotics.2009.2010.bib	20735782	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20735782	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2009.2010.bib	20735782	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	21115585	food products	Environment	envo:00002002
+Crohn.Probiotics.2009.2010.bib	21115585	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	21115585	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2009.2010.bib	21115585	gastroenteritis	Disease	doid:2326
+Crohn.Probiotics.2009.2010.bib	21115585	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	21115585	gastritis	Disease	doid:4029
+Crohn.Probiotics.2009.2010.bib	21115585	necrotizing enterocolitis	Disease	doid:8677
+Crohn.Probiotics.2009.2010.bib	21115585	human	Organism	9606
+Crohn.Probiotics.2009.2010.bib	21115585	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2009.2010.bib	21115585	growth	Biological Process	go:0040007
+Crohn.Probiotics.2009.2010.bib	21115585	helicobacter pylori	Organism	210
+Crohn.Probiotics.2009.2010.bib	21115585	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2009.2010.bib	21115585	atopic eczema	Disease	doid:3310
+Crohn.Probiotics.2009.2010.bib	19179875	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2009.2010.bib	19179875	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2009.2010.bib	19179875	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	19179875	intestines	Tissue	bto:0000648
+Crohn.Probiotics.2009.2010.bib	19179875	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2009.2010.bib	19179875	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19179875	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2009.2010.bib	19179875	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	19179875	homeostasis	Biological Process	go:0042592
+Crohn.Probiotics.2009.2010.bib	19179875	mucosal immune responses	Biological Process	go:0002385
+Crohn.Probiotics.2009.2010.bib	19179875	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2009.2010.bib	19838869	macrophages	Tissue	bto:0000801
+Crohn.Probiotics.2009.2010.bib	19838869	t-cell activation	Biological Process	go:0042110
+Crohn.Probiotics.2009.2010.bib	19838869	innate immunity	Biological Process	go:0045087
+Crohn.Probiotics.2009.2010.bib	19838869	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	19838869	nod2/card15	Genes/Proteins	ensp00000300589
+Crohn.Probiotics.2009.2010.bib	19838869	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	19838869	nf-kappab activation	Biological Process	go:0051092
+Crohn.Probiotics.2009.2010.bib	19838869	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2009.2010.bib	19838869	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	19838869	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19838869	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2009.2010.bib	19838869	homeostasis	Biological Process	go:0042592
+Crohn.Probiotics.2009.2010.bib	19838869	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2009.2010.bib	19244149	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2009.2010.bib	19244149	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	19244149	human immunodeficiency virus	Organism	12721
+Crohn.Probiotics.2009.2010.bib	19244149	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2009.2010.bib	19244149	short bowel syndrome	Disease	doid:10605
+Crohn.Probiotics.2009.2010.bib	20117337	bacteria	Organism	1869227
+Crohn.Probiotics.2009.2010.bib	20117337	nod2	Genes/Proteins	ensbtap00000027887
+Crohn.Probiotics.2009.2010.bib	20117337	beta-defensin	Genes/Proteins	ensrnop00000009930
+Crohn.Probiotics.2009.2010.bib	20117337	hd-6	Genes/Proteins	ensp00000334061
+Crohn.Probiotics.2009.2010.bib	20117337	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2009.2010.bib	20117337	disease	Disease	doid:4
+Crohn.Probiotics.2009.2010.bib	20117337	staphylococcus aureus	Organism	1280
+Crohn.Probiotics.2009.2010.bib	20117337	wnt signalling	Biological Process	go:0016055
+Crohn.Probiotics.2009.2010.bib	20117337	hd-5	Genes/Proteins	ensp00000225983
+Crohn.Probiotics.2009.2010.bib	20117337	viruses	Organism	10239
+Crohn.Probiotics.2009.2010.bib	20117337	fungi	Organism	4751
+Crohn.Probiotics.2009.2010.bib	20117337	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2009.2010.bib	20117337	pattern recognition receptor	Molecular Function	go:0038187
+Crohn.Probiotics.2009.2010.bib	20117337	epithelial cell	Tissue	bto:0000414
+Crohn.Probiotics.2009.2010.bib	20117337	escherichia coli	Organism	562
+Crohn.Probiotics.2009.2010.bib	20117337	defensin	Genes/Proteins	fbpp0087518
+Crohn.Probiotics.2009.2010.bib	20117337	paneth cell	Tissue	bto:0000993
+Crohn.Probiotics.2009.2010.bib	20117337	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2009.2010.bib	20117337	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2007.2008.bib	17966376	nod2	Genes/Proteins	ensp00000300589
+Crohn.Probiotics.2007.2008.bib	17966376	toll-like receptors	Genes/Proteins	ensp00000389600
+Crohn.Probiotics.2007.2008.bib	17966376	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17966376	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2007.2008.bib	17966376	bacterium	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	17966376	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17966376	dendritic cells	Tissue	bto:0002042
+Crohn.Probiotics.2007.2008.bib	17966376	mucosal immune response	Biological Process	go:0002385
+Crohn.Probiotics.2007.2008.bib	17966376	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	17919275	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17919275	flare	Genes/Proteins	fbpp0075581
+Crohn.Probiotics.2007.2008.bib	17133079	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	17133079	innate immune response	Biological Process	go:0045087
+Crohn.Probiotics.2007.2008.bib	17133079	escherichia coli	Organism	562
+Crohn.Probiotics.2007.2008.bib	17133079	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17133079	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2007.2008.bib	17499606	interleukin 10	Genes/Proteins	ensrnop00000006246
+Crohn.Probiotics.2007.2008.bib	17499606	map kinase	Genes/Proteins	fbpp0112426
+Crohn.Probiotics.2007.2008.bib	17499606	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2007.2008.bib	17499606	calcineurin	Molecular Function	go:0004723
+Crohn.Probiotics.2007.2008.bib	17499606	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17499606	growth factors	Molecular Function	go:0008083
+Crohn.Probiotics.2007.2008.bib	17499606	receptors	Cellular Component	go:0043235
+Crohn.Probiotics.2007.2008.bib	17499606	5-aminosalicylic acid	Chemical Compound	cids00004075
+Crohn.Probiotics.2007.2008.bib	17499606	leucocyte	Tissue	bto:0000751
+Crohn.Probiotics.2007.2008.bib	17499606	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2007.2008.bib	17499606	inflammatory cells	Tissue	bto:0003861
+Crohn.Probiotics.2007.2008.bib	17499606	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17499606	t-cell activation	Biological Process	go:0042110
+Crohn.Probiotics.2007.2008.bib	17906447	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2007.2008.bib	17906447	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	17906447	bacteria	Organism	629395
+Crohn.Probiotics.2007.2008.bib	17906447	allay	Chemical Compound	cids00001983
+Crohn.Probiotics.2007.2008.bib	17906447	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	17931090	tnf-alpha	Genes/Proteins	ensdarp00000010728
+Crohn.Probiotics.2007.2008.bib	17931090	il-6	Genes/Proteins	ensrnop00000013732
+Crohn.Probiotics.2007.2008.bib	17931090	crd	Genes/Proteins	ensbtap00000005090
+Crohn.Probiotics.2007.2008.bib	17931090	il-11	Genes/Proteins	ensbtap00000054291
+Crohn.Probiotics.2007.2008.bib	17931090	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17931090	ifn-gamma	Genes/Proteins	ensmusp00000063800
+Crohn.Probiotics.2007.2008.bib	17931090	leukocyte adhesion	Biological Process	go:0007159
+Crohn.Probiotics.2007.2008.bib	17931090	inflammatory response	Biological Process	go:0006954
+Crohn.Probiotics.2007.2008.bib	17931090	growth	Biological Process	go:0040007
+Crohn.Probiotics.2007.2008.bib	17931090	adults	Tissue	bto:0001043
+Crohn.Probiotics.2007.2008.bib	17931090	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2007.2008.bib	18646162	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2007.2008.bib	18646162	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18646162	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2007.2008.bib	17211699	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17211699	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	18240341	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	18240341	t-lymphocytes	Tissue	bto:0000782
+Crohn.Probiotics.2007.2008.bib	18240341	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	18240341	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	18240341	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2007.2008.bib	18240341	breakdown	Biological Process	go:0009056
+Crohn.Probiotics.2007.2008.bib	18240341	chemokines	Molecular Function	go:0008009
+Crohn.Probiotics.2007.2008.bib	18240341	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	20021434	il-4	Genes/Proteins	enssscp00000015193
+Crohn.Probiotics.2007.2008.bib	20021434	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	20021434	ifn-gamma	Genes/Proteins	ensgalp00000040887
+Crohn.Probiotics.2007.2008.bib	20021434	cytokine receptors	Molecular Function	go:0004896
+Crohn.Probiotics.2007.2008.bib	20021434	il-10	Genes/Proteins	ensrnop00000006246
+Crohn.Probiotics.2007.2008.bib	20021434	tnf-alpha	Genes/Proteins	ensbtap00000035682
+Crohn.Probiotics.2007.2008.bib	20021434	il-5	Genes/Proteins	ensgalp00000039137
+Crohn.Probiotics.2007.2008.bib	20021434	il-13	Genes/Proteins	ensdarp00000103364
+Crohn.Probiotics.2007.2008.bib	20021434	il-6	Genes/Proteins	ensmusp00000026845
+Crohn.Probiotics.2007.2008.bib	20021434	icam	Genes/Proteins	ensrnop00000028066
+Crohn.Probiotics.2007.2008.bib	20021434	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	20021434	il-17 secretion	Biological Process	go:0072615
+Crohn.Probiotics.2007.2008.bib	20021434	il-8	Molecular Function	go:0005153
+Crohn.Probiotics.2007.2008.bib	20021434	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	20021434	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	20021434	human	Organism	9606
+Crohn.Probiotics.2007.2008.bib	20021434	receptors	Cellular Component	go:0043235
+Crohn.Probiotics.2007.2008.bib	20021434	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2007.2008.bib	20021434	il-1beta	Genes/Proteins	enssscp00000008635
+Crohn.Probiotics.2007.2008.bib	20021434	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2007.2008.bib	20021434	secretion	Biological Process	go:0046903
+Crohn.Probiotics.2007.2008.bib	20021434	chemokines	Molecular Function	go:0008009
+Crohn.Probiotics.2007.2008.bib	20021434	leukocyte trafficking	Biological Process	go:0050900
+Crohn.Probiotics.2007.2008.bib	20021434	murine	Organism	10090
+Crohn.Probiotics.2007.2008.bib	20021434	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2007.2008.bib	18542034	humans	Organism	9606
+Crohn.Probiotics.2007.2008.bib	18542034	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	18542034	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	18542034	intestinal epithelial	Tissue	bto:0000781
+Crohn.Probiotics.2007.2008.bib	17440309	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2007.2008.bib	17440309	helper t-cells	Tissue	bto:0002417
+Crohn.Probiotics.2007.2008.bib	18239404	6-mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2007.2008.bib	18239404	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2007.2008.bib	18239404	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2007.2008.bib	18239404	ornidazole	Chemical Compound	cids00028061
+Crohn.Probiotics.2007.2008.bib	18239404	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2007.2008.bib	18239404	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2007.2008.bib	18239404	nitroimidazole	Chemical Compound	cids18379476
+Crohn.Probiotics.2007.2008.bib	18239404	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18239404	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2007.2008.bib	17688660	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18584523	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	18584523	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18584523	saccharomyces	Organism	4930
+Crohn.Probiotics.2007.2008.bib	18018827	fungi	Organism	4751
+Crohn.Probiotics.2007.2008.bib	18018827	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	18018827	saccharomyces cerevisiae	Organism	4932
+Crohn.Probiotics.2007.2008.bib	18018827	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2007.2008.bib	18018827	growth	Biological Process	go:0040007
+Crohn.Probiotics.2007.2008.bib	18018827	diarrhoea	Disease	doid:13250
+Crohn.Probiotics.2007.2008.bib	18018827	lactobacillus	Organism	1578
+Crohn.Probiotics.2007.2008.bib	17637082	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17637082	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	17637082	human	Organism	9606
+Crohn.Probiotics.2007.2008.bib	17637082	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2007.2008.bib	17637082	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17637082	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	17454880	il-10	Genes/Proteins	ensbtap00000008793
+Crohn.Probiotics.2007.2008.bib	17454880	interleukin	Genes/Proteins	ensdarp00000118478
+Crohn.Probiotics.2007.2008.bib	17454880	dendritic cells	Tissue	bto:0002042
+Crohn.Probiotics.2007.2008.bib	17454880	cd4  t	Chemical Compound	cids00451902
+Crohn.Probiotics.2007.2008.bib	17454880	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	17454880	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18421762	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17951505	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17951505	humans	Organism	9605
+Crohn.Probiotics.2007.2008.bib	17951505	colitis	Disease	doid:0060180
+Crohn.Probiotics.2007.2008.bib	17951505	bacteria	Organism	629395
+Crohn.Probiotics.2007.2008.bib	17951505	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	17951505	growth	Biological Process	go:0040007
+Crohn.Probiotics.2007.2008.bib	17951505	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17951505	fructan	Chemical Compound	cids00440946
+Crohn.Probiotics.2007.2008.bib	18402168	6-mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2007.2008.bib	18402168	tnf	Genes/Proteins	ensrnop00000001114
+Crohn.Probiotics.2007.2008.bib	18402168	ppar-gamma	Genes/Proteins	ensmusp00000000450
+Crohn.Probiotics.2007.2008.bib	18402168	hrc	Genes/Proteins	ensp00000252825
+Crohn.Probiotics.2007.2008.bib	18402168	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18402168	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2007.2008.bib	18402168	cyclosporine	Chemical Compound	cids05280754
+Crohn.Probiotics.2007.2008.bib	18402168	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2007.2008.bib	18402168	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2007.2008.bib	18402168	aminosalicylate	Chemical Compound	cids16051978
+Crohn.Probiotics.2007.2008.bib	18402168	nuclear receptor	Molecular Function	go:0004879
+Crohn.Probiotics.2007.2008.bib	18402168	rectal	Tissue	bto:0001158
+Crohn.Probiotics.2007.2008.bib	18402168	tuberculosis	Disease	doid:399
+Crohn.Probiotics.2007.2008.bib	18402168	methotrexate	Chemical Compound	cids00126941
+Crohn.Probiotics.2007.2008.bib	18402168	hepatitis b	Disease	doid:2043
+Crohn.Probiotics.2007.2008.bib	18425802	tnf	Molecular Function	go:0005164
+Crohn.Probiotics.2007.2008.bib	18425802	macrophages	Tissue	bto:0000801
+Crohn.Probiotics.2007.2008.bib	18425802	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2007.2008.bib	18425802	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18425802	lactobacillus	Organism	1578
+Crohn.Probiotics.2007.2008.bib	17991347	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17991347	humans	Organism	9605
+Crohn.Probiotics.2007.2008.bib	17991347	colitis	Disease	doid:0060180
+Crohn.Probiotics.2007.2008.bib	17991347	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2007.2008.bib	17991347	c. difficile	Organism	1496
+Crohn.Probiotics.2007.2008.bib	17991347	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2007.2008.bib	17991347	constipation	Disease	doid:2089
+Crohn.Probiotics.2007.2008.bib	17991347	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	17991347	clostridium difficile colitis	Disease	doid:0060185
+Crohn.Probiotics.2007.2008.bib	18270836	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18377803	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	18377803	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	18377803	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2007.2008.bib	18377803	bacteria	Organism	629395
+Crohn.Probiotics.2007.2008.bib	18377803	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2007.2008.bib	18377803	t-cell	Tissue	bto:0000782
+Crohn.Probiotics.2007.2008.bib	18377803	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2007.2008.bib	18377803	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	18377803	escherichia coli	Organism	562
+Crohn.Probiotics.2007.2008.bib	18377803	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18377803	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	18377803	homeostasis	Biological Process	go:0042592
+Crohn.Probiotics.2007.2008.bib	18377803	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2007.2008.bib	18156958	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	18156958	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2007.2008.bib	18156958	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	18156958	human	Organism	9606
+Crohn.Probiotics.2007.2008.bib	18156958	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2007.2008.bib	18156958	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	17361635	growth factors	Molecular Function	go:0008083
+Crohn.Probiotics.2007.2008.bib	17361635	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17361635	hormones	Molecular Function	go:0005179
+Crohn.Probiotics.2007.2008.bib	17361635	5-asa	Chemical Compound	cids00004075
+Crohn.Probiotics.2007.2008.bib	17361635	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18384087	escherichia coli nissle 1917	Organism	316435
+Crohn.Probiotics.2007.2008.bib	18384087	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	18384087	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	18384087	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	18384087	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	18384087	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2007.2008.bib	19070296	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	19070296	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2007.2008.bib	19070296	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	18936492	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	18936492	2,4,6-trinitrobenzenesulphonic acid	Chemical Compound	cids00011045
+Crohn.Probiotics.2007.2008.bib	18936492	ifn-gamma	Genes/Proteins	ensgalp00000042735
+Crohn.Probiotics.2007.2008.bib	18936492	il-10	Genes/Proteins	ensp00000412237
+Crohn.Probiotics.2007.2008.bib	18936492	il-12	Cellular Component	go:0043514
+Crohn.Probiotics.2007.2008.bib	18936492	il-8 production	Biological Process	go:0032637
+Crohn.Probiotics.2007.2008.bib	18936492	il-1beta	Genes/Proteins	ensp00000263341
+Crohn.Probiotics.2007.2008.bib	18936492	nf-kappab activation	Biological Process	go:0051092
+Crohn.Probiotics.2007.2008.bib	18936492	nf-kappab	Cellular Component	go:0071159
+Crohn.Probiotics.2007.2008.bib	18936492	mice	Organism	10090
+Crohn.Probiotics.2007.2008.bib	18936492	caco-2 cells	Tissue	bto:0000195
+Crohn.Probiotics.2007.2008.bib	18936492	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2007.2008.bib	18936492	firmicutes	Organism	1239
+Crohn.Probiotics.2007.2008.bib	18936492	peripheral blood mononuclear cell	Tissue	bto:0001025
+Crohn.Probiotics.2007.2008.bib	18936492	secretion	Biological Process	go:0046903
+Crohn.Probiotics.2007.2008.bib	18936492	faecalibacterium prausnitzii	Organism	853
+Crohn.Probiotics.2007.2008.bib	18936492	colitis	Disease	doid:0060180
+Crohn.Probiotics.2007.2008.bib	18936492	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	18936492	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2007.2008.bib	17206696	lal	Genes/Proteins	ensrnop00000008211
+Crohn.Probiotics.2007.2008.bib	17206696	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2007.2008.bib	17206696	caecal	Tissue	bto:0000166
+Crohn.Probiotics.2007.2008.bib	17206696	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17206669	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	17206669	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2007.2008.bib	17206669	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	17206669	ileal mucosa	Tissue	bto:0000619
+Crohn.Probiotics.2007.2008.bib	17206669	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	19450352	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2007.2008.bib	19450352	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	19450352	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	19016571	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2007.2008.bib	19016571	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2007.2008.bib	19016571	colonic disease	Disease	doid:5353
+Crohn.Probiotics.2007.2008.bib	19016571	sulfasalazine	Chemical Compound	cids05359476
+Crohn.Probiotics.2007.2008.bib	19016571	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2007.2008.bib	19016571	disease	Disease	doid:4
+Crohn.Probiotics.2007.2008.bib	17184157	bacteria	Organism	1869227
+Crohn.Probiotics.2007.2008.bib	17184157	il-10	Genes/Proteins	ensp00000412237
+Crohn.Probiotics.2007.2008.bib	17184157	lactococcus lactis	Organism	1358
+Crohn.Probiotics.2007.2008.bib	17184157	human	Organism	9606
+Crohn.Probiotics.2007.2008.bib	17184157	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2007.2008.bib	17184157	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24060951	colitis	Disease	doid:0060180
+Crohn.Probiotics.2013.2014.bib	24438664	symbiosis	Biological Process	go:0044403
+Crohn.Probiotics.2013.2014.bib	24438664	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24438664	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2013.2014.bib	24438664	autism	Disease	doid:12849
+Crohn.Probiotics.2013.2014.bib	24438664	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	24438664	obesity	Disease	doid:9970
+Crohn.Probiotics.2013.2014.bib	24438664	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24438664	metabolic syndrome	Disease	doid:0014667
+Crohn.Probiotics.2013.2014.bib	23466709	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23466709	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.2013.2014.bib	23466709	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	23466709	intestinal epithelial	Tissue	bto:0000781
+Crohn.Probiotics.2013.2014.bib	23466709	saccharomyces	Organism	4930
+Crohn.Probiotics.2013.2014.bib	23419530	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	23419530	clostridium difficile	Organism	1496
+Crohn.Probiotics.2013.2014.bib	23419530	bifidobacterium	Organism	1678
+Crohn.Probiotics.2013.2014.bib	23419530	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	23419530	helicobacter pylori	Organism	210
+Crohn.Probiotics.2013.2014.bib	23419530	diarrhoea	Disease	doid:13250
+Crohn.Probiotics.2013.2014.bib	23419530	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2013.2014.bib	23419530	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23419530	lactobacillus	Organism	1578
+Crohn.Probiotics.2013.2014.bib	25232246	fungi	Organism	4751
+Crohn.Probiotics.2013.2014.bib	25232246	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	25232246	viruses	Organism	10239
+Crohn.Probiotics.2013.2014.bib	25232246	adaptive immune responses	Biological Process	go:0002250
+Crohn.Probiotics.2013.2014.bib	25232246	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25232246	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	25243502	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25243502	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	25243502	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	25243502	brain	Tissue	bto:0000142
+Crohn.Probiotics.2013.2014.bib	23650777	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	23650777	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	23650777	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	23650777	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	23650777	growth	Biological Process	go:0040007
+Crohn.Probiotics.2013.2014.bib	23650777	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23650777	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	23650777	adults	Tissue	bto:0001043
+Crohn.Probiotics.2013.2014.bib	24742736	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	23263527	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	23263527	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	23263527	colitis	Disease	doid:0060180
+Crohn.Probiotics.2013.2014.bib	23263527	firmicutes	Organism	1239
+Crohn.Probiotics.2013.2014.bib	23263527	butyricicoccus	Organism	580596
+Crohn.Probiotics.2013.2014.bib	23263527	rat	Organism	10116
+Crohn.Probiotics.2013.2014.bib	23263527	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2013.2014.bib	23263527	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23263527	butyricicoccus pullicaecorum	Organism	501571
+Crohn.Probiotics.2013.2014.bib	22722618	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2013.2014.bib	22722618	small intestine	Tissue	bto:0000651
+Crohn.Probiotics.2013.2014.bib	22722618	jejunum	Tissue	bto:0000657
+Crohn.Probiotics.2013.2014.bib	22722618	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2013.2014.bib	25327204	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2013.2014.bib	25327204	clostridium difficile	Organism	1496
+Crohn.Probiotics.2013.2014.bib	25327204	immunoglobulins	Cellular Component	go:0019814
+Crohn.Probiotics.2013.2014.bib	25327204	e. coli	Organism	562
+Crohn.Probiotics.2013.2014.bib	25327204	rifaximin	Chemical Compound	cids06436173
+Crohn.Probiotics.2013.2014.bib	25327204	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2013.2014.bib	25327204	hospital	Environment	envo:00002173
+Crohn.Probiotics.2013.2014.bib	25327204	fidaxomicin	Chemical Compound	cids10034073
+Crohn.Probiotics.2013.2014.bib	25327204	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25460016	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	25460016	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24455889	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	24455889	reproduction	Biological Process	go:0000003
+Crohn.Probiotics.2013.2014.bib	24455889	e. coli	Organism	562
+Crohn.Probiotics.2013.2014.bib	24455889	growth	Biological Process	go:0040007
+Crohn.Probiotics.2013.2014.bib	24455889	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25294262	immunoglobulins	Cellular Component	go:0019814
+Crohn.Probiotics.2013.2014.bib	25294262	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25294262	ustekinumab	Chemical Compound	cids00121749
+Crohn.Probiotics.2013.2014.bib	25294262	clostridium difficile	Organism	1496
+Crohn.Probiotics.2013.2014.bib	25294262	bone marrow	Tissue	bto:0000141
+Crohn.Probiotics.2013.2014.bib	25294262	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25294262	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	23905915	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	23905915	celiac disease	Disease	doid:10608
+Crohn.Probiotics.2013.2014.bib	23905915	immunodeficiency	Genes/Proteins	fbpp0085904
+Crohn.Probiotics.2013.2014.bib	23905915	germ	Tissue	bto:0000514
+Crohn.Probiotics.2013.2014.bib	23905915	metabolism	Biological Process	go:0008152
+Crohn.Probiotics.2013.2014.bib	23905915	digestion	Biological Process	go:0007586
+Crohn.Probiotics.2013.2014.bib	23905915	obesity	Disease	doid:9970
+Crohn.Probiotics.2013.2014.bib	23905915	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24913380	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24913380	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	24913380	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2013.2014.bib	24913380	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24913380	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24913380	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	24991549	autoimmune disease	Disease	doid:417
+Crohn.Probiotics.2013.2014.bib	24991549	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	24991549	extracellular	Cellular Component	go:0005576
+Crohn.Probiotics.2013.2014.bib	24991549	hydrolase	Genes/Proteins	fbpp0075979
+Crohn.Probiotics.2013.2014.bib	24991549	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24991549	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2013.2014.bib	24991549	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	24991549	bifidobacterium	Organism	1678
+Crohn.Probiotics.2013.2014.bib	24991549	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2013.2014.bib	24991549	lactobacillus casei subsp. rhamnosus	Organism	47715
+Crohn.Probiotics.2013.2014.bib	24991549	cell-wall	Cellular Component	go:0005618
+Crohn.Probiotics.2013.2014.bib	24991549	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24991549	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24991549	lactobacillus	Organism	1578
+Crohn.Probiotics.2013.2014.bib	24574795	gut microbiome	Organism	749906
+Crohn.Probiotics.2013.2014.bib	24574795	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	24574795	nucleotide-binding	Genes/Proteins	at2g01330.2
+Crohn.Probiotics.2013.2014.bib	24574795	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24574795	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	25045286	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	25045286	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2013.2014.bib	25045286	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25045286	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	25141239	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25141239	bacteria	Organism	629395
+Crohn.Probiotics.2013.2014.bib	25141239	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25141239	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24560869	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	24560869	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24560869	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	24560869	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2013.2014.bib	24560869	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24560869	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	24246993	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24246993	humans	Organism	9605
+Crohn.Probiotics.2013.2014.bib	24246993	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24246993	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24246993	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2013.2014.bib	23319119	fibers	Tissue	bto:0000450
+Crohn.Probiotics.2013.2014.bib	23319119	fructose-	Chemical Compound	cids53782691
+Crohn.Probiotics.2013.2014.bib	23319119	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	23319119	obesity	Disease	doid:9970
+Crohn.Probiotics.2013.2014.bib	23319119	glucose-	Chemical Compound	cids53782692
+Crohn.Probiotics.2013.2014.bib	23319119	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23319119	plasma	Tissue	bto:0000131
+Crohn.Probiotics.2013.2014.bib	24298178	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24298178	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	24298178	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24298178	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2013.2014.bib	24298178	human microbiome	Organism	646099
+Crohn.Probiotics.2013.2014.bib	24298178	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24313460	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24313460	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24313460	adults	Tissue	bto:0001043
+Crohn.Probiotics.2013.2014.bib	23748641	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2013.2014.bib	23748641	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23748641	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2013.2014.bib	23643278	antioxidants	Molecular Function	go:0016209
+Crohn.Probiotics.2013.2014.bib	23643278	peripheral blood	Tissue	bto:0000553
+Crohn.Probiotics.2013.2014.bib	23643278	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2013.2014.bib	23643278	oxygen	Chemical Compound	cids00000977
+Crohn.Probiotics.2013.2014.bib	23643278	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2013.2014.bib	23643278	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23643278	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	24180407	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	24180407	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24180407	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25206258	escherichia coli nissle 1917	Organism	316435
+Crohn.Probiotics.2013.2014.bib	25206258	bacteria	Organism	1869227
+Crohn.Probiotics.2013.2014.bib	25206258	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25206258	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	25206258	saccharomyces	Organism	4930
+Crohn.Probiotics.2013.2014.bib	25206258	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	25206258	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2013.2014.bib	25206258	cytokine secretion	Biological Process	go:0050663
+Crohn.Probiotics.2013.2014.bib	25206258	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2013.2014.bib	25206258	barley	Organism	4513
+Crohn.Probiotics.2013.2014.bib	25206258	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25206258	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24506357	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2013.2014.bib	24506357	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24506357	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	24236556	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	24236556	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	24236556	blindness	Disease	doid:1432
+Crohn.Probiotics.2013.2014.bib	25380207	escherichia coli nissle 1917	Organism	316435
+Crohn.Probiotics.2013.2014.bib	25380207	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25380207	ecn	Chemical Compound	cids57120921
+Crohn.Probiotics.2013.2014.bib	25380207	enterobacteriaceae	Organism	543
+Crohn.Probiotics.2013.2014.bib	25380207	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2013.2014.bib	25380207	humans	Organism	9606
+Crohn.Probiotics.2013.2014.bib	25380207	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2013.2014.bib	25380207	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2013.2014.bib	25380207	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25611585	c-reactive protein	Genes/Proteins	ensmusp00000044665
+Crohn.Probiotics.2013.2014.bib	25611585	cell wall	Cellular Component	go:0005618
+Crohn.Probiotics.2013.2014.bib	25611585	saccharomyces cerevisiae	Organism	4932
+Crohn.Probiotics.2013.2014.bib	25611585	obesity	Disease	doid:9970
+Crohn.Probiotics.2013.2014.bib	25611585	growth	Biological Process	go:0040007
+Crohn.Probiotics.2013.2014.bib	25611585	mannan	Chemical Compound	cids00000870
+Crohn.Probiotics.2013.2014.bib	25611585	asca	Organism	704019
+Crohn.Probiotics.2013.2014.bib	25611585	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.2013.2014.bib	25611585	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25466162	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25466162	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	25466162	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2013.2014.bib	25466162	methotrexate	Chemical Compound	cids00126941
+Crohn.Probiotics.2013.2014.bib	25466162	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	25466162	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25466162	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2013.2014.bib	23474420	atopic dermatitis	Disease	doid:3310
+Crohn.Probiotics.2013.2014.bib	23474420	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	23474420	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2013.2014.bib	23474420	metabolism	Biological Process	go:0008152
+Crohn.Probiotics.2013.2014.bib	23474420	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2013.2014.bib	24280877	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2013.2014.bib	25531348	disease	Disease	doid:4
+Crohn.Probiotics.2013.2014.bib	25531348	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	25531348	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2013.2014.bib	25531348	5-aminosalicylic acid	Chemical Compound	cids00004075
+Crohn.Probiotics.2013.2014.bib	23571517	proteobacteria	Organism	1224
+Crohn.Probiotics.2013.2014.bib	23571517	gut microbiome	Organism	749906
+Crohn.Probiotics.2013.2014.bib	23571517	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2013.2014.bib	23571517	methanobrevibacter smithii	Organism	2173
+Crohn.Probiotics.2013.2014.bib	23571517	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2013.2014.bib	23571517	bypass	Genes/Proteins	fbpp0303681
+Crohn.Probiotics.2013.2014.bib	23571517	colitis	Disease	doid:0060180
+Crohn.Probiotics.2013.2014.bib	23571517	firmicutes	Organism	1239
+Crohn.Probiotics.2013.2014.bib	23571517	bacteria	Organism	629395
+Crohn.Probiotics.2013.2014.bib	23571517	human	Organism	9606
+Crohn.Probiotics.2013.2014.bib	23571517	obesity	Disease	doid:9970
+Crohn.Probiotics.2013.2014.bib	23571517	bacteroidetes	Organism	976
+Crohn.Probiotics.2013.2014.bib	23571517	archaeon	Organism	1906665
+Crohn.Probiotics.2013.2014.bib	23571517	metabolic syndrome	Disease	doid:0014667
+Crohn.Probiotics.2013.2014.bib	23571517	en-y	Genes/Proteins	at5g66730.1
+Crohn.Probiotics.2013.2014.bib	23571517	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	14562200	growth factors	Molecular Function	go:0008083
+Crohn.Probiotics.2003.2004.bib	14562200	trefoil	Genes/Proteins	ensrnop00000060620
+Crohn.Probiotics.2003.2004.bib	14562200	human	Organism	9606
+Crohn.Probiotics.2003.2004.bib	14562200	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2003.2004.bib	14562200	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	14562200	hormones	Molecular Function	go:0005179
+Crohn.Probiotics.2003.2004.bib	14562200	t cell	Tissue	bto:0000782
+Crohn.Probiotics.2003.2004.bib	14562200	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	12848625	escherichia coli	Organism	562
+Crohn.Probiotics.2003.2004.bib	12848625	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12848625	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2003.2004.bib	15585777	bacteria	Organism	1869227
+Crohn.Probiotics.2003.2004.bib	15585777	allergic disease	Disease	doid:1205
+Crohn.Probiotics.2003.2004.bib	15585777	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	15220668	il-10	Genes/Proteins	ensbtap00000008793
+Crohn.Probiotics.2003.2004.bib	15220668	cystic fibrosis	Disease	doid:1485
+Crohn.Probiotics.2003.2004.bib	15220668	lactobacilli	Organism	1578
+Crohn.Probiotics.2003.2004.bib	15220668	neonates	Tissue	bto:0001762
+Crohn.Probiotics.2003.2004.bib	15220668	clostridia	Organism	1485
+Crohn.Probiotics.2003.2004.bib	15220668	mice	Organism	10090
+Crohn.Probiotics.2003.2004.bib	15220668	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	15220668	bifidobacteria	Organism	1678
+Crohn.Probiotics.2003.2004.bib	15220668	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2003.2004.bib	15220668	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2003.2004.bib	15220668	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	15220668	adults	Tissue	bto:0001043
+Crohn.Probiotics.2003.2004.bib	15220668	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15220668	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	15570747	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	15570747	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15570747	behaviour	Biological Process	go:0007610
+Crohn.Probiotics.2003.2004.bib	15570747	colitis	Disease	doid:0060180
+Crohn.Probiotics.2003.2004.bib	15570747	quorum sensing	Biological Process	go:0009372
+Crohn.Probiotics.2003.2004.bib	15570747	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	15570747	secretion	Biological Process	go:0046903
+Crohn.Probiotics.2003.2004.bib	15570747	human	Organism	9606
+Crohn.Probiotics.2003.2004.bib	15570747	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2003.2004.bib	15570747	lymphoid tissue	Tissue	bto:0000753
+Crohn.Probiotics.2003.2004.bib	15570747	germ	Tissue	bto:0000514
+Crohn.Probiotics.2003.2004.bib	15570747	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	15570747	virulence	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	15570747	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15570747	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	15570747	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2003.2004.bib	12786611	mesalamine	Chemical Compound	cids00004075
+Crohn.Probiotics.2003.2004.bib	12786611	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2003.2004.bib	12786611	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15569284	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	12843962	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	12843962	binding	Molecular Function	go:0005488
+Crohn.Probiotics.2003.2004.bib	12843962	nucleotide-binding	Genes/Proteins	at1g12805.1
+Crohn.Probiotics.2003.2004.bib	12843962	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	12843962	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12843962	lactobacillus	Organism	1578
+Crohn.Probiotics.2003.2004.bib	12843962	leucin	Chemical Compound	cids00000857
+Crohn.Probiotics.2003.2004.bib	12843962	nod2/card15	Genes/Proteins	ensp00000300589
+Crohn.Probiotics.2003.2004.bib	12843962	lymphocyte	Tissue	bto:0000775
+Crohn.Probiotics.2003.2004.bib	12843962	caspase	Molecular Function	go:0004197
+Crohn.Probiotics.2003.2004.bib	12843962	nf-kappab	Cellular Component	go:0071159
+Crohn.Probiotics.2003.2004.bib	12843962	b27	Genes/Proteins	ensbtap00000032404
+Crohn.Probiotics.2003.2004.bib	12843962	breakdown	Biological Process	go:0009056
+Crohn.Probiotics.2003.2004.bib	12843962	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	12843962	escherichia coli	Organism	562
+Crohn.Probiotics.2003.2004.bib	12843962	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2003.2004.bib	12843962	virulence	Biological Process	go:0016032
+Crohn.Probiotics.2003.2004.bib	12843962	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	12843962	cytokine production	Biological Process	go:0001816
+Crohn.Probiotics.2003.2004.bib	12843962	bifidobacterium	Organism	1678
+Crohn.Probiotics.2003.2004.bib	12843962	macrophages	Tissue	bto:0000801
+Crohn.Probiotics.2003.2004.bib	12843962	rat	Organism	10116
+Crohn.Probiotics.2003.2004.bib	12843962	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	12843962	bacteroides vulgatus	Organism	821
+Crohn.Probiotics.2003.2004.bib	12843962	t-cell activation	Biological Process	go:0042110
+Crohn.Probiotics.2003.2004.bib	12843962	colitis	Disease	doid:0060180
+Crohn.Probiotics.2003.2004.bib	12843962	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	15527680	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12871183	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	12871183	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	12871183	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	12871183	lactobacilli	Organism	1578
+Crohn.Probiotics.2003.2004.bib	12871183	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	12871183	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12871183	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	15290926	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15290926	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	15290926	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	15290926	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	15290926	receptors	Cellular Component	go:0043235
+Crohn.Probiotics.2003.2004.bib	15290926	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2003.2004.bib	15290926	growth	Biological Process	go:0040007
+Crohn.Probiotics.2003.2004.bib	15290926	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	15290926	t cell apoptosis	Biological Process	go:0070231
+Crohn.Probiotics.2003.2004.bib	15290926	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15290926	surface epithelium	Tissue	bto:0004524
+Crohn.Probiotics.2003.2004.bib	12840673	nod2	Genes/Proteins	ensp00000300589
+Crohn.Probiotics.2003.2004.bib	12840673	defensin	Genes/Proteins	fbpp0087518
+Crohn.Probiotics.2003.2004.bib	12840673	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	12840673	nfkappab	Cellular Component	go:0071159
+Crohn.Probiotics.2003.2004.bib	12840673	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	12840673	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	12840673	human	Organism	9606
+Crohn.Probiotics.2003.2004.bib	12840673	intracellular	Cellular Component	go:0005622
+Crohn.Probiotics.2003.2004.bib	12840673	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2003.2004.bib	12840673	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	12840673	peptidoglycan receptor	Molecular Function	go:0016019
+Crohn.Probiotics.2003.2004.bib	12840673	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12840673	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	12840673	colonic mucosa	Tissue	bto:0000271
+Crohn.Probiotics.2003.2004.bib	14507591	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	14507591	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	14507591	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	12562443	growth factors	Molecular Function	go:0008083
+Crohn.Probiotics.2003.2004.bib	12562443	calcium	Genes/Proteins	fbpp0088134
+Crohn.Probiotics.2003.2004.bib	12562443	short-chain fatty acids	Chemical Compound	cids00517045
+Crohn.Probiotics.2003.2004.bib	12562443	pro	Genes/Proteins	fbpp0293146
+Crohn.Probiotics.2003.2004.bib	12562443	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	12562443	vitamin b12	Chemical Compound	cids16212801
+Crohn.Probiotics.2003.2004.bib	12562443	vitamin d	Chemical Compound	cids05280795
+Crohn.Probiotics.2003.2004.bib	12562443	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2003.2004.bib	12562443	folate	Chemical Compound	cids00006037
+Crohn.Probiotics.2003.2004.bib	12562443	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12562443	adult	Tissue	bto:0001043
+Crohn.Probiotics.2003.2004.bib	12562443	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	14743878	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	14743878	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2003.2004.bib	14743878	helicobacter pylori	Organism	210
+Crohn.Probiotics.2003.2004.bib	14743878	humans	Organism	9605
+Crohn.Probiotics.2003.2004.bib	14743878	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2003.2004.bib	14743878	saccharomyces	Organism	4930
+Crohn.Probiotics.2003.2004.bib	14743878	lactobacilli	Organism	1578
+Crohn.Probiotics.2003.2004.bib	14743878	colorectal cancer	Disease	doid:9256
+Crohn.Probiotics.2003.2004.bib	14743878	escherichia coli	Organism	562
+Crohn.Probiotics.2003.2004.bib	14743878	lactose	Chemical Compound	cids00006134
+Crohn.Probiotics.2003.2004.bib	14743878	lactobacillus reuteri	Organism	1598
+Crohn.Probiotics.2003.2004.bib	14743878	diarrhoea	Disease	doid:13250
+Crohn.Probiotics.2003.2004.bib	14743878	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2003.2004.bib	14743878	constipation	Disease	doid:2089
+Crohn.Probiotics.2003.2004.bib	14743878	rota-virus	Organism	10912
+Crohn.Probiotics.2003.2004.bib	14743878	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	14743878	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15259592	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15259592	acute pancreatitis	Disease	doid:2913
+Crohn.Probiotics.2003.2004.bib	15259592	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2003.2004.bib	15259592	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2003.2004.bib	15259592	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2003.2004.bib	15259592	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15352898	escherichia coli nissle 1917	Organism	316435
+Crohn.Probiotics.2003.2004.bib	15352898	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2003.2004.bib	15352898	bacteria	Organism	1869227
+Crohn.Probiotics.2003.2004.bib	15352898	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15352898	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	15352898	mycobacteria	Organism	1763
+Crohn.Probiotics.2003.2004.bib	15352898	human	Organism	9606
+Crohn.Probiotics.2003.2004.bib	15352898	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15352898	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	12966889	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12966889	diarrhea	Disease	doid:13250
+Crohn.Probiotics.2003.2004.bib	12966889	gastroenteritis	Disease	doid:2326
+Crohn.Probiotics.2003.2004.bib	12797678	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2003.2004.bib	12797678	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	12797678	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12797678	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	14571109	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	14571109	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2003.2004.bib	14571109	colitis	Disease	doid:0060180
+Crohn.Probiotics.2003.2004.bib	14571109	rectum	Tissue	bto:0001158
+Crohn.Probiotics.2003.2004.bib	14571109	bacteria	Organism	629395
+Crohn.Probiotics.2003.2004.bib	14571109	human	Organism	9606
+Crohn.Probiotics.2003.2004.bib	14571109	cecum	Tissue	bto:0000166
+Crohn.Probiotics.2003.2004.bib	14571109	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	14571109	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2003.2004.bib	14571109	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	14571109	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	15113451	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15113451	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	15113451	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2003.2004.bib	12797679	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12950414	colitis	Disease	doid:0060180
+Crohn.Probiotics.2003.2004.bib	12950414	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2003.2004.bib	12950414	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	12950414	cancer	Disease	doid:162
+Crohn.Probiotics.2003.2004.bib	12950414	colorectal cancer	Disease	doid:9256
+Crohn.Probiotics.2003.2004.bib	15372112	bacteria	Organism	1869227
+Crohn.Probiotics.2003.2004.bib	15372112	humans	Organism	9605
+Crohn.Probiotics.2003.2004.bib	15372112	synthesis	Biological Process	go:0009058
+Crohn.Probiotics.2003.2004.bib	15372112	gastritis	Disease	doid:4029
+Crohn.Probiotics.2003.2004.bib	15372112	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2003.2004.bib	15372112	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	15372112	toll-like receptors	Genes/Proteins	ensp00000308925
+Crohn.Probiotics.2003.2004.bib	15372112	germ	Tissue	bto:0000514
+Crohn.Probiotics.2003.2004.bib	15372112	innate immune responses	Biological Process	go:0045087
+Crohn.Probiotics.2003.2004.bib	15372112	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2003.2004.bib	15372112	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2003.2004.bib	15372112	secretion	Biological Process	go:0046903
+Crohn.Probiotics.2003.2004.bib	15372112	epithelial cells	Tissue	bto:0000414
+Crohn.Probiotics.2003.2004.bib	15372112	helicobacter pylori	Organism	210
+Crohn.Probiotics.2003.2004.bib	15372112	oral tolerance	Biological Process	go:0002394
+Crohn.Probiotics.2003.2004.bib	15372112	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2003.2004.bib	15372112	pattern recognition receptors	Molecular Function	go:0038187
+Crohn.Probiotics.2003.2004.bib	15372112	gestation	Biological Process	go:0007565
+Crohn.Probiotics.2003.2004.bib	14507590	bacteria	Organism	1869227
+Crohn.Probiotics.2003.2004.bib	14507590	humans	Organism	9605
+Crohn.Probiotics.2003.2004.bib	14507590	disease	Disease	doid:4
+Crohn.Probiotics.2003.2004.bib	14507590	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2003.2004.bib	14702782	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25665875	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	25665875	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2015.2016.bib	25665875	inflammatory response	Biological Process	go:0006954
+Crohn.Probiotics.2015.2016.bib	25665875	gut microbiome	Organism	749906
+Crohn.Probiotics.2015.2016.bib	25665875	human	Organism	9606
+Crohn.Probiotics.2015.2016.bib	25665875	adult	Tissue	bto:0001043
+Crohn.Probiotics.2015.2016.bib	25665875	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2015.2016.bib	25665875	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	25665875	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25665875	human microbiome	Organism	646099
+Crohn.Probiotics.2015.2016.bib	26900283	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	26900283	lactobacillus gg	Organism	568703
+Crohn.Probiotics.2015.2016.bib	26900283	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2015.2016.bib	26900283	adult	Tissue	bto:0001043
+Crohn.Probiotics.2015.2016.bib	26900283	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	26900283	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2015.2016.bib	26900283	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25460016	bacteria	Organism	1869227
+Crohn.Probiotics.2015.2016.bib	25460016	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	28131521	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	25990116	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2015.2016.bib	25990116	response to antibiotic	Biological Process	go:0046677
+Crohn.Probiotics.2015.2016.bib	25990116	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25391345	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	25391345	humans	Organism	9605
+Crohn.Probiotics.2015.2016.bib	25391345	diarrhoea	Disease	doid:13250
+Crohn.Probiotics.2015.2016.bib	25391345	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2015.2016.bib	25391345	constipation	Disease	doid:2089
+Crohn.Probiotics.2015.2016.bib	25391345	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	25391345	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26447964	vsl	Genes/Proteins	fbpp0080879
+Crohn.Probiotics.2015.2016.bib	26447964	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26447964	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	26447964	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	26447964	saccharomyces	Organism	4930
+Crohn.Probiotics.2015.2016.bib	27048899	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2015.2016.bib	27048899	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	27048899	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26338727	human gut microbiota	Organism	408170
+Crohn.Probiotics.2015.2016.bib	26338727	obesity	Disease	doid:9970
+Crohn.Probiotics.2015.2016.bib	26338727	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2015.2016.bib	26338727	metabolic syndrome	Disease	doid:0014667
+Crohn.Probiotics.2015.2016.bib	26338727	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26338727	liver disease	Disease	doid:409
+Crohn.Probiotics.2015.2016.bib	26338727	colorectal cancer	Disease	doid:9256
+Crohn.Probiotics.2015.2016.bib	26188349	extracellular matrix	Cellular Component	go:0031012
+Crohn.Probiotics.2015.2016.bib	26188349	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	26188349	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	26188349	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	27821031	lactoferrin	Genes/Proteins	ensmusp00000035077
+Crohn.Probiotics.2015.2016.bib	27821031	proton pump	Genes/Proteins	enssscp00000003126
+Crohn.Probiotics.2015.2016.bib	27821031	immune responses	Biological Process	go:0006955
+Crohn.Probiotics.2015.2016.bib	27821031	h. pylori	Organism	210
+Crohn.Probiotics.2015.2016.bib	27821031	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2015.2016.bib	27821031	clarithromycin	Chemical Compound	cids00084029
+Crohn.Probiotics.2015.2016.bib	27821031	calprotectin	Cellular Component	go:1990660
+Crohn.Probiotics.2015.2016.bib	27821031	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	27821031	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	27270520	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26561079	cannabis sativa	Organism	3483
+Crohn.Probiotics.2015.2016.bib	26561079	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	26561079	boswellia serrata	Organism	613112
+Crohn.Probiotics.2015.2016.bib	26561079	aloe vera	Organism	34199
+Crohn.Probiotics.2015.2016.bib	26561079	vitamin d	Chemical Compound	cids05280795
+Crohn.Probiotics.2015.2016.bib	26561079	curcumin	Chemical Compound	cids05281767
+Crohn.Probiotics.2015.2016.bib	26561079	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26561079	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	25611585	c-reactive protein	Genes/Proteins	ensmusp00000044665
+Crohn.Probiotics.2015.2016.bib	25611585	cell wall	Cellular Component	go:0005618
+Crohn.Probiotics.2015.2016.bib	25611585	saccharomyces cerevisiae	Organism	4932
+Crohn.Probiotics.2015.2016.bib	25611585	obesity	Disease	doid:9970
+Crohn.Probiotics.2015.2016.bib	25611585	growth	Biological Process	go:0040007
+Crohn.Probiotics.2015.2016.bib	25611585	mannan	Chemical Compound	cids00000870
+Crohn.Probiotics.2015.2016.bib	25611585	asca	Organism	704019
+Crohn.Probiotics.2015.2016.bib	25611585	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.2015.2016.bib	25611585	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25466162	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	25466162	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2015.2016.bib	25466162	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2015.2016.bib	25466162	methotrexate	Chemical Compound	cids00126941
+Crohn.Probiotics.2015.2016.bib	25466162	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	25466162	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	25466162	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2015.2016.bib	26968595	bacteria	Organism	1869227
+Crohn.Probiotics.2015.2016.bib	26968595	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	26968595	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2015.2016.bib	26968595	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26185088	vibrio cholerae	Organism	666
+Crohn.Probiotics.2015.2016.bib	26185088	bacteria	Organism	629395
+Crohn.Probiotics.2015.2016.bib	26185088	ecosystem	Environment	envo:00000428
+Crohn.Probiotics.2015.2016.bib	26185088	breakdown	Biological Process	go:0009056
+Crohn.Probiotics.2015.2016.bib	26185088	human	Organism	9606
+Crohn.Probiotics.2015.2016.bib	26185088	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26185088	proteobacteria	Organism	1224
+Crohn.Probiotics.2015.2016.bib	26185088	host responses	Biological Process	go:0075136
+Crohn.Probiotics.2015.2016.bib	26185088	enterobacteriaceae	Organism	543
+Crohn.Probiotics.2015.2016.bib	26185088	e. coli	Organism	562
+Crohn.Probiotics.2015.2016.bib	26185088	type 2 diabetes	Disease	doid:9352
+Crohn.Probiotics.2015.2016.bib	26185088	obesity	Disease	doid:9970
+Crohn.Probiotics.2015.2016.bib	26185088	yersinia	Organism	444888
+Crohn.Probiotics.2015.2016.bib	26185088	intestine	Tissue	bto:0000648
+Crohn.Probiotics.2015.2016.bib	26185088	campylobacter	Organism	194
+Crohn.Probiotics.2015.2016.bib	26185088	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	26185088	vibrionaceae	Organism	641
+Crohn.Probiotics.2015.2016.bib	26185088	salmonella	Organism	590
+Crohn.Probiotics.2015.2016.bib	26185088	shigella	Organism	620
+Crohn.Probiotics.2015.2016.bib	26185088	colorectal cancer	Disease	doid:9256
+Crohn.Probiotics.2015.2016.bib	26784223	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	26784223	neutrophil elastase	Genes/Proteins	ensmusp00000038925
+Crohn.Probiotics.2015.2016.bib	26784223	mucus	Cellular Component	go:0070701
+Crohn.Probiotics.2015.2016.bib	26784223	bacteria	Organism	629395
+Crohn.Probiotics.2015.2016.bib	26784223	fatty acid synthase	Cellular Component	go:0005835
+Crohn.Probiotics.2015.2016.bib	26784223	short-chain fatty acids	Chemical Compound	cids00000283
+Crohn.Probiotics.2015.2016.bib	26784223	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	26784223	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	27267792	fatty acids	Chemical Compound	cids00000283
+Crohn.Probiotics.2015.2016.bib	27267792	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2015.2016.bib	27267792	obesity	Disease	doid:9970
+Crohn.Probiotics.2015.2016.bib	27267792	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2015.2016.bib	27267792	slow down	Genes/Proteins	fbpp0073147
+Crohn.Probiotics.2015.2016.bib	27267792	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	27267792	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2015.2016.bib	27267792	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2015.2016.bib	27267792	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	27267792	vitamin d	Chemical Compound	cids05280795
+Crohn.Probiotics.2015.2016.bib	27940405	fatty acids	Chemical Compound	cids00000283
+Crohn.Probiotics.2015.2016.bib	27940405	inflammatory response	Biological Process	go:0006954
+Crohn.Probiotics.2015.2016.bib	27940405	disease	Disease	doid:4
+Crohn.Probiotics.2015.2016.bib	27940405	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2015.2016.bib	27940405	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	23252997	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2011.2012.bib	23252997	growth	Biological Process	go:0040007
+Crohn.Probiotics.2011.2012.bib	21681604	toll like receptor	Genes/Proteins	ensrnop00000002933
+Crohn.Probiotics.2011.2012.bib	21681604	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21681604	antigen presentation	Biological Process	go:0019882
+Crohn.Probiotics.2011.2012.bib	21681604	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2011.2012.bib	21681604	cytoplasmic	Cellular Component	go:0005737
+Crohn.Probiotics.2011.2012.bib	21681604	intracellular	Cellular Component	go:0005622
+Crohn.Probiotics.2011.2012.bib	21681604	immune cells	Tissue	bto:0000751
+Crohn.Probiotics.2011.2012.bib	21681604	cell surface	Cellular Component	go:0009986
+Crohn.Probiotics.2011.2012.bib	21681604	cytokines	Molecular Function	go:0005125
+Crohn.Probiotics.2011.2012.bib	21681604	autophagy	Biological Process	go:0006914
+Crohn.Probiotics.2011.2012.bib	21681604	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	21681604	digestion	Biological Process	go:0007586
+Crohn.Probiotics.2011.2012.bib	21681604	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21681604	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21681604	th17 cell	Tissue	bto:0005655
+Crohn.Probiotics.2011.2012.bib	21499578	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21499578	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2011.2012.bib	21499578	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2011.2012.bib	21651358	fiber	Tissue	bto:0000450
+Crohn.Probiotics.2011.2012.bib	21651358	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21651358	lactose	Chemical Compound	cids00084571
+Crohn.Probiotics.2011.2012.bib	21651358	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21614946	lactic acid	Chemical Compound	cids00000612
+Crohn.Probiotics.2011.2012.bib	21614946	bacteria	Organism	1869227
+Crohn.Probiotics.2011.2012.bib	21614946	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21614946	saccharomyces	Organism	4930
+Crohn.Probiotics.2011.2012.bib	21614946	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21614946	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21484962	bacteria	Organism	1869227
+Crohn.Probiotics.2011.2012.bib	21484962	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2011.2012.bib	21484962	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	21484962	innate immune response	Biological Process	go:0045087
+Crohn.Probiotics.2011.2012.bib	21484962	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21484962	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2011.2012.bib	23263527	bacteria	Organism	1869227
+Crohn.Probiotics.2011.2012.bib	23263527	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	23263527	colitis	Disease	doid:0060180
+Crohn.Probiotics.2011.2012.bib	23263527	firmicutes	Organism	1239
+Crohn.Probiotics.2011.2012.bib	23263527	butyricicoccus	Organism	580596
+Crohn.Probiotics.2011.2012.bib	23263527	rat	Organism	10116
+Crohn.Probiotics.2011.2012.bib	23263527	epithelial	Tissue	bto:0000416
+Crohn.Probiotics.2011.2012.bib	23263527	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	23263527	butyricicoccus pullicaecorum	Organism	501571
+Crohn.Probiotics.2011.2012.bib	22722618	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	22722618	small intestine	Tissue	bto:0000651
+Crohn.Probiotics.2011.2012.bib	22722618	jejunum	Tissue	bto:0000657
+Crohn.Probiotics.2011.2012.bib	22722618	intestinal mucosa	Tissue	bto:0000642
+Crohn.Probiotics.2011.2012.bib	23101689	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	23101689	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2011.2012.bib	23101689	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22495981	vegetable	Genes/Proteins	fbpp0086200
+Crohn.Probiotics.2011.2012.bib	22495981	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	22495981	fruit	Tissue	bto:0000486
+Crohn.Probiotics.2011.2012.bib	22495981	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	22495981	vitamin d	Chemical Compound	cids05280795
+Crohn.Probiotics.2011.2012.bib	22495981	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22495981	fiber	Tissue	bto:0000450
+Crohn.Probiotics.2011.2012.bib	22495981	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22495981	style	Tissue	bto:0001313
+Crohn.Probiotics.2011.2012.bib	21317252	escherichia coli	Organism	562
+Crohn.Probiotics.2011.2012.bib	21317252	escherichia coli nissle 1917	Organism	316435
+Crohn.Probiotics.2011.2012.bib	21317252	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21317252	ecn	Chemical Compound	cids57120921
+Crohn.Probiotics.2011.2012.bib	21494040	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21494040	oxygen	Chemical Compound	cids00000977
+Crohn.Probiotics.2011.2012.bib	21494040	antioxidants	Molecular Function	go:0016209
+Crohn.Probiotics.2011.2012.bib	21494040	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2011.2012.bib	21494040	inflammatory response	Biological Process	go:0006954
+Crohn.Probiotics.2011.2012.bib	21494040	intestinal mucosal	Tissue	bto:0000642
+Crohn.Probiotics.2011.2012.bib	21494040	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2011.2012.bib	21494040	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2011.2012.bib	21494040	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21494040	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	21494040	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21820421	archipelago	Environment	envo:00000220
+Crohn.Probiotics.2011.2012.bib	21820421	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	21820421	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21820421	islands	Environment	envo:00000098
+Crohn.Probiotics.2011.2012.bib	21820421	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21820421	immune response	Biological Process	go:0006955
+Crohn.Probiotics.2011.2012.bib	21820421	organ system	Tissue	bto:0001491
+Crohn.Probiotics.2011.2012.bib	22301034	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22301034	growth	Biological Process	go:0040007
+Crohn.Probiotics.2011.2012.bib	22254095	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	22254095	pathogenesis	Biological Process	go:0009405
+Crohn.Probiotics.2011.2012.bib	22254095	intestinal mucosal	Tissue	bto:0000642
+Crohn.Probiotics.2011.2012.bib	22254095	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	22254095	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22254095	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21992953	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21992953	intestinal epithelial	Tissue	bto:0000781
+Crohn.Probiotics.2011.2012.bib	21992953	bacteria	Organism	629395
+Crohn.Probiotics.2011.2012.bib	21992953	ileal	Tissue	bto:0000620
+Crohn.Probiotics.2011.2012.bib	21992953	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	21992953	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21992953	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21716123	irritable bowel syndrome	Disease	doid:9778
+Crohn.Probiotics.2011.2012.bib	21716123	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22555319	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22555319	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22555319	gut microbiome	Organism	749906
+Crohn.Probiotics.2011.2012.bib	22555319	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21524318	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2011.2012.bib	21524318	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21524318	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	22687961	bowel	Tissue	bto:0000648
+Crohn.Probiotics.2011.2012.bib	22687961	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	22687961	crohn disease	Disease	doid:8778
+Crohn.Probiotics.2011.2012.bib	22687961	metabolic processes	Biological Process	go:0008152
+Crohn.Probiotics.2011.2012.bib	22687961	ecosystem	Environment	envo:00000428
+Crohn.Probiotics.2011.2012.bib	22687961	bacteria	Organism	1869227
+Crohn.Probiotics.2011.2012.bib	22687961	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	22687961	gastrointestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2011.2012.bib	22687961	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	23092234	metronidazole	Chemical Compound	cids00004173
+Crohn.Probiotics.2011.2012.bib	23092234	interleukin 10	Genes/Proteins	ensrnop00000006246
+Crohn.Probiotics.2011.2012.bib	23092234	mesalazine	Chemical Compound	cids00004075
+Crohn.Probiotics.2011.2012.bib	23092234	budesonide	Chemical Compound	cids05281004
+Crohn.Probiotics.2011.2012.bib	23092234	ornidazole	Chemical Compound	cids00028061
+Crohn.Probiotics.2011.2012.bib	23092234	ileum	Tissue	bto:0000620
+Crohn.Probiotics.2011.2012.bib	23092234	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22405177	colitis	Disease	doid:0060180
+Crohn.Probiotics.2011.2012.bib	22405177	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22405177	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21042888	6-mercaptopurine	Chemical Compound	cids00667490
+Crohn.Probiotics.2011.2012.bib	21042888	necrosis	Biological Process	go:0019835
+Crohn.Probiotics.2011.2012.bib	21042888	mucosa	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	21042888	azathioprine	Chemical Compound	cids00002265
+Crohn.Probiotics.2011.2012.bib	21042888	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21903765	dendritic cells	Tissue	bto:0002042
+Crohn.Probiotics.2011.2012.bib	21903765	yeast	Genes/Proteins	ensgalp00000032683
+Crohn.Probiotics.2011.2012.bib	21903765	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21903765	saccharomyces	Organism	4930
+Crohn.Probiotics.2011.2012.bib	21988043	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	21988043	gastro-intestinal tract	Tissue	bto:0000511
+Crohn.Probiotics.2011.2012.bib	21988043	lymphoid tissue	Tissue	bto:0000753
+Crohn.Probiotics.2011.2012.bib	21988043	malt	Genes/Proteins	ybr298c
+Crohn.Probiotics.2011.2012.bib	21988043	adult	Tissue	bto:0001043
+Crohn.Probiotics.2011.2012.bib	21988043	inflammatory bowel diseases	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	21988043	immune system	Tissue	bto:0005810
+Crohn.Probiotics.2011.2012.bib	21988043	mucosal	Tissue	bto:0000886
+Crohn.Probiotics.2011.2012.bib	21988043	homeostasis	Biological Process	go:0042592
+Crohn.Probiotics.2011.2012.bib	21988043	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	21988043	peristalsis	Biological Process	go:0030432
+Crohn.Probiotics.2011.2012.bib	21988043	mycobacteria	Organism	1763
+Crohn.Probiotics.2011.2012.bib	22398096	disease	Disease	doid:4
+Crohn.Probiotics.2011.2012.bib	22581276	ulcerative colitis	Disease	doid:8577
+Crohn.Probiotics.2011.2012.bib	22581276	inflammatory bowel disease	Disease	doid:0050589
+Crohn.Probiotics.2011.2012.bib	22581276	colonic mucosa	Tissue	bto:0000271
+Crohn.Probiotics.2011.2012.bib	22581276	human	Organism	9606
+Crohn.Probiotics.2011.2012.bib	22581276	disease	Disease	doid:4

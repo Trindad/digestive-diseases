@@ -1,0 +1,155 @@
+﻿@article{RN3014,
+   author = {Ballegaard, M. and Bjergstrom, A. and Brondum, S. and Hylander, E. and Jensen, L. and Ladefoged, K.},
+   title = {Self-reported food intolerance in chronic inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {6},
+   pages = {569-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9200289}
+}
+
+@article{RN3009,
+   author = {Beglinger, C. and Hess, B. and Ruchti, C.},
+   title = {[Severe chronic iron deficiency in a 17-year-old student]},
+   journal = {Praxis (Bern 1994)},
+   volume = {87},
+   number = {18},
+   pages = {622-6},
+   ISSN = {1661-8157 (Print)
+1661-8157},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9623333}
+}
+
+@article{RN3006,
+   author = {Kirschner, B. S.},
+   title = {Safety of azathioprine and 6-mercaptopurine in pediatric patients with inflammatory bowel disease},
+   journal = {Gastroenterology},
+   volume = {115},
+   number = {4},
+   pages = {813-21},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9753482}
+}
+
+@article{RN3007,
+   author = {Marshall, J. K. and Irvine, E. J.},
+   title = {Ketotifen treatment of active colitis in patients with 5-aminosalicylate intolerance},
+   journal = {Can J Gastroenterol},
+   volume = {12},
+   number = {4},
+   pages = {273-5},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9659566}
+}
+
+@article{RN3013,
+   author = {Mishkin, B. and Yalovsky, M. and Mishkin, S.},
+   title = {Increased prevalence of lactose malabsorption in Crohn's disease patients at low risk for lactose malabsorption based on ethnic origin},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {7},
+   pages = {1148-53},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9219788}
+}
+
+@article{RN3015,
+   author = {Mishkin, S.},
+   title = {Dairy sensitivity, lactose malabsorption, and elimination diets in inflammatory bowel disease},
+   journal = {Am J Clin Nutr},
+   volume = {65},
+   number = {2},
+   pages = {564-7},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/65.2.564},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9022546}
+}
+
+@article{RN3010,
+   author = {Payer, J. and Killinger, Z. and Duris, I.},
+   title = {[Bone changes in gastrointestinal diseases]},
+   journal = {Bratisl Lek Listy},
+   volume = {99},
+   number = {1},
+   pages = {20-2},
+   ISSN = {0006-9248 (Print)
+0006-9248},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9588074}
+}
+
+@article{RN3011,
+   author = {Szilagyi, A.},
+   title = {Altered colonic environment, a possible predisposition to colorectal cancer and colonic inflammatory bowel disease: rationale of dietary manipulation with emphasis on disaccharides},
+   journal = {Can J Gastroenterol},
+   volume = {12},
+   number = {2},
+   pages = {133-46},
+   ISSN = {0835-7900 (Print)
+0835-7900},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9559208}
+}
+
+@article{RN3008,
+   author = {Thielman, N. M. and Guerrant, R. L.},
+   title = {Persistent diarrhea in the returned traveler},
+   journal = {Infect Dis Clin North Am},
+   volume = {12},
+   number = {2},
+   pages = {489-501},
+   ISSN = {0891-5520 (Print)
+0891-5520},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9658255}
+}
+
+@article{RN3005,
+   author = {Togawa, M. and Shiomi, M. and Okawa, K. and Kobayashi, Y. and Fujita, K. and Murata, R.},
+   title = {Encephalopathy and cytomegalovirus colitis in an AIDS child},
+   journal = {Acta Paediatr Jpn},
+   volume = {40},
+   number = {5},
+   pages = {515-22},
+   ISSN = {0374-5600 (Print)
+0374-5600},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9821720}
+}
+
+@article{RN3012,
+   author = {Vanderhoof, J. A. and Murray, N. D. and Kaufman, S. S. and Mack, D. R. and Antonson, D. L. and Corkins, M. R. and Perry, D. and Kruger, R.},
+   title = {Intolerance to protein hydrolysate infant formulas: an underrecognized cause of gastrointestinal symptoms in infants},
+   journal = {J Pediatr},
+   volume = {131},
+   number = {5},
+   pages = {741-4},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9403656}
+}
+

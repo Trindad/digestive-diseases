@@ -1,0 +1,226 @@
+﻿@article{RN5226,
+   author = {Bergogne-Berezin, E.},
+   title = {Treatment and prevention of antibiotic associated diarrhea},
+   journal = {Int J Antimicrob Agents},
+   volume = {16},
+   number = {4},
+   pages = {521-6},
+   ISSN = {0924-8579 (Print)
+0924-8579},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11118872}
+}
+
+@article{RN5227,
+   author = {Brigidi, P. and Vitali, B. and Swennen, E. and Altomare, L. and Rossi, M. and Matteuzzi, D.},
+   title = {Specific detection of bifidobacterium strains in a pharmaceutical probiotic product and in human feces by polymerase chain reaction},
+   journal = {Syst Appl Microbiol},
+   volume = {23},
+   number = {3},
+   pages = {391-9},
+   ISSN = {0723-2020 (Print)
+0723-2020},
+   DOI = {10.1016/s0723-2020(00)80070-3},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11108019}
+}
+
+@article{RN5233,
+   author = {D'Argenio, G. and Mazzacca, G.},
+   title = {Short-chain fatty acid in the human colon. Relation to inflammatory bowel diseases and colon cancer},
+   journal = {Adv Exp Med Biol},
+   volume = {472},
+   pages = {149-58},
+   ISSN = {0065-2598 (Print)
+0065-2598},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10736623}
+}
+
+@article{RN5229,
+   author = {Duchmann, R. and Lochs, H. and Kruis, W.},
+   title = {[Crohn disease, ulcerative colitis. When bacteria attack the intestinal wall....]},
+   journal = {MMW Fortschr Med},
+   volume = {141},
+   number = {51-52},
+   pages = {48-51},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10949626}
+}
+
+@article{RN5235,
+   author = {Faubion, W. A. and Sandborn, W. J.},
+   title = {Probiotic therapy with E. coli for ulcerative colitis: take the good with the bad},
+   journal = {Gastroenterology},
+   volume = {118},
+   number = {3},
+   pages = {630-1},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10702217}
+}
+
+@article{RN5231,
+   author = {Folwaczny, C.},
+   title = {[Probiotics for prevention of ulcerative colitis recurrence: alternative medicine added to standard treatment?]},
+   journal = {Z Gastroenterol},
+   volume = {38},
+   number = {6},
+   pages = {547-50},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10923365}
+}
+
+@article{RN5230,
+   author = {Gionchetti, P. and Rizzello, F. and Venturi, A. and Brigidi, P. and Matteuzzi, D. and Bazzocchi, G. and Poggioli, G. and Miglioli, M. and Campieri, M.},
+   title = {Oral bacteriotherapy as maintenance treatment in patients with chronic pouchitis: a double-blind, placebo-controlled trial},
+   journal = {Gastroenterology},
+   volume = {119},
+   number = {2},
+   pages = {305-9},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10930365}
+}
+
+@article{RN5238,
+   author = {Gorbach, S. L.},
+   title = {Probiotics and gastrointestinal health},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {1 Suppl},
+   pages = {S2-4},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10634218}
+}
+
+@article{RN5234,
+   author = {Marteau, P.},
+   title = {Inflammatory bowel disease},
+   journal = {Endoscopy},
+   volume = {32},
+   number = {2},
+   pages = {131-7},
+   ISSN = {0013-726X (Print)
+0013-726x},
+   DOI = {10.1055/s-2000-142},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10696841}
+}
+
+@article{RN5237,
+   author = {Pochapin, M.},
+   title = {The effect of probiotics on Clostridium difficile diarrhea},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {1 Suppl},
+   pages = {S11-3},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10634221}
+}
+
+@article{RN5240,
+   author = {Rembacken, B. J. and Snelling, A. M. and Hawkey, P. M. and Chalmers, D. M. and Axon, A. T.},
+   title = {Non-pathogenic Escherichia coli versus mesalazine for the treatment of ulcerative colitis: a randomised trial},
+   journal = {Lancet},
+   volume = {354},
+   number = {9179},
+   pages = {635-9},
+   ISSN = {0140-6736 (Print)
+0140-6736},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10466665}
+}
+
+@article{RN5236,
+   author = {Schultz, M. and Sartor, R. B.},
+   title = {Probiotics and inflammatory bowel diseases},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {1 Suppl},
+   pages = {S19-21},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10634224}
+}
+
+@article{RN5228,
+   author = {Shanahan, F.},
+   title = {Immunology. Therapeutic manipulation of gut flora},
+   journal = {Science},
+   volume = {289},
+   number = {5483},
+   pages = {1311-2},
+   ISSN = {0036-8075 (Print)
+0036-8075},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10979858}
+}
+
+@article{RN5232,
+   author = {Shanahan, F.},
+   title = {Probiotics and inflammatory bowel disease: is there a scientific rationale?},
+   journal = {Inflamm Bowel Dis},
+   volume = {6},
+   number = {2},
+   pages = {107-15},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200005000-00007},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10833070}
+}
+
+@article{RN5225,
+   author = {Tropko, L. V.},
+   title = {[Comparative evaluation of effectiveness of the effect of antibiotics and bacterial substances on clinical trains of Staphylococcus auerus isolated from patients with nonspecific ulcerative colitis]},
+   journal = {Mikrobiol Z},
+   volume = {62},
+   number = {4},
+   pages = {38-42},
+   ISSN = {1028-0987 (Print)
+1028-0987},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11421002}
+}
+
+@article{RN5239,
+   author = {Venturi, A. and Gionchetti, P. and Rizzello, F. and Johansson, R. and Zucconi, E. and Brigidi, P. and Matteuzzi, D. and Campieri, M.},
+   title = {Impact on the composition of the faecal flora by a new probiotic preparation: preliminary data on maintenance treatment of patients with ulcerative colitis},
+   journal = {Aliment Pharmacol Ther},
+   volume = {13},
+   number = {8},
+   pages = {1103-8},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10468688}
+}
+

@@ -1,0 +1,112 @@
+﻿@article{RN2999,
+   author = {Armisen Pedrejon, A. and Sancho Madrid, B. and Almaraz Garzon, E. and Prieto Bozano, G. and Polanco Allue, I.},
+   title = {[Colitis induced by a food allergen. A report of 20 cases]},
+   journal = {An Esp Pediatr},
+   volume = {44},
+   number = {1},
+   pages = {21-4},
+   ISSN = {0302-4342 (Print)
+0302-4342},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8849055}
+}
+
+@article{RN2997,
+   author = {Dady, I. M. and Thomas, A. G. and Miller, V. and Kelsey, A. J.},
+   title = {Inflammatory bowel disease in infancy: an increasing problem?},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {23},
+   number = {5},
+   pages = {569-76},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8985847}
+}
+
+@article{RN3002,
+   author = {Ghisolfi, J. and Olives, J. P. and Le Tallec, C. and Cohen, J. and Ser, N.},
+   title = {[Milk feeding of infants and cow's milk protein hypersensitivity]},
+   journal = {Arch Pediatr},
+   volume = {2},
+   number = {6},
+   pages = {526-31},
+   ISSN = {0929-693X (Print)
+0929-693x},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7640752}
+}
+
+@article{RN3000,
+   author = {Kapur, K. C. and Williams, G. T. and Allison, M. C.},
+   title = {Mesalazine induced exacerbation of ulcerative colitis},
+   journal = {Gut},
+   volume = {37},
+   number = {6},
+   pages = {838-9},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.37.6.838},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {8537058}
+}
+
+@article{RN3003,
+   author = {Kerner, J. A., Jr.},
+   title = {Formula allergy and intolerance},
+   journal = {Gastroenterol Clin North Am},
+   volume = {24},
+   number = {1},
+   pages = {1-25},
+   ISSN = {0889-8553 (Print)
+0889-8553},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7729855}
+}
+
+@article{RN3001,
+   author = {McLeish, C. M. and MacDonald, A. and Booth, I. W.},
+   title = {Comparison of an elemental with a hydrolysed whey formula in intolerance to cows' milk},
+   journal = {Arch Dis Child},
+   volume = {73},
+   number = {3},
+   pages = {211-5},
+   ISSN = {0003-9888},
+   DOI = {10.1136/adc.73.3.211},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7492157}
+}
+
+@article{RN3004,
+   author = {Moon, A. and Kleinman, R. E.},
+   title = {Allergic gastroenteropathy in children},
+   journal = {Ann Allergy Asthma Immunol},
+   volume = {74},
+   number = {1},
+   pages = {5-12; quiz 12-6},
+   ISSN = {1081-1206 (Print)
+1081-1206},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7719884}
+}
+
+@article{RN2998,
+   author = {Sloventantor, V. I. and Khmelevskii, I. M.},
+   title = {[Use of parenteral feeding in the multimodality treatment of Crohn's disease and nonspecific ulcerative colitis]},
+   journal = {Vestn Ross Akad Med Nauk},
+   number = {9},
+   pages = {40-4},
+   ISSN = {0869-6047 (Print)
+0869-6047},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8983411}
+}
+

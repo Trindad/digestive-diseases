@@ -1,0 +1,349 @@
+﻿@article{RN12583,
+   author = {Boukes, F. S. and van der Horst, H. E. and Assendelft, W. J.},
+   title = {[Summary of The Dutch College of General Practitioners' 'Irritable bowel syndrome' standard]},
+   journal = {Ned Tijdschr Geneeskd},
+   volume = {146},
+   number = {17},
+   pages = {799-802},
+   ISSN = {0028-2162 (Print)
+0028-2162},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12014237}
+}
+
+@article{RN12590,
+   author = {Burden, S.},
+   title = {Dietary treatment of irritable bowel syndrome: current evidence and guidelines for future practice},
+   journal = {J Hum Nutr Diet},
+   volume = {14},
+   number = {3},
+   pages = {231-41},
+   ISSN = {0952-3871 (Print)
+0952-3871},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11424515}
+}
+
+@article{RN12585,
+   author = {Cole, S. J. and Duncan, H. D. and Claydon, A. H. and Austin, D. and Bowling, T. E. and Silk, D. B.},
+   title = {Distal colonic motor activity in four subgroups of patients with irritable bowel syndrome},
+   journal = {Dig Dis Sci},
+   volume = {47},
+   number = {2},
+   pages = {345-55},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11858232}
+}
+
+@article{RN12580,
+   author = {Curioso, W. H. and Donaires Mendoza, N. and Bacilio Zerpa, C. and Ganoza Gallardo, C. and Leon Barua, R.},
+   title = {[Prevalence and relation of dyspepsia to irritable bowel syndrome in a native community of the Peruvian jungle]},
+   journal = {Rev Gastroenterol Peru},
+   volume = {22},
+   number = {2},
+   pages = {129-40},
+   ISSN = {1022-5129 (Print)
+1022-5129},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12098741}
+}
+
+@article{RN12581,
+   author = {Fioramonti, J. and Bueno, L.},
+   title = {Centrally acting agents and visceral sensitivity},
+   journal = {Gut},
+   volume = {51 Suppl 1},
+   pages = {i91-5},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.51.suppl_1.i91},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12077076}
+}
+
+@article{RN12586,
+   author = {Fioramonti, J. and Bueno, L. and Delvaux, M. and Frexinos, J.},
+   title = {[Old and new physiopathological concepts of irritable bowel syndrome]},
+   journal = {Gastroenterol Clin Biol},
+   volume = {25},
+   number = {2 Pt 2},
+   pages = {C34-41},
+   ISSN = {0399-8320 (Print)
+0399-8320},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11787378}
+}
+
+@article{RN12573,
+   author = {Fliegner-Baia, M. and Keller, J. and Layer, P.},
+   title = {[Proper patient counseling, recommended nutrition, specific medication. The basics of irritable bowel syndrome therapy]},
+   journal = {MMW Fortschr Med},
+   volume = {144},
+   number = {42},
+   pages = {33-7},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12533994}
+}
+
+@article{RN12578,
+   author = {Floch, M. H. and Narayan, R.},
+   title = {Diet in the irritable bowel syndrome},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S45-52},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184139}
+}
+
+@article{RN12575,
+   author = {Garcia Novo, M. D. and Garcia Burriel, J. I. and Pereda Perez, A.},
+   title = {[Practical guides to nutrition (VII). Functional bowel disorders (equivalent to irritable bowel syndrome)]},
+   journal = {An Esp Pediatr},
+   volume = {57},
+   number = {3},
+   pages = {253-63},
+   ISSN = {0302-4342 (Print)
+0302-4342},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12199950}
+}
+
+@article{RN12574,
+   author = {Gorbach, S. L.},
+   title = {Probiotics in the third millennium},
+   journal = {Dig Liver Dis},
+   volume = {34 Suppl 2},
+   pages = {S2-7},
+   ISSN = {1590-8658 (Print)
+1590-8658},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12408431}
+}
+
+@article{RN12592,
+   author = {Grundfast, M. B. and Komar, M. J.},
+   title = {Irritable bowel syndrome},
+   journal = {J Am Osteopath Assoc},
+   volume = {101},
+   number = {4 Suppl Pt 1},
+   pages = {S1-5},
+   ISSN = {0098-6151 (Print)
+0098-6151},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11392210}
+}
+
+@article{RN12589,
+   author = {Ledochowski, M. and Murr, C. and Lass-Florl, C. and Fuchs, D.},
+   title = {Increased serum amylase and lipase in fructose malabsorbers},
+   journal = {Clin Chim Acta},
+   volume = {311},
+   number = {2},
+   pages = {119-23},
+   ISSN = {0009-8981 (Print)
+0009-8981},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11566171}
+}
+
+@article{RN12594,
+   author = {Ledochowski, M. and Widner, B. and Murr, C. and Sperner-Unterweger, B. and Fuchs, D.},
+   title = {Fructose malabsorption is associated with decreased plasma tryptophan},
+   journal = {Scand J Gastroenterol},
+   volume = {36},
+   number = {4},
+   pages = {367-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11336160}
+}
+
+@article{RN12584,
+   author = {Moukarzel, A. A. and Lesicka, H. and Ament, M. E.},
+   title = {Irritable bowel syndrome and nonspecific diarrhea in infancy and childhood--relationship with juice carbohydrate malabsorption},
+   journal = {Clin Pediatr (Phila)},
+   volume = {41},
+   number = {3},
+   pages = {145-50},
+   ISSN = {0009-9228 (Print)
+0009-9228},
+   DOI = {10.1177/000992280204100303},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {11999677}
+}
+
+@article{RN12579,
+   author = {Ringel, Y.},
+   title = {Brain research in functional gastrointestinal disorders},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S23-5},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184135}
+}
+
+@article{RN12576,
+   author = {Ringel, Y. and Drossman, D. A.},
+   title = {Irritable bowel syndrome: classification and conceptualization},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S7-10},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184143}
+}
+
+@article{RN12597,
+   author = {Ringel, Y. and Sperber, A. D. and Drossman, D. A.},
+   title = {Irritable bowel syndrome},
+   journal = {Annu Rev Med},
+   volume = {52},
+   pages = {319-38},
+   ISSN = {0066-4219 (Print)
+0066-4219},
+   DOI = {10.1146/annurev.med.52.1.319},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11160782}
+}
+
+@article{RN12593,
+   author = {Schmulson, M. J.},
+   title = {Brain-gut interaction in irritable bowel syndrome: new findings of a multicomponent disease model},
+   journal = {Isr Med Assoc J},
+   volume = {3},
+   number = {2},
+   pages = {104-10},
+   ISSN = {1565-1088 (Print)},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11347592}
+}
+
+@article{RN12588,
+   author = {Silk, D. B.},
+   title = {Impact of irritable bowel syndrome on personal relationships and working practices},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {13},
+   number = {11},
+   pages = {1327-32},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11692059}
+}
+
+@article{RN12587,
+   author = {Thomson, A. B. and Keelan, M. and Thiesen, A. and Clandinin, M. T. and Ropeleski, M. and Wild, G. E.},
+   title = {Small bowel review: normal physiology part 2},
+   journal = {Dig Dis Sci},
+   volume = {46},
+   number = {12},
+   pages = {2588-607},
+   ISSN = {0163-2116 (Print)
+0163-2116},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11768248}
+}
+
+@article{RN12582,
+   author = {Van den Driessche, M. and Veereman-Wauters, G.},
+   title = {Functional foods in pediatrics},
+   journal = {Acta Gastroenterol Belg},
+   volume = {65},
+   number = {1},
+   pages = {45-51},
+   ISSN = {1784-3227 (Print)
+1784-3227},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12014316}
+}
+
+@article{RN12595,
+   author = {Van Ginkel, R. and Voskuijl, W. P. and Benninga, M. A. and Taminiau, J. A. and Boeckxstaens, G. E.},
+   title = {Alterations in rectal sensitivity and motility in childhood irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {120},
+   number = {1},
+   pages = {31-8},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11208711}
+}
+
+@article{RN12591,
+   author = {Verne, G. N. and Robinson, M. E. and Price, D. D.},
+   title = {Hypersensitivity to visceral and cutaneous pain in the irritable bowel syndrome},
+   journal = {Pain},
+   volume = {93},
+   number = {1},
+   pages = {7-14},
+   ISSN = {0304-3959 (Print)
+0304-3959},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11406333}
+}
+
+@article{RN12577,
+   author = {Wald, A.},
+   title = {Psychotropic agents in irritable bowel syndrome},
+   journal = {J Clin Gastroenterol},
+   volume = {35},
+   number = {1 Suppl},
+   pages = {S53-7},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {2002},
+   type = {Journal Article},
+   Accession Number= {12184140}
+}
+
+@article{RN12596,
+   author = {Walker, A. F. and Middleton, R. W. and Petrowicz, O.},
+   title = {Artichoke leaf extract reduces symptoms of irritable bowel syndrome in a post-marketing surveillance study},
+   journal = {Phytother Res},
+   volume = {15},
+   number = {1},
+   pages = {58-61},
+   ISSN = {0951-418X (Print)
+0951-418x},
+   year = {2001},
+   type = {Journal Article},
+   Accession Number= {11180525}
+}
+

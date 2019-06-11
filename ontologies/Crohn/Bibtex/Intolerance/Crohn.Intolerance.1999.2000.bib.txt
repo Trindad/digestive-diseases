@@ -1,0 +1,113 @@
+﻿@article{RN7795,
+   author = {Capristo, E. and Mingrone, G. and Addolorato, G. and Greco, A. V. and Gasbarrini, G.},
+   title = {Effect of a vegetable-protein-rich polymeric diet treatment on body composition and energy metabolism in inactive Crohn's disease},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {12},
+   number = {1},
+   pages = {5-11},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10656203}
+}
+
+@article{RN7798,
+   author = {Fernandez-Banares, F. and Gassull Duro, M. A.},
+   title = {[Revision and consensus in nutritional therapy: nutrition in inflammatory intestinal diseases]},
+   journal = {Nutr Hosp},
+   volume = {14 Suppl 2},
+   pages = {71s-80s},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10548029}
+}
+
+@article{RN7794,
+   author = {Hassard, P. V. and Vasiliauskas, E. A. and Kam, L. Y. and Targan, S. R. and Abreu, M. T.},
+   title = {Efficacy of mycophenolate mofetil in patients failing 6-mercaptopurine or azathioprine therapy for Crohn's disease},
+   journal = {Inflamm Bowel Dis},
+   volume = {6},
+   number = {1},
+   pages = {16-20},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200002000-00003},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10701145}
+}
+
+@article{RN7797,
+   author = {Kocian, J. and Kocianova, J.},
+   title = {[Bone demineralization in Crohn's disease, its diagnosis, therapy and prevention]},
+   journal = {Cas Lek Cesk},
+   volume = {138},
+   number = {17},
+   pages = {522-4},
+   ISSN = {0008-7335 (Print)
+0008-7335},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10566230}
+}
+
+@article{RN7793,
+   author = {Lemann, M. and Zenjari, T. and Bouhnik, Y. and Cosnes, J. and Mesnard, B. and Rambaud, J. C. and Modigliani, R. and Cortot, A. and Colombel, J. F.},
+   title = {Methotrexate in Crohn's disease: long-term efficacy and toxicity},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {7},
+   pages = {1730-4},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2000.02190.x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10925976}
+}
+
+@article{RN7796,
+   author = {Loranskaia, I. D. and Zorin, S. N. and Gmoshinskii, I. V. and Shirina, L. I. and Iurkov, MIu and Mitrofanova, I. P. and Mazo, V. K.},
+   title = {[Permeability of intestinal barrier fo macromolecules in patients with Crohn's disease and ulcerative colitis]},
+   journal = {Klin Med (Mosk)},
+   volume = {77},
+   number = {11},
+   pages = {31-3},
+   ISSN = {0023-2149 (Print)
+0023-2149},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10635629}
+}
+
+@article{RN7792,
+   author = {Roy, P. K. and Venzon, D. J. and Shojamanesh, H. and Abou-Saif, A. and Peghini, P. and Doppman, J. L. and Gibril, F. and Jensen, R. T.},
+   title = {Zollinger-Ellison syndrome. Clinical presentation in 261 patients},
+   journal = {Medicine (Baltimore)},
+   volume = {79},
+   number = {6},
+   pages = {379-411},
+   ISSN = {0025-7974 (Print)
+0025-7974},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11144036}
+}
+
+@article{RN7799,
+   author = {Von Tirpitz, C. and Pischulti, G. and Klaus, J. and Rieber, A. and Bruckel, J. and Bohm, B. O. and Adler, G. and Reinshagen, M.},
+   title = {[Pathological bone density in chronic inflammatory bowel diseases--prevalence and risk factors]},
+   journal = {Z Gastroenterol},
+   volume = {37},
+   number = {1},
+   pages = {5-12},
+   ISSN = {0044-2771 (Print)
+0044-2771},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10091278}
+}
+

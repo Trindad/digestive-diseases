@@ -1,0 +1,186 @@
+﻿@article{RN12328,
+   author = {Browning, S. M.},
+   title = {Constipation, diarrhea, and irritable bowel syndrome},
+   journal = {Prim Care},
+   volume = {26},
+   number = {1},
+   pages = {113-39},
+   ISSN = {0095-4543 (Print)
+0095-4543},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {9922298}
+}
+
+@article{RN12325,
+   author = {Dainese, R. and Galliani, E. A. and De Lazzari, F. and Di Leo, V. and Naccarato, R.},
+   title = {Discrepancies between reported food intolerance and sensitization test findings in irritable bowel syndrome patients},
+   journal = {Am J Gastroenterol},
+   volume = {94},
+   number = {7},
+   pages = {1892-7},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1999.01226.x},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10406255}
+}
+
+@article{RN12320,
+   author = {Dixon-Woods, M. and Critchley, S.},
+   title = {Medical and lay views of irritable bowel syndrome},
+   journal = {Fam Pract},
+   volume = {17},
+   number = {2},
+   pages = {108-13},
+   ISSN = {0263-2136 (Print)
+0263-2136},
+   DOI = {10.1093/fampra/17.2.108},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10758070}
+}
+
+@article{RN12318,
+   author = {Goldstein, R. and Braverman, D. and Stankiewicz, H.},
+   title = {Carbohydrate malabsorption and the effect of dietary restriction on symptoms of irritable bowel syndrome and functional bowel complaints},
+   journal = {Isr Med Assoc J},
+   volume = {2},
+   number = {8},
+   pages = {583-7},
+   ISSN = {1565-1088 (Print)},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10979349}
+}
+
+@article{RN12324,
+   author = {Gremse, D. A. and Nguyenduc, G. H. and Sacks, A. I. and DiPalma, J. A.},
+   title = {Irritable bowel syndrome and lactose maldigestion in recurrent abdominal pain in childhood},
+   journal = {South Med J},
+   volume = {92},
+   number = {8},
+   pages = {778-81},
+   ISSN = {0038-4348 (Print)
+0038-4348},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10456715}
+}
+
+@article{RN12326,
+   author = {Hamm, L. R. and Sorrells, S. C. and Harding, J. P. and Northcutt, A. R. and Heath, A. T. and Kapke, G. F. and Hunt, C. M. and Mangel, A. W.},
+   title = {Additional investigations fail to alter the diagnosis of irritable bowel syndrome in subjects fulfilling the Rome criteria},
+   journal = {Am J Gastroenterol},
+   volume = {94},
+   number = {5},
+   pages = {1279-82},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1999.01077.x},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10235207}
+}
+
+@article{RN12317,
+   author = {Ledochowski, M. and Widner, B. and Bair, H. and Probst, T. and Fuchs, D.},
+   title = {Fructose- and sorbitol-reduced diet improves mood and gastrointestinal disturbances in fructose malabsorbers},
+   journal = {Scand J Gastroenterol},
+   volume = {35},
+   number = {10},
+   pages = {1048-52},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11099057}
+}
+
+@article{RN12322,
+   author = {Locke, G. R., 3rd and Zinsmeister, A. R. and Talley, N. J. and Fett, S. L. and Melton, L. J.},
+   title = {Risk factors for irritable bowel syndrome: role of analgesics and food sensitivities},
+   journal = {Am J Gastroenterol},
+   volume = {95},
+   number = {1},
+   pages = {157-65},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.2000.01678.x},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10638576}
+}
+
+@article{RN12321,
+   author = {Rolfe, R. D.},
+   title = {The role of probiotic cultures in the control of gastrointestinal health},
+   journal = {J Nutr},
+   volume = {130},
+   number = {2S Suppl},
+   pages = {396s-402s},
+   ISSN = {0022-3166 (Print)
+0022-3166},
+   DOI = {10.1093/jn/130.2.396S},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10721914}
+}
+
+@article{RN12316,
+   author = {Roy, P. K. and Venzon, D. J. and Shojamanesh, H. and Abou-Saif, A. and Peghini, P. and Doppman, J. L. and Gibril, F. and Jensen, R. T.},
+   title = {Zollinger-Ellison syndrome. Clinical presentation in 261 patients},
+   journal = {Medicine (Baltimore)},
+   volume = {79},
+   number = {6},
+   pages = {379-411},
+   ISSN = {0025-7974 (Print)
+0025-7974},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {11144036}
+}
+
+@article{RN12327,
+   author = {Shaw, A. D. and Davies, G. J.},
+   title = {Lactose intolerance: problems in diagnosis and treatment},
+   journal = {J Clin Gastroenterol},
+   volume = {28},
+   number = {3},
+   pages = {208-16},
+   ISSN = {0192-0790 (Print)
+0192-0790},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10192605}
+}
+
+@article{RN12323,
+   author = {Siegmeth, W.},
+   title = {[Panalgesia and the fibromyalgia concept]},
+   journal = {Wien Med Wochenschr},
+   volume = {149},
+   number = {19-20},
+   pages = {558-60},
+   ISSN = {0043-5341 (Print)
+0043-5341},
+   year = {1999},
+   type = {Journal Article},
+   Accession Number= {10637967}
+}
+
+@article{RN12319,
+   author = {Turnbull, G. K.},
+   title = {Lactose intolerance and irritable bowel syndrome},
+   journal = {Nutrition},
+   volume = {16},
+   number = {7-8},
+   pages = {665-6},
+   ISSN = {0899-9007 (Print)
+0899-9007},
+   year = {2000},
+   type = {Journal Article},
+   Accession Number= {10906590}
+}
+

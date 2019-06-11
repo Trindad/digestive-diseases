@@ -1,0 +1,42 @@
+﻿@article{RN12554,
+   author = {Raimundo, A. H. and Rogers, J. and Silk, D. B.},
+   title = {Prolonged ambulatory small intestinal and colonic motility monitoring: potential in irritable bowel syndrome--first report of prolonged ambulatory oesophageal, small intestinal and colonic motility in the same patient},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {8},
+   number = {1},
+   pages = {81-4},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8900914}
+}
+
+@article{RN12555,
+   author = {Read, N. W.},
+   title = {Treating irritable bowel syndrome},
+   journal = {Indian J Gastroenterol},
+   volume = {14},
+   number = {2},
+   pages = {65-8},
+   ISSN = {0254-8860 (Print)
+0254-8860},
+   year = {1995},
+   type = {Journal Article},
+   Accession Number= {7797281}
+}
+
+@article{RN12553,
+   author = {Treem, W. R. and Ahsan, N. and Kastoff, G. and Hyams, J. S.},
+   title = {Fecal short-chain fatty acids in patients with diarrhea-predominant irritable bowel syndrome: in vitro studies of carbohydrate fermentation},
+   journal = {J Pediatr Gastroenterol Nutr},
+   volume = {23},
+   number = {3},
+   pages = {280-6},
+   ISSN = {0277-2116 (Print)
+0277-2116},
+   year = {1996},
+   type = {Journal Article},
+   Accession Number= {8890079}
+}
+

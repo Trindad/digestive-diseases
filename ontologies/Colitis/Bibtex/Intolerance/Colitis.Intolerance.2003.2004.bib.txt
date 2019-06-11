@@ -1,0 +1,253 @@
+﻿@article{RN3047,
+   author = {Baker, D. E. and Kane, S.},
+   title = {The short- and long-term safety of 5-aminosalicylate products in the treatment of ulcerative colitis},
+   journal = {Rev Gastroenterol Disord},
+   volume = {4},
+   number = {2},
+   pages = {86-91},
+   ISSN = {1533-001X (Print)
+1533-001x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15185719}
+}
+
+@article{RN3049,
+   author = {Banos Madrid, R. and Salama Benerroch, H. and Moran Sanchez, S. and Gallardo Sanchez, F. and Albadalejo Merono, A. and Mercader Martinez, J.},
+   title = {[Lactose malabsorption in patients with inflammatory bowel disease without activity: would it be necessary to exclude lactose products in the diet of all patients?]},
+   journal = {An Med Interna},
+   volume = {21},
+   number = {5},
+   pages = {212-4},
+   ISSN = {0212-7199 (Print)
+0212-7199},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15176921}
+}
+
+@article{RN3048,
+   author = {Bodemar, G. and Kechagias, S. and Almer, S. and Danielson, B. G.},
+   title = {Treatment of anaemia in inflammatory bowel disease with iron sucrose},
+   journal = {Scand J Gastroenterol},
+   volume = {39},
+   number = {5},
+   pages = {454-8},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15180183}
+}
+
+@article{RN3055,
+   author = {Buning, C. and Ockenga, J. and Kruger, S. and Jurga, J. and Baier, P. and Dignass, A. and Vogel, A. and Strassburg, C. and Weltrich, R. and Genschel, J. and Lochs, H. and Schmidt, H.},
+   title = {The C/C(-13910) and G/G(-22018) genotypes for adult-type hypolactasia are not associated with inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {38},
+   number = {5},
+   pages = {538-42},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12795467}
+}
+
+@article{RN3045,
+   author = {Daniel, F. and Seksik, P. and Cacheux, W. and Jian, R. and Marteau, P.},
+   title = {Tolerance of 4-aminosalicylic acid enemas in patients with inflammatory bowel disease and 5-aminosalicylic-induced acute pancreatitis},
+   journal = {Inflamm Bowel Dis},
+   volume = {10},
+   number = {3},
+   pages = {258-60},
+   ISSN = {1078-0998 (Print)
+1078-0998},
+   DOI = {10.1097/00054725-200405000-00013},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15290921}
+}
+
+@article{RN3056,
+   author = {Ford, A. C. and Towler, R. J. and Moayyedi, P. and Chalmers, D. M. and Axon, A. T.},
+   title = {Mycophenolate mofetil in refractory inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {17},
+   number = {11},
+   pages = {1365-9},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12786630}
+}
+
+@article{RN3044,
+   author = {Gill, H. S. and Guarner, F.},
+   title = {Probiotics and human health: a clinical perspective},
+   journal = {Postgrad Med J},
+   volume = {80},
+   number = {947},
+   pages = {516-26},
+   ISSN = {0032-5473 (Print)
+0032-5473},
+   DOI = {10.1136/pgmj.2003.008664},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15356352}
+}
+
+@article{RN3053,
+   author = {Ginard, D. and Riera, J. and Bonet, L. and Barranco, L. and Reyes, J. and Escarda, A. and Obrador, A.},
+   title = {[Lactose malabsorption in ulcerative colitis. A case-control study]},
+   journal = {Gastroenterol Hepatol},
+   volume = {26},
+   number = {8},
+   pages = {469-74},
+   ISSN = {0210-5705 (Print)
+0210-5705},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14534018}
+}
+
+@article{RN3051,
+   author = {Goossens, D. and Jonkers, D. and Stobberingh, E. and van den Bogaard, A. and Russel, M. and Stockbrugger, R.},
+   title = {Probiotics in gastroenterology: indications and future perspectives},
+   journal = {Scand J Gastroenterol Suppl},
+   number = {239},
+   pages = {15-23},
+   ISSN = {0085-5928 (Print)
+0085-5928},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14743878}
+}
+
+@article{RN3054,
+   author = {Gornet, J. M. and Couve, S. and Hassani, Z. and Delchier, J. C. and Marteau, P. and Cosnes, J. and Bouhnik, Y. and Dupas, J. L. and Modigliani, R. and Taillard, F. and Lemann, M.},
+   title = {Infliximab for refractory ulcerative colitis or indeterminate colitis: an open-label multicentre study},
+   journal = {Aliment Pharmacol Ther},
+   volume = {18},
+   number = {2},
+   pages = {175-81},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12869077}
+}
+
+@article{RN3050,
+   author = {Marinaki, A. M. and Ansari, A. and Duley, J. A. and Arenas, M. and Sumi, S. and Lewis, C. M. and Shobowale-Bakre el, M. and Escuredo, E. and Fairbanks, L. D. and Sanderson, J. D.},
+   title = {Adverse drug reactions to azathioprine therapy are associated with polymorphism in the gene encoding inosine triphosphate pyrophosphatase (ITPase)},
+   journal = {Pharmacogenetics},
+   volume = {14},
+   number = {3},
+   pages = {181-7},
+   ISSN = {0960-314X (Print)
+0960-314x},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15167706}
+}
+
+@article{RN3059,
+   author = {McGovern, D. P. and Travis, S. P.},
+   title = {Thiopurine therapy: when to start and when to stop},
+   journal = {Eur J Gastroenterol Hepatol},
+   volume = {15},
+   number = {3},
+   pages = {219-23},
+   ISSN = {0954-691X (Print)
+0954-691x},
+   DOI = {10.1097/01.meg.0000049993.68425.13},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12610314}
+}
+
+@article{RN3052,
+   author = {Navarro, F. and Hanauer, S. B.},
+   title = {Treatment of inflammatory bowel disease: safety and tolerability issues},
+   journal = {Am J Gastroenterol},
+   volume = {98},
+   number = {12 Suppl},
+   pages = {S18-23},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {14697914}
+}
+
+@article{RN3046,
+   author = {Poutanen, S. M. and Simor, A. E.},
+   title = {Clostridium difficile-associated diarrhea in adults},
+   journal = {Cmaj},
+   volume = {171},
+   number = {1},
+   pages = {51-8},
+   ISSN = {0820-3946 (Print)
+0820-3946},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15238498}
+}
+
+@article{RN3058,
+   author = {Rogozina, V. A. and Rumiantsev, V. G.},
+   title = {[Comparative efficacy of mezakol and sulfasalazine in treating chronic relapsing ulcerative colitis]},
+   journal = {Eksp Klin Gastroenterol},
+   number = {1},
+   pages = {58-9, 183},
+   ISSN = {1682-8658 (Print)
+1682-8658},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12664788}
+}
+
+@article{RN3057,
+   author = {Spiller, R. C.},
+   title = {Postinfectious irritable bowel syndrome},
+   journal = {Gastroenterology},
+   volume = {124},
+   number = {6},
+   pages = {1662-71},
+   ISSN = {0016-5085 (Print)
+0016-5085},
+   year = {2003},
+   type = {Journal Article},
+   Accession Number= {12761724}
+}
+
+@article{RN3043,
+   author = {Spiller, R. C.},
+   title = {Irritable bowel syndrome},
+   journal = {Br Med Bull},
+   volume = {72},
+   pages = {15-29},
+   ISSN = {0007-1420 (Print)
+0007-1420},
+   DOI = {10.1093/bmb/ldh039},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15767561}
+}
+
+@article{RN3042,
+   author = {Stiefelhagen, P.},
+   title = {[To positively exclude organic disorders. How much diagnosis needs irritable colon?]},
+   journal = {MMW Fortschr Med},
+   volume = {146},
+   number = {37},
+   pages = {16},
+   ISSN = {1438-3276 (Print)
+1438-3276},
+   year = {2004},
+   type = {Journal Article},
+   Accession Number= {15887697}
+}
+

@@ -1,0 +1,86 @@
+﻿@article{RN7790,
+   author = {Ballegaard, M. and Bjergstrom, A. and Brondum, S. and Hylander, E. and Jensen, L. and Ladefoged, K.},
+   title = {Self-reported food intolerance in chronic inflammatory bowel disease},
+   journal = {Scand J Gastroenterol},
+   volume = {32},
+   number = {6},
+   pages = {569-71},
+   ISSN = {0036-5521 (Print)
+0036-5521},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9200289}
+}
+
+@article{RN7788,
+   author = {Beglinger, C. and Hess, B. and Ruchti, C.},
+   title = {[Severe chronic iron deficiency in a 17-year-old student]},
+   journal = {Praxis (Bern 1994)},
+   volume = {87},
+   number = {18},
+   pages = {622-6},
+   ISSN = {1661-8157 (Print)
+1661-8157},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9623333}
+}
+
+@article{RN7786,
+   author = {Fickert, P. and Hinterleitner, T. A. and Wenzl, H. H. and Aichbichler, B. W. and Petritsch, W.},
+   title = {Mycophenolate mofetil in patients with Crohn's disease},
+   journal = {Am J Gastroenterol},
+   volume = {93},
+   number = {12},
+   pages = {2529-32},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   DOI = {10.1111/j.1572-0241.1998.00606.x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9860419}
+}
+
+@article{RN7787,
+   author = {Kocian, J. and Kocianova, J.},
+   title = {[Disorders of bone mineralization and their treatment in Crohn's disease]},
+   journal = {Vnitr Lek},
+   volume = {44},
+   number = {3},
+   pages = {162-5},
+   ISSN = {0042-773X (Print)
+0042-773x},
+   year = {1998},
+   type = {Journal Article},
+   Accession Number= {9820096}
+}
+
+@article{RN7789,
+   author = {Mishkin, B. and Yalovsky, M. and Mishkin, S.},
+   title = {Increased prevalence of lactose malabsorption in Crohn's disease patients at low risk for lactose malabsorption based on ethnic origin},
+   journal = {Am J Gastroenterol},
+   volume = {92},
+   number = {7},
+   pages = {1148-53},
+   ISSN = {0002-9270 (Print)
+0002-9270},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9219788}
+}
+
+@article{RN7791,
+   author = {Mishkin, S.},
+   title = {Dairy sensitivity, lactose malabsorption, and elimination diets in inflammatory bowel disease},
+   journal = {Am J Clin Nutr},
+   volume = {65},
+   number = {2},
+   pages = {564-7},
+   ISSN = {0002-9165 (Print)
+0002-9165},
+   DOI = {10.1093/ajcn/65.2.564},
+   year = {1997},
+   type = {Journal Article},
+   Accession Number= {9022546}
+}
+

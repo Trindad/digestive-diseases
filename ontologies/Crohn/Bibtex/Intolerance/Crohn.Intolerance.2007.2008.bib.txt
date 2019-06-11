@@ -1,0 +1,229 @@
+﻿@article{RN7835,
+   author = {Almer, S. H. and Hjortswang, H. and Hindorf, U.},
+   title = {6-Thioguanine therapy in Crohn's disease--observational data in Swedish patients},
+   journal = {Dig Liver Dis},
+   volume = {41},
+   number = {3},
+   pages = {194-200},
+   ISSN = {1590-8658},
+   DOI = {10.1016/j.dld.2008.07.314},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {18799369}
+}
+
+@article{RN7846,
+   author = {Brunner, B. and Scheurer, U. and Seibold, F.},
+   title = {Differences in yeast intolerance between patients with Crohn's disease and ulcerative colitis},
+   journal = {Dis Colon Rectum},
+   volume = {50},
+   number = {1},
+   pages = {83-8},
+   ISSN = {0012-3706 (Print)
+0012-3706},
+   DOI = {10.1007/s10350-006-0749-1},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17096175}
+}
+
+@article{RN7833,
+   author = {Colli, M. V. and Amaro, T. A. and Pinto, A. L. and Gaburri, P. D. and Chebli, J. M.},
+   title = {[Azathioprine toxicity in Crohn's disease: incidence, approach and course]},
+   journal = {Rev Assoc Med Bras (1992)},
+   volume = {54},
+   number = {5},
+   pages = {415-21},
+   ISSN = {0104-4230 (Print)
+0104-4230},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18989561}
+}
+
+@article{RN7838,
+   author = {Grzybowska-Chlebowczyk, U. and Wos, H. and Sieron, A. L. and Kajor, M. and Wiecek, S. and Koryciak-Komarska, H. and Augusciak-Duma, A.},
+   title = {[Parenteral symptoms and intestinal complications in children with inflammatory bowel diseases in relation to card15 mutation]},
+   journal = {Med Wieku Rozwoj},
+   volume = {12},
+   number = {3},
+   pages = {754-60},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {19305026}
+}
+
+@article{RN7845,
+   author = {Hinojosa, J. and Gomollon, F. and Garcia, S. and Bastida, G. and Cabriada, J. L. and Saro, C. and Ceballos, D. and Penate, M. and Gassull, M. A.},
+   title = {Efficacy and safety of short-term adalimumab treatment in patients with active Crohn's disease who lost response or showed intolerance to infliximab: a prospective, open-label, multicentre trial},
+   journal = {Aliment Pharmacol Ther},
+   volume = {25},
+   number = {4},
+   pages = {409-18},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2006.03232.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17269996}
+}
+
+@article{RN7839,
+   author = {Lees, C. W. and Maan, A. K. and Hansoti, B. and Satsangi, J. and Arnott, I. D.},
+   title = {Tolerability and safety of mercaptopurine in azathioprine-intolerant patients with inflammatory bowel disease},
+   journal = {Aliment Pharmacol Ther},
+   volume = {27},
+   number = {3},
+   pages = {220-7},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03570.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {17988235}
+}
+
+@article{RN7842,
+   author = {Nathan, D. M. and Iser, J. H. and Gibson, P. R.},
+   title = {A single center experience of methotrexate in the treatment of Crohn's disease and ulcerative colitis: a case for subcutaneous administration},
+   journal = {J Gastroenterol Hepatol},
+   volume = {23},
+   number = {6},
+   pages = {954-8},
+   ISSN = {0815-9319},
+   DOI = {10.1111/j.1440-1746.2007.05006.x},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {17559377}
+}
+
+@article{RN7834,
+   author = {Nos, P. and Domenech, E.},
+   title = {Postoperative Crohn's disease recurrence: a practical approach},
+   journal = {World J Gastroenterol},
+   volume = {14},
+   number = {36},
+   pages = {5540-8},
+   ISSN = {1007-9327 (Print)
+1007-9327},
+   DOI = {10.3748/wjg.14.5540},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18810773}
+}
+
+@article{RN7841,
+   author = {Orrego, F. and Quintana, C.},
+   title = {Darwin's illness: a final diagnosis},
+   journal = {Notes Rec R Soc Lond},
+   volume = {61},
+   number = {1},
+   pages = {23-9},
+   ISSN = {0035-9149 (Print)
+0035-9149},
+   DOI = {10.1098/rsnr.2006.0160},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17575947}
+}
+
+@article{RN7832,
+   author = {Oussalah, A. and Babouri, A. and Chevaux, J. B. and Stancu, L. and Trouilloud, I. and Bensenane, M. and Boucekkine, T. and Bigard, M. A. and Peyrin-Biroulet, L.},
+   title = {Adalimumab for Crohn's disease with intolerance or lost response to infliximab: a 3-year single-centre experience},
+   journal = {Aliment Pharmacol Ther},
+   volume = {29},
+   number = {4},
+   pages = {416-23},
+   ISSN = {0269-2813},
+   DOI = {10.1111/j.1365-2036.2008.03902.x},
+   year = {2009},
+   type = {Journal Article},
+   Accession Number= {19035976}
+}
+
+@article{RN7837,
+   author = {Pallotta, N. and Barberani, F. and Hassan, N. A. and Guagnozzi, D. and Vincoli, G. and Corazziari, E.},
+   title = {Effect of infliximab on small bowel stenoses in patients with Crohn's disease},
+   journal = {World J Gastroenterol},
+   volume = {14},
+   number = {12},
+   pages = {1885-90},
+   ISSN = {1007-9327 (Print)
+1007-9327},
+   DOI = {10.3748/wjg.14.1885},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18350627}
+}
+
+@article{RN7831,
+   author = {Perez Tarrago, C. and Puebla Maestu, A. and Mijan de la Torre, A. A.},
+   title = {[Nutritional management of inflammatory bowel disease]},
+   journal = {Nutr Hosp},
+   volume = {23},
+   number = {5},
+   pages = {418-28},
+   ISSN = {0212-1611 (Print)
+0212-1611},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {19160891}
+}
+
+@article{RN7844,
+   author = {Peyrin-Biroulet, L. and Laclotte, C. and Bigard, M. A.},
+   title = {Adalimumab maintenance therapy for Crohn's disease with intolerance or lost response to infliximab: an open-label study},
+   journal = {Aliment Pharmacol Ther},
+   volume = {25},
+   number = {6},
+   pages = {675-80},
+   ISSN = {0269-2813 (Print)
+0269-2813},
+   DOI = {10.1111/j.1365-2036.2007.03254.x},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17311600}
+}
+
+@article{RN7843,
+   author = {Plosker, G. L. and Lyseng-Williamson, K. A.},
+   title = {Adalimumab: in Crohn's disease},
+   journal = {BioDrugs},
+   volume = {21},
+   number = {2},
+   pages = {125-32; discussion 133-4},
+   ISSN = {1173-8804 (Print)
+1173-8804},
+   DOI = {10.2165/00063030-200721020-00007},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17402796}
+}
+
+@article{RN7840,
+   author = {Puig-Sanz, L.},
+   title = {[Psoriasis, a systemic disease?]},
+   journal = {Actas Dermosifiliogr},
+   volume = {98},
+   number = {6},
+   pages = {396-402},
+   ISSN = {0001-7310 (Print)
+0001-7310},
+   year = {2007},
+   type = {Journal Article},
+   Accession Number= {17663929}
+}
+
+@article{RN7836,
+   author = {Quin, A. and Kane, S. and Ulitsky, O.},
+   title = {A case of fistulizing Crohn's disease and erythema nodosum managed with adalimumab},
+   journal = {Nat Clin Pract Gastroenterol Hepatol},
+   volume = {5},
+   number = {5},
+   pages = {278-81},
+   ISSN = {1743-4378},
+   DOI = {10.1038/ncpgasthep1099},
+   year = {2008},
+   type = {Journal Article},
+   Accession Number= {18364718}
+}
+

@@ -1,0 +1,43 @@
+﻿@article{RN12548,
+   author = {Janczewska, I. and Bartnik, W. and Butruk, E. and Tomecki, R. and Kazik, E. and Ostrowski, J.},
+   title = {Metabolism of vitamin A in inflammatory bowel disease},
+   journal = {Hepatogastroenterology},
+   volume = {38},
+   number = {5},
+   pages = {391-5},
+   ISSN = {0172-6390 (Print)
+0172-6390},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1765354}
+}
+
+@article{RN12546,
+   author = {Prior, A. and Stanley, K. M. and Smith, A. R. and Read, N. W.},
+   title = {Relation between hysterectomy and the irritable bowel: a prospective study},
+   journal = {Gut},
+   volume = {33},
+   number = {6},
+   pages = {814-7},
+   ISSN = {0017-5749 (Print)
+0017-5749},
+   DOI = {10.1136/gut.33.6.814},
+   year = {1992},
+   type = {Journal Article},
+   Accession Number= {1624165}
+}
+
+@article{RN12547,
+   author = {Treem, W. R. and Hyams, J. S. and Blankschen, E. and Etienne, N. and Paule, C. L. and Borschel, M. W.},
+   title = {Evaluation of the effect of a fiber-enriched formula on infant colic},
+   journal = {J Pediatr},
+   volume = {119},
+   number = {5},
+   pages = {695-701},
+   ISSN = {0022-3476 (Print)
+0022-3476},
+   year = {1991},
+   type = {Journal Article},
+   Accession Number= {1658281}
+}
+
