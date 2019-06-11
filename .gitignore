@@ -1,4 +1,5 @@
 data/fd-export.csv
-data/database.db
+network/database.db
 data/.~lock.fd-export.csv#
 data/*.csv
+network/.ipynb_checkpoints/
