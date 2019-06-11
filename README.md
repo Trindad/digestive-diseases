@@ -21,18 +21,25 @@ firt with 3 componet  then with 2 componets
 we use the PCA with 2 componets as new kind of feature
 this hel to clean noise but many for ploting in 2D
 how the algoirthms perform the casification:
+
 *linear kernel 
+
 *Multi Layer Perceptron with 50 Hidden_layes
-*SVC with RBF kernel
-*SVC with polynomial^5
+
+*Suport Vector MachineSVC with RBF kernel
+
+*SSuport Vector Machine with polynomial^5
 
 the we use a Ensemble Methods of Soft Voting 
 with the algoritms :
+
 *k-nearest neighbors (k=4)
+
 *GaussianProcess
-* SVM poly5
+
+*Suport Vector Machine poly5
 
 # future work
 
 it will be recomendt an exploratory anlysis of Neural Network with other arquitecures
-as weel Sport Vector machine with RBF kernel withan optimization of parameter C & gamma
+as weel Suport Vector Machine with RBF kernel withan optimization of parameter C & gamma
