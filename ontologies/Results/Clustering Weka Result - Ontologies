@@ -1,11 +1,11 @@
 === Run information ===
 
 Scheme:       weka.clusterers.EM -I 100 -N -1 -X 10 -max -1 -ll-cv 1.0E-6 -ll-iter 1.0E-6 -M 1.0E-6 -K 10 -num-slots 1 -S 100
-Relation:     All.Desease
+Relation:     All.Diseases
 Instances:    70302
 Attributes:   7
-              Type
               Ontology
+              Type
               PubMedSearch
               Disease
 Ignored:
@@ -29,7 +29,7 @@ Number of iterations performed: 27
 Attribute                                                        0          1          2          3          4          5          6          7          8
                                                             (0.29)     (0.12)        (0)     (0.18)     (0.13)      (0.1)     (0.07)      (0.1)        (0)
 ===========================================================================================================================================================
-Type
+Ontology
   rice                                                       1.0001    18.9988     1.0003     1.0001     1.0001     1.0002     1.0002     1.0002          1
   disease                                                 5322.6838     1.0001     1.0002     1.0001     1.0001     1.0001    93.3156     1.0001          1
   inflammatory bowel disease                              2901.9913     1.0001     1.0002     1.0001     1.0001     1.0001     45.008     1.0001          1
@@ -5683,7 +5683,7 @@ Type
   streptomycetes                                                  1     1.9996          1          1          1          1     1.0003          1          1
   detection of bacterial                                          1     1.0001          1     1.0001          1     1.9992     1.0006     1.0001          1
   [total]                                                25724.4145 14419.3375    5763.61 18604.2771 14706.9556 12371.5384  10900.082 13027.7849       5652
-Ontology
+Type
   Organism                                                   1.0329  8767.4735     1.1645     1.0512     1.0576     1.0688      1.086     1.0656          1
   Disease                                                20072.9812     1.0352     1.1117     1.0282     1.0373     1.0637   5247.701     1.0416          1
   Biological Process                                         1.0258      1.048      1.148     1.0363     1.0461  6719.5723     1.0725      1.051          1
@@ -5708,7 +5708,7 @@ Disease
   [total]                                                20075.4145  8770.3375     114.61 12955.2771  9057.9556  6722.5384   5251.082  7378.7849          3
 
 
-Time taken to build model (full training data) : 734.14 seconds
+Time taken to build model (full training data) : 721.81 seconds
 
 === Model and evaluation on training set ===
 
